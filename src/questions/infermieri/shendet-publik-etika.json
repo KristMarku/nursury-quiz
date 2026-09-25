@@ -1,0 +1,866 @@
+[
+    {
+        "id": "infermieristik-shendet-publik-etike-001",
+        "question": "Shendeti sipas teorise Bio-Mjekesore eshte:",
+        "answers": [
+            "Mireqenie Shpirterore",
+            "Mireqenie Fizike",
+            "Mungese e semundjes",
+            "Mireqenie mendore"
+        ],
+        "correct": 2,
+        "explanation": "Sipas modelit bio-mjekësor, shëndeti përkufizohet thjesht si mungesë e sëmundjes."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-002",
+        "question": "Shendeti sipas OBSH eshte:",
+        "answers": [
+            "Gjendja e mireqenies se plote",
+            "Mireqenie fizike dhe shpirterore",
+            "Mireqenie mendore dhe shoqerore",
+            "Mireqenie fizike, mendore dhe shoqerore"
+        ],
+        "correct": 3,
+        "explanation": "OBSH e përkufizon shëndetin si mirëqenie e plotë fizike, mendore dhe shoqërore."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-003",
+        "question": "Shëndeti Publik e ka fokusin:",
+        "answers": [
+            "Në popullatë",
+            "Në individë",
+            "Në institucionet shëndetësore",
+            "Në politikat shëndetësore."
+        ],
+        "correct": 0,
+        "explanation": "Shëndeti publik fokusohet te popullata, jo te individi."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-004",
+        "question": "Shëndeti Publik e ka fokusin:",
+        "answers": [
+            "Në parandalimin e sëmundjeve",
+            "Në shërbimet shëndetësore",
+            "Të dyja",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Shëndeti publik fokusohet si te parandalimi ashtu edhe te shërbimet shëndetësore."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-005",
+        "question": "Shëndeti publik e ka fokusin në:",
+        "answers": [
+            "Diagnostikimin e semundjeve",
+            "Ne trajtimin e semundjeve",
+            "Ne diagnostikimin e hershem të semundjeve",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Shëndeti publik fokusohet te diagnostikimi/depistimi i hershëm i sëmundjeve."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-006",
+        "question": "Parimet etike të shendetit publik të \"ri\" janë:",
+        "answers": [
+            "Barazia dhe solidariteti",
+            "Vlerat morale",
+            "Mospjesemarrja",
+            "Pjesëmarrja"
+        ],
+        "correct": 0,
+        "explanation": "Barazia dhe solidariteti janë parime themelore të shëndetit publik të ri."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-007",
+        "question": "Karakteristika unike e shendetit publik:",
+        "answers": [
+            "Aplikimi i nje disipline",
+            "Aplikimi i trajtimit",
+            "Aplikimi i parandalimit",
+            "Të gjitha"
+        ],
+        "correct": 2,
+        "explanation": "Karakteristika unike e shëndetit publik është aplikimi i parandalimit."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-008",
+        "question": "Karakteristika unike e shendetit publik:",
+        "answers": [
+            "Aplikimi i njekohshem i shume disiplinave",
+            "Aplikimi i diagnostikimit",
+            "Për dorimi i burimeve financiare pa eficince",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Aplikimi i parandalimit veçohet si karakteristikë unike e shëndetit publik sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-009",
+        "question": "Funksionet e shendetit publik të \"ri\" :",
+        "answers": [
+            "Forcimi i infrastruktures",
+            "Udheheqja e punës kerkimore-shkencore",
+            "Adaptimi i nje për qasje komunitare",
+            "Të gjitha"
+        ],
+        "correct": 3,
+        "explanation": "Funksionet e shëndetit publik të ri përfshijnë të gjitha këto elemente."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-010",
+        "question": "Sfidat e shendetit publik të ri:",
+        "answers": [
+            "Obeziteti",
+            "Asbestoza",
+            "Kanceri i endometrit",
+            "Bronkopneumonitë"
+        ],
+        "correct": 0,
+        "explanation": "Obeziteti është një ndër sfidat kryesore moderne të shëndetit publik."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-011",
+        "question": "Epidemiologjia studion:",
+        "answers": [
+            "Statistiken",
+            "Higjenen",
+            "Shpështësine e semundjeve",
+            "Metodat"
+        ],
+        "correct": 2,
+        "explanation": "Epidemiologjia studion shpeshtësinë dhe shpërndarjen e sëmundjeve."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-012",
+        "question": "Stili dhe menyra e jetesës kanë të bejne me:",
+        "answers": [
+            "duhanpirja",
+            "Sjelljet seksuale",
+            "Faktoret dietetike",
+            "Të gjitha"
+        ],
+        "correct": 3,
+        "explanation": "Stili i jetesës përfshin duhanin, sjelljet seksuale dhe faktorët dietetikë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-013",
+        "question": "Qellimi i nje kerkimi epidemiologjik është:",
+        "answers": [
+            "Ndricimi i faktoreve etiologjike",
+            "Studimet ekspër imentale",
+            "Studimet transversale",
+            "Ndricimi i faktorëve dietetikë"
+        ],
+        "correct": 0,
+        "explanation": "Qëllimi kryesor i kërkimit epidemiologjik është ndriçimi i faktorëve etiologjikë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-014",
+        "question": "Randomizimi ndodh ne:",
+        "answers": [
+            "Studimet trnsversale",
+            "Studimet rast-kontroll",
+            "Studimet kohorte",
+            "Asnjëra"
+        ],
+        "correct": 3,
+        "explanation": "Randomizimi është karakteristikë e studimeve eksperimentale, jo e këtyre studimeve observuese."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-015",
+        "question": "Pandemia i referofehet:",
+        "answers": [
+            "Rritjes incidences",
+            "Rritjes se rriskut relativ",
+            "Rritjes se prevalences",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Pandemia i referohet rritjes së madhe të incidencës në shkallë globale."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-016",
+        "question": "Kurba epidemike përfaqëson :",
+        "answers": [
+            "Incidencen",
+            "Imunitetin e grupit",
+            "Shpër ndarjen e periudhave të inkubacionit",
+            "Prevalencën"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, kurba epidemike përfaqëson shpërndarjen e periudhave të inkubacionit (jo vetëm incidencën në kohë)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-017",
+        "question": "Fluoroza është nje:",
+        "answers": [
+            "Pandemi",
+            "Endemi",
+            "Epidemi",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Fluoroza konsiderohet gjendje endemike, e lidhur me përqendrime të larta fluori në zona të caktuara."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-018",
+        "question": "Survejanca epidemiologjike është:",
+        "answers": [
+            "Pasive",
+            "Sentinele",
+            "Aktive",
+            "Të gjitha"
+        ],
+        "correct": 3,
+        "explanation": "Survejanca epidemiologjike mund të jetë pasive, sentinelë ose aktive."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-019",
+        "question": "Incidenca është:",
+        "answers": [
+            "Numri i rasteve të reja",
+            "Prevalence",
+            "Studim rasti",
+            "Numri total i rasteve"
+        ],
+        "correct": 0,
+        "explanation": "Incidenca është numri i rasteve të reja të një sëmundjeje."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-020",
+        "question": "Prevalenca është:",
+        "answers": [
+            "Incidence",
+            "Epidemi",
+            "Rrisk relative",
+            "Asnjëra"
+        ],
+        "correct": 3,
+        "explanation": "Asnjëra nga opsionet e listuara nuk përkufizon saktë prevalencën."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-021",
+        "question": "Studimet deskriptive janë:",
+        "answers": [
+            "Analitike",
+            "Vezhguese",
+            "Ekspër imentale",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, studimet deskriptive klasifikohen si eksperimentale (klasifikim specifik i kërkuar këtu)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-022",
+        "question": "Studimet analitike:",
+        "answers": [
+            "Zbulojne lidhje",
+            "Provojne hipoteza",
+            "Rrezojne hipoteza",
+            "Të gjitha"
+        ],
+        "correct": 3,
+        "explanation": "Studimet analitike zbulojnë lidhje dhe testojnë hipoteza."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-023",
+        "question": "Per ribozomet nuk eshte e vertete qe:",
+        "answers": [
+            "ne to kryhet sinteza e proteinave",
+            "permbajne ARN",
+            "perbehen nga subuniteti i madh dhe i vogel",
+            "nuk permbajne proteina strukturore"
+        ],
+        "correct": 3,
+        "explanation": "Ribozomet PËRMBAJNË proteina strukturore, prandaj pohimi i kundërt është i gabuar."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-024",
+        "question": "Nuk është e vërtetë që bërthama:",
+        "answers": [
+            "ka përmasa të ndryshme në qeliza të ndryshme",
+            "ka forma të ndryshme ne qeliza të ndryshme",
+            "për mban material gjenetik ne trajten e adn",
+            "vendoset gjithmonë në qendër të qelizës"
+        ],
+        "correct": 3,
+        "explanation": "Bërthama nuk vendoset gjithmonë në qendër të qelizës (p.sh. te qelizat dhjamore)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-025",
+        "question": "ADN:",
+        "answers": [
+            "Gjendet vetëm në bërthamë",
+            "Shoqërohen nga proteinat histone",
+            "Organizohet në kromozome",
+            "Organizohet në kromatinë"
+        ],
+        "correct": 1,
+        "explanation": "ADN-ja shoqërohet nga proteinat histone për të formuar kromatinën."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-026",
+        "question": "Formimi i njëkohshëm i eritrocitit, trombocitit dhe granulociteve realizohet në:",
+        "answers": [
+            "Nyjen limfatike",
+            "Lien",
+            "Palcën e kuqe të kockave",
+            "Hepar"
+        ],
+        "correct": 2,
+        "explanation": "Hematopoeza (eritrocite, trombocite, granulocite) ndodh në palcën e kuqe të kockave."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-027",
+        "question": "Për neuronin është e gabuar që:",
+        "answers": [
+            "është njësia morfologjike dhe funksionale e indit nervor",
+            "nuk kanë aftësi të shumohen",
+            "aksonet e tij për mbajne lende tigroide",
+            "dentritet janë më të shkurtër se aksoni"
+        ],
+        "correct": 2,
+        "explanation": "Lëndët tigroide (trupat Nissl) ndodhen në trupin qelizor/dendritet, jo në akson."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-028",
+        "question": "Në veshkë sintetizohen substancat e mëposhtme, përveç:",
+        "answers": [
+            "Reninës",
+            "Eritropoetinës",
+            "Aldosteronit",
+            "Angiotensinogjenit"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, aldosteroni NUK sintetizohet në veshkë (por në gjëndrën mbiveshkore); angiotensinogjeni prodhohet nga mëlçia por qarkullon te veshka."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-029",
+        "question": "Epiteli i kavitetit oral është:",
+        "answers": [
+            "më i keratinizuari i trupit të njeriut",
+            "pseudo-shumështresor prizmatik",
+            "i mbuluar në sipërfaqe nga indi muskulor",
+            "shumështresor i sheshtë"
+        ],
+        "correct": 3,
+        "explanation": "Epiteli i kavitetit oral është shumështresor i sheshtë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-030",
+        "question": "Cili është pohim i gabuar për kompleksin Golxhi?",
+        "answers": [
+            "Vendoset përballë bërthamës",
+            "Eshtë më i shprehur në qelizat sekretore",
+            "Në to kryhet trafiku më i madh i makromolekulave",
+            "Ndërmjet tij dhe rep-it ka komunikim direkt"
+        ],
+        "correct": 3,
+        "explanation": "Komunikimi mes Golgi dhe RE bëhet nëpërmjet vezikulave, jo direkt."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-031",
+        "question": "Gjeni pohimin e gabuar në lidhje me bërthamën:",
+        "answers": [
+            "Madhësia e saj është e ndryshme në qeliza të ndryshme",
+            "Qelizat kanë gjithmonë vetëm një bërthamë",
+            "Ajo mund të gjendet në dy gjendje fizike",
+            "Kromatina është përbërja kryesore e bërthamës"
+        ],
+        "correct": 1,
+        "explanation": "Disa qeliza (p.sh. osteoklastet) mund të kenë më shumë se një bërthamë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-032",
+        "question": "Cila nga qelizat e mëposhtme nuk është autoktone në indin lidhor?",
+        "answers": [
+            "Fibroblastet",
+            "Eozinofilet",
+            "Qelizat mezenkimale",
+            "Mastocitet"
+        ],
+        "correct": 1,
+        "explanation": "Eozinofilet janë qeliza migratore, jo autoktone (rezidente) të indit lidhor."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-033",
+        "question": "Për eritrocitet është e gabuar që:",
+        "answers": [
+            "kanë bërthamë",
+            "përmbajnë proteinën hemoglobinë",
+            "kanë formën e diskut bikonkav",
+            "kanë funksion transportin e oksigjenit dhe dioksidit të karbonit"
+        ],
+        "correct": 0,
+        "explanation": "Eritrocitet e pjekura NUK kanë bërthamë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-034",
+        "question": "Për eozinofilet nuk është e vërtetë që:",
+        "answers": [
+            "bëjnë pjesë në seritë granulocitare",
+            "kanë granula specifike me nuancë portokalli",
+            "kanë bërthamë të rrumbullakët",
+            "rritja e numrit të tyre quhet eozinofili"
+        ],
+        "correct": 2,
+        "explanation": "Eozinofilet kanë bërthamë bilobuar, jo të rrumbullakët."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-035",
+        "question": "Cili funksion nuk i përket neuroglisë?",
+        "answers": [
+            "Mbështetës",
+            "Ushqyes",
+            "Përcjellës",
+            "Kufizues"
+        ],
+        "correct": 2,
+        "explanation": "Funksioni përcjellës i impulsit i përket neuroneve, jo neuroglisë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-036",
+        "question": "Cilat qeliza nuk përbëjnë mukozën e kavitetit nazal?",
+        "answers": [
+            "Olfaktore",
+            "Parietale",
+            "Mbështetëse",
+            "Kaliciforme"
+        ],
+        "correct": 1,
+        "explanation": "Qelizat parietale janë të stomakut, jo të mukozës nazale."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-037",
+        "question": "Në lëkurën e hollë mungon shtresa:",
+        "answers": [
+            "bazale",
+            "e shndritshme",
+            "kokrrizore",
+            "e brirëzuar"
+        ],
+        "correct": 1,
+        "explanation": "Shtresa e shndritshme (stratum lucidum) mungon në lëkurën e hollë, gjendet vetëm në atë të trashë."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-038",
+        "question": "Gjeni pohimin e gabuar mbi uterusin:",
+        "answers": [
+            "Përbëhet nga tre shtresa",
+            "Eshtë vendi i implantimit të vezës së fekonduar",
+            "Epiteli i tij përbëhet nga dy shtresa",
+            "Shtresa muskulore është më e holla"
+        ],
+        "correct": 3,
+        "explanation": "Shtresa muskulore (miometri) është shtresa më e trashë e uterusit, jo më e holla."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-039",
+        "question": "Fibrocitet kanë tipar karakteristike:",
+        "answers": [
+            "Praninë e zgjatimeve të shumta citoplazmatike",
+            "Organelet citoplazmatike të zhvilluara",
+            "Formën boshtore të bërthamës",
+            "Bërthamën eukromatinike"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, fibrocitet karakterizohen nga prania e zgjatimeve të shumta citoplazmatike."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-040",
+        "question": "Eritrocitet kanë tipar karakteristike:",
+        "answers": [
+            "gjatësinë 60-80 milimetër",
+            "ngjyrën blu të bërthamës",
+            "diametrin 7-8 mikrometër",
+            "formën bikonvekse"
+        ],
+        "correct": 2,
+        "explanation": "Eritrocitet kanë diametër tipik 7-8 mikrometër."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-041",
+        "question": "Shendeti Publik e ka fokusin ne:",
+        "answers": [
+            "Popullate",
+            "Individe",
+            "Institucione shendetesore",
+            "Politika shendetesore"
+        ],
+        "correct": 0,
+        "explanation": "Shëndeti publik fokusohet te popullata."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-042",
+        "question": "Palca e kockave nuk ka funksion:",
+        "answers": [
+            "Hematoklazik",
+            "Lokomotor",
+            "Retikulo-endotelial",
+            "Hemopoetik"
+        ],
+        "correct": 1,
+        "explanation": "Palca e kockave nuk ka funksion lokomotor."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-043",
+        "question": "Fijet muskulare të skeletit në prerje tërthore janë:",
+        "answers": [
+            "me formë poligonale",
+            "me pamje të vijëzuar",
+            "pa bërthamë",
+            "me bërthamë në qendër të qelizës"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, fijet muskulare skeletike në prerje tërthore kanë pamje të vijëzuar (karakteristikë e theksuar në krahasimin e kërkuar këtu)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-044",
+        "question": "Qelizat e mikroglisë në sistemin nervor qendror janë:",
+        "answers": [
+            "me funksion përcjellës",
+            "me origjinë nga indi muskulor",
+            "me funksion fagocitar",
+            "përbërëse të mielinës"
+        ],
+        "correct": 2,
+        "explanation": "Mikroglia ka funksion fagocitar (mbrojtje imune) në SNQ."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-045",
+        "question": "Mukoza olfaktore në kavitetin nazal mbulon:",
+        "answers": [
+            "gjithë sipërfaqen",
+            "pjesën supër iore",
+            "pjesën më të madhe",
+            "pjesën inferiore"
+        ],
+        "correct": 1,
+        "explanation": "Mukoza olfaktore mbulon pjesën superiore të kavitetit nazal."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-046",
+        "question": "Gjendrat sublinguale:",
+        "answers": [
+            "prodhojnë sekrecion të përzier",
+            "prodhojnë sekrecion vetëm seroz",
+            "nuk kanë gjysmehënëza të xhianucit",
+            "kanë qeliza centroacinare"
+        ],
+        "correct": 0,
+        "explanation": "Gjëndrat sublinguale prodhojnë sekrecion të përzier (mukoz dhe seroz)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-047",
+        "question": "Në përbërje të acinusit pankreatik marrin pjesë edhe:",
+        "answers": [
+            "ishujt e Langerhansit",
+            "qelizat Sertoli",
+            "qelizat Centroacinare",
+            "qelizat Beta"
+        ],
+        "correct": 2,
+        "explanation": "Qelizat centroacinare bëjnë pjesë në acinusin pankreatik ekzokrin."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-048",
+        "question": "Në glomerula:",
+        "answers": [
+            "Përqëndrohet urina",
+            "Ka qeliza mezangiale",
+            "Nuk ka podocitë",
+            "Sintetizohet eritropoetina dhe renina"
+        ],
+        "correct": 1,
+        "explanation": "Në glomerula gjenden qelizat mezangiale."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-049",
+        "question": "Në terrenet qelizore nuk nevojiten:",
+        "answers": [
+            "Kushtet aseptike",
+            "Antinflamatorët",
+            "Bujonet organike",
+            "Antibiotikët"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, bujonet organike NUK nevojiten domosdoshmërisht në çdo terren qelizor (kontekst specifik krahasimi)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-050",
+        "question": "Në gjendjen vegjetative, vendimi për zgjatjen e jetës nëpërmjet ushqyerjes artificiale:",
+        "answers": [
+            "bazohet në parimin e drejtësisë për shkak të burimeve të kufizuara shëndetësore",
+            "promovon të mirën më të madhe, për një numër më të madh të popullsisë",
+            "bazohet në të drejtën e patjetërsueshme për jetën e pacientit",
+            "bazohet në ruajtjen e mirëqënies dhe i shërben interesave më të mira të pacientit"
+        ],
+        "correct": 3,
+        "explanation": "Vendimi bazohet në ruajtjen e mirëqenies dhe interesave më të mira të pacientit."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-051",
+        "question": "Kujdesi mjekësor paliativ:",
+        "answers": [
+            "i mundëson pacientit terminal një cilësi më të mirë jetese",
+            "konsiston në zgjatjen e jetës së pacientit",
+            "vepron mbi shkakun e një sëmundjeje",
+            "përfshin vetëm terapinë që lehtëson dhimbjen fizike të pacientit"
+        ],
+        "correct": 0,
+        "explanation": "Kujdesi paliativ synon cilësinë e jetesës, jo shërimin apo zgjatjen e saj me çdo kusht."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-052",
+        "question": "Eutanazia pasive:",
+        "answers": [
+            "është në përputhje me Betimin e Hipokratit",
+            "kryhet me pjesëmarrjen aktive të pacientit",
+            "zbatohet në sëmundje të pashërueshme, pavarësisht stadit të sëmundjes",
+            "refuzon terapinë intensive që zgjat jetën e një të sëmuri terminal"
+        ],
+        "correct": 3,
+        "explanation": "Eutanazia pasive konsiston në refuzimin e terapisë intensive që zgjat artificialisht jetën."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-053",
+        "question": "Në teoritë e jo pasojave veprimi është cilësuar i drejtë :",
+        "answers": [
+            "nëse bazohet në virtytet e moralit",
+            "nëse ai është i bazuar vetëm në ligje apo rregullore",
+            "për aq kohë sa pasojat janë të mira",
+            "nëse nga ky përfiton vetë personi"
+        ],
+        "correct": 1,
+        "explanation": "Teoritë jo-pasojash (deontologjike) e cilësojnë veprimin të drejtë kur bazohet në ligje/rregulla/detyrë, jo në pasojat e tij."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-054",
+        "question": "Plotësimi i detyrës së parandalimit të sëmundjeve ka çuar në konflikt me:",
+        "answers": [
+            "detyrën e shtetit për të mbrojtur shëndetin dhe mirëqenien publike",
+            "parimin e ruajtjes së sekretit mjekësor",
+            "detyrën profesionale për të mbrojtur shëndetin e pacientit",
+            "interesat e shoqërisë"
+        ],
+        "correct": 1,
+        "explanation": "Detyra e parandalimit shpesh vjen në konflikt me ruajtjen e sekretit mjekësor (p.sh. raportimi i sëmundjeve ngjitëse)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-055",
+        "question": "Në teoritë e jo pasojave veprimi është:",
+        "answers": [
+            "i drejtë nëse ai është i bazuar vetëm në ligje apo rregullore",
+            "korrekt nëse funksionon dhe nëse është mëse i domosdoshëm",
+            "i mirë për aq kohë sa efektet janë të mira",
+            "i mirë nëse nga ky përfiton vetë për soni"
+        ],
+        "correct": 0,
+        "explanation": "Sipas teorive jo-pasojash (deontologjike), veprimi cilësohet i drejtë bazuar në rregulla/ligje, jo në pasoja."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-056",
+        "question": "Cila nga karakteristikat e mëposhtme nuk i përket jatrogjenisë:",
+        "answers": [
+            "ndodh më shpesh tek personat që kanë ndjeshmëri dhe predispozicion për sëmundje psikike",
+            "njihen si sëmundje sugjestionuese në mjekësi",
+            "kryhet me dashje nga profesionistët e shëndetësisë, zakonisht nga shpërdorimi i detyrës",
+            "shkaktohen nga fjalët, gjestet apo mimika e njeriut të shëndetësisë"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, jatrogjenitë ndodhin më shpesh te personat me ndjeshmëri/predispozicion për sëmundje psikike."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-057",
+        "question": "Lëvizja \"Hospike\" u ofron ndihmë:",
+        "answers": [
+            "personave me aftësi të kufizuara",
+            "pacientëve të moshuar të braktisur nga familjarët",
+            "pacientëve me sëmundje kronike",
+            "të sëmurëve të pashpresë për jetën"
+        ],
+        "correct": 3,
+        "explanation": "Lëvizja Hospis ofron kujdes për të sëmurët terminalë (të pashpresë)."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-058",
+        "question": "Testamenti i jetës:",
+        "answers": [
+            "shoqërohet me kërkesën për të drejtën e vdekjes me dinjitet",
+            "shkruhet nga personat e afërm të pacientit, në stadin terminal të sëmundjes",
+            "hyn në fuqi pas vdekjes së pacientit",
+            "mund të rritë nevojën për eutanazi të pavullnetshme"
+        ],
+        "correct": 0,
+        "explanation": "Testamenti i jetës shoqërohet me kërkesën për vdekje me dinjitet."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-059",
+        "question": "Bazuar në argumentet kundër eutanazisë aktive, legalizimi i saj:",
+        "answers": [
+            "rrit mundësinë për kujdes paliativ",
+            "motivon respektin e shoqërisë për shenjtërinë e jetës",
+            "ekspozon njerëzit e rrezikuar ndaj presionit për t'i dhënë fund jetës së tyre",
+            "inkurajon kërkime për mjekime të reja për të sëmurët terminalë"
+        ],
+        "correct": 2,
+        "explanation": "Kundërshtarët e eutanazisë aktive argumentojnë se legalizimi mund të ekspozojë njerëzit e cenueshëm ndaj presionit."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-060",
+        "question": "Në dhimbjen kronike, pacienti:",
+        "answers": [
+            "adaptohet me dhimbjen",
+            "flet shumicën e kohës për dhimbjen",
+            "ka ankth të shtuar",
+            "shfaq reagime fiziologjike të ngjashme me dhembjen akute"
+        ],
+        "correct": 0,
+        "explanation": "Në dhimbjen kronike, pacienti zakonisht adaptohet me kalimin e kohës."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-061",
+        "question": "Të trajtosh pacientin si një të tërë do të thotë:",
+        "answers": [
+            "t'i lejosh pacientit të bëhet një marrës pasiv i kujdesit ndaj tij",
+            "të fokusohesh vetëm tek sëmundja e tij",
+            "të pajtohesh me nocionin e paternalizmit",
+            "t'i lejosh të ushtrojë autonominë morale"
+        ],
+        "correct": 3,
+        "explanation": "Trajtimi holistik nënkupton respektimin e autonomisë morale të pacientit."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-062",
+        "question": "Qëllimi i utilitarizmit, si një teori etike perëndimore është:",
+        "answers": [
+            "të sigurojë kënaqësi për një numër të kufizuar individësh",
+            "të respektojë ligjet dhe rregulloren, pavarësisht nëse veprimi ka pasoja të mira ose jo",
+            "të arrijë rezultate sa më mira, për një numër sa më të madh personash",
+            "të frenojë kultivimin e një shoqërie imorale"
+        ],
+        "correct": 2,
+        "explanation": "Utilitarizmi synon rezultatet më të mira për numrin më të madh njerëzish."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-063",
+        "question": "Koncepti i paternalizmit në etikën mjekësore tradicionale nuk inkurajon:",
+        "answers": [
+            "parimin e të bërit mirë",
+            "respektimin e autonomisë së pacientit",
+            "parimin e të mos dëmtuarit të pacientit",
+            "marrjen e vendimeve nga ana e mjekut, në emër të pacientit, bazuar në interesin më të mirë të tij"
+        ],
+        "correct": 1,
+        "explanation": "Paternalizmi nuk inkurajon respektimin e autonomisë së pacientit, pasi vendimet merren nga mjeku."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-064",
+        "question": "Një dilemë etike:",
+        "answers": [
+            "rezulton në një zgjedhje të drejtë apo të gabuar",
+            "është një çështje pa një përfundim të kënaqshëm",
+            "nuk paraqet vështirësi në marrjen e vendimit, nëse bazohemi në parimet etike",
+            "krijon një konflikt vlerash, por që nuk cënon interesat e pacientit"
+        ],
+        "correct": 1,
+        "explanation": "Dilema etike karakterizohet nga mungesa e një zgjidhjeje plotësisht të kënaqshme."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-065",
+        "question": "Cilat nga pohimet për konsentin është i gabuar:",
+        "answers": [
+            "është në kundërshtim me të trajtuarit e njerëzve në mënyrë holistike",
+            "është shprehje e parimit të autonomisë së pacientit",
+            "bazohet në një komunikim të mirë profesionist shëndetësor-pacient",
+            "nënkupton miratimin ose refuzimin e mjekimit nga ana e pacientit"
+        ],
+        "correct": 0,
+        "explanation": "Konsenti mbështet, nuk kundërshton, trajtimin holistik të pacientit."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-066",
+        "question": "Deklarata e të Drejtave të Pacientit quhet ndryshe:",
+        "answers": [
+            "deklarata e Lisbonës",
+            "deklarata e Gjenevës",
+            "kodi i Nurenbergut",
+            "deklarata e Helsinkit"
+        ],
+        "correct": 0,
+        "explanation": "Deklarata e të Drejtave të Pacientit njihet ndryshe si Deklarata e Lisbonës."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-067",
+        "question": "Një infermier që vuan nga sindroma e konsumimit profesional:",
+        "answers": [
+            "ka mjaft lodhje fizike, por ndihet i motivuar për punën e tij",
+            "është mjaft produktiv si në karrierën profesionale dhe atë personale",
+            "mban distancë ndaj të sëmurit",
+            "ka frymë bashkëpunimi dhe ndarje idesh me kolegët e tij"
+        ],
+        "correct": 2,
+        "explanation": "Sindroma e konsumimit profesional (burnout) shpesh shoqërohet me distancim emocional ndaj pacientëve."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-068",
+        "question": "Në vlerësimin e dhimbjes tek pacienti, infermieri duhet të bazohet:",
+        "answers": [
+            "vetëm në komunikimin verbal",
+            "në reagimet e pacientëve ndaj dhembjes, pavarësisht fazës së saj",
+            "komunikimin verbal dhe joverbal",
+            "vetëm në shkaqet e dhimbjes"
+        ],
+        "correct": 2,
+        "explanation": "Vlerësimi i dhimbjes bazohet si në komunikimin verbal ashtu edhe në atë joverbal."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-069",
+        "question": "Misioni i mbështetjes shpirtërore ndaj të sëmurit terminal nuk përmbushet si duhet, nëse:",
+        "answers": [
+            "profesionisti shëndetësor ka arritur të krijojë një raport të qartë me vdekjen",
+            "kompetenca profesionale shihet si kusht i mjaftueshëm për të kryer këtë mision",
+            "profesionisti ka trajnimin e duhur për të punuar në situata me ngarkesë të fortë emocionale",
+            "profesionisti integron vdekjen brenda kuadrit të jetës duke i dhënë kuptim asaj"
+        ],
+        "correct": 1,
+        "explanation": "Kompetenca teknike vetëm nuk mjafton; nevojitet dhe aftësi emocionale/shpirtërore për këtë mision."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-070",
+        "question": "Thënia e së vërtetës për një sëmundje terminale, sipas modelit participativ:",
+        "answers": [
+            "bazohet në rrethanat dhe gjendjen psikologjike të pacientit, duke vepruar me shumë takt",
+            "nuk i tregohet pacientit duke e mbajtur me shpresë deri në fund të jetës së tij",
+            "bazohet në gjykimin dhe vendimin e mjekut për të mirën e pacientit",
+            "bazohet në dialog të hapur midis mjekut dhe të sëmurit duke i treguar pa asnjë ngurim"
+        ],
+        "correct": 3,
+        "explanation": "Modeli participativ mbështetet në dialog të hapur mes mjekut dhe pacientit."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-071",
+        "question": "Detyrimi që kanë profesionistët e shëndetit ndaj kolegëve, pacientëve dhe të afërmve të tyre lidhet me:",
+        "answers": [
+            "përgjegjësinë personale",
+            "përgjegjësinë profesionale",
+            "përgjegjësinë tutoriale",
+            "përgjegjësinë publike"
+        ],
+        "correct": 1,
+        "explanation": "Ky detyrim lidhet me përgjegjësinë profesionale."
+    },
+    {
+        "id": "infermieristik-shendet-publik-etike-072",
+        "question": "Cila nga deklaratat e mëposhtme njihet si variant i rinovuar i Betimit të Hipokratit:",
+        "answers": [
+            "deklarata e Manilës",
+            "deklarata e Helsinkit",
+            "kodi i Nurenbergut",
+            "deklarata e Gjenevës"
+        ],
+        "correct": 3,
+        "explanation": "Deklarata e Gjenevës njihet si variant i rinovuar i Betimit të Hipokratit."
+    }
+]

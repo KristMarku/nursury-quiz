@@ -1,0 +1,1586 @@
+[
+    {
+        "id": "infermieristik-obstetri-anestezi-001",
+        "question": "Ne ciklin menstrual, duke nisur nga dita e pare e ciklit, dallohen tre faza. Tregoni cila nga alternativat e meposhtme i paraqet ne renditjen e rregullt:",
+        "answers": [
+            "Luteale,ovalatore, folikulare",
+            "Ovulatore, luteale, folikulare",
+            "Folikulare, ovulatore, luteale",
+            "Folikulare, luteale, ovulatore"
+        ],
+        "correct": 2,
+        "explanation": "Renditja e saktë e fazave të ciklit menstrual është: folikulare, ovulatore, luteale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-002",
+        "question": "Sa shtresa dallohen ne strukturen e uterusit?",
+        "answers": [
+            "Tre : mukoze, muskulare e seroze",
+            "Dy : seroze dhe muskulare",
+            "Dy: mukoza dhe muskulare",
+            "Tre: dy mukoze dhe një muskulare"
+        ],
+        "correct": 0,
+        "explanation": "Uterusi ka tre shtresa: mukoze (endometri), muskulare (miometri) dhe seroze (perimetri)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-003",
+        "question": "Cili nga këto hormone nuk prodhohet nga placenta gjatë barrës?",
+        "answers": [
+            "Gonadotropina korionike humane (hCG)",
+            "Hormoni laktogjen placentar",
+            "Prolaktina",
+            "Progesteroni"
+        ],
+        "correct": 2,
+        "explanation": "Prolaktina prodhohet nga hipofiza, jo nga placenta."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-004",
+        "question": "Cila është frekuenca e rrahjeve të zemres fetale RZF:",
+        "answers": [
+            "70-80/min",
+            "90-110/min",
+            "120-160/min",
+            "> 160/min"
+        ],
+        "correct": 2,
+        "explanation": "Frekuenca normale e rrahjeve të zemrës fetale është 120-160/min."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-005",
+        "question": "Cila nga këto mundësi nuk ështe e pranishme në javën e 12-të të shtatzanisë ?",
+        "answers": [
+            "Amenorea",
+            "Hormoni bhCG në gjak",
+            "Rrahjet e zemres fetale në ekografi",
+            "Lëvizjet fetale të ndjera nga nena"
+        ],
+        "correct": 3,
+        "explanation": "Lëvizjet fetale ndjehen zakonisht më vonë (rreth javës 16-20), jo në javën 12."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-006",
+        "question": "Difektet e tubit neural te fetusit mund t'i atribuohen mungeses se:",
+        "answers": [
+            "hekurit",
+            "folateve",
+            "vitamines A",
+            "estrogjeneve"
+        ],
+        "correct": 1,
+        "explanation": "Mungesa e folateve lidhet me defektet e tubit neural."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-007",
+        "question": "Kordoni umbilikal përmban:",
+        "answers": [
+            "Dy vena dhe një arterie",
+            "Dy arterie dhe dy vena",
+            "Dy arterie dhe një venë",
+            "Një arterie dhe një venë"
+        ],
+        "correct": 2,
+        "explanation": "Kordoni umbilikal përmban dy arterie dhe një venë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-008",
+        "question": "Volumi i gjakut ne barrë rritet me",
+        "answers": [
+            "10-20 %",
+            "30-40 %",
+            "50-60 %",
+            "70-80 %"
+        ],
+        "correct": 1,
+        "explanation": "Volumi i gjakut rritet me rreth 30-40% gjatë shtatzanisë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-009",
+        "question": "Diametri më i madh i kokës fetale është:",
+        "answers": [
+            "Suboksipital",
+            "Oksipito-mental",
+            "Biparietal",
+            "Oksipito-frontal"
+        ],
+        "correct": 1,
+        "explanation": "Diametri oksipito-mental është diametri më i madh i kokës fetale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-010",
+        "question": "Ekspulsioni i anekseve fetale (placentes dhe membranave) pas lindjes normalisht ndodh brenda:",
+        "answers": [
+            "2-3 minutave",
+            "10 minutave",
+            "15-30 minutave",
+            "60-90 minutave"
+        ],
+        "correct": 2,
+        "explanation": "Ekspulsioni i placentës ndodh normalisht brenda 15-30 minutave pas lindjes."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-011",
+        "question": "Puerpërium quhet:",
+        "answers": [
+            "Përiudha menjëherë pas lindjes deri në 4-6 javë pas lindjes",
+            "Përiudha para fillimit te aktivitetit të lindjes",
+            "Përiudha e aktivitetit të lindjes",
+            "Asnjëra nga këto"
+        ],
+        "correct": 0,
+        "explanation": "Puerperiumi është periudha nga lindja deri në 4-6 javë pas saj."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-012",
+        "question": "Cila nga substancat e meposhtme clirohet ose është përgjegjëse për prodhimin e qumështit të gjirit (laktogjenezen) ?",
+        "answers": [
+            "Estrogjeni",
+            "Progesteroni",
+            "Oksitocina",
+            "Prolaktina"
+        ],
+        "correct": 3,
+        "explanation": "Prolaktina është përgjegjëse për prodhimin e qumështit (laktogjenezë)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-013",
+        "question": "Cila nga substancat e mëposhtme clirohet ose është përgjegjese për rrjedhjen (daljen) e qumështit të gjirit ?",
+        "answers": [
+            "Estrogjeni",
+            "Progesteroni",
+            "Oksitocina",
+            "Prolaktina"
+        ],
+        "correct": 2,
+        "explanation": "Oksitocina është përgjegjëse për rrjedhjen/daljen e qumështit (let-down reflex)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-014",
+        "question": "Cila nga substancat e mëposhtme është përgjegjëse për involucionin uterin?",
+        "answers": [
+            "Estrogjeni",
+            "Progesteroni",
+            "Oksitocina",
+            "Prolaktina"
+        ],
+        "correct": 2,
+        "explanation": "Oksitocina nxit kontraksionet që shkaktojnë involucionin uterin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-015",
+        "question": "Cila nga pohimet e mëposhtme është e saktë për kontracepsionin pas lindjes ?",
+        "answers": [
+            "Duhet filluar menjëherë tek gruaja që nuk ushqen bebin me gji",
+            "Nuk është i rendesishem tek gruaja që ushqen bebin me gji",
+            "Nuk është i rendesishëm deri në shfaqjen e menstruacioneve të para",
+            "Nuk është i nevojshëm për një muaj pas Sectio Cezarea"
+        ],
+        "correct": 0,
+        "explanation": "Kontracepsioni duhet filluar menjëherë tek gratë që nuk ushqejnë me gji, pasi ovulacioni mund të rifillojë shpejt."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-016",
+        "question": "Cila nga këto paraqitje i referohet paraqitjes me koke të fetusit?",
+        "answers": [
+            "Podalike",
+            "Cefalike",
+            "Oblike",
+            "Transversus"
+        ],
+        "correct": 1,
+        "explanation": "Paraqitja cefalike i referohet paraqitjes me kokë të fetusit."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-017",
+        "question": "Cila nga indikacionet dietetike të mëposhtme NUK është e duhura për gruan shtatzënë?",
+        "answers": [
+            "Ulja e përdorimit të kripës",
+            "Shtesa e hekurit",
+            "Shtimi i acidit folik",
+            "Shtimi i të paktën 6 kg peshë në barrë"
+        ],
+        "correct": 3,
+        "explanation": "Shtimi i rekomanduar në peshë gjatë barrës është më i lartë se 6 kg; ky pohim nuk pasqyron udhëzimin e saktë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-018",
+        "question": "Cili nga ekzaminimet e mëposhtme nuk është test i zakonshem gjatë një barre pa komplikime?",
+        "answers": [
+            "Dozimi në serum i bhCG",
+            "Hemoglobina",
+            "Pap testi",
+            "Grupi i gjakut dhe faktori Rh"
+        ],
+        "correct": 2,
+        "explanation": "Pap testi nuk kryhet rutinë gjatë çdo shtatzanie të pakomplikuar."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-019",
+        "question": "Cili nga kushtet e mëposhtme NUK lidhet me një shtim të riskut të sëmundshemrisë perinatale ?",
+        "answers": [
+            "Kushtet e dobëta socioekonomike",
+            "Mosha e nënës nën 20 vj",
+            "Duhanpirja",
+            "Ushtrimet fizike"
+        ],
+        "correct": 3,
+        "explanation": "Ushtrimet fizike të moderuara nuk rrisin riskun e sëmundshmërisë perinatale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-020",
+        "question": "Barra me moshe më shumë se 42 jave quhet:",
+        "answers": [
+            "preterm",
+            "premature",
+            "ne term",
+            "serotine"
+        ],
+        "correct": 3,
+        "explanation": "Shtatzania mbi 42 javë quhet serotine (postterm)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-021",
+        "question": "Sindroma e postmaturit (serotinit) përfshin gjithë mundesite e meposhtme, përvec:",
+        "answers": [
+            "Rritja e trashesise se indit adipoz subkutan",
+            "Lekura e rrudhosur, qe deskuamohet",
+            "Gjurme mekoniumi mbi lekure, membrane e kordon",
+            "Thonj te gjatë"
+        ],
+        "correct": 0,
+        "explanation": "Në fëmijën postmatur, indi adipoz subkutan zvogëlohet, nuk rritet."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-022",
+        "question": "I porsalinduri nga nena diabetike NUK rrezikohet nga:",
+        "answers": [
+            "Hipoglicemia",
+            "Hipërglicemia",
+            "Hipocalcemia",
+            "Makrosomia"
+        ],
+        "correct": 1,
+        "explanation": "I porsalinduri nga nëna diabetike rrezikohet nga hipoglicemia pas lindjes, jo hiperglicemia."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-023",
+        "question": "Cili është mbartesi natyral i Toksoplasmozes?",
+        "answers": [
+            "Gjaku",
+            "Macja",
+            "Peshku i kontaminuar",
+            "Femijet ne moshe shkollore"
+        ],
+        "correct": 1,
+        "explanation": "Macja është mbartësi natyral i Toksoplazmozës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-024",
+        "question": "Prematur përkufizohet një neonat i lindur para javes:",
+        "answers": [
+            "24 te barrës",
+            "34 te barrës",
+            "36 te barrës",
+            "40 te barrës"
+        ],
+        "correct": 2,
+        "explanation": "Prematuri përkufizohet si lindje para javës 37, mbylljen më të afërt këtu përfaqëson opsioni 36 javë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-025",
+        "question": "Ne metodat diagnostikuese joinvazive ne obstetrike NUK ben pjese:",
+        "answers": [
+            "Ekografia",
+            "Stress test",
+            "Amniocenteza",
+            "Profili biofizik"
+        ],
+        "correct": 2,
+        "explanation": "Amniocenteza është metodë invazive, jo joinvazive."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-026",
+        "question": "Abort habitual quhet prania e njëpasnjëshme e :",
+        "answers": [
+            "Dy aborteve spontane",
+            "Tre aborteve spontane",
+            "Kater aborteve sponatene",
+            "Me shumë se 5 aborte spontane"
+        ],
+        "correct": 1,
+        "explanation": "Aborti habitual përkufizohet si tre ose më shumë aborte spontane të njëpasnjëshme."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-027",
+        "question": "Placenta previa është vendosja e placentes ne:",
+        "answers": [
+            "1/3 e poshtme te kavitetit uterin",
+            "1/3 sipërme te kavitetit uterin",
+            "Fundus uteri",
+            "Murin e përpareshem uterin"
+        ],
+        "correct": 0,
+        "explanation": "Placenta previa është vendosje e placentës në 1/3 e poshtme të kavitetit uterin, duke mbuluar cerviksin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-028",
+        "question": "Cili nga organet apo lokalitetet anatomike nuk ben pjese ne organet e jashtme genitale?",
+        "answers": [
+            "Vulva",
+            "Vagina",
+            "Mons pubis",
+            "Përineumi"
+        ],
+        "correct": 1,
+        "explanation": "Vagina është organ i brendshëm gjenital, jo i jashtëm."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-029",
+        "question": "Zgjatja mesatare e ciklit menstrual është:",
+        "answers": [
+            "22 ditë",
+            "25 ditë",
+            "28 ditë",
+            "35 ditë"
+        ],
+        "correct": 2,
+        "explanation": "Cikli menstrual mesatar zgjat rreth 28 ditë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-030",
+        "question": "Ardhja e ciklit menstrual shkaktohet nga:",
+        "answers": [
+            "Çlirimi i prolaktinës",
+            "Çlirimi pulsatil i GnRH (hormoni clirues i gonadotropinave)",
+            "Zgjatja e ndryshueshme e fazës folikulare",
+            "Nga sinteza e progesteronit në corpus luteum"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, ardhja e ciklit menstrual lidhet me kohëzgjatjen e ndryshueshme të fazës folikulare."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-031",
+        "question": "Indikatori me i mire qe pararend ovulacionin është:",
+        "answers": [
+            "Piku i estrogjenit",
+            "Shtimi i sekretimit te FSH",
+            "Fillimi i stimi te sekretimit te LH",
+            "Shtimi preovulator i progesteronit"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, shtimi i sekretimit të FSH konsiderohet indikatori kryesor që pararend ovulacionin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-032",
+        "question": "Cila nga karakteristikat e mëposhteme NUK është tipike për fazën folikulare të ciklit ?",
+        "answers": [
+            "Kohezgjatja e ndryshueshme",
+            "Rritja dhe zhvillimi i folikujve ovariene",
+            "Tempëratura bazale mbi 36,5",
+            "Rritja vaskulare e endometrit"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, kohëzgjatja e ndryshueshme është karakteristika që NUK i përket fazës folikulare (pra tipike për fazën tjetër)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-033",
+        "question": "Cila nga shënjat e më poshtme NUK takohet në rastin e barrës ektopike (GEU) ?",
+        "answers": [
+            "Dhimbje në kuadrantet e poshtme të barkut",
+            "Gjakrrjedhje vaginale ose spotting",
+            "Amenorrea",
+            "Proctoragjia (hemoragji rektale)"
+        ],
+        "correct": 3,
+        "explanation": "Proctoragjia nuk është shenjë tipike e barrës ektopike."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-034",
+        "question": "Trajtimi i GEU (barrës ektopike) mund te behet me:",
+        "answers": [
+            "Laparaskopi",
+            "Laparatomi",
+            "Methotroxate",
+            "Të gjitha"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, metotreksati veçohet si trajtimi kryesor specifik për GEU."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-035",
+        "question": "Cilat nga patologjitë e mëposhteme NUK është pasoje e sëmundjes inflamatore pelvike ?",
+        "answers": [
+            "Endometrioza",
+            "Barra ektopike",
+            "Aderencat pelvike",
+            "Dispareunia"
+        ],
+        "correct": 1,
+        "explanation": "Barra ektopike listohet këtu ndër pasojat e mundshme të sëmundjes inflamatore pelvike sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-036",
+        "question": "Cila nga situatat e meposhtme NUK shoqerohet me risk te shtuar për SIP?",
+        "answers": [
+            "Fillimi i kontakteve seksuale 15 vj",
+            "Nderprerje te vullnetshme te barrës",
+            "Marrja e kontraceptiveve orale",
+            "Përdorimi i DIU"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, ndërprerja e vullnetshme e barrës shoqërohet me rrezik të shtuar për SIP."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-037",
+        "question": "Diagnoza e endometriozës vendoset në baze të:",
+        "answers": [
+            "Anamnezës",
+            "Ekzaminimit objektiv",
+            "Dozimi i CA 125",
+            "Shikimi direkt i lezionit endometriozik dhe biopsia"
+        ],
+        "correct": 3,
+        "explanation": "Diagnoza definitive e endometriozës kërkon shikim direkt të lezionit dhe biopsi."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-038",
+        "question": "Terapia me e përshtatshme për një grua 35 vjece që i është nenshtruar interventit kirurgjikal radikal (hysterectomia totale cum adnesis) është:",
+        "answers": [
+            "Danazoli",
+            "Kontraceptivet orale",
+            "Antiinflamatoret jo steroidiene",
+            "Terapia estrogjenike zevendesuese"
+        ],
+        "correct": 3,
+        "explanation": "Pas histerektomisë totale me heqje ovaresh indikohet terapia estrogjenike zëvendësuese."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-039",
+        "question": "Cila nga pohimet e mëposhtmet NUK sherben si teori për endometriozën?",
+        "answers": [
+            "Metaplazia e epitelit celomik",
+            "Hipërplazia endometriale",
+            "Menstruacioni retrograd",
+            "Deficiti imunologjik"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, deficiti imunologjik nuk shërben si teori e pranuar për origjinën e endometriozës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-040",
+        "question": "Cila nga terapitë e mëposhtme NUK është e indikuar për trajtimin e endometriozës?",
+        "answers": [
+            "Agonistet e hormonit clirues të gonadotropinave (GnRH)",
+            "Progesteroni",
+            "Kontraceptivet orale",
+            "Danazoli"
+        ],
+        "correct": 1,
+        "explanation": "Ndër opsionet, progesteroni i vetëm konsiderohet më pak i indikuar krahasuar me terapitë e tjera hormonale specifike."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-041",
+        "question": "Parimet e trajtimit të gonorresë, ME PËRJASHTIM TE:",
+        "answers": [
+            "Doza unike",
+            "Trajtimi i partnerit",
+            "Trajtimi spitalor",
+            "Mjekimi i sëmundjeve bashkëshoqëruese"
+        ],
+        "correct": 2,
+        "explanation": "Trajtimi spitalor nuk është parim standard; gonorrea trajtohet zakonisht ambulator."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-042",
+        "question": "Me cilat nga patologjitë e mëposhtme janë të lidhura me shpesh metroragjitë disfunksionale?",
+        "answers": [
+            "Polipet endometriale",
+            "Anovulacioni",
+            "Çregullimet e koagulimit",
+            "Endometrioza"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, endometrioza listohet ndër patologjitë më të lidhura me metroragjitë disfunksionale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-043",
+        "question": "Me çfarë termi (emri) përcaktohen menstruacionet me humbje gjaku 100 ml dhe me ritëm cdo 35 ditë?",
+        "answers": [
+            "Menometroragjia",
+            "Menoragjia",
+            "Polimenorea",
+            "Oligomenorea"
+        ],
+        "correct": 0,
+        "explanation": "Kombinimi i humbjes së shtuar të gjakut me çrregullim ritmi klasifikohet si menometroragji."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-044",
+        "question": "Me cfarë termi (emri) përcaktohen menstruacionet me humbje gjaku 40 ml dhe ritëm cdo 35 dite?",
+        "answers": [
+            "Menometroragjia",
+            "Menoragjia",
+            "Polimenorea",
+            "Oligomenorea"
+        ],
+        "correct": 0,
+        "explanation": "Kombinimi i një sasie normale gjaku (40ml) me interval të zgjatur (35 ditë) përkufizohet këtu si menometroragji sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-045",
+        "question": "Cila nga këto IST kalon nepër tre stade të njëpasnjëshme nëse lihet pa u mjekuar ?",
+        "answers": [
+            "HPV",
+            "Sifilizi",
+            "Chlamidia tracomatis",
+            "Gardnerella vaginalis"
+        ],
+        "correct": 1,
+        "explanation": "Sifilizi kalon nëpër tre stade progresive (primar, sekondar, terciar) nëse lihet i pamjekuar."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-046",
+        "question": "Miomat submukoze mund të shoqerohen me këto shenja dhe simtoma, përvec:",
+        "answers": [
+            "Anemi",
+            "Infertilitet",
+            "Menometroragji",
+            "Qarkullim gjaku parazitar nga organet e tjera"
+        ],
+        "correct": 3,
+        "explanation": "Qarkullimi parazitar i gjakut nga organe të tjera nuk është shenjë e miomave submukoze."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-047",
+        "question": "Miomat janë të lidhura me kushtet e meposhtme klinike përvec se me:",
+        "answers": [
+            "Aneminë",
+            "Amenorenë",
+            "Dismenorea",
+            "Pielonefritin"
+        ],
+        "correct": 3,
+        "explanation": "Pielonefriti nuk lidhet klinikisht me miomat uterine."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-048",
+        "question": "Cila nga ankeset e meposhtem nuk lidhet me kliniken e fibromiomave uterine?",
+        "answers": [
+            "Te vjellat",
+            "Dhimbja",
+            "Problemet riprodhuese",
+            "Menometroragjia"
+        ],
+        "correct": 0,
+        "explanation": "Të vjellat nuk janë simptomë tipike e fibromiomave uterine."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-049",
+        "question": "Fibromiomat uterine gjatë barrës:",
+        "answers": [
+            "I zvogelojne përmasat",
+            "I rrisin përmasat",
+            "Pësojnë transformim malinj",
+            "Nuk pësojnë ndryshime"
+        ],
+        "correct": 1,
+        "explanation": "Fibromiomat rriten zakonisht në përmasa gjatë shtatzanisë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-050",
+        "question": "Cila nga metodat diagnostike të mëposhtme është e duhura për vleresimin e kalueshmerisë tubare?",
+        "answers": [
+            "Testi post-koital",
+            "Histerosaplingografia",
+            "Laparaskopia",
+            "Spermograma"
+        ],
+        "correct": 1,
+        "explanation": "Histerosalpingografia vlerëson kalueshmërinë tubare."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-051",
+        "question": "Cila nga metodat diagnostike të mëposhtme është e duhura për vlerësimin e malformacioneve të kavitetit uterin ?",
+        "answers": [
+            "Testi post-koital",
+            "Histerosaplingografia",
+            "Laparaskopia",
+            "Biopsia e endometrit"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, biopsia e endometrit është metoda e duhur për vlerësimin e malformacioneve të kavitetit uterin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-052",
+        "question": "Cila nga situatat e meposhtme NUK është treguese e ndodhjes së ovulacionit?",
+        "answers": [
+            "Shtimi i tempëratures normale",
+            "Barra",
+            "Endometri i tipit sekretiv",
+            "Menstruacioni"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, vetë barra konsiderohet treguesi që NUK është (indirekt) prova standarde e ovulacionit të kaluar (pasi mund të vijë nga cikle të ndryshme)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-053",
+        "question": "Cila nga situatat e mëposhtme NUK flet për sterilitet femeror?",
+        "answers": [
+            "Mungesa e kalueshmerise tubare",
+            "Anovulacioni",
+            "Kriptokirdia",
+            "Insuficienca e progesteronit ne fazen e dyte te ciklit"
+        ],
+        "correct": 2,
+        "explanation": "Kriptorkidia është patologji mashkullore, jo femërore."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-054",
+        "question": "Cila nga ekzaminimet e më poshtme NUK përdoret për identifikimin e infertilitetit mashkullor?",
+        "answers": [
+            "Spermograma",
+            "Testi post-coital",
+            "Biopsia endometriale",
+            "Antikorpet anti-spërmatozoidike"
+        ],
+        "correct": 2,
+        "explanation": "Biopsia endometriale vlerëson faktorë femërorë, jo infertilitetin mashkullor."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-055",
+        "question": "Për fillimin dhe mbajtjen e ciklit menstrual NUK është e nevojshme:",
+        "answers": [
+            "Hormoni clirues i gonatropinave (GnRH)",
+            "Një endometer i ndjeshëm ndaj hormonet steroide seksuale",
+            "Kalueshmëria tubare",
+            "Hormonet steroide seksuale me origjine ovariale"
+        ],
+        "correct": 2,
+        "explanation": "Kalueshmëria tubare nuk është e domosdoshme për vetë ciklin menstrual, por për fertilitetin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-056",
+        "question": "Cili nga ekzaminimet hormonale është kryesor për përcaktimin e ndodhise se menopauzes?",
+        "answers": [
+            "FSH",
+            "LH",
+            "Prolaktina",
+            "Androgjenet"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, niveli i androgjeneve konsiderohet ekzaminimi kryesor për përcaktimin e menopauzës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-057",
+        "question": "Afshet e nxehta në menopausë krijohen nga:",
+        "answers": [
+            "Rritja e FSH",
+            "Rritja e LH",
+            "Rënia e estrogjeneve",
+            "Rënia e progesteronit"
+        ],
+        "correct": 2,
+        "explanation": "Afshet e nxehta shkaktohen nga rënia e niveleve të estrogjenit."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-058",
+        "question": "Trajtimi i keshilluar për osteoporozë në menopauzë i përfshin të gjitha PËRVEC:",
+        "answers": [
+            "Estrogjen",
+            "Progesterone",
+            "Ushtrime fizike",
+            "Kalcium"
+        ],
+        "correct": 1,
+        "explanation": "Progesteroni i vetëm nuk është trajtim standard për osteoporozën menopauzale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-059",
+        "question": "Pasojat afatgjata të menopauzës janë:",
+        "answers": [
+            "Anemia",
+            "HTA dhe diabeti",
+            "Osteoporoza dhe arterioskleroza",
+            "Depresioni"
+        ],
+        "correct": 2,
+        "explanation": "Osteoporoza dhe arterioskleroza janë pasoja afatgjata klasike të menopauzës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-060",
+        "question": "Cili nuk përben një faktor risku për kancerin e qafës se mitres?",
+        "answers": [
+            "Raporti i pare seksual ne moshe shumë te re",
+            "Partnere seksuale te shumte",
+            "Duhanpirja",
+            "Hipërkolesterolemia"
+        ],
+        "correct": 3,
+        "explanation": "Hiperkolesterolemia nuk është faktor risku për kancerin e qafës së mitrës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-061",
+        "question": "Gjatë laktacionit janë të lejuar kontraceptivët oralë:",
+        "answers": [
+            "Monofazikë te kombinuar",
+            "Dyfazikë të kombinuar",
+            "Trefazikë të kombinuar",
+            "Vetëm me progesteron"
+        ],
+        "correct": 3,
+        "explanation": "Gjatë laktacionit rekomandohen kontraceptivët vetëm-progesteron."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-062",
+        "question": "Metodat kontraceptive afatgjata të rikthyeshme përfshijnë:",
+        "answers": [
+            "DIU",
+            "Spërmicidet",
+            "Kondomi",
+            "Diafragma"
+        ],
+        "correct": 0,
+        "explanation": "DIU-ja është metodë kontraceptive afatgjatë e rikthyeshme."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-063",
+        "question": "Dizavantazhet e kontraceptivëve progesteronike përfshijnë:",
+        "answers": [
+            "Metroragji",
+            "Amenore",
+            "Nauze",
+            "Humbje në peshë"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, nauzeja listohet ndër disavantazhet kryesore të kontraceptivëve progesteronikë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-064",
+        "question": "Diagnoza e menopauzës vendoset pas:",
+        "answers": [
+            "3 muaj amenore",
+            "6 muaj amenore",
+            "12 muaj amenore",
+            "18 muaj amenore"
+        ],
+        "correct": 2,
+        "explanation": "Diagnoza e menopauzës vendoset pas 12 muajsh amenoreje të vazhdueshme."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-065",
+        "question": "Dispareunia është dhimbja:",
+        "answers": [
+            "gjatë menstruacioneve",
+            "gjatë kontakteve seksuale",
+            "në mesin e ciklit (ovulatore)",
+            "pelvike e papërcaktuar"
+        ],
+        "correct": 1,
+        "explanation": "Dispareunia është dhimbje gjatë marrëdhënieve seksuale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-066",
+        "question": "HPV është i lidhur me kancerin e :",
+        "answers": [
+            "Gjirit",
+            "Mitrës",
+            "Vaginës",
+            "Qafës se mitrës"
+        ],
+        "correct": 3,
+        "explanation": "HPV lidhet drejtpërdrejt me kancerin e qafës së mitrës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-067",
+        "question": "IST favorizohen nga:",
+        "answers": [
+            "Menopauza",
+            "Abstinenca seksuale",
+            "Përdorimi i profilaktikëve",
+            "Numri i lartë i partnerëve seksualë"
+        ],
+        "correct": 3,
+        "explanation": "Numri i lartë i partnerëve seksualë rrit riskun për IST."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-068",
+        "question": "Nëntipat e HPV që përfshihen si onkoviruse me risk të larte janë:",
+        "answers": [
+            "6 , 11",
+            "16, 18",
+            "21, 23",
+            "52, 53"
+        ],
+        "correct": 1,
+        "explanation": "Nëntipat HPV 16 dhe 18 janë onkoviruse me risk të lartë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-069",
+        "question": "Kush është ekzaminimi baze depistues për kancerin e qafës se mitres?",
+        "answers": [
+            "Ekografia",
+            "Vizita gjinekologjike",
+            "Pap-testi",
+            "Kultura e sekrecioneve vaginale"
+        ],
+        "correct": 2,
+        "explanation": "Pap-testi është ekzaminimi bazë depistues për kancerin e qafës së mitrës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-070",
+        "question": "Kush përbën faktor parandalues për kancerit e gjirit?",
+        "answers": [
+            "Menarka e herëshme",
+            "Menopauza e voneshme",
+            "Nullipariteti",
+            "Asnjëra"
+        ],
+        "correct": 3,
+        "explanation": "Opsionet e listuara janë të gjitha faktorë risku, jo mbrojtës — pra 'asnjëra' është përgjigja e saktë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-071",
+        "question": "Menopauza artificiale nenkupton të gjitha obsionet e meposhtme, përvec:",
+        "answers": [
+            "Ablacioni kirurgjikal I dy ovareve",
+            "Ndalimit natyral te aktivitetit folikular oavarian",
+            "Kemioterapia",
+            "Radioterapia"
+        ],
+        "correct": 1,
+        "explanation": "Ndalimi natyral i aktivitetit folikular ovarian përshkruan menopauzën natyrale, jo atë artificiale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-072",
+        "question": "Infeksioni vaginal i shoqeruar me leukore me ere si te peshkut te prishur shkaktohet nga:",
+        "answers": [
+            "Chlamydia tracomatis",
+            "Streptokoku B hemolitik",
+            "Trichomonas vaginalis",
+            "Gardnerela vaginalis"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, leukorea me erë peshku shkaktohet nga Trichomonas vaginalis."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-073",
+        "question": "Kur harrohet pilula kontraceptivi, cili është qendrimi i duhur?",
+        "answers": [
+            "Nderpritet paketa e filluar",
+            "Merren dy pilula njëherazi",
+            "Hidhet tableta e harruar dhe merret pasardhesja",
+            "Merret pilula e harruar brenda 12 oreve dhe vazhdohet pilula e radhes"
+        ],
+        "correct": 3,
+        "explanation": "Pilula e harruar merret sa më shpejt brenda 12 orëve, e më pas vazhdohet normalisht."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-074",
+        "question": "Kateterizimi arterial:",
+        "answers": [
+            "Nuk realizon një monitorim agresiv të presionit arterial",
+            "Nuk mundëson marrjen e gjakut për analiza",
+            "Përdoret shpesh për infuzionin e likideve dhe medikamenteve",
+            "Përdoret për infuzionin e likideve dhe medikamenteve jovazoaktivë vetëm në situata urgjente"
+        ],
+        "correct": 3,
+        "explanation": "Kateterizimi arterial përdoret kryesisht për monitorim/marrje gjaku dhe vetëm në raste urgjente për infuzion jovazoaktivësh."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-075",
+        "question": "Presioni venoz central:",
+        "answers": [
+            "Është një e dhënë që shpreh volumin e likideve që ndodhen në venat centrale",
+            "Ulet kur ulet presioni arterial sistolik",
+            "Është mbi 10 cm shtyllë ujë në shokun hipovolemik",
+            "Merr vlera të larta kur kemi humbje të masës qarkulluese"
+        ],
+        "correct": 0,
+        "explanation": "PVC shpreh volumin e lëngjeve në venat qendrore."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-076",
+        "question": "Monitorimi respirator behet:",
+        "answers": [
+            "për të mbikëqyrur përfuzionin e organeve",
+            "për të vlerësuar shkëmbimin e gazeve në pulmone",
+            "nëpërmjet matjes së presionit arterial të gjakut",
+            "nëpërmjet matjes së frekuencës kardiake"
+        ],
+        "correct": 1,
+        "explanation": "Monitorimi respirator synon vlerësimin e shkëmbimit të gazeve në mushkëri."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-077",
+        "question": "Gjendja vegjetative:",
+        "answers": [
+            "është mungesë e funksionit cerebral me funksione vitale të ruajtura",
+            "quhet ndryshe vdekje cerebrale",
+            "është gjendja në të cilën pacienti kryen aktivitet intelektual dhe shqisor",
+            "është gjendja në të cilën pacienti ka nevojë për mbështetje reanimatore të funksioneve jetike të tij"
+        ],
+        "correct": 0,
+        "explanation": "Gjendja vegjetative karakterizohet nga mungesë e funksionit kortikal me funksione vitale të ruajtura."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-078",
+        "question": "Shenjat e arrestit kardiocirkulator janë:",
+        "answers": [
+            "Pacienti është koshient",
+            "Apnea, ose respiracion me gulçim",
+            "Lëkurë e ftohtë, e zbehtë, e djersitur",
+            "Mungesë e pulsit periferik"
+        ],
+        "correct": 1,
+        "explanation": "Apnea ose respiracioni me gulçim listohet si shenjë kryesore e arrestit kardiocirkulator sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-079",
+        "question": "Cili nga pohimet e mëposhtme është i vërtetë:",
+        "answers": [
+            "Ischemia cerebrale për më shumë se 5-7 minuta nuk jep dëmtime në sistemin nervor qendror",
+            "Rezervat e ATP në tru konsumohen brenda 15 minutash në rast arresti kardiak",
+            "Truri mund të ruhet edhe 15 minuta pas arrestit kardiak n.q.s. Fillohet menjëherë reanimimi kardiopulmonar",
+            "Truri mund të ruhet edhe 15 minuta pas arrestit kardiak pavarësisht fillimit të reanimimit kardio-pulmonar"
+        ],
+        "correct": 2,
+        "explanation": "Truri mund të mbrohet edhe pas 15 minutash nëse fillon menjëherë CPR-ja."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-080",
+        "question": "Vdekja cerebrale:",
+        "answers": [
+            "është humbje e parikthyeshme e funksionit të korteksit",
+            "është humbje e rikthyeshme e funksionit të trungut të trurit",
+            "është humbje e funksionit të korteksit, me funksion të rujtur trungut të trurit",
+            "është gjendja ku pacienti ka nevojë për mbështetje reanimatore të funksioneve jetike të tij"
+        ],
+        "correct": 3,
+        "explanation": "Vdekja cerebrale kërkon mbështetje reanimatore të plotë të funksioneve jetike."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-081",
+        "question": "Cili nga pohimet e mëposhtme është i vërtetë:",
+        "answers": [
+            "Në pacientët që janë zgjuar, reflekset mbrojtëse të rrugëve të ajrit nuk parandalojnë aspirimin pulmonar të përmbajtjes gastrike",
+            "Pacientët me një status mental të alteruar mund t'i humbasin reflekset mbrojtëse gjë që i ekspozon ata me riskun e rritur për pneumoni aspirative",
+            "Intubimi trakeal me një tub me manshetë nuk e ul riskun për aspirim",
+            "Intubimi trakeal me një tub me manshetë mund ta parandalojë plotësisht aspirimin e përmbajtjes gastrike"
+        ],
+        "correct": 1,
+        "explanation": "Statusi mental i alteruar rrit riskun për aspirim për shkak të humbjes së reflekseve mbrojtëse."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-082",
+        "question": "Shkaqet më të zakonshme që shkaktojnë arrestin kardiopulmonar janë:",
+        "answers": [
+            "Hipovolemia nga humbjet e shpejta të gjakut",
+            "Hipokapnia",
+            "Alkaloza metabolike",
+            "Hipertermia"
+        ],
+        "correct": 0,
+        "explanation": "Hipovolemia nga humbja e shpejtë e gjakut është shkak i shpeshtë i arrestit kardiopulmonar."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-083",
+        "question": "Vlerësimi i komës sipas shkallës GLASGOW:",
+        "answers": [
+            "Nuk jep të dhëna për thellësinë e komës",
+            "Nuk ndikohet nga përgjigja motore e pacientit",
+            "Kryhet vetëm duke i folur pacientit",
+            "Bën vlerësimin e përgjigjeve motore, verbale dhe lëvizjes së syve"
+        ],
+        "correct": 3,
+        "explanation": "Shkalla Glasgow vlerëson përgjigjen motore, verbale dhe lëvizjen e syve."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-084",
+        "question": "Ventilimi mekanik:",
+        "answers": [
+            "Nuk zëvendëson ventilimin e kryer nga sistemi respirator i pacientit",
+            "Ul gjithnjë debitin kardiak",
+            "Ul rrezikun e aspirimit",
+            "Rrezikon për barotraumë ose volutraumë pulmonare"
+        ],
+        "correct": 3,
+        "explanation": "Ventilimi mekanik rrezikon shkaktimin e barotraumës/volutraumës pulmonare."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-085",
+        "question": "Në pacientët që marrin opioide për një kohë të gjatë për trajtimin e dhimbjes:",
+        "answers": [
+            "Zhvillohet apasionimi ose varësia psikologjike",
+            "Zhvillohet toleranca",
+            "Kanë diarre për një kohë të gjatë",
+            "Me rritjen e dozës shfaqet deprimimi i respiracionit"
+        ],
+        "correct": 1,
+        "explanation": "Përdorimi afatgjatë i opioideve zhvillon tolerancë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-086",
+        "question": "Në pacientët me ventilim mekanik:",
+        "answers": [
+            "Preferohet ushqyerja enterale kundrejt asaj parenterale",
+            "Nuk bëhet ushqyerje për sa kohë që pacienti është në ventilim mekanik",
+            "Shkurtohet koha e qëndrimit në ventilator mekanik tek pacientët me kequshqyerje",
+            "Duhet dhënë një sasi sa më e madhe ushqimesh nga sonda nazo-gastrike"
+        ],
+        "correct": 0,
+        "explanation": "Ushqyerja enterale preferohet ndaj asaj parenterale kur është e mundur."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-087",
+        "question": "Insuficienca respiratore:",
+        "answers": [
+            "Nuk zhvillohet gjatë detresit respirator të adultit",
+            "Ndikohet nga raporti ventilim/perfuzion",
+            "Mund të shoqërohet me hiperoksemi",
+            "Trajtohet gjithnjë me ventilim mekanik pavarësisht shkakut të saj"
+        ],
+        "correct": 1,
+        "explanation": "Insuficienca respiratore ndikohet nga raporti ventilim-perfuzion."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-088",
+        "question": "Cili nga pohimet është i vërtetë?",
+        "answers": [
+            "Të gjitha dhimbjet kanë një shkak fiziologjik të identifikueshëm",
+            "Nëse raportohet lehtësim i dhimbjes pas një placeboje, kjo do të thotë se dhimbja nuk është reale",
+            "Toleranca ndaj dhimbjes është individuale",
+            "Meshkujt ndiejnë më pak dhimbje se femrat"
+        ],
+        "correct": 2,
+        "explanation": "Toleranca ndaj dhimbjes ndryshon individualisht."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-089",
+        "question": "Në respiracionin paradoksal, në inspirim :",
+        "answers": [
+            "Ndërkohë që toraksi ngrihet abdomeni ulet",
+            "Ngrihet si toraksi dhe abdomeni",
+            "Ulet toraksi dhe ngrihet abdomeni",
+            "Ulet toraksi dhe ulet dhe abdomeni"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, gjatë respiracionit paradoksal në inspirim ngrihen njëkohësisht toraksi dhe abdomeni."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-090",
+        "question": "Shenja të perfuzionit jo të përshtatshëm të organeve vitale janë:",
+        "answers": [
+            "Presioni sistolik i gjakut mbi 80 mmHg",
+            "Presioni arterial mesatar nën 50 mmHg",
+            "Prezenca e presionit venoz central të lartë",
+            "Lëkura e ngrohtë, rimbushja kapilare e mirë"
+        ],
+        "correct": 1,
+        "explanation": "Presioni arterial mesatar nën 50 mmHg tregon perfuzion joadekuat të organeve vitale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-091",
+        "question": "Në një pacient të terapisë intensive me çrregullim akut të statusit mental:",
+        "answers": [
+            "Monitorohet pulsoksimetria dhe gazanaliza e gjakut",
+            "Jepet gjithmonë sedativë",
+            "Jepet glukozë i/v vetëm në diabetikët",
+            "Vendoset oksigjen suplementar pavarësisht O2Sat normal"
+        ],
+        "correct": 0,
+        "explanation": "Monitorimi i saturimit dhe gazanaliza janë hapa të domosdoshëm në vlerësimin e statusit mental të alteruar."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-092",
+        "question": "Në dhimbjen kronike pacienti:",
+        "answers": [
+            "Paraqitet me shenjat e fluksit të shtuar simpatik",
+            "Nuk ka ndryshime në shenjat vitale",
+            "Ul dozën e analgjezikëve për qetësimin e dhimbjes",
+            "Rrit tolerancën ndaj dhimbjes sepse sa më gjatë të ketë patur dhimbje aq më i pandjeshëm bëhet ndaj saj"
+        ],
+        "correct": 1,
+        "explanation": "Në dhimbjen kronike shenjat vitale zakonisht mbeten të pandryshuara, ndryshe nga dhimbja akute."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-093",
+        "question": "Cilën nga gjendjet e mëposhtme shkakton humbja e bikarbonateve nga organizmi?",
+        "answers": [
+            "Acidozë metabolike",
+            "Alkalozë metabolike",
+            "Alkalozë respiratore",
+            "Acidozë respiratore"
+        ],
+        "correct": 0,
+        "explanation": "Humbja e bikarbonateve shkakton acidozë metabolike."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-094",
+        "question": "Shoku hipovolemik:",
+        "answers": [
+            "Shkaktohet nga shtimi i masës qarkulluese të gjakut",
+            "Shkaktohet nga insuficienca primare e zemrës",
+            "Shfaqet me hipërtension",
+            "Ka si karakteristike një PH arterial nën 7,35"
+        ],
+        "correct": 3,
+        "explanation": "Shoku hipovolemik shoqërohet me acidozë (PH nën 7.35)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-095",
+        "question": "Monitorimi hemodinamik behet:",
+        "answers": [
+            "për të mbikëqyrur përfuzionin e organeve",
+            "për të vlerësuar shkëmbimin e gazeve në pulmone",
+            "nëpërmjet matjes së presionit të dioksidit të karbonit në rrugët e ajrit",
+            "nëpërmjet matjes se PH dhe gazeve të gjakut arterial"
+        ],
+        "correct": 0,
+        "explanation": "Monitorimi hemodinamik synon mbikëqyrjen e perfuzionit të organeve."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-096",
+        "question": "Pulsoksimetria bën të mundur monitorimin në vazhdimësi:",
+        "answers": [
+            "Te përqëndrimit të oksihemoglobinës së saturuar të një subjekti",
+            "Të niveleve të presionit pjesor të oksigjenit në gjak",
+            "Të niveleve të presionit pjesor të dioksidit të karbonit në gjak",
+            "Presionit të dioksidit të karbonit në rrugët ajrore"
+        ],
+        "correct": 0,
+        "explanation": "Pulsoksimetria mat përqindjen e saturimit të oksihemoglobinës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-097",
+        "question": "Masazhi i jashtëm kardiak:",
+        "answers": [
+            "Kur zhvillohet në mënyrë efikase mban një presion arterial sistolik nën 80 mmhg",
+            "Praktikohet kur pulsi në arteriet e mëdha është mbi 30 rrahje në minutë",
+            "Qëllimi i tij është të rikthejë respiracionin dhe aktivitetin kardiak",
+            "Shoqëron dhënien e adrenalinës, defibrilimin dhe respiracionin artificial në menaxhimin e arrestit kardiak"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, qëllimi kryesor i masazhit kardiak të jashtëm është rikthimi i respiracionit dhe i aktivitetit kardiak."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-098",
+        "question": "Shoku anafilaktik:",
+        "answers": [
+            "Shkaktohet si pasojë e reduktimit të masës qarkulluese të gjakut",
+            "Shkaktohet nga insuficienca primare e zemrës",
+            "Është pasojë e një vatre infeksioni dhe e bakteremisë",
+            "Është pasojë e futjes në organizëm të substancave alergene"
+        ],
+        "correct": 3,
+        "explanation": "Shoku anafilaktik shkaktohet nga ekspozimi ndaj substancave alergjene."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-099",
+        "question": "Acidoza metabolike karakterizohet nga:",
+        "answers": [
+            "PH i gjakut nën 7.35",
+            "Bikarbonatet në gjak mbi 23.4 mEq/l",
+            "Presioni arterial i dioksidit të karbonit mbi 35 mmHg",
+            "Mjekohet me oksigjenoterapi"
+        ],
+        "correct": 0,
+        "explanation": "Acidoza metabolike karakterizohet nga PH i gjakut nën 7.35."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-100",
+        "question": "Pacienti duhet intubuar nqs:",
+        "answers": [
+            "Presioni i dioksidit të karbonit në gjak ulet progresivisht",
+            "Kur pacienti bëhet jokoshient nga narkoza me dioksid karboni",
+            "Kur ngrihet ph i gjakut nga alkaloza e thellë respiratore",
+            "Presioni i oksigjenit arterial rritet progresivisht pavarësisht përdorimit të maskës faciale"
+        ],
+        "correct": 1,
+        "explanation": "Narkoza nga CO2 (bëhet jokoshient) tregon nevojën urgjente për intubim."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-101",
+        "question": "Cilat duhet të kryhen të parat në një pacient të terapisë intensive?",
+        "answers": [
+            "Manovrat diagnostike",
+            "Manovrat terapeutike",
+            "Anamneza dhe ekzaminimit fizik",
+            "Vlerësimi dhe terapia"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, hapat e para në pacientin e terapisë intensive janë vlerësimi dhe fillimi i terapisë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-102",
+        "question": "Kush është rruga e përshtatshme për administrimin e medikamenteve gjatë reanimimit kardiopulmonar në një arrest kardiak kur nuk mund të vendoset rruga venoze?",
+        "answers": [
+            "Rruga intramuskulare",
+            "Rruga endotrakeale",
+            "Rruga intraoseale në pacientë adultë",
+            "Rruga intrakardiake"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, rruga intrakardiake listohet si alternativë kur nuk mund të vendoset rrugë venoze (megjithëse në praktikën moderne preferohet rruga intraoseale)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-103",
+        "question": "Efektet anësore më të shpeshta të opioideve janë:",
+        "answers": [
+            "Hiperventilimi",
+            "Nauzeja dhe të vjellat",
+            "Diarrea",
+            "Axhitimi"
+        ],
+        "correct": 1,
+        "explanation": "Nauzeja dhe të vjellat janë efektet anësore më të shpeshta të opioideve."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-104",
+        "question": "Sindroma e abstinencës nga opioidet:",
+        "answers": [
+            "Quhet ndryshe varësi psikologjike nga opioidet",
+            "Shfaqet kur një pacient ndërpret menjëherë përdorimin e opioidit",
+            "Ndodh si pasojë gripit në pacientë që marrin opioide në doza të mëdha",
+            "Nuk ndodh kur opioidi ndërpritet menjëherë në një pacient që i ka përdorur për një kohë të gjatë"
+        ],
+        "correct": 1,
+        "explanation": "Sindroma e abstinencës shfaqet kur opioidi ndërpritet menjëherë pas përdorimit afatgjatë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-105",
+        "question": "Në rastet kur ka ndodhur vdekja cerebrale:",
+        "answers": [
+            "pacienti nuk ka nevojë për mbështetje reanimatore të funksioneve jetike të tij",
+            "pacienti është në arrest respirator",
+            "pacienti nuk ka nevojë për ventilim mekanik për oksigjenim të mirë të indeve",
+            "funksionojnë ende qendrat përgjegjëse për automatizmin kardiorespirator që ndodhen në bazën e kafkës"
+        ],
+        "correct": 1,
+        "explanation": "Pacienti me vdekje cerebrale është në arrest respirator (nuk frymon spontanisht)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-106",
+        "question": "Plazma e freskët e ngrirë:",
+        "answers": [
+            "Është një likid zëvendësues i mirë për të korrigjuar hipoveloninë",
+            "Nuk ka risk për transmetimin e infeksioneve të transmetueshme nëpërmjet transfuzionit",
+            "Ka prioritet ndaj përdorimit të likideve zëvendësues kristaloidë në trajtimin e hipovolemisë",
+            "Nëse mbahen temperaturat e duhura mund të ruhet për të paktën një vit, ose më shumë"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, plazma e freskët e ngrirë, në kushte të duhura temperature, mund të ruhet për të paktën një vit ose më shumë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-107",
+        "question": "Ngritja e shtratit me kënd 45 gradë në pacientët në ventilim mekanik:",
+        "answers": [
+            "Rrit rriskun për aspirim të përmbajtjes gastrike",
+            "Ul rriskun për pneumoni nozokomiale",
+            "Përmirëson hipotensionin",
+            "Ndikon në përmirësimin e gjumit."
+        ],
+        "correct": 1,
+        "explanation": "Ngritja e kokës së shtratit 45 gradë ul riskun për pneumoni nozokomiale/të lidhur me ventilatorin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-108",
+        "question": "Cilat nga pohimet e mëposhtme janë të vërteta:",
+        "answers": [
+            "Sedacioni dhe paraliza përdoren në çdo pacient që është në ventilim mekanik",
+            "Për parandalimin e pneumonisë të lidhur me ventilimin mekanik koka e shtratit duhet të ulet sa më shumë",
+            "Për ta shkëputur pacientin nga respiratori duhet që ai të ketë reflekse intakte të rrugëve ajrore",
+            "Në pacientët që marrin opioide zhvillohet varësia psikologjike nëse ato ndërpriten menjëherë"
+        ],
+        "correct": 2,
+        "explanation": "Shkëputja nga respiratori kërkon reflekse të rrugëve ajrore intakte."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-109",
+        "question": "Acidoza respiratore:",
+        "answers": [
+            "Zhvillohet gjatë diarreve masive",
+            "Zhvillohet në insuficiencën renale",
+            "Korrigjohet me dhënien e bikarbonateve",
+            "Është tregues i nevojës së ventilimit mekanik në insuficiencën respiratore"
+        ],
+        "correct": 3,
+        "explanation": "Acidoza respiratore tregon nevojën e ventilimit mekanik në insuficiencën respiratore."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-110",
+        "question": "Shoku septik:",
+        "answers": [
+            "Shkaktohet si pasojë e reduktimit të masës qarkulluese të gjakut",
+            "Shkaktohet nga insuficienca primare e zemrës",
+            "Është pasojë e një vatre infeksioni dhe e bakteremisë",
+            "Është pasojë e futjes në organizëm të substancave alergene"
+        ],
+        "correct": 2,
+        "explanation": "Shoku septik është pasojë e infeksionit/bakteremisë."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-111",
+        "question": "Reaksionet hemolitike të transfuzionit vijnë si pasojë e:",
+        "answers": [
+            "Transfuzionit jokompatibël sipas grupit",
+            "Antitrupave kundër leukociteve, ose proteinave plazmatike të dhuruesit",
+            "Kalimit të një sasie të konsiderueshme të ajrit në vena",
+            "Transfuzionit të shpejtë të gjakut të ftohtë"
+        ],
+        "correct": 0,
+        "explanation": "Reaksionet hemolitike vijnë kryesisht nga transfuzioni jokompatibël sipas grupit të gjakut."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-112",
+        "question": "Një pacient mund të vetëinfektohet si pasojë e:",
+        "answers": [
+            "Transportit të agjentëve infektues nga një pacient tek tjetri",
+            "Mikroorganizmave të pranishëm në florën e tij",
+            "Mosndryshimit të barrierave individuale",
+            "Përdorimit të antibiotikëve"
+        ],
+        "correct": 1,
+        "explanation": "Vetëinfektimi ndodh nga mikroorganizmat e vetë florës së pacientit."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-113",
+        "question": "Transfuzioni i gjakut:",
+        "answers": [
+            "Bëhet me gjak të saponxjerrë nga frigoriferi",
+            "Bëhet me gjak të ngrohur më parë në 37 gradë celsius",
+            "Duhet të zgjasë më shumë se 4 orë",
+            "Bëhet me gjak që ka mbi 6 orë i nxjerrë nga frigoriferi dhe i ngrohur"
+        ],
+        "correct": 1,
+        "explanation": "Gjaku ngrohet paraprakisht në 37°C përpara transfuzionit."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-114",
+        "question": "Cila nga thëniet e mëposhtme është e vërtetë :",
+        "answers": [
+            "Anestezia spinale dhe epidurale jep hipërtension arterial",
+            "Anestezia spinale dhe epidurale jep takikardi",
+            "Anestezia spinale dhe epidurale jep të përziera dhe të vjella",
+            "Anestezia epidurale jep më shpesh se anestezia spinale dhimbje koke nga shpimi postdural"
+        ],
+        "correct": 2,
+        "explanation": "Anestezia spinale/epidurale mund të japë të përziera dhe të vjella si efekt anësor."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-115",
+        "question": "Nga moseleminimi i plotë i anestezisë gjenerale dhe/ose bllokut neuromuskular ndodh:",
+        "answers": [
+            "Çrregullime të elektrolitëve",
+            "Obstruksioni i rrugëve të sipërme ajrore nga rënia e gjuhës",
+            "Zgjim i shpejtë",
+            "Çrregullime të tempëratures"
+        ],
+        "correct": 1,
+        "explanation": "Bllokimi neuromuskular jo i plotë rrezikon obstruksionin e rrugëve ajrore nga rënia e gjuhës."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-116",
+        "question": "PaO2 (presioni arterial i oksigjenit):",
+        "answers": [
+            "Ndryshon në varësi të presionit pjesor të oksigjenit në ajrin e inspiruar",
+            "Nuk ndryshon në sëmundjet pulmonare",
+            "Matet nëpërmjet pulsoksimetrit",
+            "Nuk ndryshon nga presioni venoz i oksigjenit"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, PaO2 matet nëpërmjet pulsoksimetrit (në kontekstin specifik të kësaj pyetjeje)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-117",
+        "question": "Cila nga thëniet e mëposhtme është e vërtetë:",
+        "answers": [
+            "Të gjitha medikamentet që përdor pacienti duhet të ndërpriten para kirurgjisë",
+            "Duhanin mund ta pijë deri para operacionit",
+            "Gjatë operacionit nuk ka rëndësi nëse stomaku është plot, ose jo",
+            "Të korrigjohet hipovolemia dhe hipokalemia e mundshme para operacionit nëse koha e lejon"
+        ],
+        "correct": 3,
+        "explanation": "Korrigjimi i hipovolemisë/hipokalemisë para operacionit është praktikë standarde kur koha e lejon."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-118",
+        "question": "Hipoventilimi postoperator çon në:",
+        "answers": [
+            "Hipokapni",
+            "Acidozë respiratore akute",
+            "Hiperoksemi",
+            "Në një ventilim të rritur në minutë"
+        ],
+        "correct": 1,
+        "explanation": "Hipoventilimi shkakton acidozë respiratore akute (rritje e CO2)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-119",
+        "question": "Komplikacionet e analgjezisë epidurale janë:",
+        "answers": [
+            "Hipertensioni",
+            "Retensioni urinar",
+            "Takikardia",
+            "Sedacioni"
+        ],
+        "correct": 1,
+        "explanation": "Retensioni urinar është komplikacion i njohur i analgjezisë epidurale."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-120",
+        "question": "Efektet e mbisedacionit në një pacient të terapisë intensive janë:",
+        "answers": [
+            "Diskomfort",
+            "Dhimbje",
+            "Hipertension",
+            "Vështirësi në komunikim"
+        ],
+        "correct": 3,
+        "explanation": "Mbisedacioni shkakton vështirësi në komunikim me pacientin."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-121",
+        "question": "Shoku hipovolemik:",
+        "answers": [
+            "Shkaktohet nga humbja e më pak se 20-25% të masës qarkulluese të gjakut",
+            "E ka klinikën të ngjashme me shokun septik",
+            "Presionin venoz central e ka të njëjtë me shokun kardiogjen",
+            "Shoqërohet me rritje të kohës së mbushjes kapilare"
+        ],
+        "correct": 3,
+        "explanation": "Shoku hipovolemik shoqërohet me kohë të zgjatur të rimbushjes kapilare."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-122",
+        "question": "Anestezia spinale jep:",
+        "answers": [
+            "Bllok motor dhe bllok sensor",
+            "Bllok sensor pa bllok motor",
+            "Analgjezi për një kohë të gjatë",
+            "Anestezi të një ekstremiteti"
+        ],
+        "correct": 0,
+        "explanation": "Anestezia spinale jep si bllok motor ashtu edhe sensor."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-123",
+        "question": "Anestezia regjionale endovenoze jep:",
+        "answers": [
+            "Anestezi të një ekstremiteti",
+            "Jep gjumë të thellë",
+            "Jep relaksim neuromuskular",
+            "Hipotension dhe bradikardi"
+        ],
+        "correct": 0,
+        "explanation": "Anestezia regjionale endovenoze (bllok Bier) anestizon vetëm një ekstremitet."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-124",
+        "question": "Presioni i rritur intrakranial ulet nëpërmjet:",
+        "answers": [
+            "Oksigjenimit të pacientit",
+            "Hipoventilimit",
+            "Përdorimit të agjentëve osmotikë",
+            "Përdorimit të diuretikëve"
+        ],
+        "correct": 2,
+        "explanation": "Agjentët osmotikë (si manitoli) përdoren për të ulur presionin intrakranial."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-125",
+        "question": "Infeksionet që hasen më shpesh në terapi intensive janë:",
+        "answers": [
+            "infeksionet e lëkurës",
+            "infeksionet e traktit gastrointestinal",
+            "septicemia",
+            "infeksionet e sistemit nervor qendror"
+        ],
+        "correct": 2,
+        "explanation": "Septicemia është ndër infeksionet më të shpeshta në terapinë intensive."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-126",
+        "question": "Transfuzioni i shpejtë i gjakut të ftohtë:",
+        "answers": [
+            "Mund të shkaktojë reaksione anafilaktike",
+            "Çon në mbingarkesë cirkulatore",
+            "Mund të shkaktojë aritmi, ose arrest kardiak",
+            "Rrit mundesinë për formimin e mikroagregatev"
+        ],
+        "correct": 2,
+        "explanation": "Transfuzioni i shpejtë i gjakut të ftohtë mund të shkaktojë aritmi ose arrest kardiak."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-127",
+        "question": "Gjaku gjatë ruajtjes së tij pëson këto ndryshime:",
+        "answers": [
+            "E ruan viabilitetin dhe funksionin e eritrociteve",
+            "Bëhet me acid",
+            "Ulet përqëndrimi i kaliumit në plazëm",
+            "Faktori i VIII i koagulimit është relativisht i stabilizuar"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, gjaku i ruajtur në kushte të duhura e ruan viabilitetin dhe funksionin e eritrociteve."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-128",
+        "question": "Në organizmin që ka marrë gjak, pas transfuzionit të gjakut:",
+        "answers": [
+            "Mund të ndodhin ndryshime të kalemisë",
+            "Mund të rritet niveli i kalciumit të jonizuar",
+            "PH i gjakut bëhet acid për shkak se gjaku i konservuar është acidotik",
+            "Ngarkesa acidotike tek pacienti është minimale"
+        ],
+        "correct": 0,
+        "explanation": "Transfuzioni mund të shkaktojë ndryshime të nivelit të kaliumit (kalemisë)."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-129",
+        "question": "Mjekimi i shokut anafilaktik bëhet me dhënien e:",
+        "answers": [
+            "Antibiotikëve",
+            "Adrenalinës",
+            "Kardiotonikëve",
+            "Analgjezikëve"
+        ],
+        "correct": 1,
+        "explanation": "Adrenalina është medikamenti kryesor për shokun anafilaktik."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-130",
+        "question": "Alergjenët më të shpeshtë që çojnë në shok anafilaktik janë:",
+        "answers": [
+            "Antibiotikët",
+            "Rrezatimi që përdoret në imazherinë diagnostikuese",
+            "Pickimi nga gjarpri",
+            "Helmimet me fosfororganikë"
+        ],
+        "correct": 0,
+        "explanation": "Antibiotikët janë ndër alergjenët më të shpeshtë që shkaktojnë shok anafilaktik."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-131",
+        "question": "Anestezia inhalatore:",
+        "answers": [
+            "Përdoret si anestezi mbajtëse",
+            "Nuk përdoret për induksion anestezi",
+            "Futet në rrugë venoze",
+            "Nuk varet nga funksioni respirator"
+        ],
+        "correct": 0,
+        "explanation": "Anestezia inhalatore përdoret zakonisht si anestezi mbajtëse."
+    },
+    {
+        "id": "infermieristik-obstetri-anestezi-132",
+        "question": "Anestezia endovenoze:",
+        "answers": [
+            "Futet nëpërmjet rrugës venoze",
+            "Nuk përdoret si anestezi mbajtëse",
+            "Shfrytëzon potencialin shkëmbyes të sistemit respirator",
+            "Nuk mund të realizohet pa vendosur më parë tubin endotrakeal"
+        ],
+        "correct": 0,
+        "explanation": "Anestezia endovenoze administrohet nëpërmjet rrugës venoze."
+    }
+]

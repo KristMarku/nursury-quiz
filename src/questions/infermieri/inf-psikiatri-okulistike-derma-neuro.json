@@ -1,0 +1,926 @@
+[
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-001",
+        "question": "Bashkebisedimet terapeutike përbëhen nga:",
+        "answers": [
+            "ato sociale dhe terapeutike",
+            "Faza fillestare ose faza hyrëse",
+            "Faza e punës",
+            "Faza përfundimtare"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, bashkëbisedimet terapeutike klasifikohen si sociale dhe terapeutike njëkohësisht."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-002",
+        "question": "Faza përfundimtare e bashkebisedimeve do tëthotë:",
+        "answers": [
+            "Menaxhim i ankthit",
+            "Kujdesi dhe puna në maksimum",
+            "Një hap pozitiv",
+            "Përforcimi I kufinjëve gjatë takimeve"
+        ],
+        "correct": 2,
+        "explanation": "Faza përfundimtare synon mbylljen pozitive të marrëdhënies terapeutike."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-003",
+        "question": "Infermieri/a e shëndetit mendor është i aftë kur është në gjendje:",
+        "answers": [
+            "Të respektojë diversitetin",
+            "Të ketë besim tek të tjeret",
+            "Të manifestojë siguri",
+            "Të marrë përsipër përgjegjësitë"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, aftësia për të respektuar diversitetin veçohet si tregues i infermierit të shëndetit mendor."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-004",
+        "question": "Cila nga shtresat e lëkurës përbëhet kryesisht nga fije kolagjene dhe elastike:",
+        "answers": [
+            "epiderma",
+            "shtresa korneale",
+            "derma",
+            "hipoderma"
+        ],
+        "correct": 2,
+        "explanation": "Derma përbëhet kryesisht nga fije kolagjene dhe elastike."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-005",
+        "question": "Kortikoterapia është trajtimi bazë për:",
+        "answers": [
+            "folikulitin",
+            "kandidozën",
+            "ekzemën",
+            "melanomën"
+        ],
+        "correct": 2,
+        "explanation": "Kortikosteroidet janë trajtimi bazë i ekzemës."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-006",
+        "question": "Në principet e rikthimit të pacientit në jetën normale bën pjesë:",
+        "answers": [
+            "Mbështetja familjare",
+            "Aksesi në burime",
+            "Kujdesi klinik",
+            "Stigma"
+        ],
+        "correct": 0,
+        "explanation": "Mbështetja familjare është parim thelbësor i rikthimit (recovery) të pacientit në jetën normale."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-007",
+        "question": "Respektimi I Diversitetit do të thotë:",
+        "answers": [
+            "Bashkëpunimi me familjarë dhe kolegë",
+            "Të kuptojë dhe të njohë diversitetin",
+            "Përkushtim dhe mundësi të barabarta",
+            "Respektimi I nivelit kulturor të pacientit"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, respektimi i diversitetit nënkupton përkushtim dhe mundësi të barabarta."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-008",
+        "question": "Dermatofitoza është nje infeksion:",
+        "answers": [
+            "viral",
+            "mikrobik",
+            "stafilo-streptokoksik",
+            "mykotik"
+        ],
+        "correct": 3,
+        "explanation": "Dermatofitoza është infeksion mykotik (kërpudhor) i lëkurës."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-009",
+        "question": "Depresioni shprehet me :",
+        "answers": [
+            "Vështërsi në pëqendrim",
+            "Tension muscular",
+            "Deluzione",
+            "Haluçinacione"
+        ],
+        "correct": 0,
+        "explanation": "Vështirësia në përqendrim është simptomë tipike e depresionit."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-010",
+        "question": "Ankthi i vazhdueshëm mund të shkaktoje:",
+        "answers": [
+            "Pamundësi funksionimi i përditshëm",
+            "Depresion te pakontollueshëm",
+            "Psikozë manjakale",
+            "Skyzofreni hebrefrenike"
+        ],
+        "correct": 0,
+        "explanation": "Ankthi kronik mund të çojë në pamundësi për të funksionuar normalisht në jetën e përditshme."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-011",
+        "question": "Gjendjet anksioze shoqërohen me:",
+        "answers": [
+            "Pamundësi për tu kujdesur për veten",
+            "Harrese dhe humbje kujtese",
+            "Papërgjegjshmëri",
+            "Gjykim i dobët"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, gjendjet anksioze shoqërohen me harresë dhe humbje kujtese."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-012",
+        "question": "Manaxhimi i depresionit bëhet nëpërmjet:",
+        "answers": [
+            "Manaxhimi i sëmundjes fizike",
+            "Trajtimi medikamentoz",
+            "Vetndihma",
+            "Trajtim i përgjithshëm"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, menaxhimi i depresionit bëhet nëpërmjet trajtimit të përgjithshëm (jo vetëm medikamentoz)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-013",
+        "question": "Të sjellë shndryshimin do të thotë:",
+        "answers": [
+            "Të kuptosh pasojat e problemit",
+            "Formulimi I programit të besueshëm",
+            "Të mundësosh shërbime me vlera",
+            "Arritja e një ndryshimi pozitv"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, 'të sjellë ndryshimin' nënkupton formulimin e një programi të besueshëm."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-014",
+        "question": "Rreziqet nga çrregullimet e humorit vijnë si rezultat i:",
+        "answers": [
+            "Gjykimit të dobët",
+            "Mohimi I rrezikut",
+            "Agresivitetit",
+            "Provokimit"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, rreziqet nga çrregullimet e humorit vijnë nga gjykimi i dobët."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-015",
+        "question": "Nuk është formë e depresionit:",
+        "answers": [
+            "Crregullimi bipolar",
+            "Ulja mëngjezore",
+            "Hypomania",
+            "Mania"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, ulja mëngjezore e humorit NUK klasifikohet si formë e veçantë depresioni në këtë listë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-016",
+        "question": "Neuralgjia posherpetike nuk ka si karakteristikë:",
+        "answers": [
+            "dhimbjet nevralgjike që mund të zgjatin për një kohë të gjatë",
+            "shfaqet kryesisht te të moshuarit",
+            "shoqëron infeksionet bakteriale",
+            "është një komplikacion pas shërimit klinik të Herpes Zoster"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, neuralgjia posherpetike përkufizohet si komplikacion pas shërimit klinik të Herpes Zoster."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-017",
+        "question": "Çregullimi bipolar NJE shprehet me:",
+        "answers": [
+            "Distrofi parësore",
+            "Mani me depression",
+            "Hypomania pa depression",
+            "Ulje mëngjezore"
+        ],
+        "correct": 1,
+        "explanation": "Çrregullimi bipolar tip I shprehet me episode manie të shoqëruara me depresion."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-018",
+        "question": "Trajtimi në crregullimet e humorit bëhet me:",
+        "answers": [
+            "Antidepresiv",
+            "Antikomvulsiv",
+            "Antipsikotik",
+            "ECT"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, trajtimi në çrregullimet e humorit përfshin edhe antipsikotikë (në raste specifike si mania psikotike)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-019",
+        "question": "Zakonisht pacientët me hypomani paraqesin:",
+        "answers": [
+            "Entuziazëm të tepruar",
+            "Hiperaktivitet",
+            "Pagjumësi",
+            "Suicid"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, pacientët me hipomani mund të paraqesin edhe rrezik suicidal."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-020",
+        "question": "Në psikozën paranoide pacienti paraqet:",
+        "answers": [
+            "Rritje e vetvlersimit",
+            "Veprimtari e shtuar",
+            "Humor I ngritur",
+            "Halucinacione"
+        ],
+        "correct": 3,
+        "explanation": "Halucinacionet janë simptomë e shpeshtë e psikozës paranoide."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-021",
+        "question": "Pacienti me depresion psikotik paraqet:",
+        "answers": [
+            "Tentativa për vetvrasje",
+            "Crregullime të oreksit",
+            "Të qara me lot",
+            "Anhedoni"
+        ],
+        "correct": 0,
+        "explanation": "Depresioni psikotik shoqërohet me risk të lartë për tentativa vetëvrasjeje."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-022",
+        "question": "Në psikozen maniakale pacienti paraqet:",
+        "answers": [
+            "Konfuzion",
+            "Izolim",
+            "Fluturim të ideve",
+            "Anhedoni"
+        ],
+        "correct": 2,
+        "explanation": "Fluturimi i ideve (flight of ideas) është karakteristikë klasike e psikozës maniakale."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-023",
+        "question": "Niveli i litiumit në gjak duhet të jetë Brenda normës:",
+        "answers": [
+            "5-7 miliektolitër",
+            "7-10 miliektolitër",
+            "10-17 miliektolitër",
+            "17-20 miliektolitër"
+        ],
+        "correct": 1,
+        "explanation": "Niveli terapeutik i litiumit duhet të qëndrojë brenda vlerave normale të rekomanduara, ~7-10 (sipas njësisë së përdorur në material)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-024",
+        "question": "Episodet depressive të mëdha shoqërohen me:",
+        "answers": [
+            "Çrregullime emocionale",
+            "Mendime për vetvrasje",
+            "Humor I ngritur",
+            "Veprimtari e shtuar"
+        ],
+        "correct": 1,
+        "explanation": "Episodet depresive të mëdha shoqërohen shpesh me mendime për vetëvrasje."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-025",
+        "question": "Për cilën nga sëmundjet është karakteristikë shoqërimi me sëmundje të tjera atopike:",
+        "answers": [
+            "psoriazis vulgaris",
+            "akne Vulgaris",
+            "ekzema endogjene",
+            "tinea pedis"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, psoriazis vulgaris shoqërohet me sëmundje të tjera atopike në këtë kontekst krahasimi."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-026",
+        "question": "Simptomat pozitve të skizofrenisë I përkasin dimensionit:",
+        "answers": [
+            "emocional",
+            "intelektual",
+            "psikotik",
+            "shpirtëror"
+        ],
+        "correct": 2,
+        "explanation": "Simptomat pozitive (halucinacione, deluzione) i përkasin dimensionit psikotik të skizofrenisë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-027",
+        "question": "Skizofrenia shoqërohet me prognozë \"shumë të keqe\" në ate:",
+        "answers": [
+            "katatonike",
+            "hebefrenike",
+            "reziduale",
+            "te thjeshtë"
+        ],
+        "correct": 1,
+        "explanation": "Skizofrenia hebefrenike shoqërohet me prognozë shumë të keqe."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-028",
+        "question": "Shkaktari më domëthënës i skizofrenisë është :",
+        "answers": [
+            "Çrregullimi biokimik I metabolizmit në tru",
+            "Zhvillimi patologjik I trurit",
+            "Faktorët ambjental",
+            "Gjenetika"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, faktorët ambientalë theksohen si shkaktari më domethënës i skizofrenisë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-029",
+        "question": "Trajtimi më produktiv në skizofreni konsiston në :",
+        "answers": [
+            "Trajtim social",
+            "Antipsikotik",
+            "Antidepresiv",
+            "ECT"
+        ],
+        "correct": 1,
+        "explanation": "Medikamentet antipsikotike janë trajtimi më efektiv për skizofreninë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-030",
+        "question": "Deluzionet janë zakonisht:",
+        "answers": [
+            "Konkluzione",
+            "Percepsione",
+            "Zëra imagjinarë",
+            "Bindje të gabuara"
+        ],
+        "correct": 3,
+        "explanation": "Deluzionet janë bindje të gabuara, të palëkundura nga arsyetimi logjik."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-031",
+        "question": "Halucinacionet janë perceptime:",
+        "answers": [
+            "imagjinare",
+            "fetare",
+            "somatike",
+            "nihiliste"
+        ],
+        "correct": 0,
+        "explanation": "Halucinacionet janë perceptime imagjinare, pa stimul real të jashtëm."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-032",
+        "question": "Në psikozën paranoide mbizotërues eshte deluzioni:",
+        "answers": [
+            "persekutimit",
+            "përndjekjes",
+            "madhështisë",
+            "xhelozisë"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, deluzioni mbizotërues në psikozën paranoide përshkruhet si ai i përndjekjes."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-033",
+        "question": "Fenomeni I \"mutizmit\" është tipik për :",
+        "answers": [
+            "Skizofreninë e thjeshtë",
+            "Skizofreninë reziduale",
+            "Skizofreninë katatonike",
+            "Skizofreninë e padiferencuar"
+        ],
+        "correct": 2,
+        "explanation": "Mutizmi është shenjë tipike e skizofrenisë katatonike."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-034",
+        "question": "Vleresimi infermieror parësor në skizofreni i referohet vleresimit te:",
+        "answers": [
+            "gjendjes së humorit",
+            "potencialit për dhunë",
+            "mbështetjes sociale",
+            "njohurive"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, vlerësimi infermieror parësor në skizofreni i referohet gjendjes së humorit."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-035",
+        "question": "Ndërhyrja infermierore në skizofreni fillon me permiresimin e:",
+        "answers": [
+            "procesit të mendimit",
+            "e izolimit social",
+            "kujdesjeve vetjake",
+            "komunikimit verbal"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, ndërhyrja infermierore në skizofreni fillon me përmirësimin e procesit të mendimit."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-036",
+        "question": "Hedhja sistematike që në lindje e një koliri antiseptik ose antibiotik ka për qëllim prevenimin e konjuktivitit:",
+        "answers": [
+            "Nga adenoviruset",
+            "Nga trakoma",
+            "Gonokoksik",
+            "Pneumokoksik"
+        ],
+        "correct": 2,
+        "explanation": "Profilaksia okulare në lindje synon parandalimin e konjuktivitit gonokoksik."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-037",
+        "question": "Hedhja e kolireve kortikoide kundraindikohem në:",
+        "answers": [
+            "Edemën korneale",
+            "Uveitin anterior",
+            "Keratitin epithelial",
+            "Kataraktën"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, hedhja e kolireve kortikoide kundërindikohet në katarakt."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-038",
+        "question": "Cili është kundraindikacioni absolutë i midriatikëve?",
+        "answers": [
+            "Koroiditi",
+            "Neuriti optik",
+            "Glaucoma me kënd të mbyllur",
+            "Keratiti"
+        ],
+        "correct": 2,
+        "explanation": "Midriatikët janë absolutisht të kundërindikuar në glaukomën me kënd të mbyllur."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-039",
+        "question": "Pilokarpina është një kolir:",
+        "answers": [
+            "Parasimpatikomimetik",
+            "Parasimpatolitik",
+            "Simpatikomimetik",
+            "Simpatikolitik"
+        ],
+        "correct": 0,
+        "explanation": "Pilokarpina është kolir parasimpatikomimetik (miotik)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-040",
+        "question": "Epinefrina është një kolir:",
+        "answers": [
+            "Parasimpatikomimetik",
+            "Parasimpatolitik",
+            "Simpatikomimetik",
+            "Miotik"
+        ],
+        "correct": 2,
+        "explanation": "Epinefrina është kolir simpatikomimetik."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-041",
+        "question": "Cili nga koliret e mëposhtëm nuk e zgjeron pupilën?",
+        "answers": [
+            "Pilokarpina",
+            "Kokaina",
+            "Adrenalina",
+            "Atropine"
+        ],
+        "correct": 0,
+        "explanation": "Pilokarpina është miotik, pra ngushton (jo zgjeron) pupilën."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-042",
+        "question": "Cili nga propozimet e mëposhtme mbi koliret nuk është i saktë?",
+        "answers": [
+            "Koliret me bazë sulfamidi nuk veprojnë ndaj infeksioneve nga klamidet",
+            "Koliret antibiotikë penetrojnë keq në vitroz",
+            "Koliret anestezike në doza të përsëritura kanë efekt toksik mbi epitelin e kornesë",
+            "Koliret simpatomimetike kanë efekt midriatik"
+        ],
+        "correct": 0,
+        "explanation": "Sulfamidet historikisht kanë qenë efektive edhe kundër klamideve (p.sh. trakoma), prandaj pohimi se 'nuk veprojnë' është i pasaktë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-043",
+        "question": "Çfarë duhet survejuar në rastet e përdorimit të zgjatur të kolireve kortikoide?",
+        "answers": [
+            "Tensioni ocular",
+            "Këndi irido-korneal",
+            "Sensibiliteti korneal",
+            "Endoteli i kornesë"
+        ],
+        "correct": 0,
+        "explanation": "Përdorimi i zgjatur i kortikoideve lokale mund të rrisë tensionin okular, prandaj survejohet me kujdes."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-044",
+        "question": "Cili nga koliret e mëposhtëm nuk duhet përdorur në rastet me iridociklit?",
+        "answers": [
+            "Midriatikët",
+            "Miotikët",
+            "Antibiotikët lokalë",
+            "Kortikoidët lokalë"
+        ],
+        "correct": 1,
+        "explanation": "Miotikët janë të kundërindikuar në iridociklit, ndërsa midriatikët përdoren për të parandaluar sinekitë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-045",
+        "question": "Cili nga propozimet e mëposhtme ka kundraindikacion absolut përdorimin e kolireve parasimpatikolitike?",
+        "answers": [
+            "Trajtimi i uveitit anterior",
+            "Ekzaminimi i fundus okulit",
+            "Trajtimi i glaukomës",
+            "Riedukimi i ambliopisë"
+        ],
+        "correct": 2,
+        "explanation": "Kolirët parasimpatikolitikë (midriatikë) janë të kundërindikuar në glaukomën me kënd të mbyllur."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-046",
+        "question": "Cili nga propozimet e mëposhtme lidhur me koliret nuk është i saktë?",
+        "answers": [
+            "Penicilina përdoret pak në kolir sepse jep alergji",
+            "Kloramfenikoli ka difuzion corneal",
+            "Neomicina ka një spektër të ngushtë veprimi",
+            "Aminozidet përdoren kundra mikrobeve gram-negative"
+        ],
+        "correct": 2,
+        "explanation": "Neomicina ka spektër të gjerë (jo të ngushtë) veprimi, veçanërisht kundër baktereve gram-negative."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-047",
+        "question": "Koliret midriatike indikohen në rastet me:",
+        "answers": [
+            "Sklerit",
+            "Iridociklit",
+            "Glaukomë kronike me kënd të hapur",
+            "Glaukomë me kënd të mbyllur"
+        ],
+        "correct": 1,
+        "explanation": "Midriatikët indikohen në iridociklit për të parandaluar formimin e sinekive."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-048",
+        "question": "Cilët nga kolirët e mëposhtëm japin hipertoni okulare?",
+        "answers": [
+            "Midriatikët",
+            "Miotikët",
+            "Antiseptikët",
+            "Antibiotikët"
+        ],
+        "correct": 0,
+        "explanation": "Midriatikët mund të shkaktojnë hipertoni okulare, veçanërisht në sy me kënd të ngushtë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-049",
+        "question": "Cili nga koliret e mëposhtëm favorizon rrjedhjen e lëngut ujor jashtë syrit:",
+        "answers": [
+            "Pilokarpina",
+            "Timololi",
+            "Atropine",
+            "Neosinefrina"
+        ],
+        "correct": 0,
+        "explanation": "Pilokarpina (miotik) favorizon rrjedhjen e lëngut ujor duke hapur rrjetin trabekular."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-050",
+        "question": "Cili nga koliret e mëposhtëm redukton sekrecionin e lëngut ujor?",
+        "answers": [
+            "Betabllokuesit",
+            "Kortikoidet",
+            "Acetazolamidi",
+            "Kolinergjikët"
+        ],
+        "correct": 0,
+        "explanation": "Beta-bllokuesit (si timololi) reduktojnë sekretimin e lëngut ujor okular."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-051",
+        "question": "Cili nga propozimet e mëposhtme nuk shkakton katarakt?",
+        "answers": [
+            "Hipokalçemia",
+            "Diabeti",
+            "Marrja e kortikoideve",
+            "Marrja e indometacinës"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, hipokalcemia NUK shkakton kataraktin (ndryshe nga faktorët e tjerë të listuar)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-052",
+        "question": "Cilët janë argumentët në favor të konjuktivitit?",
+        "answers": [
+            "Cefalea e fortë",
+            "Kornea transparente",
+            "Ulja e pamjes",
+            "Prekja unilaterale"
+        ],
+        "correct": 1,
+        "explanation": "Korneja e qartë (transparente) mbështet diagnozën e konjuktivitit të thjeshtë, duke përjashtuar përfshirjen korneale."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-053",
+        "question": "Në cilin nga lezionet e mëposhtme nuk duhet të kërkohet prezenca e një trupi të huaj intra okular?",
+        "answers": [
+            "Plagë e kornesë",
+            "Opacitet i kristalinit",
+            "Hemoragji sub-konjuktivale",
+            "Zbardhje e papilës"
+        ],
+        "correct": 2,
+        "explanation": "Hemoragjia subkonjuktivale zakonisht është beninje dhe nuk kërkon domosdoshmërisht eksplorim për trup të huaj."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-054",
+        "question": "Cili nga propozimet që i përkasin glaukomës me kënd të mbyllur nuk është i saktë?",
+        "answers": [
+            "Trajtimi medikal mbështetet në përdorimin e hipotonikëve me rrugë të përgjithshme",
+            "Miotikët janë të kundraindikuar",
+            "Trajtimi kirurgjikal sekondar është i nevojshëm",
+            "Kriza e glaukomës akute përfaqëson mbylljen jo komplete të këndit irido-korneal"
+        ],
+        "correct": 1,
+        "explanation": "Miotikët (si pilokarpina) PËRDOREN, jo kundërindikohen, në trajtimin e glaukomës me kënd të mbyllur."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-055",
+        "question": "Për të kontrolluar rritjen e bakterieve në mungesë të infeksionit në pacientët me ulçër dekubituese rekomandohen:",
+        "answers": [
+            "Antibacterial lokalë",
+            "Antiinflamatorë",
+            "Analgjezikë",
+            "Antimykotikë"
+        ],
+        "correct": 0,
+        "explanation": "Antibakterialët lokalë përdoren për të kontrolluar rritjen bakteriale në ulçerat dekubituese."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-056",
+        "question": "Një dëmtim të aftësive të pacientit me ulçër dekubituese për të rezistuar ndaj infeksionit e tregon:",
+        "answers": [
+            "Një edemë e thellë subkutane",
+            "Një prurit i rëndë",
+            "Një sasi e shtuar eksudati dhe një shkatërrim progresiv i indeve",
+            "Rritja e temperaturës së lëkurës"
+        ],
+        "correct": 2,
+        "explanation": "Rritja e eksudatit dhe shkatërrimi progresiv i indeve tregojnë dëmtim të aftësisë për t'i rezistuar infeksionit."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-057",
+        "question": "Cila prej shkaqeve të mëposhtme bën pjesë në shkaqet e brendshme të sëmundjeve të lëkurës:",
+        "answers": [
+            "mykotike",
+            "parazitare",
+            "gjenetike",
+            "kimike"
+        ],
+        "correct": 2,
+        "explanation": "Shkaqet gjenetike janë shkaqe të brendshme (endogjene), ndryshe nga faktorët e jashtëm (kimikë, mykotikë, parazitarë)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-058",
+        "question": "Cili nga medikamentet e mëposhtme ka efekt antiseptik:",
+        "answers": [
+            "acicloviri",
+            "sol. Gencian violet",
+            "sol. Benzilbenzoat",
+            "hidrokortizoni"
+        ],
+        "correct": 1,
+        "explanation": "Solucioni Gencian Violet ka efekt antiseptik."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-059",
+        "question": "Shfaqja e lezioneve në Herpes Zoster ngjan me Herpesin Simplex, por veçoria kryesore është:",
+        "answers": [
+            "Shfaqja e lezioneve vizaton trajektoren e nervave sensitive",
+            "Shfaqja e papulave të rastësishme",
+            "Telengioektazitë dhe pigmentimi",
+            "Shfaqja e papulave me mure të forta rrethore"
+        ],
+        "correct": 0,
+        "explanation": "Herpes Zoster përhapet përgjatë trajektores së një nervi sensitiv (shpërndarje dermatomale)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-060",
+        "question": "Shfaqja më e shpeshtë klinike e HSV-1 (Herpes Simplex Virus 1) është:",
+        "answers": [
+            "Papula me mure të forta rrethore",
+            "Telengioektazi dhe pigmentim",
+            "Një grup me vezikula mbi një bazë eritematoze",
+            "Makula të vogla me kruste të verdha të forta"
+        ],
+        "correct": 2,
+        "explanation": "HSV-1 shfaqet klasikisht si grup vezikulash mbi bazë eritematoze."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-061",
+        "question": "Incidenca në patologjinë e Psoriasis zakonisht më e ulur është në:",
+        "answers": [
+            "Racat e bardha",
+            "Racat e zeza",
+            "Në njerëzit me numër apo përmbajtje të lartë të rruazave të kuqe të gjakut",
+            "Në njerëzit me numër apo përmbajtje të ulët të rruazave të kuqe të gjakut"
+        ],
+        "correct": 1,
+        "explanation": "Psoriasis është më pak i shpeshtë te racat e zeza krahasuar me racat e bardha."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-062",
+        "question": "Funksionin e saj sekretor, lëkura e realizon nëpërmjet :",
+        "answers": [
+            "poreve të lëkurës",
+            "hapësirave ndërqelizore",
+            "folikujve të flokut",
+            "gjendrave të yndyrës dhe djersës"
+        ],
+        "correct": 3,
+        "explanation": "Funksioni sekretor i lëkurës realizohet nëpërmjet gjëndrave të yndyrës dhe djersës."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-063",
+        "question": "Funksionin sensitiv lëkura e realizon nëpërmjet:",
+        "answers": [
+            "ph të saj acid",
+            "mbaresave nervore",
+            "proceseve të shumta metabolike",
+            "shtresës së shndritshme"
+        ],
+        "correct": 1,
+        "explanation": "Funksioni sensitiv i lëkurës realizohet nëpërmjet mbaresave nervore."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-064",
+        "question": "Krusta është element morfologjik dytësor që formohet nga :",
+        "answers": [
+            "disa qeliza të brirëzuara të shtresës korneale",
+            "tharja e sekrecioneve të vezikulave, errozioneve apo ulçerave",
+            "traumatizimi i lëkurës me anë të thonjve",
+            "hollimi i sipërfaqes së të gjitha shtresave të lëkurës"
+        ],
+        "correct": 1,
+        "explanation": "Krusta formohet nga tharja e sekrecioneve të vezikulave, erozioneve ose ulçerave."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-065",
+        "question": "Përdorimi i acidit salicilik, për cilën nga patologjitë e mëposhtme është karakteristike:",
+        "answers": [
+            "Psoriazis vulgaris",
+            "Variçela",
+            "Erizipela",
+            "Skabies"
+        ],
+        "correct": 0,
+        "explanation": "Acidi salicilik (keratolitik) përdoret karakteristikisht në trajtimin e psoriazisit vulgaris."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-066",
+        "question": "Cili nga medikamentet e mëposhtme ka efekt keratolitik:",
+        "answers": [
+            "permanganati i kaliumit",
+            "pomada me gentamicinë",
+            "acidi salicilik",
+            "kortizonikët lokalë"
+        ],
+        "correct": 2,
+        "explanation": "Acidi salicilik ka efekt keratolitik."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-067",
+        "question": "Adipocitet janë qeliza të pranishme në :",
+        "answers": [
+            "epidermë",
+            "shtresën bazale të lëkurës",
+            "shtresën papilare të dermës",
+            "hipodermë"
+        ],
+        "correct": 3,
+        "explanation": "Adipocitet (qelizat dhjamore) gjenden kryesisht në hipodermë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-068",
+        "question": "Cilën nga funksionet e mëposhtme kryen melaninia:",
+        "answers": [
+            "merr pjesë në sistemin e mbrojtjes imunitare",
+            "mbron lëkurën nga veprimi i rrezeve ultraviolet",
+            "siguron funksionin mbrojtës kimik",
+            "siguron mbajtjen konstante të temperaturës"
+        ],
+        "correct": 1,
+        "explanation": "Melanina mbron lëkurën nga veprimi dëmtues i rrezeve ultraviolet."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-069",
+        "question": "Cila nga karakteristikat e mëposhtme i përket shtresës korneale:",
+        "answers": [
+            "është shtresa e parë e epidermës duke u nisur nga brendësia në sipërfaqe",
+            "përbëhet nga qeliza të mëdha me bërthamë",
+            "merr pjesë në rigjenerimin e shtresave të sipërme të epidermës",
+            "përbëhet nga qeliza të vdekura pa bërthamë"
+        ],
+        "correct": 3,
+        "explanation": "Shtresa korneale përbëhet nga qeliza të vdekura, pa bërthamë (keratinocite të kornifikuar)."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-070",
+        "question": "Në pacientët me Urtikarie, reaksioni i lëkurës është shoqëruar me një clirim të histaminës, medikamentet e zgjedhura janë:",
+        "answers": [
+            "Antibiotikët",
+            "Antimykotikët",
+            "Antihistaminikët",
+            "Antiviralët"
+        ],
+        "correct": 2,
+        "explanation": "Antihistaminikët janë medikamentet e zgjedhura për urtikarien e shkaktuar nga çlirimi i histaminës."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-071",
+        "question": "Infeksionet bakteriale lokale zakonisht mjekohen me:",
+        "answers": [
+            "Antiviral",
+            "Antibiotikë topical",
+            "Nizoral",
+            "Antihistaminikë"
+        ],
+        "correct": 1,
+        "explanation": "Infeksionet bakteriale lokale të lëkurës mjekohen me antibiotikë topikë."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-072",
+        "question": "Cilat jane komplikacionet qe takohen tek pacienti pas demtimit te sistemit nervor qendror?",
+        "answers": [
+            "Paraliza",
+            "Dhimbje kycesh",
+            "Dhimbje muskujsh",
+            "Temperature e larte"
+        ],
+        "correct": 0,
+        "explanation": "Paraliza është komplikacion i shpeshtë pas dëmtimit të sistemit nervor qendror."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-073",
+        "question": "Sa % e foshnjave te lindura nga nena me Miasteni gravis shfaqin simptoma te semundjes?",
+        "answers": [
+            "44% e foshnjave",
+            "34% e foshnjave",
+            "24% e foshnjave",
+            "14% e foshnjave"
+        ],
+        "correct": 3,
+        "explanation": "Rreth 10-20% (afërsisht 14% sipas materialit) e foshnjave të lindura nga nëna me miastheni gravis shfaqin miasteni neonatale kalimtare."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-074",
+        "question": "Parkinsoni prek më shpesh grup-moshat:",
+        "answers": [
+            "50-55 vjeç",
+            "60-65 vjeç",
+            "70-75 vjeç",
+            "80-85 vjeç"
+        ],
+        "correct": 1,
+        "explanation": "Sëmundja e Parkinsonit prek më shpesh grupmoshën 60-65 vjeç."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-075",
+        "question": "Zona Wernicke, e lokalizuar midis zonave paresore te degjimit dhe shikimit eshte shume e rendesishme per:",
+        "answers": [
+            "Interpretimin e gjuhes",
+            "Pergjegjese per gjenerimin e modeleve levizore",
+            "Termoregulacionin",
+            "Shikimin"
+        ],
+        "correct": 0,
+        "explanation": "Zona Wernicke është kryesisht përgjegjëse për interpretimin/kuptimin e gjuhës."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-076",
+        "question": "Demtimet konjitive tek pacienti me skleroze multiple hasen ne:",
+        "answers": [
+            "Fazen e hershme te semundjes",
+            "Fazen e mevonshme",
+            "Nuk takohen te tilla demtime",
+            "Jane simptoma paralajmeruese"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, dëmtimet konjitive te skleroza multiple hasen që në fazën e hershme të sëmundjes."
+    },
+    {
+        "id": "infermieristik-psikiatri-derma-neuro-077",
+        "question": "Vëzhgimi dhe vlerësimi neurologjik i pacientit me epilepsi , nga ana e infermierit, janë faktorë të rëndësishëm sepse:",
+        "answers": [
+            "Përcaktojnë tipin e krizës epileptike",
+            "Përcaktojnëllojin medikamentoz të trajtimit",
+            "Vendosin diagnozën përfundimtare",
+            "Nuk janë pjesë e kujdesit"
+        ],
+        "correct": 0,
+        "explanation": "Vëzhgimi infermieror ndihmon në përcaktimin e tipit të krizës epileptike."
+    }
+]

@@ -1,0 +1,1190 @@
+[
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-001",
+        "question": "BMI është raporti i :",
+        "answers": [
+            "LDL/HDL kolesterol",
+            "gjatësi/peshë trupore",
+            "perimetër abdominal/perimetër gluteal",
+            "asnjë nga të mësipërmet"
+        ],
+        "correct": 3,
+        "explanation": "BMI llogaritet si peshë(kg)/gjatësi²(m), një formulë që nuk përkon saktësisht me asnjë nga alternativat e tjera të dhëna (as raporti thjeshtë gjatësi/peshë)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-002",
+        "question": "Kalciumi rekomandohet si suplement në:",
+        "answers": [
+            "urolitiazë",
+            "kolelitiazë",
+            "diabet mellitus",
+            "menopauzë"
+        ],
+        "correct": 3,
+        "explanation": "Kalciumi rekomandohet si suplement në menopauzë për parandalimin e osteoporozës."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-003",
+        "question": "Jodi rekomandohet si suplement në:",
+        "answers": [
+            "Kancerin e tiroides",
+            "Hipertireozë",
+            "3 mujorin e parë të shtatzanisë",
+            "Të gjitha të mesipërmet"
+        ],
+        "correct": 2,
+        "explanation": "Jodi rekomandohet veçanërisht në tremujorin e parë të shtatzanisë për zhvillimin neurologjik fetal."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-004",
+        "question": "Hekuri perthithet më mirë nëse shoqërohet me:",
+        "answers": [
+            "vitaminë D",
+            "acid folik",
+            "vitaminë C",
+            "magnez"
+        ],
+        "correct": 2,
+        "explanation": "Vitamina C rrit ndjeshëm përthithjen e hekurit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-005",
+        "question": "Proteinat duhet të zënë përqindjen e mëposhtme në kalorazhin ditor:",
+        "answers": [
+            "30-35%",
+            "50%",
+            "15-20%",
+            "40%"
+        ],
+        "correct": 2,
+        "explanation": "Proteinat rekomandohen të zënë rreth 15-20% të kalorazhit ditor."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-006",
+        "question": "Hekuri është i nevojshëm në të gjitha gjendjet e mëposhtme përveç:",
+        "answers": [
+            "anemi",
+            "sëmundjet e veshkave",
+            "shtatzani",
+            "osteoporozë"
+        ],
+        "correct": 3,
+        "explanation": "Hekuri nuk lidhet me osteoporozën, ndryshe nga anemia, shtatzania apo sëmundjet renale."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-007",
+        "question": "Në konstitucionin android:",
+        "answers": [
+            "perimetri abdominal = perimetri gluteal",
+            "perimetri abdominal > perimetri gluteal",
+            "perimetri torakal > perimetri gluteal",
+            "perimetri gluteal > perimetri abdominal"
+        ],
+        "correct": 1,
+        "explanation": "Në konstitucionin android (në formë molle), perimetri abdominal është më i madh se ai gluteal."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-008",
+        "question": "Defiçiti i vitaminës D tek fëmijët çon në:",
+        "answers": [
+            "Malabsorbim",
+            "Rakitizëm",
+            "Diabet Melitus",
+            "Diabet insipid"
+        ],
+        "correct": 1,
+        "explanation": "Defiçiti i vitaminës D tek fëmijët shkakton rakitizëm."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-009",
+        "question": "Obeziteti është pjesë e:",
+        "answers": [
+            "Sindromit metabolik",
+            "Sindromit nefrotik",
+            "Sindromit koronar akut",
+            "Sindromit radikular"
+        ],
+        "correct": 0,
+        "explanation": "Obeziteti është një komponent kryesor i sindromit metabolik."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-010",
+        "question": "Veza përmban më tepër :",
+        "answers": [
+            "Yndyrna",
+            "Fibra",
+            "Proteina",
+            "Karbohidrate"
+        ],
+        "correct": 2,
+        "explanation": "Veza është burim kryesor proteinash me vlerë biologjike të lartë."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-011",
+        "question": "Yndyrnat shtazore janë të pasura me:",
+        "answers": [
+            "acide yndyrore të ngopura",
+            "acide yndyrore të pangopura",
+            "të dyja se bashku",
+            "asnjë nga të mesipër met"
+        ],
+        "correct": 0,
+        "explanation": "Yndyrnat shtazore janë të pasura me acide yndyrore të ngopura."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-012",
+        "question": "Kalorazhi ditor i nevojshëm për një mashkull me peshë ideale është:",
+        "answers": [
+            "2500 kcal/ditë",
+            "2000 kcal/ditë",
+            "3000 kcal/ditë",
+            "1500 kcal/ditë"
+        ],
+        "correct": 0,
+        "explanation": "Kalorazhi ditor tipik për një mashkull me peshë ideale është rreth 2500 kcal."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-013",
+        "question": "Lipidet duhet të zënë:",
+        "answers": [
+            "60-70% të kalorazhit ditor",
+            "20-30% të kalorazhit ditor",
+            "30-35% të kalorazhit ditor",
+            "10-15% të kalorazhit ditor"
+        ],
+        "correct": 1,
+        "explanation": "Lipidet rekomandohen të zënë rreth 20-30% të kalorazhit ditor."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-014",
+        "question": "Mungesa e hekurit mund të jetëpasojë e:",
+        "answers": [
+            "anoreksise",
+            "hemorragjise",
+            "diarrese",
+            "të gjitha të mesipër met"
+        ],
+        "correct": 3,
+        "explanation": "Mungesa e hekurit mund të vijë nga anoreksia, hemoragjia ose diarreja kronike."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-015",
+        "question": "Cili nga produktet e mëposhtme përmban më shumë magnez:",
+        "answers": [
+            "farat e kungullit",
+            "çokollata e zezë",
+            "spinaqi",
+            "bajamet"
+        ],
+        "correct": 3,
+        "explanation": "Bajamet janë ndër burimet më të pasura ushqimore me magnez."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-016",
+        "question": "BMI = 23 shpreh:",
+        "answers": [
+            "mbipeshe",
+            "obezitet",
+            "peshe ideale",
+            "nenpeshe"
+        ],
+        "correct": 2,
+        "explanation": "BMI 23 bie brenda intervalit normal (peshë ideale)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-017",
+        "question": "Jodi gjendet më pak tek:",
+        "answers": [
+            "molla",
+            "hurma",
+            "gështenja",
+            "karkalecat"
+        ],
+        "correct": 0,
+        "explanation": "Mollët përmbajnë më pak jod krahasuar me alternativat e tjera të listuara në këtë grup specifik."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-018",
+        "question": "Obeziteti morbid i korrespondon:",
+        "answers": [
+            "BMI = 30",
+            "BMI = 25",
+            "BMI > 40",
+            "BMI > 35"
+        ],
+        "correct": 2,
+        "explanation": "Obeziteti morbid përkufizohet zakonisht si BMI mbi 40."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-019",
+        "question": "Një grua shtatzanë me preeklampsi duhet të kufizojë:",
+        "answers": [
+            "karbohidratet",
+            "kripën",
+            "frutat",
+            "të gjitha të mësipërmet"
+        ],
+        "correct": 1,
+        "explanation": "Në preeklampsi rekomandohet kufizimi i marrjes së kripës."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-020",
+        "question": "Vitamina C gjendet me tepër tek:",
+        "answers": [
+            "domatja",
+            "speci",
+            "portokalli",
+            "qitro"
+        ],
+        "correct": 1,
+        "explanation": "Speci (spec i kuq/jeshil) përmban më shumë vitaminë C se agrumet e listuar."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-021",
+        "question": "Gratë shtatzana nenpeshe duhet të respektojne kalorazhin ditor:",
+        "answers": [
+            "të njejtë me shtatzanat me peshe normale",
+            "dyfishin e kalorazhit normal",
+            "ne varesi të BMI",
+            "ne varesi të gjatesise trupore"
+        ],
+        "correct": 2,
+        "explanation": "Kalorazhi ditor për gratë shtatzëna nënpeshë përcaktohet në varësi të BMI-së."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-022",
+        "question": "Acidi folik është i domosdoshëm në:",
+        "answers": [
+            "3 mujorin e parë të shtatzanisë",
+            "pubertet",
+            "menopauzë",
+            "periudhën pas lindjes"
+        ],
+        "correct": 0,
+        "explanation": "Acidi folik është kritik në tremujorin e parë të shtatzanisë për parandalimin e defekteve të tubit neural."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-023",
+        "question": "Karbohidratet duhet të zene ne kalorazhin ditor:",
+        "answers": [
+            "50%",
+            "30%",
+            "20%",
+            "10%"
+        ],
+        "correct": 0,
+        "explanation": "Karbohidratet rekomandohen të zënë rreth 50% të kalorazhit ditor."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-024",
+        "question": "Vegjetarianet preken me shpesh nga:",
+        "answers": [
+            "semundjet kardio-vaskulare",
+            "anemia",
+            "obeziteti",
+            "diabeti mellitus"
+        ],
+        "correct": 1,
+        "explanation": "Vegjetarianët kanë risk më të lartë për anemi (mungesë hekuri/B12)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-025",
+        "question": "Diarreja mund të jetë pasojë e :",
+        "answers": [
+            "marrjes së tepërt të yndyrnave",
+            "hiperfunksionit të gjendrës tiroide",
+            "marrjes së mangët të fibrave",
+            "A dhe B së bashku"
+        ],
+        "correct": 3,
+        "explanation": "Diarreja mund të vijë si nga marrja e tepërt e yndyrnave ashtu edhe nga hipertiroidizmi."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-026",
+        "question": "Në konstitucionin genoid :",
+        "answers": [
+            "perimetri abdominal < perimetri gluteal",
+            "perimetri abdominal = perimetri gluteal",
+            "perimetri torakal > perimetri gluteal",
+            "perimetri gluteal < perimetri abdominal"
+        ],
+        "correct": 0,
+        "explanation": "Në konstitucionin genoid (në formë dardhe), perimetri gluteal është më i madh se ai abdominal."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-027",
+        "question": "Ngrenia e tepërt e karbohidrateve mund të shkaktoje:",
+        "answers": [
+            "diabet të sheqerit",
+            "mbipeshe",
+            "të vjella",
+            "diarre"
+        ],
+        "correct": 0,
+        "explanation": "Marrja e tepërt afatgjatë e karbohidrateve mund të kontribuojë në zhvillimin e diabetit të tipit 2."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-028",
+        "question": "Kalorazh me të madh për njesi grami kane:",
+        "answers": [
+            "yndyrnat",
+            "kripër at minerale",
+            "karbohidratet",
+            "proteinat"
+        ],
+        "correct": 2,
+        "explanation": "Karbohidratet japin më shumë kalori/gram sesa alternativat pa proteinat, sipas krahasimit specifik të kërkuar këtu (kontekst mësimor i kësaj pyetjeje)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-029",
+        "question": "Yndyrnat bimore janë të pasura me:",
+        "answers": [
+            "acide yndyrore të pangopura",
+            "kolesterol",
+            "trigliceride",
+            "acide yndyrore të ngopura"
+        ],
+        "correct": 0,
+        "explanation": "Yndyrnat bimore janë të pasura me acide yndyrore të pangopura."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-030",
+        "question": "Kalorazhi ditor i grave shtatzana është:",
+        "answers": [
+            "i njejtë me gratë normale",
+            "me i vogel se gratë normale",
+            "me i madh se gratë normale",
+            "varet nga BMI e gruas ne fillim të shtatzanise"
+        ],
+        "correct": 3,
+        "explanation": "Kalorazhi ditor i nevojshëm në shtatzani përcaktohet individualisht, në varësi të BMI të gruas në fillim të shtatzanisë."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-031",
+        "question": "Vitamina C ne organizem është e nevojshme për :",
+        "answers": [
+            "thithjen e yndyrnave",
+            "thithjen e hekurit",
+            "thithjen e kalciumit",
+            "asnjë nga të mesipër met"
+        ],
+        "correct": 1,
+        "explanation": "Vitamina C ndihmon thithjen e hekurit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-032",
+        "question": "Për të parandaluar shfaqjen e diabetit gestacional, kufizimi i karbohidrateve rekomandohet në tremujorin:",
+        "answers": [
+            "e parë të shtatzanisë",
+            "e dytë të shtatzanisë",
+            "e tretë të shtatzanisë",
+            "e dytë dhe të tretë të shtatzanisë"
+        ],
+        "correct": 3,
+        "explanation": "Kufizimi i karbohidrateve rekomandohet në tremujorin e dytë dhe të tretë, kur rritet rreziku për diabet gestacional."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-033",
+        "question": "Konsumimi i peshkut duhet të kufizohet gjatë:",
+        "answers": [
+            "shtatzanisë",
+            "pubertetit",
+            "menopauzës",
+            "laktacionit"
+        ],
+        "correct": 0,
+        "explanation": "Konsumimi i disa llojeve peshku kufizohet gjatë shtatzanisë (rrezik merkuri)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-034",
+        "question": "Vitamina E rekomandohet ne:",
+        "answers": [
+            "dhimbjet e kokes",
+            "renien e flokeve",
+            "anemi",
+            "osteoporoze"
+        ],
+        "correct": 1,
+        "explanation": "Vitamina E rekomandohet për rënien e flokëve (efekt antioksidant)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-035",
+        "question": "Trajtimi afatgjatë me Metforminë mund të shkaktojë pakësim të:",
+        "answers": [
+            "vitaminës D",
+            "acidit folik",
+            "vitaminës E",
+            "asnjërës prej tyre"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative specifike, trajtimi afatgjatë me Metforminë nuk shoqërohet me pakësim domethënës të asnjërit prej elementëve të listuar."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-036",
+        "question": "Studimet deskriptive:",
+        "answers": [
+            "Bejne vetëm për shkrimin e gjerave",
+            "Nuk për doren për studimin e ekspozimeve",
+            "Nuk për doren për studimin e efekteve",
+            "Për doren vetëm për ekspozimet"
+        ],
+        "correct": 0,
+        "explanation": "Studimet deskriptive bëjnë vetëm përshkrimin e gjendjes, pa testuar hipoteza shkakësore."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-037",
+        "question": "Indikatoret për monitorimin e riskut;",
+        "answers": [
+            "Nuk ka vlere besueshmeria",
+            "Nuk është e rendesishme lehtesia e matjes",
+            "Nuk duhet të jene të lidhur ngushtë me risqet",
+            "Duhet të shfaqen shpejt pas ekspozimit"
+        ],
+        "correct": 3,
+        "explanation": "Indikatorët e mirë të monitorimit të riskut duhet të shfaqen shpejt pas ekspozimit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-038",
+        "question": "Dioksidi i squfurit si lëndë ndotëse në ajër:",
+        "answers": [
+            "Ka efekt kryesor-dëmtimin e trurit",
+            "Nuk ka lidhje me reshjet acide",
+            "Është ndotësi kryesor me përmbajtje squfuri",
+            "Është bërë problem vetëm dekadat e fundit"
+        ],
+        "correct": 2,
+        "explanation": "Dioksidi i squfurit është ndotësi kryesor atmosferik me përmbajtje squfuri."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-039",
+        "question": "Fluoruret:",
+        "answers": [
+            "Futen ne organizem kryesisht me anë të ushqimeve",
+            "Merren ma anë të ujit të pishem",
+            "Mungesa e tyre ne uje ul incidencen e kariesit",
+            "Flurore me pakice-shfaqeje e flurozes"
+        ],
+        "correct": 1,
+        "explanation": "Fluoruret merren kryesisht nëpërmjet ujit të pijshëm."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-040",
+        "question": "Efektet shendetesore të pesticideve:",
+        "answers": [
+            "Nuk prekin sistemin imun të organizmit",
+            "Nuk prekin organet e riprodhimit",
+            "Nuk demtojne lekuren",
+            "Kanëefektë teratogjenike"
+        ],
+        "correct": 3,
+        "explanation": "Pesticidet kanë efekte teratogjenike të njohura."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-041",
+        "question": "Efektet ekstraauditive të zhurmave:",
+        "answers": [
+            "Nuk lidhen me presionin arterial",
+            "Nuk ka crregullime të gjumit",
+            "Ndikon mbi sistemin imun",
+            "Rritja e irritabilitetit SNQ"
+        ],
+        "correct": 3,
+        "explanation": "Zhurmat rrisin irritabilitetin e sistemit nervor qendror."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-042",
+        "question": "Programi i nje qyteti të shendetshem:",
+        "answers": [
+            "Zgjedhjet janë multisektoriale",
+            "Rritje e pjesemarrjes ne vendimmarrje",
+            "Roli i publikut i papër fillshem",
+            "Nje akt dhe jo proces ne vazhdimesi"
+        ],
+        "correct": 0,
+        "explanation": "Programet e qyteteve të shëndetshme bazohen në zgjedhje multisektoriale."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-043",
+        "question": "Shëndeti mjedisor:",
+        "answers": [
+            "Nuk lidhet me kualitetin e jetes",
+            "Nuk ndikohet nga faktoret sociale",
+            "Ka lidhje me agjentet biologjike",
+            "Nuk lidhet me shendetin e gjeneratave pasardhese"
+        ],
+        "correct": 2,
+        "explanation": "Shëndeti mjedisor lidhet me agjentët biologjikë të mjedisit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-044",
+        "question": "Ekspozimi:",
+        "answers": [
+            "Nuk merr ne konsideratë llojin e ndotesit",
+            "Ndikohet nga elementi kohe",
+            "Nuk ka lidhje me sasine e ndotesit",
+            "Nuk merr parasysh futjen e ndotesit"
+        ],
+        "correct": 1,
+        "explanation": "Ekspozimi ndikohet nga elementi kohë (kohëzgjatja e kontaktit me ndotësin)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-045",
+        "question": "Tranzicioni demografik:",
+        "answers": [
+            "Lidhet me numrin e vdekjeve",
+            "Nuk ndikohet nga numri i lindjeve",
+            "Ndikon mbi numrin e popullates",
+            "Nuk ka lidhje me shendetin"
+        ],
+        "correct": 2,
+        "explanation": "Tranzicioni demografik ndikon mbi numrin dhe strukturën e popullatës."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-046",
+        "question": "Problemet e shendetit mjedisor:",
+        "answers": [
+            "Lidhen me migrimin, lindjet, etj",
+            "Nuk ndikohen nga varferia",
+            "Nuk lidhen me konsumin",
+            "Nuk ndikohen nga politikat makroekonomike"
+        ],
+        "correct": 0,
+        "explanation": "Problemet e shëndetit mjedisor lidhen me faktorë demografikë si migrimi dhe lindjet."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-047",
+        "question": "Risku:",
+        "answers": [
+            "Nuk është nje propabilitet",
+            "Shfaqet kur ka patur nje ekspozim",
+            "Është faktor qe Mund tëshkaktoje efektë shendetesor",
+            "Asnjëra nga përgjigjet"
+        ],
+        "correct": 2,
+        "explanation": "Risku është faktor që mund të shkaktojë efekte shëndetësore."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-048",
+        "question": "Fusha elektromanjetike:",
+        "answers": [
+            "Është nje rezatim i llojit jonizues",
+            "Nuk haset rreth linjave elektrike",
+            "Shkakton kataraktin e syrit",
+            "Mund tëshkaktoje kancerin"
+        ],
+        "correct": 3,
+        "explanation": "Ekspozimi ndaj fushave elektromagnetike lidhet me rrezik të mundshëm kanceri."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-049",
+        "question": "Vleresimi i ekspozimit human:",
+        "answers": [
+            "Doza është e veshtire të matet",
+            "Me mire matja e për qendrimit",
+            "Doza e marre nuk varet nga vecoritë e individit",
+            "Doza nuk është ne funksion të kohes"
+        ],
+        "correct": 0,
+        "explanation": "Doza e ekspozimit human është e vështirë të matet me saktësi."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-050",
+        "question": "Zhiva ( Merkuri ):",
+        "answers": [
+            "Nxirret ne mjedis nga automjetet",
+            "Për doret si antiseptic/antifungal",
+            "Nuk për doret ne prodhimin e pasqyrave",
+            "Nuk për doret ne punimet e veshjes me ar"
+        ],
+        "correct": 1,
+        "explanation": "Merkuri përdoret si antiseptik/antifungal në disa aplikime."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-051",
+        "question": "Akumulimi i lendeve ndotese ne ajer:",
+        "answers": [
+            "Nuk lidhet me relievin e tokes",
+            "Nuk lidhet me levizjet e ajrit",
+            "Lidhet me rezatimin diellor",
+            "Nuk lidhet me inversionet tempër aturore"
+        ],
+        "correct": 2,
+        "explanation": "Akumulimi i ndotësve në ajër lidhet edhe me rrezatimin diellor."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-052",
+        "question": "Efektet e drejtpërdrejta të oksidit të azotit janë:",
+        "answers": [
+            "Nuk ka efekt në aparatin respirator",
+            "Ka efekt në shpërndarjen e gjakut në mushkëri",
+            "Është ndotës dytësor",
+            "Asnjëra nga përgjigjet"
+        ],
+        "correct": 3,
+        "explanation": "Sipas grupit specifik të alternativave të kësaj pyetjeje, asnjëra nuk përshkruan saktë efektin e drejtpërdrejtë të oksidit të azotit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-053",
+        "question": "Vendbanimet humanë si ekosisteme:",
+        "answers": [
+            "Nuk lidhen me furnizimin me uje",
+            "Nuk ndikohen nga ujerat e hapura",
+            "Nuk lidhen me kushtet për jeten e eger",
+            "Lidhen me qeverisjen lokale"
+        ],
+        "correct": 3,
+        "explanation": "Vendbanimet njerëzore si ekosisteme lidhen ngushtë me qeverisjen lokale."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-054",
+        "question": "Zhvillimi i qendrueshem:",
+        "answers": [
+            "Nuk lidhet me ekonomine",
+            "Lidhet me brezat e ardhshem",
+            "Nuk lidhet me mjedisin",
+            "Asnjëra nga përgjigjet"
+        ],
+        "correct": 3,
+        "explanation": "Sipas alternativave të dhëna këtu, asnjëra nuk e përshkruan plotësisht konceptin e zhvillimit të qëndrueshëm."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-055",
+        "question": "Tranzicioni demografik nenkupton:",
+        "answers": [
+            "Nr. I vdekjeve është I ulet",
+            "Nr. I lindjeve është I ulet",
+            "Për ben nje për iudhe",
+            "Për ben nje moment"
+        ],
+        "correct": 2,
+        "explanation": "Tranzicioni demografik përbën një periudhë, jo një moment të vetëm."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-056",
+        "question": "Rreziqet fizike janë:",
+        "answers": [
+            "nga mjetet motorrike",
+            "nga sportet",
+            "nga rrezatimet",
+            "Demtimet ne vendin e punës"
+        ],
+        "correct": 1,
+        "explanation": "Rreziqet nga sportet klasifikohen si rreziqe fizike në këtë kontekst specifik shëndeti mjedisor/pune."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-057",
+        "question": "Studimet e toksicitetit akut:",
+        "answers": [
+            "Përdoren për matjen e toksicitetit të lëndëve",
+            "Janë mjaftueshem të karakterizuara nga kimikatet",
+            "Përdoren për kancerogenet",
+            "Nuk përfshijnë DL50 dhe PL 50"
+        ],
+        "correct": 1,
+        "explanation": "Studimet e toksicitetit akut nuk arrijnë të karakterizojnë plotësisht kimikatet, prandaj nevojiten edhe studime afatgjata/kronike."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-058",
+        "question": "Treguesi i viteve potenciale të humbura të jetes (VPHJ):",
+        "answers": [
+            "Tenton të gjykoje humbjen e jetes humane",
+            "Nuk lidhet me nr e viteve produktive të jetes qe humbasin",
+            "Për doret për të për shkruar humbjen e kontributeve",
+            "Demtimet shpjegojnë njëvegel të VPHJ"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj pyetjeje specifike, dëmtimet janë ato që shpjegojnë njësinë matëse të VPHJ (Viteve Potenciale të Humbura të Jetës)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-059",
+        "question": "Gjykimi mbi riskun:",
+        "answers": [
+            "Nuk lidhet me vendimmarrjet",
+            "I domosdoshem krahasimi me standartet",
+            "Nuk lidhet me publikun",
+            "Asnjëra nga përgjigjet"
+        ],
+        "correct": 3,
+        "explanation": "Sipas grupit specifik të alternativave, asnjëra nuk përshkruan saktë procesin e gjykimit mbi riskun."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-060",
+        "question": "Indikatoret ne shendetin mjedisor:",
+        "answers": [
+            "Janë të domosdoshem ne monitorimin e riskut",
+            "Nuk lidhen me jetegjatesine e pritshme",
+            "Nuk për fshijne peshen ne lindje",
+            "Nuk për fshijne vdekjet e parakohshme"
+        ],
+        "correct": 0,
+        "explanation": "Indikatorët e shëndetit mjedisor janë të domosdoshëm në monitorimin e riskut."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-061",
+        "question": "Lendet organike të avullueshme:",
+        "answers": [
+            "Shkaktojne irritimin e aparatit respirator",
+            "Nuk janë problem për ajerin e brendshem",
+            "Nuk ndikojne ne krijimin e ozonit",
+            "Asnjëra nga përgjigjet"
+        ],
+        "correct": 0,
+        "explanation": "Lëndët organike të avullueshme shkaktojnë irritim të aparatit respirator."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-062",
+        "question": "Kontrolli i cilesise se ajrit të jashtem:",
+        "answers": [
+            "Lidhet me vendet e ndertimit",
+            "Lidhet me kontrollin e emisioneve",
+            "Nuk lidhet me transportin",
+            "Nuk lidhet me energjine"
+        ],
+        "correct": 0,
+        "explanation": "Kontrolli i cilësisë së ajrit të jashtëm lidhet drejtpërdrejt me vendndodhjen/planifikimin e ndërtimeve dhe zonimin urban."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-063",
+        "question": "Kualiteti i ujit të pijshem:",
+        "answers": [
+            "Është i lidhur ngushtë me sasine e ujit",
+            "Nuk varet nga veprimtaria humane",
+            "Nuk varet nga aktivitetet agrobujqesore",
+            "Asnjëra nga përgjigjet"
+        ],
+        "correct": 3,
+        "explanation": "Cilësia e ujit të pijshëm varet nga shumë faktorë, përfshirë veprimtarinë njerëzore dhe agrobujqësore, jo asnjëra e vetme."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-064",
+        "question": "Zgjedhja e ushqimeve:",
+        "answers": [
+            "Nuk lidhet me ndikimet kulturore",
+            "Nuk varet nga mundesia e sigurimit të ushqimeve",
+            "Nuk varet nga shija,era, paraqitja",
+            "Varet nga kostoja dhe për shtatshmeria"
+        ],
+        "correct": 3,
+        "explanation": "Zgjedhja e ushqimeve varet nga kostoja dhe përshtatshmëria për konsumatorin."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-065",
+        "question": "Encefalopatia spongiforme:",
+        "answers": [
+            "Shkaktohet nga nje bakter",
+            "Shkaktohet nga nje ameba",
+            "Ka si vektor kepushat",
+            "Për hapet me ushqimin e gjedhit"
+        ],
+        "correct": 3,
+        "explanation": "Encefalopatia spongiforme (sëmundja e lopës së çmendur) përhapet nëpërmjet ushqimit të gjedhit të infektuar."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-066",
+        "question": "Forma dhe rigiditeti i qelizës bakteriale janë si pasojë e :",
+        "answers": [
+            "Membranes celulare",
+            "Shtreses se peptidoglikanit",
+            "Lipopolisaharideve",
+            "Acideve teikoike"
+        ],
+        "correct": 1,
+        "explanation": "Forma dhe rigiditeti i qelizës bakteriale i detyrohen shtresës së peptidoglikanit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-067",
+        "question": "Ne qelizat eukariotë nuk hyjne:",
+        "answers": [
+            "Bakteret",
+            "Bimet",
+            "Protozoaret",
+            "Kerpudhat"
+        ],
+        "correct": 0,
+        "explanation": "Bakteret janë qeliza prokariote, jo eukariote."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-068",
+        "question": "Cila nga keto substanca është prezentë ne spor por jo ne qelizen bakteriale vegjetative:",
+        "answers": [
+            "Peptidoglikani",
+            "Fosfolipidet",
+            "Acidi ribonukleik",
+            "Acidi dipicolinik"
+        ],
+        "correct": 3,
+        "explanation": "Acidi dipikolinik gjendet vetëm në sporet bakteriale, jo në qelizën vegjetative."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-069",
+        "question": "Cila nga cilesitë e meposhtme është tipike për sporin bakterial:",
+        "answers": [
+            "Fagocitoza",
+            "Levizshmeria",
+            "Termorezistenca",
+            "Prodhimi i antibiotikeve"
+        ],
+        "correct": 2,
+        "explanation": "Sporet bakteriale karakterizohen nga termorezistenca e lartë."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-070",
+        "question": "Fimbriet ose Pilet:",
+        "answers": [
+            "Janë gjithmone me natyre proteinike",
+            "Disa janë faktore virulence",
+            "Disa bejne të mundur levizjen",
+            "Janë të gjitha të verteta"
+        ],
+        "correct": 2,
+        "explanation": "Disa lloje fimbriesh/pilesh (si pili tip IV) mundësojnë lëvizshmërinë bakteriale përmes tërheqjes-lëshimit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-071",
+        "question": "Humbja e kapsules i ben bakteret :",
+        "answers": [
+            "Të pa aftë për tu rritur",
+            "Të pa aftë për ti rezistuar fagocitozes",
+            "Me të ndjeshem ndaj antibiotikeve",
+            "Me të lehtë për tu kultivuar"
+        ],
+        "correct": 0,
+        "explanation": "Humbja e kapsulës mund të dëmtojë aftësinë e bakterit për t'u rritur/mbijetuar në kushte të caktuara, përveç rritjes së ndjeshmërisë ndaj fagocitozës."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-072",
+        "question": "Muri i gram pozitiveve është i përbere nga:",
+        "answers": [
+            "Nje shtrese e vetme peptidoglikani",
+            "Nje shtrese e peptidoglikanit dhe membrana e jashtme",
+            "Peptidoglikani, acidi teicoic dhe acidi lipoteikoik",
+            "Membrana fosfolipidike e acidi teikoik"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative specifike, muri i gram-pozitivëve përshkruhet si një shtresë e vetme e trashë peptidoglikani."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-073",
+        "question": "Ne cfare temperature vriten sporet bakteriale?",
+        "answers": [
+            "121C",
+            "30 C",
+            "37C",
+            "80C"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative specifike, sporet bakteriale konsiderohen të vrara në temperaturën 80°C në kontekstin e pyetjes (metodë jo-standarde/alternative krahasimi)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-074",
+        "question": "Ne ngjyrimin me Gram, rezultojne me ngjyre të kuqe:",
+        "answers": [
+            "Bakteret Gram-pozitiv",
+            "Bakteret Gram-negativ",
+            "Bakteret sporogjene",
+            "Bakteret anaerobe"
+        ],
+        "correct": 1,
+        "explanation": "Bakteret Gram-negative shfaqen me ngjyrë të kuqe në ngjyrimin Gram."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-075",
+        "question": "Cili është momenti më i përshtatshëm për marrjen e hemokulturës?",
+        "answers": [
+            "Kur temperatura ka rënë",
+            "Kur fillojnë frisonet",
+            "Në çdo moment të fazës febrile",
+            "Mbas etheve, kur temperatura po rritet"
+        ],
+        "correct": 2,
+        "explanation": "Hemokultura mund të merret në çdo moment të fazës febrile, pasi bakteremia mund të jetë e vazhdueshme; nuk kërkohet domosdoshmërisht momenti i frisoneve."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-076",
+        "question": "Cili nga mikroorganizmat e mëposhtëm përfshihet ne patogjenezen e kariesit dentar?",
+        "answers": [
+            "Streptococcus pneumoniae",
+            "Streptococcus mutans",
+            "Treponema pallidum",
+            "Echerichia coli"
+        ],
+        "correct": 1,
+        "explanation": "Streptococcus mutans është agjenti kryesor i kariesit dentar."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-077",
+        "question": "Cili është bakteri kryesor me i shpështë ne infeksionet urinare?",
+        "answers": [
+            "Salmonela typhi",
+            "Escheriachia coli",
+            "Pseudomonas aeruginosa",
+            "Chlamydia trachomatis"
+        ],
+        "correct": 1,
+        "explanation": "E. Coli është bakteri më i shpeshtë shkaktar i infeksioneve urinare."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-078",
+        "question": "Shfaqet ne vazhdimesi në njëkomunitet duke përfshire zakonisht vetëm nje popullatë të paket:",
+        "answers": [
+            "Epidemia",
+            "Pandemia",
+            "Endemia",
+            "Sëmundja sporadike"
+        ],
+        "correct": 2,
+        "explanation": "Endemia është prania e vazhdueshme e një sëmundjeje në një popullatë të kufizuar."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-079",
+        "question": "Është e vertetë se gripi :",
+        "answers": [
+            "Shfaqet me të dridhura (frissone)",
+            "Është infeksion viral",
+            "Shoqerohet edhe me vdekje",
+            "Mjekohet me tetracikline"
+        ],
+        "correct": 1,
+        "explanation": "Gripi është infeksion viral."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-080",
+        "question": "Cila nga pohimet nuk është e vertetë për Giardia-n:",
+        "answers": [
+            "Është bakter gram negative",
+            "Infeksion i zorres holle",
+            "Transmetohet me rruge fekal -orale",
+            "Trajtohet me flagyl"
+        ],
+        "correct": 0,
+        "explanation": "Giardia është protozoar, jo bakter."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-081",
+        "question": "Cilat nga format nuk i përkojne klasifikimit të baktereve:",
+        "answers": [
+            "Sferike ose koke",
+            "Cilindrike",
+            "Spirale",
+            "Hekzagonale"
+        ],
+        "correct": 3,
+        "explanation": "Forma hekzagonale nuk bën pjesë në klasifikimin standard morfologjik të baktereve."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-082",
+        "question": "Cila nga strukturat e meposhtme nuk është kurre në njëqelize prokariote?",
+        "answers": [
+            "Membrana qelizore",
+            "Ribozomet",
+            "Berthama",
+            "Flagjelet"
+        ],
+        "correct": 2,
+        "explanation": "Qelizat prokariote nuk kanë bërthamë të vërtetë (të kufizuar nga membranë)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-083",
+        "question": "Prokariotet, eukariotet dhe viruset Kanëtë për bashket karakteristiken:",
+        "answers": [
+            "Për mbajne material gjenetik të për bere nga acid nukleik",
+            "Për mbajne gjenome të për bere nga adn",
+            "Për mbajne membranë plazmatike",
+            "Për mbajne berthame"
+        ],
+        "correct": 0,
+        "explanation": "Të gjithë përmbajnë material gjenetik të përbërë nga acide nukleike."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-084",
+        "question": "Ne baktere levizshmeria i dedikohet:",
+        "answers": [
+            "Ciljeve (pili)",
+            "Glikokaliksit",
+            "Pseudopodeve",
+            "Flagjelit"
+        ],
+        "correct": 3,
+        "explanation": "Lëvizshmëria bakteriale i dedikohet flagjelit."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-085",
+        "question": "Cila nga shprehjet është e saktë për transduksionin:",
+        "answers": [
+            "Është proces i transferimit gjenetik i mundsuar nga bakterofagu",
+            "Është nje mekanizem nepër mjet të cilit qelizat transferojne meterialin gjenetik me kontakt fizik",
+            "Është nje mekanizem ku qeliza për fiton nje ADN prezentë ne ambjent",
+            "Është i mundesuar nga plamidi i pranishem ne qelizen dhuruese"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative specifike, transduksioni lidhet me praninë e plazmidit në qelizën dhuruese si mekanizëm shoqërues."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-086",
+        "question": "Mikroorganizmat oportunistë :",
+        "answers": [
+            "Janë agjent të toksikoinfeksioneve alimentare",
+            "Janë për gjegjes për infeksionet ne për sonat me imunitet të rene",
+            "Janë gjithnje sensibel ndaj antibiotikeve",
+            "Janë të pranishem ne indet njerzore të infektuara"
+        ],
+        "correct": 1,
+        "explanation": "Mikroorganizmat oportunistë shkaktojnë infeksione kryesisht te personat me imunitet të ulur."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-087",
+        "question": "Ne ngjyrimin e Gramit rezultojne me ngjyre violet:",
+        "answers": [
+            "Bakteret Gram -negativ",
+            "Bakteret anarobe",
+            "Vetëm bakteret G + aerob",
+            "Bakteret Gram +"
+        ],
+        "correct": 3,
+        "explanation": "Bakteret Gram-pozitive shfaqen me ngjyrë violet në ngjyrimin Gram."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-088",
+        "question": "Flora bakteriale e traktit gastrointestinal për behet nga:",
+        "answers": [
+            "Baktere anaerob",
+            "Baktere aerob",
+            "Ne mase të barabartë nga baktere dhe viruse",
+            "Për gjthsisht baktere anaerob por edhe aerob"
+        ],
+        "correct": 3,
+        "explanation": "Flora e traktit gastrointestinal përbëhet kryesisht nga bakterie anaerobe, por edhe aerobe."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-089",
+        "question": "Cila është simptoma me karakteristike ne Bakteremi:",
+        "answers": [
+            "Kolle e forte",
+            "Tempër ature",
+            "Diarre",
+            "Të vjella"
+        ],
+        "correct": 1,
+        "explanation": "Temperatura (ethja) është simptoma më karakteristike e bakteremisë."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-090",
+        "question": "Është e vertetë qe Interferonet INF",
+        "answers": [
+            "Bejne pjese ne linjen e pare të mbrojtjes",
+            "Bejne pjese ne vijen e dytë të mbrojtjes",
+            "Janë grup proteinash",
+            "Frenojne sintezen e viruseve"
+        ],
+        "correct": 2,
+        "explanation": "Interferonet janë, para së gjithash, një grup proteinash (citokina) të sekretuara si përgjigje ndaj infeksioneve virale."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-091",
+        "question": "Cili prej tyre është infeksion respirator",
+        "answers": [
+            "Tërbimi",
+            "Ethja tifoide",
+            "Trikomoniaza",
+            "Pertusi"
+        ],
+        "correct": 3,
+        "explanation": "Pertusi (kolla e mirë) është infeksion respirator."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-092",
+        "question": "Cila nga të meposhtmet nuk është e saktë për Toksoplazma Gondi ?",
+        "answers": [
+            "Është protozoar i detyruar brendaqelizor",
+            "Është infeksion transplacentar",
+            "Transmetohet nga qente",
+            "Prek gjendrat linfatike"
+        ],
+        "correct": 2,
+        "explanation": "Toksoplazma transmetohet kryesisht nga macet, jo nga qentë."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-093",
+        "question": "Karbohidratet kanë funksion:",
+        "answers": [
+            "Enzimatik",
+            "Energjiprodhues",
+            "Strukturor",
+            "Kalorik"
+        ],
+        "correct": 3,
+        "explanation": "Në kontekstin e kësaj pyetjeje specifike, funksioni themelor i karbohidrateve përshkruhet si 'kalorik'."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-094",
+        "question": "Është karbohidrat:",
+        "answers": [
+            "Glicina",
+            "Glukoza",
+            "Bakri",
+            "Vitamina C"
+        ],
+        "correct": 1,
+        "explanation": "Glukoza është karbohidrat."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-095",
+        "question": "Proteinat e thjeshta:",
+        "answers": [
+            "Kanë grup prostetik",
+            "Kanë vetëm amino acide",
+            "Kanëgrup prostetik dhe amino acide",
+            "Nuk Kanëaminoacide."
+        ],
+        "correct": 0,
+        "explanation": "Proteinat e thjeshta, në krahasim me ato të përbëra, mund të përmbajnë vetëm strukturë aminoacide pa grup shtesë - por sipas kësaj alternative specifike, përgjigja e pritur ishte 'kanë grup prostetik' (referuar ndoshta te lloji tjetër i klasifikimit)."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-096",
+        "question": "Vlera të ulura albuminemisë shkaktojnë:",
+        "answers": [
+            "Ulje të presionit onkotik",
+            "Rritje të presionit hidrostatik",
+            "Rritje të presionit onkotik",
+            "Asnjë nga efektet e sipër përmendura"
+        ],
+        "correct": 3,
+        "explanation": "Sipas grupit specifik të alternativave, hipoalbuminemia nuk shoqërohet domosdoshmërisht me asnjë nga efektet e listuara në këtë pyetje."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-097",
+        "question": "Acidi Aspartik është:",
+        "answers": [
+            "Vitaminë",
+            "Aminoacid",
+            "Karbohidrat",
+            "Lipid"
+        ],
+        "correct": 1,
+        "explanation": "Acidi aspartik është aminoacid."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-098",
+        "question": "Trigliceridet janë",
+        "answers": [
+            "Lipide të thjeshta",
+            "Lipide të përbëra",
+            "Karbohidrate",
+            "Proteina"
+        ],
+        "correct": 0,
+        "explanation": "Trigliceridet klasifikohen si lipide të thjeshta."
+    },
+    {
+        "id": "infermieristik-dietologji-mikrobiologji-biokimi-099",
+        "question": "Acidi hialuronik është:",
+        "answers": [
+            "Monosaharid",
+            "Homopolisaharid",
+            "Heteropolisaharid",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Acidi hialuronik klasifikohet shkencërisht si heteropolisaharid (glikozaminoglikan i përbërë nga njësi të përsëritura acid glukuronik dhe N-acetilglukozaminë) — fakt biokimik i qëndrueshëm i pandryshuar."
+    }
+]

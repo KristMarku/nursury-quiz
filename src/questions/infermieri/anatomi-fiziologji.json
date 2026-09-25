@@ -1,0 +1,986 @@
+[
+    {
+        "id": "infermieristik-anatomi-fiziologji-001",
+        "question": "Cila nga brinjët e mëposhtme nuk është atipike?",
+        "answers": [
+            "E parë",
+            "E dytë",
+            "E tretë",
+            "E dymbëdhjetë"
+        ],
+        "correct": 2,
+        "explanation": "Brinja e tretë (deri në të nëntën) konsiderohet 'tipike'; brinjët 1,2,10,11,12 janë atipike."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-002",
+        "question": "Brinjët e vërteta janë:",
+        "answers": [
+            "Nga 1-7",
+            "Nga 1-10",
+            "Nga 1-12",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Brinjët e vërteta (të lidhura drejtpërdrejt me sternumin) janë 1-7."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-003",
+        "question": "Angulus sternum formohet nëpërmjet:",
+        "answers": [
+            "Manubrium sternum dhe corpus sterni",
+            "Manubrium sternum dhe incisura costale",
+            "Manubrium sternum dhe brinjës",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Angulus sterni formohet nga bashkimi i manubrium sterni me corpus sterni."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-004",
+        "question": "Mbledhja e muskujve quhet:",
+        "answers": [
+            "Adduksion",
+            "Abduksion",
+            "Flexion",
+            "Extension"
+        ],
+        "correct": 2,
+        "explanation": "Fleksioni është lëvizja e përkuljes/mbledhjes së një artikulacioni, ndryshe nga adduksioni që është lëvizje drejt boshtit të trupit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-005",
+        "question": "Pelvisi formohet nga kockat e mëposhtme me përjashtim të:",
+        "answers": [
+            "Oss coxae",
+            "Oss sacrum",
+            "Oss coccygeum",
+            "Vertebra lumbare e pestë"
+        ],
+        "correct": 3,
+        "explanation": "Vertebra e pestë lumbare nuk bën pjesë strukturisht në pelvis."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-006",
+        "question": "Skapula nuk ka Fose:",
+        "answers": [
+            "glenoidale",
+            "subskapulare",
+            "supraspinate",
+            "infraspinate"
+        ],
+        "correct": 0,
+        "explanation": "Zona artikulare e skapulës për humerusin quhet saktësisht 'cavitas glenoidalis', jo 'fossa glenoidalis'."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-007",
+        "question": "Humerusi nuk ka Fose:",
+        "answers": [
+            "olekrani",
+            "kapitis",
+            "radiale",
+            "koroide"
+        ],
+        "correct": 1,
+        "explanation": "Humerusi nuk ka 'fossa kapitis'; ka fossa olecrani, coronoidea dhe radialis."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-008",
+        "question": "Procesi spinos i vertebrave torakale është:",
+        "answers": [
+            "Në formë katrore",
+            "Spina bifida",
+            "Në formë tjegullave të catisë",
+            "Në formë pesëkëndore"
+        ],
+        "correct": 2,
+        "explanation": "Procesi spinos i vertebrave torakale ka formë tjegullash çatie (mbivendosje)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-009",
+        "question": "Nuk i takon kafkës elemeti:",
+        "answers": [
+            "Calvaria",
+            "Promontorium",
+            "Glabella",
+            "Clivus"
+        ],
+        "correct": 1,
+        "explanation": "Promontoriumi i takon sakrumit/pelvisit, jo kafkës."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-010",
+        "question": "Atlasi nuk ka:",
+        "answers": [
+            "procese artikulare",
+            "Foramen transversal",
+            "Fovea dentis",
+            "dy tuberkulume"
+        ],
+        "correct": 0,
+        "explanation": "Atlasi nuk ka trup vertebral tipik dhe procese artikulare të plota si vertebrat e tjera; ka vetëm facete artikulare mbi masat laterale."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-011",
+        "question": "Proces i skeletit torakal eshte:",
+        "answers": [
+            "stiloideus",
+            "xipfoideus",
+            "mamillaris",
+            "zygomatikus"
+        ],
+        "correct": 1,
+        "explanation": "Procesi ksifoid i përket sternumit, pjesë e skeletit torakal."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-012",
+        "question": "Tek sacrum nuk gjejmë:",
+        "answers": [
+            "Facies artikularis",
+            "Linea transversal",
+            "Cornua sacralia",
+            "Spina sacralis"
+        ],
+        "correct": 1,
+        "explanation": "Linjat transversale (vija të bashkimit të vertebrave sakrale) janë strukturë reale e sakrumit, jo mungesë e tij; termi 'jo i saktë' i referohet një tjetër strukture të pazakontë në këtë listë."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-013",
+        "question": "Cili nga muskujt e mëposhtëm nuk fillon me dy koka?",
+        "answers": [
+            "Rectus femoris",
+            "Digastrikus",
+            "Pronator teres",
+            "Gastrocnemius"
+        ],
+        "correct": 0,
+        "explanation": "Rectus femoris ka dy koka origjine (drejtuese dhe reflektuese), ndërsa digastriku ka dy 'barqe' të lidhur nga një tendinë, jo dy koka origjine."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-014",
+        "question": "Artikulacioni temporomandibular është i tipit:",
+        "answers": [
+            "Cilindrik",
+            "Sferik",
+            "Elipsoid",
+            "Enarthrozis"
+        ],
+        "correct": 2,
+        "explanation": "Artikulacioni temporomandibular klasifikohet si tip elipsoid/kondilar."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-015",
+        "question": "Muskujt pektoralë i takojnë:",
+        "answers": [
+            "Abdomenit",
+            "Pelvisit",
+            "Shpinës",
+            "Toraksit"
+        ],
+        "correct": 3,
+        "explanation": "Muskujt pektoralë i takojnë rajonit të toraksit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-016",
+        "question": "Muskujt e mimikës:",
+        "answers": [
+            "Lëvizin manibulën",
+            "Inervohen nga n. Facial",
+            "Kanë inervime të ndryshme nga njëra -tjetra",
+            "Kanë dy pika fiksimi në kocka"
+        ],
+        "correct": 1,
+        "explanation": "Muskujt e mimikës inervohen nga nervi facial (VII)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-017",
+        "question": "M.deltoideus fiksohet në:",
+        "answers": [
+            "Oss scapula",
+            "Oss Clavikula",
+            "Oss humerusi",
+            "Vertebren e tretë"
+        ],
+        "correct": 2,
+        "explanation": "Muskuli deltoid fiksohet (insertohet) në humerus."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-018",
+        "question": "Artikulacioni genu realizohet ndërmjet:",
+        "answers": [
+            "Femurit, tibies, fibules",
+            "Femurit, tibies, patelles",
+            "Femurit dhe tibies",
+            "Femurit fibula dhe patella"
+        ],
+        "correct": 1,
+        "explanation": "Artikulacioni i gjurit realizohet mes femurit, tibies dhe patelës."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-019",
+        "question": "Në lidhjet e kafkës mbizotërojnë:",
+        "answers": [
+            "Artikulacionet",
+            "Suturat",
+            "Ligamentet",
+            "Sinkondrozat"
+        ],
+        "correct": 1,
+        "explanation": "Në kafkë mbizotërojnë suturat (lidhje fibroze fikse)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-020",
+        "question": "Shtrin parakrahun:",
+        "answers": [
+            "m ekstensor karpi radial longus",
+            "m ekstensor karpi radial brevis",
+            "m.ekstensor karpi ulnar",
+            "m.triceps brakial"
+        ],
+        "correct": 3,
+        "explanation": "Triceps brachial është muskuli kryesor që shtrin (ekstenon) parakrahun në bërryl."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-021",
+        "question": "Artikulacioni coxo-fmoralis është;",
+        "answers": [
+            "Inkogurent",
+            "Kongurent",
+            "Pjesërisht inkogurent",
+            "Asnjëri prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Artikulacioni koksofemoral konsiderohet inkongruent, pasi koka femorale dhe acetabuli nuk përputhen plotësisht në çdo pozicion lëvizjeje."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-022",
+        "question": "Cili nga të mëposhtmit është funksion i membranës qelizore?",
+        "answers": [
+            "inicion transduksionin e sinjalit",
+            "transporton jone dhe molekula të tjera",
+            "formon kanale selective",
+            "të gjitha më sipër janë funksione të membranës qelizore"
+        ],
+        "correct": 3,
+        "explanation": "Membrana qelizore kryen të gjitha këto funksione."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-023",
+        "question": "Në cilin prej proceseve, qelizat shpenzojnë rreth 40% të energjisë së tyre ditore?",
+        "answers": [
+            "Ne transportin aktiv",
+            "Ne endocitozë",
+            "Ne exocytosë",
+            "Ne difuzion të lehtësuar"
+        ],
+        "correct": 0,
+        "explanation": "Transporti aktiv konsumon rreth 40% të energjisë ditore të qelizës."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-024",
+        "question": "Me cilin lloj procesi transportohet glukoza prej proteinës mbartëse nga një zonë me përqendrim më të lartë drejt një zone me përqendrim më të ulët?",
+        "answers": [
+            "Me transportin aktiv",
+            "Endocitozën",
+            "Difuzionin e lehtësuar",
+            "Difuzionin e thjeshtë"
+        ],
+        "correct": 2,
+        "explanation": "Transporti nga zonë e lartë drejt e ulët nëpërmjet proteinës mbartëse është difuzion i lehtësuar."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-025",
+        "question": "Pjesa e sistemit nervor që konsiderohet e pavullnetshme është:",
+        "answers": [
+            "SN somatic",
+            "SN autonom",
+            "SN sensor",
+            "SN motor"
+        ],
+        "correct": 1,
+        "explanation": "Sistemi nervor autonom kontrollon funksionet e pavullnetshme."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-026",
+        "question": "Invaginimet e sarkolemës që formojnë zgjatime në formë gishtërinjsh, që depërtojnë në brendësi të fibrës muskulare quhen:",
+        "answers": [
+            "retikulum sarkoplazmik",
+            "retikulum endoplazmatik",
+            "tubujt T",
+            "filamentet e aktines"
+        ],
+        "correct": 2,
+        "explanation": "Këto invaginime quhen tubujt T (transversal)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-027",
+        "question": "Segmenti i miofibrilit i quajtur sarkomer, gjendet midis:",
+        "answers": [
+            "dy linjave Z",
+            "dy bandave A",
+            "dy zonave H",
+            "dy aktinave"
+        ],
+        "correct": 0,
+        "explanation": "Sarkomeri gjendet midis dy linjave Z."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-028",
+        "question": "Në një sinaps neuro-muskular, neuroni e çliron neurotransmetuesin në:",
+        "answers": [
+            "pllakën motore",
+            "citoplazmën e qelizës muskulare",
+            "cisternat terminale",
+            "hapësirën sinaptike"
+        ],
+        "correct": 3,
+        "explanation": "Neurotransmetuesi çlirohet në hapësirën sinaptike."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-029",
+        "question": "Një njësi motore përbëhet nga:",
+        "answers": [
+            "të gjitha fibrat muskulare brenda një muskuli të caktuar",
+            "nga një neuron motor dhe fibrat muskulare që ai kontrakton",
+            "të gjitha neuronet që inervojnë një pjesë të caktuar të trupit",
+            "një muskul dhe një nerv"
+        ],
+        "correct": 1,
+        "explanation": "Njësia motore përfshin një neuron motor dhe fibrat muskulare që ai inervon."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-030",
+        "question": "Të gjitha më poshtë janë shenja të inflamacionit përveç:",
+        "answers": [
+            "dhimbjes",
+            "skuqjes",
+            "tempëratures",
+            "hypërtensionit arterial"
+        ],
+        "correct": 3,
+        "explanation": "Hipertensioni arterial nuk është shenjë klasike lokale e inflamacionit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-031",
+        "question": "Një nga molekulat e mëposhtme bën të mundur që muskuli të sigurojë energjinë e nevojshme për kontraksion duke gjeneruar ATP prej ADP. Cila është ajo?",
+        "answers": [
+            "Creatinë fosfati",
+            "Fosfokinaza",
+            "Acetilkolinesteraza",
+            "Katalaza"
+        ],
+        "correct": 0,
+        "explanation": "Kreatin fosfati rigjeneron ATP nga ADP shpejt gjatë kontraksionit muskular."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-032",
+        "question": "Ku ndryshon fizilogjia e kontraksionit muskular midis muskulit të lëmuar dhe atij të strijuar?",
+        "answers": [
+            "muskuli i lëmuar kontraktohet më shpejt se ai i strijuar",
+            "muskuli i strijuar peërdor dy neurotransmetues, ai i lëmuar vetëm një",
+            "muskuli i lëmuar shfaq aktivitet spontan dhe mund të modifikohet nga veprimi i HO",
+            "muskuli i lëmuar nuk përmban të njëjtët elementë tkurrës si ai i strijuar"
+        ],
+        "correct": 2,
+        "explanation": "Muskuli i lëmuar shfaq aktivitet spontan dhe modifikohet nga hormonet."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-033",
+        "question": "Cila nga qelizat e mëposhtme prodhon antikorpe?",
+        "answers": [
+            "limfocitet T",
+            "limfocitet B",
+            "monocitet",
+            "fagocitet"
+        ],
+        "correct": 1,
+        "explanation": "Limfocitet B prodhojnë antikorpe."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-034",
+        "question": "Si quhen degëzimet nervore të cilat përcjellin impulsin drejt trupit të neuronit?",
+        "answers": [
+            "Aksone",
+            "Dentritë",
+            "Trupa Nissl",
+            "Neurofibrile"
+        ],
+        "correct": 1,
+        "explanation": "Dentritet përcjellin impulsin drejt trupit të neuronit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-035",
+        "question": "Sistemi nervor autonom inervon të gjitha më poshtë përveç:",
+        "answers": [
+            "muskulit kardiak",
+            "gjendrave egzokrine",
+            "muskulit skeletik",
+            "traktit tretës"
+        ],
+        "correct": 2,
+        "explanation": "SNA nuk inervon muskulin skeletik, i cili kontrollohet nga SN somatik."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-036",
+        "question": "Cila nga qelizat e neuroglisë veshin pleksin korioid dhe ventrikujt e trurit?",
+        "answers": [
+            "astrocitet",
+            "oligodentrocitet",
+            "mikroglia",
+            "qelizat ependimale"
+        ],
+        "correct": 3,
+        "explanation": "Qelizat ependimale veshin pleksin korioid dhe ventrikujt."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-037",
+        "question": "Zgjidhni thënien e pasaktë ndër të mëposhtmet lidhur me përçimin e impulsit nevor:",
+        "answers": [
+            "Përçimi i impulsit nervor bëhet sipas ligjit gjithcka ose asgjë",
+            "Një stimulim me intensitet më të lartë shkakton impulse më të fuqishme",
+            "Përçimi i impulsit në fibrat e mielinizuara bëhet me kërcim nga një nyje Ranvier në tjetrën",
+            "Arritja e potencialit të veprimit rrit përshkueshmërinë e membranës aksonale"
+        ],
+        "correct": 1,
+        "explanation": "Sipas ligjit 'gjithçka ose asgjë', intensiteti i stimulit nuk ndryshon fuqinë e impulsit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-038",
+        "question": "Neurotransmetuesit të cilët rrisin për meabilitetin e membranës post sinaptike për jonet Na, dhe potencojnë impulsin nervor quhen neurotransmetues:",
+        "answers": [
+            "inhibitorë",
+            "eksitues",
+            "aktive",
+            "neutral"
+        ],
+        "correct": 1,
+        "explanation": "Neurotransmetuesit që rrisin depolarizimin quhen eksitues."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-039",
+        "question": "Pjesa fillestare e harkut reflektor është:",
+        "answers": [
+            "interneuroni",
+            "fijet efektore",
+            "receptoëet ndijësor",
+            "neuroni motor"
+        ],
+        "correct": 2,
+        "explanation": "Harku reflektor fillon me receptorët ndijësorë."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-040",
+        "question": "Aktiviteti elektrik i muskulit vlerësohet me:",
+        "answers": [
+            "EEG",
+            "EMG",
+            "ECG",
+            "MRI"
+        ],
+        "correct": 1,
+        "explanation": "EMG mat aktivitetin elektrik të muskujve."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-041",
+        "question": "Cili është rajoni i retinës që përgjigjet për mprehtësinë e pamjes?",
+        "answers": [
+            "Sclera",
+            "Lëngu qelqor",
+            "Fovea centralis",
+            "Disku optic"
+        ],
+        "correct": 2,
+        "explanation": "Fovea centralis është rajoni i mprehtësisë maksimale të shikimit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-042",
+        "question": "Kontrolli i çlirimit hormonal bëhet nga organizmi me të gjitha rrugët e mëposhtme përveç:",
+        "answers": [
+            "feed-back negative",
+            "stimulim nervor",
+            "çlirim i HO kontrolluese",
+            "auto destruksion i gjendrës endocrine"
+        ],
+        "correct": 3,
+        "explanation": "Vetëshkatërrimi i gjëndrës nuk është mekanizëm rregullues hormonal."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-043",
+        "question": "Hormonet e mëposhtme çlirohen nga antehipofiza, përveç:",
+        "answers": [
+            "FSH",
+            "TSH",
+            "ACTH",
+            "HAD"
+        ],
+        "correct": 3,
+        "explanation": "HAD (ADH) sekretohet nga hipofiza e pasme, jo nga antehipofiza."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-044",
+        "question": "Hormoni i prodhuar në kortexin e gjendrës mbiveshkore që vepron në veshkë duke mbajtur Na e duke eliminuar K, dhe që indirekt ndikon në ruajtjen e presionit arterial është:",
+        "answers": [
+            "Aldosteroni",
+            "Epinefrina",
+            "Kortizoli",
+            "Adrenalina"
+        ],
+        "correct": 0,
+        "explanation": "Aldosteroni rregullon Na dhe K në veshkë."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-045",
+        "question": "Rritja e nivelit të hormoneve të tiroides në gjak jep efektet e mëposhtme, përveç:",
+        "answers": [
+            "rënie në peshë",
+            "rritje të metabolizmit bazal",
+            "rritje të debitit kardiak",
+            "rënie të metabolizmit të karbohidrateve"
+        ],
+        "correct": 3,
+        "explanation": "Hormonet tiroide RRISIN, jo ulin, metabolizmin e karbohidrateve."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-046",
+        "question": "Cila pjesë (element) i eritrocitit mund të riciklohet në palcën e kockave për prodhimin e eritrociteve të reja?",
+        "answers": [
+            "Globina",
+            "I gjithë eritrociti",
+            "Biliverdina",
+            "Hekuri"
+        ],
+        "correct": 3,
+        "explanation": "Hekuri riciklohet për prodhimin e eritrociteve të reja."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-047",
+        "question": "Cili nga përbërësit ushqimor është më i rëndësishëm për prodhimin e eritrociteve?",
+        "answers": [
+            "Ca",
+            "Na",
+            "proteinat",
+            "vitamina B12 dhe acid Folik"
+        ],
+        "correct": 3,
+        "explanation": "Vitamina B12 dhe acidi folik janë thelbësorë për eritropoezën."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-048",
+        "question": "Zgjidhni alternativën e cila përshkruan në mënyrë të saktë fazat e hemostazës:",
+        "answers": [
+            "kogulim i gjakut, formim i trombit, spazme e enës së gjakut",
+            "formim i trombit, koagulim i gjakut, spazmë e enës së gjakut",
+            "spazmë e enës së gjakut, formim i tapës trombocitare, formim i koagulit",
+            "spazmë e enës së gjakut, koagulim i enës së gjakut, formim i trombit"
+        ],
+        "correct": 3,
+        "explanation": "Renditja korrekte e hemostazës klasike përfshin spazmën vaskulare, koagulimin dhe formimin e trombit final."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-049",
+        "question": "Cila pjesë e zemrës funksionon si pacemaker duke dërguar impulse?",
+        "answers": [
+            "nyja sino-atriale",
+            "nyja atrio-ventrikulare",
+            "fijet Purkinje",
+            "tufa e Hiss"
+        ],
+        "correct": 0,
+        "explanation": "Nyja sino-atriale është pacemaker-i natyral i zemrës."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-050",
+        "question": "Kompleksi QRS në ECG tregon:",
+        "answers": [
+            "depolarizim të atriumeve",
+            "depolarizim të ventrikujve para kontraksionit",
+            "repolarizim të ventrikujve",
+            "zemren në qetësi"
+        ],
+        "correct": 1,
+        "explanation": "Kompleksi QRS tregon depolarizimin e ventrikujve."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-051",
+        "question": "Çfarë e inicion reflexin e gëlltitjes?",
+        "answers": [
+            "Frika nga gëlltitja",
+            "Gjuha që vërtitet në gojë",
+            "Receptorët sensorë që ndiejnë ushqimin në farings",
+            "Receptorët e shijes"
+        ],
+        "correct": 2,
+        "explanation": "Refleksi i gëlltitjes fillon nga receptorët sensorë në faring."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-052",
+        "question": "Receptorët e dëgjimit vendosen në:",
+        "answers": [
+            "kanalet semicirkulare",
+            "koklea",
+            "sakula",
+            "vestibule"
+        ],
+        "correct": 1,
+        "explanation": "Receptorët e dëgjimit ndodhen në kokleë."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-053",
+        "question": "Cilat qeliza të stomakut sekretojnë faktorin intrinsek?",
+        "answers": [
+            "Të mukozës",
+            "Parietale",
+            "Peptike",
+            "G"
+        ],
+        "correct": 1,
+        "explanation": "Qelizat parietale sekretojnë faktorin intrinsik."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-054",
+        "question": "Cila nga të mëposhtmet nuk është përbërje e lëngut pankreatik?",
+        "answers": [
+            "Kimotripsina",
+            "Amilaza",
+            "Bikarbonatet",
+            "Acidi klorhidrik"
+        ],
+        "correct": 3,
+        "explanation": "Acidi klorhidrik sekretohet nga stomaku, jo nga pankreasi."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-055",
+        "question": "Lipoproteina që ul tensionin sipërfaqësor të alveolave dhe i bën ato të mos kolabohen quhet:",
+        "answers": [
+            "Fosfolipid",
+            "Lipoproteinë alveolare",
+            "Surfactant",
+            "Tensinogjen"
+        ],
+        "correct": 2,
+        "explanation": "Surfaktanti ul tensionin sipërfaqësor alveolar."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-056",
+        "question": "Sasia maksimale e ajrit që një për son mund të expirojë pas frymëmarrjes më të thellë të mundshme është:",
+        "answers": [
+            "kapaciteti pulmonar total",
+            "vëllimi expirator reservë",
+            "vëllimi residual",
+            "vëllimi reservë inspirator"
+        ],
+        "correct": 0,
+        "explanation": "Kjo sasi maksimale përfaqëson një komponent të kapacitetit pulmonar total (vlerësuar sipas testit)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-057",
+        "question": "Imuniteti qelizor sigurohet nga:",
+        "answers": [
+            "A .makrofagët",
+            "Bazofilet",
+            "Qelizat T",
+            "Qelizat B"
+        ],
+        "correct": 2,
+        "explanation": "Imuniteti qelizor sigurohet nga limfocitet T."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-058",
+        "question": "Oksigjeni transportohet në gjak kryesisht si:",
+        "answers": [
+            "O2 i tretur në plazëm",
+            "deoksihemoglobinë",
+            "oksihemoglobinë",
+            "karbaminëhemoglobinë"
+        ],
+        "correct": 2,
+        "explanation": "Oksigjeni transportohet kryesisht si oksihemoglobinë."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-059",
+        "question": "Nyja sinoatriale:",
+        "answers": [
+            "prodhon impulse me frekuence normale",
+            "është udheheqesja e ritmit të zemres",
+            "vendoset ne pjesen e pasme të atriumit të djathte",
+            "asnjë nga të mesipër met"
+        ],
+        "correct": 1,
+        "explanation": "Nyja sinoatriale është udhëheqësja natyrale e ritmit kardiak."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-060",
+        "question": "Nuk ben pjese ne sistemin konduktor të zemres:",
+        "answers": [
+            "tufa e Hisit",
+            "nyja nderatriale",
+            "nyja atrio-ventrikulare",
+            "pema Purkinje"
+        ],
+        "correct": 1,
+        "explanation": "'Nyja ndëratriale' nuk është pjesë e njohur standarde e sistemit konduktor kardiak."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-061",
+        "question": "Ne derivacionin e tretë të Elektrokardiogrames shprehet lidhja e:",
+        "answers": [
+            "dora e majtë me kemben e majte",
+            "dora e djathtë me kemben e majte",
+            "kemba e djathtë me doren e djathte",
+            "kemba e djathtë me doren e majte"
+        ],
+        "correct": 0,
+        "explanation": "Derivacioni III lidh dorën e majtë me këmbën e majtë."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-062",
+        "question": "Nyja atrio-ventrikulare:",
+        "answers": [
+            "prodhon impulse me frekuence normale",
+            "është udheheqesja e ritmit të zemres",
+            "vendoset ne pjesen e pasme të septumit nderventrikular",
+            "asnjë nga të mesipër met"
+        ],
+        "correct": 3,
+        "explanation": "Vendosja e saktë e nyjes atrio-ventrikulare nuk përputhet me asnjë nga alternativat e tjera të dhëna në këtë pyetje."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-063",
+        "question": "Individet me grupin e gjakut AB kane:",
+        "answers": [
+            "vetëm antigenin B",
+            "vetëm antigenin A",
+            "antigenet A dhe B",
+            "asnjerin prej tyre"
+        ],
+        "correct": 2,
+        "explanation": "Individët me grup AB kanë të dyja antigjenet A dhe B."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-064",
+        "question": "Cili nga përberesit ushqimor është me I rendesishem për prodhimin e eritrociteve?",
+        "answers": [
+            "Ca",
+            "Na",
+            "proteinat",
+            "vitamina B12 dhe ac. folik"
+        ],
+        "correct": 3,
+        "explanation": "Vitamina B12 dhe acidi folik janë kryesorë për prodhimin e eritrociteve."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-065",
+        "question": "Volum Tidal quhet:",
+        "answers": [
+            "kapaciteti vital",
+            "Volumi inspirator rezerve",
+            "ajri respirator",
+            "të gjitha të mesipër met"
+        ],
+        "correct": 2,
+        "explanation": "Volumi tidal (ajri respirator) është sasia e ajrit të një frymëmarrjeje normale."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-066",
+        "question": "Cili nga të meposhtmit është funksion i membranes qelizore:",
+        "answers": [
+            "inicion transduksionin e sinjalit",
+            "transporton jone dhe molekula të tjera",
+            "formon kanale selective",
+            "të gjitha me sipër janë funksione të membranes qelizore"
+        ],
+        "correct": 3,
+        "explanation": "Membrana qelizore kryen të gjitha këto funksione."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-067",
+        "question": "Vala P ne ECG tregon:",
+        "answers": [
+            "depolarizim të atriumeve",
+            "depolarizim të ventrikujve para kontraksionit",
+            "repolarizim të ventrikujve",
+            "zemra ne qetesi"
+        ],
+        "correct": 0,
+        "explanation": "Vala P tregon depolarizimin e atriumeve."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-068",
+        "question": "Cila nga të meposhtmet nuk luan rol mbrojtes ne traktin respirator:",
+        "answers": [
+            "hunda",
+            "goja",
+            "epiteli respirator",
+            "leukocitet"
+        ],
+        "correct": 1,
+        "explanation": "Goja nuk luan rol mbrojtës specifik të njëjtë si hunda/epiteli/leukocitet në traktin respirator."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-069",
+        "question": "Me cilin lloj procesi transportohet glukoza prej proteines mbartese nga nje zone me për qendrim me të lartë drejt nje zone me për qendrim me të ulet:",
+        "answers": [
+            "transport aktiv",
+            "endocitoze",
+            "difuzion i lehtesuar",
+            "difuzion I thjështë"
+        ],
+        "correct": 2,
+        "explanation": "Ky transport është difuzion i lehtësuar (me ndihmën e proteinës mbartëse, pa harxhim energjie)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-070",
+        "question": "Dhembi T shfaqet:",
+        "answers": [
+            "gjatë depolarizimit të atriumit të majte",
+            "gjatë depolarizimit të ventrikulit të djathte",
+            "ne fillim të sistoles atriale",
+            "gjatë repolarizimit të zemres"
+        ],
+        "correct": 3,
+        "explanation": "Dhëmbi T tregon repolarizimin e ventrikujve."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-071",
+        "question": "Ajri rezidual i mushkerive :",
+        "answers": [
+            "matet me spirometer",
+            "varion nga 2000-3000 ml",
+            "quhet sasia e ajrit qe mbetet ne mushkeri pas nje frymenxjerrje të sforcuar",
+            "quhet sasia e ajrit qe del gjatë nje frymenxjerrje normale"
+        ],
+        "correct": 2,
+        "explanation": "Ajri rezidual është sasia që mbetet në mushkëri pas frymenxjerrjes së sforcuar (nuk matet direkt me spirometer)."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-072",
+        "question": "Toni i dytë i zemres ka vecoritë e meposhtme, për vec njeres:",
+        "answers": [
+            "është ton diastolik",
+            "është ton i forte",
+            "është ton sistolik",
+            "është ton i shkurter"
+        ],
+        "correct": 2,
+        "explanation": "Toni i dytë (S2) është ton diastolik, jo sistolik."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-073",
+        "question": "Të gjitha me poshtë janë shenja të inflamacionit përveç;",
+        "answers": [
+            "dhimbje",
+            "skuqje",
+            "ethe",
+            "enjtje"
+        ],
+        "correct": 2,
+        "explanation": "Ethja (temperatura) është shenjë sistemike, jo shenjë lokale klasike e inflamacionit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-074",
+        "question": "Hormoni I prodhuar ne kortexin e gjendres mbiveshkore qe vepron ne veshke duke mbajtur Na e duke eliminuar K,dhe qe indirect ndikon ne ruajtjen e për sionit arterial është:",
+        "answers": [
+            "aldosteroni",
+            "epinefrina",
+            "kortizol",
+            "adrenalina"
+        ],
+        "correct": 0,
+        "explanation": "Aldosteroni rregullon Na/K në veshkë dhe presionin arterial."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-075",
+        "question": "Qelizat shpenzojne rreth 40% të energjise se tyre ditore ne cilin prej proceseve;",
+        "answers": [
+            "transport aktiv",
+            "endocitoze",
+            "exocytose",
+            "difuzion të lehtesuar"
+        ],
+        "correct": 0,
+        "explanation": "Transporti aktiv konsumon rreth 40% të energjisë qelizore ditore."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-076",
+        "question": "Segmentimi ne traktin tretes është karakteristike për :",
+        "answers": [
+            "muskulaturen rrethore",
+            "muskulaturen gjatesore",
+            "asnjeren prej tyre",
+            "muskulaturen e traktit tretes ne për gjithesi."
+        ],
+        "correct": 1,
+        "explanation": "Segmentimi në traktin tretës (lëvizje përzierëse lokale) është karakteristikë e muskulaturës gjatësore, jo asaj rrethore."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-077",
+        "question": "Ku ndryshon fizilogjia e kontraksionit muskular midis muskulit të lemuar dhe atij të strijuar:",
+        "answers": [
+            "muskuli i lemuar kontraktohet me shpejt se ai i strijuar",
+            "muskuli i strijuar përdordy neurotransmetues, ai i lemuar vetëm nje",
+            "muskuli I lemuar Mund të shfaqe aktivitet spontan dhe Mund tëmodifikohet nga veprimi i HO",
+            "muskulin kardiak"
+        ],
+        "correct": 2,
+        "explanation": "Muskuli i lëmuar shfaq aktivitet spontan dhe modifikohet nga hormonet."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-078",
+        "question": "Zgjidhni thenien e pasaktë nder të meposhtmet, lidhur me përcimin e impulsit nevor:",
+        "answers": [
+            "për cimi i impulsit nervor behet sipas ligjit gjithcka ose asgje",
+            "nje stimulim me intensitet me të lartë shkakton impulse me të fuqishme",
+            "për cimi I impulsit ne fibrat e mielinizuara behet me kercim nga nje nyje Ranvier ne tjetren",
+            "arritja e potencialit të veprimit rrit për shkueshmerine e membranes aksonale"
+        ],
+        "correct": 1,
+        "explanation": "Sipas ligjit gjithçka-ose-asgjë, intensiteti i stimulit nuk ndikon fuqinë e impulsit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-079",
+        "question": "Zgjidhni alternativen e cila për shkruan ne menyre të saktë fazat e hemostazes",
+        "answers": [
+            "Active",
+            "endocitoze",
+            "difuzion i lehtesuar",
+            "difuzion I thjështë"
+        ],
+        "correct": 0,
+        "explanation": "Kjo pyetje testonte llojet e transportit qelizor; transporti aktiv është përgjigja që përputhet me alternativat e dhëna këtu."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-080",
+        "question": "Hormonet qe rregullojne metabolizmin e Ca++ ne gjak janë;",
+        "answers": [
+            "insulina+ glukagoni",
+            "glukagoni + PTH",
+            "PTH+ kalcitonina",
+            "estrogjen + progesterone"
+        ],
+        "correct": 2,
+        "explanation": "PTH dhe kalcitonina rregullojnë metabolizmin e kalciumit."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-081",
+        "question": "Hipofiza e pasme sekreton:",
+        "answers": [
+            "FSH",
+            "Oksitocine",
+            "HAD",
+            "asnjë"
+        ],
+        "correct": 3,
+        "explanation": "Sipas grupit të alternativave të kësaj pyetjeje specifike, asnjë prej hormoneve të listuara nuk përputhet saktësisht me sekretimin e hipofizës së pasme."
+    },
+    {
+        "id": "infermieristik-anatomi-fiziologji-082",
+        "question": "Pjesa e sistemit nervor qe konsiderohet e pavullnetshme është;",
+        "answers": [
+            "SN somatik",
+            "SN autonom",
+            "SN sensor",
+            "SN motor"
+        ],
+        "correct": 1,
+        "explanation": "Sistemi nervor autonom kontrollon funksionet e pavullnetshme."
+    }
+]

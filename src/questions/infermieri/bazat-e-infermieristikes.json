@@ -1,0 +1,1862 @@
+[
+    {
+        "id": "infermieristik-bazat-001",
+        "question": "Ajo degë e filozofisë që merret me standardet e sjelljes dhe të gjykimit moral quhet:",
+        "answers": [
+            "Deontologji",
+            "Vlerë",
+            "Detyrë",
+            "Etikë"
+        ],
+        "correct": 3,
+        "explanation": "Etika është dega e filozofisë që studion standardet e sjelljes dhe gjykimin moral; deontologjia është vetëm një teori brenda etikës."
+    },
+    {
+        "id": "infermieristik-bazat-002",
+        "question": "Nëse një infermier përdor uniformën e tij jashtë mjediseve spitalore, ka thyer:",
+        "answers": [
+            "Të drejtat e pacientit",
+            "Kodin etik",
+            "Ligjin",
+            "Parimet"
+        ],
+        "correct": 1,
+        "explanation": "Përdorimi i uniformës jashtë spitalit është shkelje e rregullave profesionale, pra e kodit etik të profesionit."
+    },
+    {
+        "id": "infermieristik-bazat-003",
+        "question": "Në konceptet kryesore të teorisë infermierore bën pjesë ?",
+        "answers": [
+            "Besnikëria",
+            "Bamirësia",
+            "Autonomia",
+            "Infermieristika"
+        ],
+        "correct": 3,
+        "explanation": "Katër konceptet themelore të çdo teorie infermierore janë: personi, mjedisi, shëndeti dhe infermieristika."
+    },
+    {
+        "id": "infermieristik-bazat-004",
+        "question": "Në zhvillimin e kujdesjeve dhe shtrirjen e roleve infermierore bën pjesë ?",
+        "answers": [
+            "Infermieri anestezist",
+            "Infermieri si avokat",
+            "Infermieri si vendimarrës",
+            "Infermieri si edukues"
+        ],
+        "correct": 3,
+        "explanation": "Roli i infermierit si edukues përfaqëson një shembull klasik të zgjerimit dhe zhvillimit të roleve infermierore bashkëkohore."
+    },
+    {
+        "id": "infermieristik-bazat-005",
+        "question": "Homeostaza psikologjike nënkupton një ekulibër të sistemit:",
+        "answers": [
+            "Respirator",
+            "Urinar",
+            "Gastro-intestinal",
+            "Mendor"
+        ],
+        "correct": 3,
+        "explanation": "Homeostaza psikologjike ka të bëjë me ekuilibrin mendor/emocional të individit."
+    },
+    {
+        "id": "infermieristik-bazat-006",
+        "question": "Në nevojat fiziologjike të pacientit bën pjesë :",
+        "answers": [
+            "nevoja për siguri",
+            "nevoja për dashuri",
+            "nevoja për ujë",
+            "nevoja për mbrojtje"
+        ],
+        "correct": 2,
+        "explanation": "Sipas piramidës së Maslow-it, uji është nevojë fiziologjike bazë; siguria, dashuria dhe mbrojtja janë nevoja të niveleve më të larta."
+    },
+    {
+        "id": "infermieristik-bazat-007",
+        "question": "Ndër parimet e normave etike të kujdesit shëndetësor bën pjesë:",
+        "answers": [
+            "Vërtetësia",
+            "Autonomia",
+            "Besnikëria",
+            "Besueshmëria"
+        ],
+        "correct": 1,
+        "explanation": "Autonomia është një nga katër parimet themelore të etikës (autonomi, bamirësi, jokeqdashje, drejtësi); të tjerat janë 'rregulla' dytësore."
+    },
+    {
+        "id": "infermieristik-bazat-008",
+        "question": "Cila nga këto nevoja fiziologjike është më e rëndesishme ndër të tjerat?",
+        "answers": [
+            "Nevoja për oksigjen",
+            "Nevoja për ujë",
+            "Nevoja për ushqim",
+            "Nevoja për gjumë"
+        ],
+        "correct": 0,
+        "explanation": "Oksigjeni është nevoja fiziologjike më vitale, mungesa e tij shkakton vdekje brenda minutash."
+    },
+    {
+        "id": "infermieristik-bazat-009",
+        "question": "Aftësia për të influencuar tek të tjerët, për tu përpjekur për një vizion, qëllim ose për të ndryshuar quhet:",
+        "answers": [
+            "Menaxhim",
+            "Organizim",
+            "Planifikim",
+            "Lidership"
+        ],
+        "correct": 3,
+        "explanation": "Lidershipi përkufizohet si aftësia për të influencuar të tjerët drejt një vizioni apo qëllimi."
+    },
+    {
+        "id": "infermieristik-bazat-010",
+        "question": "Në parimet e ruajtjes së shëndetit bën pjesë?",
+        "answers": [
+            "Gjendja emocionale",
+            "Parandalimi i drogës dhe duhanit",
+            "Biografia kulturore",
+            "Faktorët socialë"
+        ],
+        "correct": 1,
+        "explanation": "Parandalimi i drogës dhe duhanit është parim konkret i ruajtjes së shëndetit."
+    },
+    {
+        "id": "infermieristik-bazat-011",
+        "question": "Në qendër të të gjitha roleve infermierore është roli i infermieres si:",
+        "answers": [
+            "Edukuese",
+            "Menaxhuese",
+            "Vendim marrëse",
+            "Komunikuese"
+        ],
+        "correct": 3,
+        "explanation": "Komunikimi është themeli mbi të cilin ndërtohen të gjitha rolet e tjera infermierore (edukim, menaxhim, vendimmarrje)."
+    },
+    {
+        "id": "infermieristik-bazat-012",
+        "question": "Në menaxhimin infermieror nuk bën pjesë:",
+        "answers": [
+            "Planifikimi",
+            "Organizimi",
+            "Kontrolli",
+            "Modifikimi"
+        ],
+        "correct": 3,
+        "explanation": "Funksionet klasike të menaxhimit janë planifikimi, organizimi, drejtimi dhe kontrolli; 'modifikimi' nuk është funksion menaxherial standard."
+    },
+    {
+        "id": "infermieristik-bazat-013",
+        "question": "Nuk është pjesë e poliklinikës një nga ambientet e mëposhtme:",
+        "answers": [
+            "Laboratori Biokimik",
+            "Dhoma e injeksioneve",
+            "Konsultat e Fëmijëve",
+            "Salla Operatore"
+        ],
+        "correct": 3,
+        "explanation": "Poliklinika ofron shërbime ambulatore; salla operatore i përket spitalit, jo poliklinikës."
+    },
+    {
+        "id": "infermieristik-bazat-014",
+        "question": "Kur një pacient ndodhet në ambulancën e pranimit mund të marrë disa drejtime për trajtimin e tij. Cili prej këtyre më poshtë nuk është i saktë?",
+        "answers": [
+            "Në Terapinë Intensive",
+            "Në Sallën Operatore",
+            "Në Pavion",
+            "Në Laborator"
+        ],
+        "correct": 3,
+        "explanation": "Laboratori nuk është një drejtim shtrimi/trajtimi, por vetëm vend ekzaminimi."
+    },
+    {
+        "id": "infermieristik-bazat-015",
+        "question": "Një pacient pasi del nga salla e operacionit mund të transportohet në:",
+        "answers": [
+            "Dhomë injeksionesh",
+            "Terapinë intensive",
+            "Laborator",
+            "Mikrokirurgji"
+        ],
+        "correct": 1,
+        "explanation": "Pas operacionit pacienti transportohet zakonisht në terapinë intensive/dhomën e zgjimit për monitorim."
+    },
+    {
+        "id": "infermieristik-bazat-016",
+        "question": "Sëmundjet kronike jane sëmundje të cilat kanë një kohëzgjatje:",
+        "answers": [
+            "1 muaj",
+            "2 muaj",
+            "3 muaj",
+            "Mbi 3 muaj"
+        ],
+        "correct": 3,
+        "explanation": "Sëmundja kronike përkufizohet si gjendje me kohëzgjatje mbi 3 muaj."
+    },
+    {
+        "id": "infermieristik-bazat-017",
+        "question": "Të dhënat historike janë informacione:",
+        "answers": [
+            "Aktuale të gjendjes shëndetësore",
+            "Mbi ecurinë e mëparshme të gjendjes shëndetësore",
+            "Mbi pershkrimin individual të situatës shëndetësore",
+            "Mbi situatën që do te pasojë gjendjen shëndetësore"
+        ],
+        "correct": 1,
+        "explanation": "Të dhënat historike i referohen ecurisë së mëparshme (të kaluarës) të gjendjes shëndetësore."
+    },
+    {
+        "id": "infermieristik-bazat-018",
+        "question": "Ndërhyrja në parandalimin tretësor synon?",
+        "answers": [
+            "Edukimin shëndetësor",
+            "Diagnostikimin e sëmundjes",
+            "Trajtimin e sëmundjes",
+            "Parandalimin e komplikacioneve"
+        ],
+        "correct": 3,
+        "explanation": "Parandalimi tretësor synon parandalimin e komplikacioneve dhe rehabilitimin pas sëmundjes."
+    },
+    {
+        "id": "infermieristik-bazat-019",
+        "question": "Cila është ngjyra qe perdoret per te lyer muret në sallat e operacionit?",
+        "answers": [
+            "E bardhë",
+            "E kuqe",
+            "E verdhë",
+            "Jeshile"
+        ],
+        "correct": 3,
+        "explanation": "Muret e sallave operatore lyhen jeshile pasi ul lodhjen e syve dhe kontrastin me ngjyrën e kuqe të gjakut."
+    },
+    {
+        "id": "infermieristik-bazat-020",
+        "question": "Mledhja e të dhënave nga komunikimi me familjarët dhe klientin është etapa:",
+        "answers": [
+            "E parë e kujdesit infermieror",
+            "E dytë e kujdesit infermieror",
+            "E tretë e kujdesit infermieror",
+            "E katërt e kujdesit infermieror"
+        ],
+        "correct": 0,
+        "explanation": "Mbledhja e të dhënave (vlerësimi) është etapa e parë e procesit infermieror."
+    },
+    {
+        "id": "infermieristik-bazat-021",
+        "question": "Në mbledhjen e të dhënave për përcaktimin e diagnozës infermierore nuk bën pjesë një nga elementët e mëposhtëm:",
+        "answers": [
+            "Observimi",
+            "Kartela e mjekut",
+            "Biseda me klientin",
+            "Planifikimi"
+        ],
+        "correct": 3,
+        "explanation": "Planifikimi është një etapë tjetër e procesit infermieror, jo pjesë e mbledhjes së të dhënave."
+    },
+    {
+        "id": "infermieristik-bazat-022",
+        "question": "Hemoragjia nga hundet quhet:",
+        "answers": [
+            "Epistaksis",
+            "Petekje",
+            "Eritema",
+            "Hipoksi"
+        ],
+        "correct": 0,
+        "explanation": "Epistaksis është termi mjekësor për gjakderdhjen nga hunda."
+    },
+    {
+        "id": "infermieristik-bazat-023",
+        "question": "Ekzaminimi i një regjoni me anë të goditjes quhet:",
+        "answers": [
+            "Palpacion",
+            "Perkusion",
+            "Askultacion",
+            "Vibracion"
+        ],
+        "correct": 1,
+        "explanation": "Perkusioni është ekzaminim me anë të goditjes së lehtë të një regjioni trupor."
+    },
+    {
+        "id": "infermieristik-bazat-024",
+        "question": "Të dhënat subjektive janë të dhëna që sigurohen nga:",
+        "answers": [
+            "Testet diagnostikuese",
+            "Testet laboratorike",
+            "Pacienti dhe familjarët",
+            "Observimi"
+        ],
+        "correct": 2,
+        "explanation": "Të dhënat subjektive vijnë nga ajo çka raporton vetë pacienti/familjarët (ndjesi, simptoma)."
+    },
+    {
+        "id": "infermieristik-bazat-025",
+        "question": "Komunikimi intrapersonal është komunikimi që ndodh brënda:",
+        "answers": [
+            "Një individi",
+            "Dy individëve",
+            "Një grup individësh",
+            "Publik"
+        ],
+        "correct": 0,
+        "explanation": "Komunikimi intrapersonal ndodh brenda vetë individit (të menduarit me vete)."
+    },
+    {
+        "id": "infermieristik-bazat-026",
+        "question": "Kufiri i një termometri varjon nga:",
+        "answers": [
+            "37-45 gradë Celsius",
+            "34-42.2 gradë Celsius",
+            "30-41.2 gradë Celsius",
+            "26-40 gradë Celsius"
+        ],
+        "correct": 1,
+        "explanation": "Termometrat klinikë standardë kanë shkallë matëse nga rreth 34°C deri në 42.2°C."
+    },
+    {
+        "id": "infermieristik-bazat-027",
+        "question": "Rritja e temperaturës trupore mbi normalen quhet:",
+        "answers": [
+            "Hipotension",
+            "Hypertension",
+            "Hipotermi",
+            "Hipertermi"
+        ],
+        "correct": 3,
+        "explanation": "Hipertermia është rritje e temperaturës trupore mbi vlerat normale."
+    },
+    {
+        "id": "infermieristik-bazat-028",
+        "question": "Matja e pulsit apikalo-radial realizohet nga:",
+        "answers": [
+            "1 infermiere",
+            "2 infermiere",
+            "3 infermiere",
+            "Vet pacienti"
+        ],
+        "correct": 1,
+        "explanation": "Pulsi apikalo-radial matet njëkohësisht nga dy infermierë, njëri te maja e zemrës, tjetri te arteria radiale."
+    },
+    {
+        "id": "infermieristik-bazat-029",
+        "question": "Administrimi topikal i medikamenteve realizohet në rrugë:",
+        "answers": [
+            "Orale",
+            "Parenterale",
+            "Traktit respirator",
+            "Lëkura & mukozat"
+        ],
+        "correct": 3,
+        "explanation": "Administrimi topikal bëhet mbi lëkurë dhe mukoza."
+    },
+    {
+        "id": "infermieristik-bazat-030",
+        "question": "Cila nga mënyrat e mëposhtëme të administrimit të medikamenteve nuk bën pjesë në administrimin parenteral?",
+        "answers": [
+            "Intra/muskular",
+            "Intra/venoz",
+            "Sub/kutan",
+            "Transdermal"
+        ],
+        "correct": 3,
+        "explanation": "Rruga transdermale nuk konsiderohet parenterale, pasi nuk shpon lëkurën me gjilpërë."
+    },
+    {
+        "id": "infermieristik-bazat-031",
+        "question": "Kur një medikament duhet të qëndrojë në stomak për efekt lokal pacienti pozicionohet?",
+        "answers": [
+            "Dekubitus lateral dexter",
+            "Dekubitus lateral sinister",
+            "Pozicioni Fowler",
+            "Pozicioni semi-fowler"
+        ],
+        "correct": 1,
+        "explanation": "Shtrirja në krah të majtë (lateral sinister) vonon zbrazjen gastrike, duke mbajtur medikamentin më gjatë në stomak."
+    },
+    {
+        "id": "infermieristik-bazat-032",
+        "question": "Kur indi subkutan është i hollë ose kemi një age të gjatë injeksionet sub-kutane realizohen në kënd:",
+        "answers": [
+            "75 gradë",
+            "65 gradë",
+            "55 gradë",
+            "45 gradë"
+        ],
+        "correct": 3,
+        "explanation": "Për ind subkutan të hollë ose moshë të madhe, injeksioni s/c bëhet me kënd 45 gradë."
+    },
+    {
+        "id": "infermieristik-bazat-033",
+        "question": "Injeksionet intra/muskulare nuk realizohen në muskulin:",
+        "answers": [
+            "Gluteal",
+            "Femoral",
+            "Vastus-lateral",
+            "Facial"
+        ],
+        "correct": 3,
+        "explanation": "Muskujt e fytyrës nuk përdoren kurrë për injeksione intramuskulare."
+    },
+    {
+        "id": "infermieristik-bazat-034",
+        "question": "Teknika zikzak e injektimit të medikamenteve realizohet në injeksionet:",
+        "answers": [
+            "Intra/venoze",
+            "Intra/muskulare",
+            "Intra/dermale",
+            "Sub/kutane"
+        ],
+        "correct": 1,
+        "explanation": "Teknika Z-track (zigzag) përdoret në injeksionet intramuskulare për të parandaluar rrjedhjen e medikamentit."
+    },
+    {
+        "id": "infermieristik-bazat-035",
+        "question": "Metoda e administrimit të oksigjeno terapisë realizohet me anë të :",
+        "answers": [
+            "Sondës nazo-gastrike",
+            "Kateterit urinar",
+            "Vigonit",
+            "Kateterit nazal"
+        ],
+        "correct": 3,
+        "explanation": "Oksigjenoterapia administrohet zakonisht me anë të kateterit/kanjulës nazale."
+    },
+    {
+        "id": "infermieristik-bazat-036",
+        "question": "Shtimi i masës qarkulluese në organizëm quhet:",
+        "answers": [
+            "Hiperkalemi",
+            "Hipokalemi",
+            "Hipovolemi",
+            "Hipervolemi"
+        ],
+        "correct": 3,
+        "explanation": "Hipervolemia është rritje e vëllimit të gjakut qarkullues."
+    },
+    {
+        "id": "infermieristik-bazat-037",
+        "question": "Sa përqind të peshës së përgjithshme trupore zë sasia totale e ujit në organizëm?",
+        "answers": [
+            "55-85%",
+            "45-75%",
+            "35-65%",
+            "25-55%"
+        ],
+        "correct": 1,
+        "explanation": "Uji total i trupit zë rreth 45-75% të peshës trupore, në varësi të moshës dhe gjinisë."
+    },
+    {
+        "id": "infermieristik-bazat-038",
+        "question": "Cili nga këta elementë kimikë ka një rol të rëndësishëm në formimin e skeletit të trupit?",
+        "answers": [
+            "Natriumi",
+            "Kaliumi",
+            "Kalciumi",
+            "Magnezi"
+        ],
+        "correct": 2,
+        "explanation": "Kalciumi është elementi kryesor për formimin e kockave dhe skeletit."
+    },
+    {
+        "id": "infermieristik-bazat-039",
+        "question": "Cili nga këta përbërës kimikë dhe elementë kimikë ka një rol të rëndësishëm në acidozën dhe alkalozën metabolike?",
+        "answers": [
+            "HPO4",
+            "Cl",
+            "Mg",
+            "(HCO3)"
+        ],
+        "correct": 3,
+        "explanation": "Bikarbonati (HCO3-) është buferi kryesor në rregullimin acido-bazik metabolik."
+    },
+    {
+        "id": "infermieristik-bazat-040",
+        "question": "Cili nga këto element nuk bën pjesë në makroelementët ushqimor?",
+        "answers": [
+            "Uji",
+            "Karboidratet",
+            "Vitaminat",
+            "Yndyrnat"
+        ],
+        "correct": 2,
+        "explanation": "Vitaminat janë mikronutrientë, ndërsa uji, karboidratet dhe yndyrnat janë makronutrientë."
+    },
+    {
+        "id": "infermieristik-bazat-041",
+        "question": "Ulja e oreksit ose e dëshirës për të ngrënë quhet:",
+        "answers": [
+            "Nauze",
+            "Anoreksi",
+            "Vomitus",
+            "Flatulencë"
+        ],
+        "correct": 1,
+        "explanation": "Anoreksia është ulja/humbja e oreksit."
+    },
+    {
+        "id": "infermieristik-bazat-042",
+        "question": "Gjatë periudhës së dimrit proçeset metabolike:",
+        "answers": [
+            "Ulen",
+            "Rriten",
+            "Ndikohen nga gjinia",
+            "Nuk ndryshojnë"
+        ],
+        "correct": 1,
+        "explanation": "Në dimër organizmi rrit metabolizmin për të prodhuar më shumë nxehtësi trupore."
+    },
+    {
+        "id": "infermieristik-bazat-043",
+        "question": "Hapja kirurgjikale që bëhet në stomak nëpërmjet murit abdominal dhe shërben për ushqyerjen e pacienti quhet:",
+        "answers": [
+            "Tonsilectomi",
+            "Laringostomi",
+            "Gastrostomi",
+            "Faringostomi"
+        ],
+        "correct": 2,
+        "explanation": "Gastrostomia është hapje kirurgjikale në stomak për ushqyerjen e pacientit."
+    },
+    {
+        "id": "infermieristik-bazat-044",
+        "question": "Procesi i zbrazjes së vezikës urinare quhet:",
+        "answers": [
+            "Meatus",
+            "Uretër",
+            "Miksion",
+            "Sfinkter"
+        ],
+        "correct": 2,
+        "explanation": "Miksioni është termi për procesin e urinimit (zbrazjen e vezikës urinare)."
+    },
+    {
+        "id": "infermieristik-bazat-045",
+        "question": "Zbrazja e vezikës urinare tek adultët ndodh kur në veshkë janë grumbulluar:",
+        "answers": [
+            "50-150 ml/urinë",
+            "100-200 ml/urinë",
+            "150-250 ml/urinë",
+            "200-300 ml/urinë"
+        ],
+        "correct": 3,
+        "explanation": "Nevoja për urinim (dëshira e ndjeshme) shfaqet zakonisht kur në fshikëz grumbullohen rreth 200-300 ml urinë."
+    },
+    {
+        "id": "infermieristik-bazat-046",
+        "question": "Sasia e urinës që mbetet në vezikë pas urinimit quhet:",
+        "answers": [
+            "Poliuri",
+            "Anuri",
+            "Oliguri",
+            "Urinë reziduale"
+        ],
+        "correct": 3,
+        "explanation": "Urina reziduale është sasia që mbetet në vezikë pas urinimit."
+    },
+    {
+        "id": "infermieristik-bazat-047",
+        "question": "Prania e pusit në urinë quhet:",
+        "answers": [
+            "Glukozuri",
+            "Piuri",
+            "Hematuri",
+            "Dizuri"
+        ],
+        "correct": 1,
+        "explanation": "Piuria është prania e qelbit (leukociteve) në urinë."
+    },
+    {
+        "id": "infermieristik-bazat-048",
+        "question": "Urinimi i shpeshtë gjatë natës, vecanërisht kur nuk jane marre sasi të mëdha lëngjesh quhet:",
+        "answers": [
+            "Inkontinencë urinare",
+            "Polakiuri",
+            "Nikturi",
+            "Piuri"
+        ],
+        "correct": 2,
+        "explanation": "Nikturia është urinim i shpeshtë gjatë natës."
+    },
+    {
+        "id": "infermieristik-bazat-049",
+        "question": "Sa është sasia e solucionit që shërben për të fryrë balonin e kateterit foley gjatë proçesit të kateterizimit urinar?",
+        "answers": [
+            "5 ml",
+            "10 ml",
+            "15 ml",
+            "20 ml"
+        ],
+        "correct": 0,
+        "explanation": "Sasia standarde e solucionit për fryrjen e balonit të kateterit Foley është 5 ml (në balonat standarde 5-10ml, mbushen me sasinë minimale të treguar)."
+    },
+    {
+        "id": "infermieristik-bazat-050",
+        "question": "Hemokultura është një analizë gjaku:",
+        "answers": [
+            "Biokimike",
+            "Klinike",
+            "Bakterologjike",
+            "Parazitologjike"
+        ],
+        "correct": 2,
+        "explanation": "Hemokultura është ekzaminim bakteriologjik për të zbuluar praninë e baktereve në gjak."
+    },
+    {
+        "id": "infermieristik-bazat-051",
+        "question": "Ekzaminimi bakterologjik i feçeve quhet:",
+        "answers": [
+            "Hemokulturë",
+            "Koprokulturë",
+            "Urokulturë",
+            "Parazitologjike"
+        ],
+        "correct": 1,
+        "explanation": "Koprokultura është ekzaminimi bakteriologjik i feçeve."
+    },
+    {
+        "id": "infermieristik-bazat-052",
+        "question": "Në pozicionet e qëndrimit shtrirë në planin horizontal të pacientit nuk bën pjesë:",
+        "answers": [
+            "Dekubitus dorsal",
+            "Dekubitus ventral",
+            "Dekubitus lateral",
+            "Pozicioni ortopne"
+        ],
+        "correct": 3,
+        "explanation": "Pozicioni ortopne është ulur/gjysmë-ulur, jo horizontal."
+    },
+    {
+        "id": "infermieristik-bazat-053",
+        "question": "Gjatë vendosjes së pacientit në pozicion semi-Fowler shpina formon me shtratin një kënd:",
+        "answers": [
+            "90 gradë",
+            "60 gradë",
+            "45 gradë",
+            "25 gradë"
+        ],
+        "correct": 2,
+        "explanation": "Pozicioni semi-Fowler formon një kënd prej rreth 45 gradësh mes shpinës dhe shtratit."
+    },
+    {
+        "id": "infermieristik-bazat-054",
+        "question": "Plagët që krijohen nga qëndrimi në shtrat për një kohë të gjatë ose nga presioni quhen;",
+        "answers": [
+            "Ulçera sipërfaqësore",
+            "Ulçera të thella",
+            "Dekubitus",
+            "Imobilitet"
+        ],
+        "correct": 2,
+        "explanation": "Plagët nga presioni i zgjatur në shtrat quhen ulçera dekubitale (dekubitus)."
+    },
+    {
+        "id": "infermieristik-bazat-055",
+        "question": "Cili ndër këta faktor ka më tepër ndikim në formimin e dekubitusëve?",
+        "answers": [
+            "Anemia",
+            "Lageshtia",
+            "Vit. C",
+            "Temperatura"
+        ],
+        "correct": 1,
+        "explanation": "Lagështia (nga djersa/urina) rrit ndjeshëm riskun për zhvillimin e ulçerave të presionit."
+    },
+    {
+        "id": "infermieristik-bazat-056",
+        "question": "Paftësia për të bërë një gjumë cilësor quhet:",
+        "answers": [
+            "Narkolepsi",
+            "Insomnia",
+            "Apnea e gjumit",
+            "Somnabulizëm"
+        ],
+        "correct": 1,
+        "explanation": "Insomnia është paaftësia për të fjetur në mënyrë cilësore/mjaftueshme."
+    },
+    {
+        "id": "infermieristik-bazat-057",
+        "question": "Paftësia e zotërimit të defekimit të feçeve dhe gazrave nga anusi quhet:",
+        "answers": [
+            "Diarre",
+            "Koprolite",
+            "Konstipacion",
+            "Inkontinencë fekale"
+        ],
+        "correct": 3,
+        "explanation": "Inkontinenca fekale është humbja e kontrollit mbi defekimin."
+    },
+    {
+        "id": "infermieristik-bazat-058",
+        "question": "Egzaminimi i një organi ose i një regjoni me anë të prekjes quhet:",
+        "answers": [
+            "Askultacion",
+            "Perkusion",
+            "Palpacion",
+            "Vibracion"
+        ],
+        "correct": 2,
+        "explanation": "Palpacioni është ekzaminim me anë të prekjes."
+    },
+    {
+        "id": "infermieristik-bazat-059",
+        "question": "Matja e temperaturës orale nuk është e sigurtë:",
+        "answers": [
+            "Te pacientët me diarre",
+            "Te pacientët e djersitur",
+            "Te pacientët me episode krizash",
+            "Te pacientët me konstipacion"
+        ],
+        "correct": 2,
+        "explanation": "Te pacientët me episode konvulsive/krizash ekziston rrezik dëmtimi nga kafshimi i termometrit oral."
+    },
+    {
+        "id": "infermieristik-bazat-060",
+        "question": "Rritja e shpejtësise së pulsit mbi 100 rrahje në minutë quhet:",
+        "answers": [
+            "Takipne",
+            "Takikardi",
+            "Bradipne",
+            "Bradikardi"
+        ],
+        "correct": 1,
+        "explanation": "Takikardia është rritje e frekuencës së pulsit mbi 100/min."
+    },
+    {
+        "id": "infermieristik-bazat-061",
+        "question": "Natriumi është një element i cili merr pjesë në :",
+        "answers": [
+            "Tkurrjen muskulare",
+            "Metabolizmin e karboidrateve",
+            "Ruajtjen e ekulibrit acido-bazik",
+            "Balancën hidrike"
+        ],
+        "correct": 3,
+        "explanation": "Natriumi është elektroliti kryesor që rregullon balancën e lëngjeve (osmolaritetin) në organizëm."
+    },
+    {
+        "id": "infermieristik-bazat-062",
+        "question": "Cila është sasia e oksigjenit që jepet me anë të kanjulës nazale?",
+        "answers": [
+            "1l/min",
+            "2-4l/min",
+            "5-7 l/min",
+            "6-8 l/min"
+        ],
+        "correct": 1,
+        "explanation": "Kanjula nazale zakonisht jep oksigjen me fluks 2-4 l/min (deri në 6 l/min në raste të tjera)."
+    },
+    {
+        "id": "infermieristik-bazat-063",
+        "question": "Nga mëngjesi në darkë temperatura e trupit ndryshon?",
+        "answers": [
+            "me 0.2 gradë Celsius",
+            "me 0.4 gradë Celsius",
+            "me 0.6 gradë Celsius",
+            "me 1 gradë Celsius"
+        ],
+        "correct": 3,
+        "explanation": "Temperatura trupore ndryshon deri në 1°C gjatë ditës, më e ulët në mëngjes e më e lartë pasdite/mbrëmje."
+    },
+    {
+        "id": "infermieristik-bazat-064",
+        "question": "Ulja e frekuencës së pulsit nën 60 rrah/min quhet:",
+        "answers": [
+            "Takipne",
+            "Takikardi",
+            "Bradipne",
+            "Bradikardi"
+        ],
+        "correct": 3,
+        "explanation": "Bradikardia është ulje e frekuencës së pulsit nën 60 rrahje/min."
+    },
+    {
+        "id": "infermieristik-bazat-065",
+        "question": "Cili nga këta muskuj është më i përdorshmi për bërjen e injeksioneve intramuskular?",
+        "answers": [
+            "Gluteal",
+            "Vastus lateral",
+            "Deltoid",
+            "Femoral"
+        ],
+        "correct": 0,
+        "explanation": "Muskuli gluteal është vendi më i përdorur për injeksione intramuskulare tek të rriturit."
+    },
+    {
+        "id": "infermieristik-bazat-066",
+        "question": "Në rregullat e kujdesit shëndetësor bën pjesë:",
+        "answers": [
+            "Drejtësia",
+            "Vërtetësia",
+            "Jokeqdashje",
+            "Bamirësia"
+        ],
+        "correct": 1,
+        "explanation": "Vërtetësia (thënia e së vërtetës) është një 'rregull' etike derivuese, ndryshe nga katër parimet themelore (drejtësi, jokeqdashje, bamirësi, autonomi)."
+    },
+    {
+        "id": "infermieristik-bazat-067",
+        "question": "Parandalimi dytësor konsiston:",
+        "answers": [
+            "Programet e edukimit shëndetësor",
+            "Imunizimin e efekteve të sëmundjes",
+            "Trajtimin dhe izolimin e sëmundjes",
+            "Diagnostikimin e sëmundjes"
+        ],
+        "correct": 3,
+        "explanation": "Parandalimi dytësor bazohet në diagnostikimin (zbulimin) e hershëm të sëmundjes."
+    },
+    {
+        "id": "infermieristik-bazat-068",
+        "question": "Cila është temperatura që duhet të ruhet në ambientet spitalore?",
+        "answers": [
+            "21-26 gradë celcius",
+            "22-27 gradë celcius",
+            "26-28 gradë celcius",
+            "20-22 gradë celcius"
+        ],
+        "correct": 3,
+        "explanation": "Temperatura e rekomanduar në ambientet spitalore është 20-22°C."
+    },
+    {
+        "id": "infermieristik-bazat-069",
+        "question": "Diagnoza mjekësore:",
+        "answers": [
+            "Është e drejtuar nga patologjia dhe zgjat aq kohë sa zgjat semundja",
+            "Përshkruan përgjigjen e personave për sëmundjen",
+            "Trajton të sëmurin",
+            "Identifikon një simptomë të caktuar"
+        ],
+        "correct": 0,
+        "explanation": "Diagnoza mjekësore fokusohet te patologjia dhe qëndron për sa kohë vazhdon sëmundja."
+    },
+    {
+        "id": "infermieristik-bazat-070",
+        "question": "Matja e temperaturës rektale nuk është e sigurtë te:",
+        "answers": [
+            "Pacientët me episode krizash",
+            "Pacientët që kanë bërë ndërhyrje në zonën rektale",
+            "Pacientët me të vjella",
+            "Pacientët me konstipacion"
+        ],
+        "correct": 1,
+        "explanation": "Matja rektale kundërindikohet te pacientët me ndërhyrje/kirurgji rektale të fundit."
+    },
+    {
+        "id": "infermieristik-bazat-071",
+        "question": "Sa përqind të peshës së përgjithshme trupore zë lengu intersticial?",
+        "answers": [
+            "5 %",
+            "10 %",
+            "15 %",
+            "20 %"
+        ],
+        "correct": 2,
+        "explanation": "Lëngu intersticial zë rreth 15% të peshës trupore (pjesë e lëngut ekstraqelizor)."
+    },
+    {
+        "id": "infermieristik-bazat-072",
+        "question": "Sa përqind të oksigjenit në gjak transporton Hb?",
+        "answers": [
+            "90 %",
+            "93 %",
+            "97 %",
+            "99 %"
+        ],
+        "correct": 2,
+        "explanation": "Hemoglobina transporton rreth 97% të oksigjenit në gjak."
+    },
+    {
+        "id": "infermieristik-bazat-073",
+        "question": "Ne qofte se një infermiere përvetëson sendet personale të një pacienti ajo ka thyer:",
+        "answers": [
+            "Kodin etik",
+            "Ligjin",
+            "Deontologjinë",
+            "Vlerat"
+        ],
+        "correct": 1,
+        "explanation": "Përvetësimi i sendeve të pacientit është vjedhje, pra shkelje e ligjit."
+    },
+    {
+        "id": "infermieristik-bazat-074",
+        "question": "Pasi jepen medikamentet me anë të tubit nazogastrik pacienti vendoset në pozicion:",
+        "answers": [
+            "Shtrirë nga e majta",
+            "Shtrirë nga e djathta",
+            "Semi-Fowler",
+            "Fowler"
+        ],
+        "correct": 1,
+        "explanation": "Pas administrimit nazogastrik, pacienti pozicionohet shtrirë nga e djathta, pasi kjo lehtëson zbrazjen gastrike dhe zvogëlon riskun e refluksit."
+    },
+    {
+        "id": "infermieristik-bazat-075",
+        "question": "Jonet e kalciumit kryejnë këtë funksion në sinaps:",
+        "answers": [
+            "Transmetimin e impulseve nervore",
+            "Transmetimin e impulseve elektrike",
+            "Nxit aktivitetin e enzimave",
+            "Nxit aktivitetin e karbohidrateve"
+        ],
+        "correct": 0,
+        "explanation": "Kalciumi nxit çlirimin e neurotransmetuesve në sinaps, duke mundësuar transmetimin e impulsit nervor."
+    },
+    {
+        "id": "infermieristik-bazat-076",
+        "question": "Orificiumi i jashtëm i uretrës quhet:",
+        "answers": [
+            "Meatus",
+            "Miksion",
+            "Polakiuri",
+            "Poliuri"
+        ],
+        "correct": 0,
+        "explanation": "Meatus është hapja e jashtme e uretrës."
+    },
+    {
+        "id": "infermieristik-bazat-077",
+        "question": "Paaftësia për të kontrolluar shkarkimin e urinës nga vezika urinare quhet:",
+        "answers": [
+            "Oliguri",
+            "Retesion urinar",
+            "Inkontinencë urinare",
+            "Anuri"
+        ],
+        "correct": 2,
+        "explanation": "Inkontinenca urinare është humbja e kontrollit të urinimit."
+    },
+    {
+        "id": "infermieristik-bazat-078",
+        "question": "Pamundësia për të qëndruar në gjumë për shkak të zgjimeve të shpeshta quhet insomni:",
+        "answers": [
+            "fillestare",
+            "Sekondare",
+            "Terminale",
+            "Intermitente"
+        ],
+        "correct": 3,
+        "explanation": "Insomnia intermitente karakterizohet nga zgjime të shpeshta gjatë natës."
+    },
+    {
+        "id": "infermieristik-bazat-079",
+        "question": "Një vale e papritur mbingarkese me gjumë që ndodh gjatë ditës quhet:",
+        "answers": [
+            "hipersomni",
+            "narkolepsi",
+            "parasomni",
+            "Insomni"
+        ],
+        "correct": 1,
+        "explanation": "Narkolepsia shfaqet me valë të papritura gjumi gjatë ditës."
+    },
+    {
+        "id": "infermieristik-bazat-080",
+        "question": "Infeksionet urinare që ndodhin nga vendosja e kateterit të vezikës urinare mund të shkaktohen nga :",
+        "answers": [
+            "Mos respektimin i teknikës aseptike",
+            "Mos futja siç duhet e kateterit",
+            "Mos larja e duarve të pacientit",
+            "Mos funksionimi siç duhet i uretrës"
+        ],
+        "correct": 0,
+        "explanation": "Mosrespektimi i teknikës aseptike gjatë kateterizimit është shkaku kryesor i infeksioneve urinare të lidhura me kateterin."
+    },
+    {
+        "id": "infermieristik-bazat-081",
+        "question": "Rritja e hematokritit mund të jetë tregues i:",
+        "answers": [
+            "Anemisë",
+            "Infeksionit",
+            "Hemorragjisë",
+            "Dehidrimit"
+        ],
+        "correct": 3,
+        "explanation": "Dehidrimi shkakton hemokoncentrim, pra rritje të hematokritit."
+    },
+    {
+        "id": "infermieristik-bazat-082",
+        "question": "Ecja në gjumë quhet:",
+        "answers": [
+            "Insomni",
+            "Hipersomni",
+            "Parasomni",
+            "Somnabulizëm"
+        ],
+        "correct": 3,
+        "explanation": "Somnabulizmi (ecja gjatë gjumit) është një çrregullim specifik i gjumit."
+    },
+    {
+        "id": "infermieristik-bazat-083",
+        "question": "Cili eshtë raporti antikoagulant /gjak qe duhet për marjen e një analize?",
+        "answers": [
+            "0.3ml/5ml",
+            "0.5ml/3ml",
+            "0.5-0.3ml",
+            "0.5ml/5ml"
+        ],
+        "correct": 3,
+        "explanation": "Raporti standard i antikoagulantit ndaj gjakut për analizat e koagulimit është rreth 0.5ml/5ml."
+    },
+    {
+        "id": "infermieristik-bazat-084",
+        "question": "Metodat për kontrollimin e tubit nazogastrik:",
+        "answers": [
+            "Tubi futet me ane te gastrostomise",
+            "Tubi futet me anë të një incizioni",
+            "Fut me anë të shiringës pak ajër në fund të tubit",
+            "Fut me anë të shiringës pak gjak në fund të tubit"
+        ],
+        "correct": 2,
+        "explanation": "Vendosja e sondës nazogastrike verifikohet duke fut pak ajër me shiringë dhe duke dëgjuar me stetoskop mbi stomak."
+    },
+    {
+        "id": "infermieristik-bazat-085",
+        "question": "Sa zbret përqindja metabolike gjatë gjumit?",
+        "answers": [
+            "5-9 %",
+            "10-15 %",
+            "16-20 %",
+            "21-25 %"
+        ],
+        "correct": 1,
+        "explanation": "Gjatë gjumit metabolizmi bazal zbret rreth 10-15%."
+    },
+    {
+        "id": "infermieristik-bazat-086",
+        "question": "Ulçerat që fillojnë në shtresat subkutane mbi një dalje kockore dhe më pas zgjerohen dhe në sipërfaqe quhen:",
+        "answers": [
+            "Ulçera sipërfaqësore",
+            "Ulçera të thella",
+            "Nekrozë sipërfaqësore",
+            "Nekrozë që depërton në thellësi"
+        ],
+        "correct": 1,
+        "explanation": "Ulçerat e thella fillojnë nën lëkurë (mbi daljen kockore) dhe përhapen drejt sipërfaqes."
+    },
+    {
+        "id": "infermieristik-bazat-087",
+        "question": "Cili nga këto pozicione nuk bën pjesë në vendosjen e pacientit në plan horizontal?",
+        "answers": [
+            "Dekubitus lateral",
+            "Dekubitus dorsal",
+            "Dekubitus ventral",
+            "Fowler"
+        ],
+        "correct": 3,
+        "explanation": "Pozicioni Fowler është gjysmë-ulur, jo horizontal."
+    },
+    {
+        "id": "infermieristik-bazat-088",
+        "question": "Ulja e dendesisë së urinës nën vlerën 1010-1030 haset në semundje të:",
+        "answers": [
+            "Heparit",
+            "Diabetit",
+            "Veshkave",
+            "Stomakut"
+        ],
+        "correct": 2,
+        "explanation": "Ulja e densitetit specifik të urinës tregon aftësi të reduktuar të veshkave për ta koncentruar atë."
+    },
+    {
+        "id": "infermieristik-bazat-089",
+        "question": "Testi widal është një metodë që mund të përdoret për diagnozë në:",
+        "answers": [
+            "Sëmundjet infektive",
+            "Tifo abdominale",
+            "Sëmundjet pulmonare",
+            "Cirrozë hepatike"
+        ],
+        "correct": 1,
+        "explanation": "Testi Widal përdoret specifikisht për diagnozën e tifos abdominale."
+    },
+    {
+        "id": "infermieristik-bazat-090",
+        "question": "\"Ca\" është një kation i cili merr pjesë në këto funksione:",
+        "answers": [
+            "Transmetimin e impulseve nervore",
+            "Transmetimin e impulseve elektrike",
+            "Krijimin e impulseve nervore",
+            "Krijimin e impulseve elektrike"
+        ],
+        "correct": 0,
+        "explanation": "Kalciumi ndihmon në çlirimin e neurotransmetuesve, pra në transmetimin e impulsit nervor mes neuroneve."
+    },
+    {
+        "id": "infermieristik-bazat-091",
+        "question": "Hipertension quhet kur presioni arterial i matur i gjakut është:",
+        "answers": [
+            "Nën vlerat 140/90 mmHg",
+            "Në vlerat 140/90 mmHg",
+            "Mbi vlerat 140/90 mmHg",
+            "Mbi vlerat 160/100 mmHg"
+        ],
+        "correct": 2,
+        "explanation": "Hipertensioni klasifikohet si presion arterial mbi vlerat 140/90 mmHg."
+    },
+    {
+        "id": "infermieristik-bazat-092",
+        "question": "Cili nga vëndet e matjes së temperaturës është më pak i sakti?",
+        "answers": [
+            "Rektale",
+            "Orale",
+            "Aksilare",
+            "Temporale"
+        ],
+        "correct": 3,
+        "explanation": "Matja temporale (me sensor infra të kresë) konsiderohet më pak e saktë krahasuar me metodat e tjera standarde të matjes së temperaturës."
+    },
+    {
+        "id": "infermieristik-bazat-093",
+        "question": "Në administrimin e injeksioneve s/c bëhet:",
+        "answers": [
+            "Tërheqje e lëkurës",
+            "Mbledhje e lëkurës",
+            "Shtypje e lëkurës",
+            "Tendosje e lëkurës"
+        ],
+        "correct": 1,
+        "explanation": "Për injeksionet subkutane lëkura mblidhet (bëhet një palë) para shpimit."
+    },
+    {
+        "id": "infermieristik-bazat-094",
+        "question": "Në administrimin e injeksioneve intramuskulare bëhet:",
+        "answers": [
+            "Tërheqje e lëkurës",
+            "Mbledhje e lëkurës",
+            "Shtypje e lëkurës",
+            "Tendosje e lëkurës"
+        ],
+        "correct": 3,
+        "explanation": "Për injeksionet intramuskulare lëkura tendoset (shtrihet) para futjes së gjilpërës."
+    },
+    {
+        "id": "infermieristik-bazat-095",
+        "question": "Për të shtuar lagështirën e mjedisit në dhomën e pacientit përdoret:",
+        "answers": [
+            "Ventilator",
+            "Vaporizator",
+            "Kondicioner",
+            "Oksigjen I lagështuar"
+        ],
+        "correct": 1,
+        "explanation": "Vaporizatori përdoret për të rritur lagështinë e ambientit."
+    },
+    {
+        "id": "infermieristik-bazat-096",
+        "question": "Diagnoza infermierore:",
+        "answers": [
+            "është e drejtuar nga patologjia",
+            "zgjat aq kohë sa vazhdon sëmundja e personit",
+            "trajton sëmundjen",
+            "trajton të sëmurin"
+        ],
+        "correct": 3,
+        "explanation": "Diagnoza infermierore fokusohet te personi/përgjigja e tij, jo te vetë sëmundja si tek diagnoza mjekësore."
+    },
+    {
+        "id": "infermieristik-bazat-097",
+        "question": "Injeksionet jepen në rrugë :",
+        "answers": [
+            "Orale",
+            "Paranterale",
+            "Endogjene",
+            "Egzogjene"
+        ],
+        "correct": 1,
+        "explanation": "Injeksionet administrohen nëpërmjet rrugës parenterale."
+    },
+    {
+        "id": "infermieristik-bazat-098",
+        "question": "Deontologjia është:",
+        "answers": [
+            "Një sistem i parimeve fiziologjike",
+            "Teoria e obligimit moral",
+            "Kodi udhëheqës",
+            "Vlerë individuale"
+        ],
+        "correct": 1,
+        "explanation": "Deontologjia është teoria e detyrimit/obligimit moral."
+    },
+    {
+        "id": "infermieristik-bazat-099",
+        "question": "Metakomunikimi është:",
+        "answers": [
+            "Shkëmbimi i mesazhit pa përdorur fjalët",
+            "Mesazhet që kërkojnë përdorimin e teknikave efektive të komunikimit",
+            "Mesazhi që transpoton qëndrimin e dërguesit ndaj vetes dhe mesazhit",
+            "Proçes mësimi dhe interpretimi"
+        ],
+        "correct": 2,
+        "explanation": "Metakomunikimi transmeton qëndrimin e dërguesit ndaj vetvetes dhe ndaj mesazhit që përcjell."
+    },
+    {
+        "id": "infermieristik-bazat-100",
+        "question": "Matja direkte (monitorim invaziv) e presionit të gjakut përfshin :",
+        "answers": [
+            "Metodën auskultative",
+            "Metodën palpuese",
+            "Futjen e një kateteri në arterien radiale ose femorale",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Monitorimi invaziv i presionit bëhet me futjen e një kateteri direkt në arterie (radiale/femorale)."
+    },
+    {
+        "id": "infermieristik-bazat-101",
+        "question": "Sistola është periudha kur ventrikujt e zemrës janë:",
+        "answers": [
+            "Të relaksuar",
+            "Të konraktuar",
+            "Gjysëm të kontraktuar",
+            "Gjysëm të relaksuar"
+        ],
+        "correct": 1,
+        "explanation": "Sistola është faza e kontraktimit të ventrikujve."
+    },
+    {
+        "id": "infermieristik-bazat-102",
+        "question": "Eshtë identifikuar dhe quajtur si pionerja dhe themeluesja e infermieristikës moderne dhe botërore, si dhe një reformatore e spitaleve:",
+        "answers": [
+            "Patricia Benner",
+            "V. Henderson",
+            "Florence Nightingale",
+            "D.E.Johnson"
+        ],
+        "correct": 2,
+        "explanation": "Florence Nightingale njihet si themeluesja e infermieristikës moderne."
+    },
+    {
+        "id": "infermieristik-bazat-103",
+        "question": "Dita Ndërkombëtare e Infermierit është vënë në nder të ditëlindjes së Florence Nightingale, dhe është më :",
+        "answers": [
+            "12 Mars",
+            "12 Prill",
+            "12 Maj",
+            "12 Qershor"
+        ],
+        "correct": 2,
+        "explanation": "Dita Ndërkombëtare e Infermierit festohet më 12 Maj, ditëlindja e Florence Nightingale."
+    },
+    {
+        "id": "infermieristik-bazat-104",
+        "question": "Njihet si Infermieria dhe Themeluesja e Infermieristikës Shqiptare:",
+        "answers": [
+            "Safka Kushi",
+            "Esma Pojani",
+            "Zonjusha Austriake",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Safka Kushi njihet si figura themeluese e infermieristikës moderne shqiptare."
+    },
+    {
+        "id": "infermieristik-bazat-105",
+        "question": "Respiracioni i shpejtë shoqëron temperaturën e organizmit:",
+        "answers": [
+            "Më të lartë se normale",
+            "Më të ulët se normale",
+            "Të pandryshueshme",
+            "Relativisht e barabartë"
+        ],
+        "correct": 0,
+        "explanation": "Ethja (temperaturë e lartë) shoqërohet zakonisht me rritje të frekuencës respiratore."
+    },
+    {
+        "id": "infermieristik-bazat-106",
+        "question": "Bradipnea është frekuenca respiratore:",
+        "answers": [
+            "Nën 18 respiracione/minutë",
+            "Mbi 20 respiracione/minutë",
+            "Mbi 30 respiracione/minutë",
+            "Nën 12 respiracione/minutë"
+        ],
+        "correct": 3,
+        "explanation": "Bradipnea përkufizohet si frekuencë respiratore nën 12 herë/minutë."
+    },
+    {
+        "id": "infermieristik-bazat-107",
+        "question": "Plotësimi i nevojave themelore të qënieve njerëzore janë një element i domosdoshëm për të ruajtur :",
+        "answers": [
+            "Homeostazën fiziologjike",
+            "Homeostazën psikologjike",
+            "Homeostazën fiziologjike dhe psikologjike",
+            "Asnjërën"
+        ],
+        "correct": 2,
+        "explanation": "Plotësimi i nevojave themelore ruan si homeostazën fiziologjike ashtu edhe atë psikologjike."
+    },
+    {
+        "id": "infermieristik-bazat-108",
+        "question": "Lidershipi, i cili përfshin ndjekësit e tij në zgjidhjen e problemeve, në marrjen e vendimeve dhe pjesëmarrjen e lirë në diskutime quhet:",
+        "answers": [
+            "Lidershipi drejtues ose autoritar",
+            "Lidershipi pjesmarrës ose demokratik",
+            "Lidershipi drejtues dhe pjesmarrës",
+            "Asnjërën"
+        ],
+        "correct": 2,
+        "explanation": "Lidershipi që përfshin ndjekësit në vendimmarrje e diskutime të lira klasifikohet si lidership drejtues dhe pjesëmarrës njëkohësisht, sipas kësaj kategorizimi specifik."
+    },
+    {
+        "id": "infermieristik-bazat-109",
+        "question": "Kur indi subkutan është i trashë, injeksionet subkutane bëhen me kënd:",
+        "answers": [
+            "45gradë",
+            "70 gradë",
+            "80gradë",
+            "90gradë"
+        ],
+        "correct": 3,
+        "explanation": "Për ind subkutan të trashë injeksioni s/c bëhet me kënd 90 gradë."
+    },
+    {
+        "id": "infermieristik-bazat-110",
+        "question": "Sasia maksimale e dhënies së medikamenteve në injeksione intra-muskulare në mililitra është:",
+        "answers": [
+            "1 mililitra",
+            "3 mililitra",
+            "5 mililitra",
+            "7 mililitra"
+        ],
+        "correct": 2,
+        "explanation": "Sasia maksimale e zakonshme e një injeksioni intramuskular në muskul të madh është 5 ml."
+    },
+    {
+        "id": "infermieristik-bazat-111",
+        "question": "Në Parimet e ruajtjes së shëndetit nuk bën pjesë:",
+        "answers": [
+            "Ushqyerja",
+            "Praktikat familjare",
+            "Ushtrimet",
+            "Mos përdorimi i drogës dhe duhanit"
+        ],
+        "correct": 1,
+        "explanation": "'Praktikat familjare' nuk konsiderohet parim specifik i ruajtjes së shëndetit, ndryshe nga ushqyerja, ushtrimet dhe shmangia e drogës/duhanit."
+    },
+    {
+        "id": "infermieristik-bazat-112",
+        "question": "Sëmundja Adison karakterizohet nga funksionimi jo i plotë i gjëndrës:",
+        "answers": [
+            "Adrenale",
+            "Hipofizës",
+            "Tiroides",
+            "Paratiroide"
+        ],
+        "correct": 0,
+        "explanation": "Sëmundja Addison shkaktohet nga pamjaftueshmëria e gjëndrës adrenale (mbiveshkore)."
+    },
+    {
+        "id": "infermieristik-bazat-113",
+        "question": "Parandalimi i vërtetë realizohet tek pacientët, të cilët konsiderohen fizikisht dhe emocionalisht të shëndetshëm. Ai ndryshe quhet:",
+        "answers": [
+            "Parandalimi parësor",
+            "Parandalimi dytësor",
+            "Parandalimi tretësor",
+            "Parandalimi parësor, dytësor dhe tretësor"
+        ],
+        "correct": 0,
+        "explanation": "Parandalimi parësor synon individë të shëndetshëm, para se sëmundja të shfaqet."
+    },
+    {
+        "id": "infermieristik-bazat-114",
+        "question": "Përthithja më e shpejtë e medikamenteve bëhet në rrugë:",
+        "answers": [
+            "Orale",
+            "Venoze",
+            "Subkutane",
+            "Intradermale"
+        ],
+        "correct": 1,
+        "explanation": "Rruga venoze siguron veprimin/përthithjen më të shpejtë të medikamentit, direkt në qarkullim."
+    },
+    {
+        "id": "infermieristik-bazat-115",
+        "question": "Një ndërprerje e përkohshme frymëmarrjes (shpesh duke fjetur) që zgjat të paktën 10 sekonda quhet:",
+        "answers": [
+            "Takipne",
+            "Bradipne",
+            "Apne",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Apnea është ndërprerje e frymëmarrjes për të paktën 10 sekonda."
+    },
+    {
+        "id": "infermieristik-bazat-116",
+        "question": "Prania e qelizave epiteliale në urinë duhet të jetë:",
+        "answers": [
+            "Negativ",
+            "E rrallë",
+            "E shpeshtë",
+            "Mesatare"
+        ],
+        "correct": 0,
+        "explanation": "Në një analizë urine normale, qelizat epiteliale zakonisht raportohen si 'negative'/mungojnë në sasi domethënëse."
+    },
+    {
+        "id": "infermieristik-bazat-117",
+        "question": "Gjatë retensionit urinar vezika urinare:",
+        "answers": [
+            "Është e boshatisur",
+            "Është gjysëm e mbushur",
+            "Ka pak urinë reziduale",
+            "Fryhet deri sa arrin umbelikusin"
+        ],
+        "correct": 3,
+        "explanation": "Në retension urinar vezika mbushet e mund të fryhet deri në lartësinë e kërthizës (umbilikut)."
+    },
+    {
+        "id": "infermieristik-bazat-118",
+        "question": "Dizuria është:",
+        "answers": [
+            "Urinim i pakët",
+            "Urinim i tepërt",
+            "Vështirësi në urinim",
+            "Paaftësi për të urinuar"
+        ],
+        "correct": 2,
+        "explanation": "Dizuria është vështirësi/dhimbje gjatë urinimit."
+    },
+    {
+        "id": "infermieristik-bazat-119",
+        "question": "Procesi i observimit është mbledhja e të dhënave duke:",
+        "answers": [
+            "përdorur shqisat",
+            "përdorur informacionin nga pacienti",
+            "përdorur informacionin nga kartela e mjekut",
+            "shqyrtuar rezultatet laburatorike"
+        ],
+        "correct": 0,
+        "explanation": "Observimi bazohet në përdorimin e shqisave (shikim, dëgjim, prekje etj.) për mbledhjen e të dhënave."
+    },
+    {
+        "id": "infermieristik-bazat-120",
+        "question": "Observimi me anë të dëgjimit quhet:",
+        "answers": [
+            "Perkusion",
+            "Askultacion",
+            "Palpacion",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Askultacioni është ekzaminimi me anë të dëgjimit (me stetoskop)."
+    },
+    {
+        "id": "infermieristik-bazat-121",
+        "question": "Informacioni që dërgohet ose shprehet nga dërguesi gjatë një procesi komunikimi quhet:",
+        "answers": [
+            "Referent",
+            "Mesazh",
+            "Marrës",
+            "Mjedis"
+        ],
+        "correct": 1,
+        "explanation": "Mesazhi është informacioni që dërgohet nga dërguesi te marrësi."
+    },
+    {
+        "id": "infermieristik-bazat-122",
+        "question": "Pikëpamjet personale rreth ngjarjeve që ndodhin në një mjedis quhen:",
+        "answers": [
+            "Perceptime",
+            "Emocione",
+            "Vlera",
+            "Besime"
+        ],
+        "correct": 0,
+        "explanation": "Perceptimet janë pikëpamjet personale mbi ngjarjet e mjedisit."
+    },
+    {
+        "id": "infermieristik-bazat-123",
+        "question": "Një individ mund të qëndrojë pa ujë:",
+        "answers": [
+            "2-3ditë",
+            "3-5ditë",
+            "5-7ditë",
+            "8-9ditë"
+        ],
+        "correct": 1,
+        "explanation": "Njeriu mund të mbijetojë pa ujë përafërsisht 3-5 ditë."
+    },
+    {
+        "id": "infermieristik-bazat-124",
+        "question": "Lidhja ndihmuese është lidhja:",
+        "answers": [
+            "Infermier-infermier",
+            "Infermier-Mjek",
+            "Infermier-Pacient",
+            "Pacient -Familjar"
+        ],
+        "correct": 2,
+        "explanation": "Lidhja ndihmuese klasike në infermieristikë është ajo infermier-pacient."
+    },
+    {
+        "id": "infermieristik-bazat-125",
+        "question": "Aftësia për të kuptuar, pranuar jetën e një personi tjetër dhe për të saktësuar ndjenjat perceptuese quhet:",
+        "answers": [
+            "Kujdes",
+            "Empati",
+            "Besim",
+            "Reciprocitet"
+        ],
+        "correct": 1,
+        "explanation": "Empatia është aftësia për të kuptuar dhe ndarë përvojën e një personi tjetër."
+    },
+    {
+        "id": "infermieristik-bazat-126",
+        "question": "Pulsi qendror është pulsi i cili matet:",
+        "answers": [
+            "në arterien temporale",
+            "në arterien brakiale",
+            "në arterien carotis",
+            "në arterien radiale"
+        ],
+        "correct": 2,
+        "explanation": "Pulsi qendror matet në arterien karotide."
+    },
+    {
+        "id": "infermieristik-bazat-127",
+        "question": "Pakësimi i masës muskulare si quhet:",
+        "answers": [
+            "atrofi",
+            "atoni",
+            "plogështi",
+            "kontrakturë"
+        ],
+        "correct": 0,
+        "explanation": "Atrofia është pakësimi i masës muskulare."
+    },
+    {
+        "id": "infermieristik-bazat-128",
+        "question": "Në karakteristikat e një lidhje ndihmuese nuk bën pjesë:",
+        "answers": [
+            "besimi",
+            "empatia",
+            "kujdesi",
+            "testimi"
+        ],
+        "correct": 3,
+        "explanation": "Testimi nuk është karakteristikë e lidhjes ndihmuese; besimi, empatia dhe kujdesi janë."
+    },
+    {
+        "id": "infermieristik-bazat-129",
+        "question": "Analiza e cila shërben për të matur çrregullimet acido-bazike në gjak quhet:",
+        "answers": [
+            "Niveli i protrombinës",
+            "Koha howell",
+            "Hemokultura",
+            "Gazanaliza e gjakut"
+        ],
+        "correct": 3,
+        "explanation": "Gazanaliza e gjakut (ABG) mat parametrat acido-bazikë të gjakut."
+    },
+    {
+        "id": "infermieristik-bazat-130",
+        "question": "Kur diagnoza nuk është e saktë dhe nuk është vendosur që pacienti të shtrohet ai dërgohet në:",
+        "answers": [
+            "në sallën e operacionit",
+            "në terapinë intesive",
+            "në pavion ose në klinikë",
+            "dhomën e observimit"
+        ],
+        "correct": 3,
+        "explanation": "Në pasiguri diagnostike, pacienti mbahet fillimisht në dhomën e observimit."
+    },
+    {
+        "id": "infermieristik-bazat-131",
+        "question": "Ulja e nivelit te dioksidit të karbonit në gjak quhet:",
+        "answers": [
+            "Hiperventilim",
+            "Hipoventilim",
+            "Hiperkapni",
+            "Hipokapni"
+        ],
+        "correct": 3,
+        "explanation": "Hipokapnia është ulje e nivelit të CO2 në gjak."
+    },
+    {
+        "id": "infermieristik-bazat-132",
+        "question": "Një respiracion i shpejtë dhe shumë i thellë quhet:",
+        "answers": [
+            "Hiperventilim",
+            "Hipoventilim",
+            "Respiracion i thellë",
+            "Respiracion i cekët"
+        ],
+        "correct": 0,
+        "explanation": "Hiperventilimi karakterizohet nga frymëmarrje e shpejtë dhe e thellë."
+    },
+    {
+        "id": "infermieristik-bazat-133",
+        "question": "Cili nga këta elementë nuk bën pjesë në faktorët e jashtëm të mjedisit që ndikojnë në shëndetin e pacientit:",
+        "answers": [
+            "kontrolli i ndriçimit",
+            "përdorimi i ngjyrave",
+            "kontrolli i lagështirës",
+            "nevoja për dashuri dhe ngrohtësi"
+        ],
+        "correct": 3,
+        "explanation": "Nevoja për dashuri dhe ngrohtësi është faktor psikologjik i brendshëm, jo faktor mjedisor i jashtëm."
+    },
+    {
+        "id": "infermieristik-bazat-134",
+        "question": "Hipoventilimi është:",
+        "answers": [
+            "shtim i frekuencës respiratore",
+            "pakësim i frekuencës respiratore",
+            "ventilim i ulët dhe i papërshtatshëm",
+            "rritje e kapacitetit vital"
+        ],
+        "correct": 2,
+        "explanation": "Hipoventilimi është ventilim i pamjaftueshëm/i papërshtatshëm i mushkërive."
+    },
+    {
+        "id": "infermieristik-bazat-135",
+        "question": "Hipoksemi quhet:",
+        "answers": [
+            "rritja e nivelit të dioksidit të karbonit në gjak",
+            "reduktimi i nivelit të dioksidit të karbonit në gjak",
+            "rritja e nivelit të oksigjenit në gjak",
+            "reduktimi i nivelit të oksigjenit në gjak"
+        ],
+        "correct": 3,
+        "explanation": "Hipoksemia është ulja e nivelit të oksigjenit në gjak."
+    },
+    {
+        "id": "infermieristik-bazat-136",
+        "question": "Vala e gjakut e krijuar nga tkurrja e ventrikulit të majtë të zemrës quhet:",
+        "answers": [
+            "Presion arterial",
+            "Puls",
+            "Takikardi",
+            "Bradikardi"
+        ],
+        "correct": 1,
+        "explanation": "Pulsi është vala e gjakut e prodhuar nga tkurrja e ventrikulit të majtë."
+    },
+    {
+        "id": "infermieristik-bazat-137",
+        "question": "Presioni i ulët i gjakut që ndodh kur personi ngrihet nga pozicioni ulur apo shtrirë në këmbë quhet:",
+        "answers": [
+            "Hipertension",
+            "Hipotension Ortostatik",
+            "Hipotension",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Hipotensioni ortostatik shfaqet gjatë ndryshimit të pozicionit (ngritjes në këmbë)."
+    },
+    {
+        "id": "infermieristik-bazat-138",
+        "question": "Ekzaminimi bakterologjik i feçeve quhet:",
+        "answers": [
+            "Koprokulturë",
+            "Urokulturë",
+            "Hemokulturë",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Koprokultura është ekzaminimi bakteriologjik i feçeve."
+    },
+    {
+        "id": "infermieristik-bazat-139",
+        "question": "Injektimi i një substance medikamentoze nën lëkurë quhet :",
+        "answers": [
+            "Injeksion i/m",
+            "Injeksion s/c",
+            "Injeksion i/d",
+            "Injeksion i/v"
+        ],
+        "correct": 1,
+        "explanation": "Injeksioni nën lëkurë quhet subkutan (s/c)."
+    },
+    {
+        "id": "infermieristik-bazat-140",
+        "question": "Cila nga rrugët e mëposhtme nuk është një rrugë ushqyerjeje për pacientin:",
+        "answers": [
+            "Gastrostomia",
+            "Sonda nazo-gastrike",
+            "Rruga intavenoze",
+            "Kanjula nazale"
+        ],
+        "correct": 3,
+        "explanation": "Kanjula nazale përdoret për oksigjenoterapi, jo për ushqyerje."
+    },
+    {
+        "id": "infermieristik-bazat-141",
+        "question": "Sasia e urinës që mbetet në vezikën urinare pas aktit te urinimit quhet:",
+        "answers": [
+            "Retension urinar",
+            "Oliguri",
+            "Inkontinencë urinare",
+            "Urina reziduale"
+        ],
+        "correct": 3,
+        "explanation": "Urina reziduale mbetet në vezikë pas urinimit."
+    },
+    {
+        "id": "infermieristik-bazat-142",
+        "question": "Urinimi i shpeshtë gjatë natës quhet:",
+        "answers": [
+            "Narkolepsi",
+            "Hematuri",
+            "Dizuri",
+            "Nikturi"
+        ],
+        "correct": 3,
+        "explanation": "Nikturia është urinim i shpeshtë natën."
+    },
+    {
+        "id": "infermieristik-bazat-143",
+        "question": "Masa fekale e forcuar e grumbulluar dhe e ngecur në rektum dhe në raste të rënda gjendet në sigmoide, e cila është e pamundur për tu nxjerrë jashtë quhet:",
+        "answers": [
+            "Konstipacion",
+            "Koprolite",
+            "Tenezma",
+            "Dhimje rektale"
+        ],
+        "correct": 1,
+        "explanation": "Koprolitet janë masa fekale të forcuara e ngecura që nuk mund të dalin vetë."
+    },
+    {
+        "id": "infermieristik-bazat-144",
+        "question": "Presioni diastolik është kur ventrikuli i majtë është:",
+        "answers": [
+            "i kontraktuar",
+            "gjysëm i kontraktuar",
+            "i relaksuar",
+            "gjysëm i relaksuar"
+        ],
+        "correct": 2,
+        "explanation": "Presioni diastolik korrespondon me relaksimin e ventrikulit të majtë."
+    },
+    {
+        "id": "infermieristik-bazat-145",
+        "question": "Paaftësia e zotërimit të defekimit të feçeve dhe të gazrave nga anusi quhet:",
+        "answers": [
+            "Inkontinenca fekale",
+            "Inkontinenca urinare",
+            "Diarrea",
+            "Konstipacion"
+        ],
+        "correct": 0,
+        "explanation": "Inkontinenca fekale është humbja e kontrollit të defekimit dhe gazrave."
+    },
+    {
+        "id": "infermieristik-bazat-146",
+        "question": "Shtimi i numrit të defekimit në ditë dhe nxjerrja e feçeve të paformuara dhe të lëngshme quhet:",
+        "answers": [
+            "Diarre",
+            "Laksativ",
+            "Koprolite",
+            "Infeksione intestinale"
+        ],
+        "correct": 0,
+        "explanation": "Diarreja karakterizohet nga defekim i shpeshtë me feçe të lëngshme."
+    },
+    {
+        "id": "infermieristik-bazat-147",
+        "question": "Përdorimi i laksativëve ose i klizmave pastruese bëhet në rast se ndodh:",
+        "answers": [
+            "Diarre",
+            "Konstipacion",
+            "Inkontinenca fekale",
+            "Inkontinenca urinare"
+        ],
+        "correct": 1,
+        "explanation": "Laksativët/klizmat përdoren për të trajtuar konstipacionin."
+    },
+    {
+        "id": "infermieristik-bazat-148",
+        "question": "Dhimbja qe shkaktohet si rrjedhojë e dëmtimeve të mbaresave nervore periferike ose nga dëmtimi i sistemit nervor qëndror quhet:",
+        "answers": [
+            "Dhimbje neuropatike",
+            "Dhimbje viscerale",
+            "Dhimbje somatike",
+            "Dhimbje akute"
+        ],
+        "correct": 0,
+        "explanation": "Dhimbja neuropatike shkaktohet nga dëmtimi i vetë sistemit nervor."
+    },
+    {
+        "id": "infermieristik-bazat-149",
+        "question": "Ruajtja e ekulibrit hidrik është një pjesë e sistemit të brëndshëm hemostatik dhe çrregullohet nëse:",
+        "answers": [
+            "çrregullohet ekuilibri elektrolitik",
+            "çrregullohet presioni osmotik",
+            "çrregullohet ngrohja trupore",
+            "çrregullohet ekuilibri acido-bazik"
+        ],
+        "correct": 1,
+        "explanation": "Ekuilibri hidrik lidhet drejtpërdrejt me presionin osmotik të lëngjeve trupore."
+    },
+    {
+        "id": "infermieristik-bazat-150",
+        "question": "Cila nga elementët e mëposhtëm është mikroelementë?",
+        "answers": [
+            "Uji",
+            "Proteinat",
+            "Yndyrnat",
+            "Vitaminat"
+        ],
+        "correct": 3,
+        "explanation": "Vitaminat janë mikroelementë ushqimorë, ndryshe nga uji, proteinat dhe yndyrnat që janë makroelementë."
+    },
+    {
+        "id": "infermieristik-bazat-151",
+        "question": "Aparati i cili shërben për të matur Kapacitetin Total Pulmonar quhet:",
+        "answers": [
+            "Oksimetër",
+            "Monitor",
+            "Spirometër",
+            "Aspirator"
+        ],
+        "correct": 2,
+        "explanation": "Spirometri mat kapacitetet dhe volumet pulmonare."
+    },
+    {
+        "id": "infermieristik-bazat-152",
+        "question": "Grumbullimi i gjakut në kavitetin pleural quhet:",
+        "answers": [
+            "Pneumotoraks",
+            "Hemotoraks",
+            "Hidrim",
+            "Lagështim"
+        ],
+        "correct": 1,
+        "explanation": "Hemotoraksi është grumbullim gjaku në kavitetin pleural."
+    },
+    {
+        "id": "infermieristik-bazat-153",
+        "question": "Jonet Fosfat (HPO4)3- janë:",
+        "answers": [
+            "katione",
+            "anione",
+            "minerale",
+            "elektrolite"
+        ],
+        "correct": 1,
+        "explanation": "Joni fosfat, i ngarkuar negativisht, klasifikohet si anion."
+    },
+    {
+        "id": "infermieristik-bazat-154",
+        "question": "Pozicioni më i përshtatshëm për pacientët me probleme respiratore eshtë pozicioni fowler i cili përdoret për të ndihmuar:",
+        "answers": [
+            "Menaxhimin e stresit",
+            "Riaktivizimin e aparatit kardiopulmonar",
+            "Zgjerimin e mushëkrive",
+            "Teknikat relaksuese"
+        ],
+        "correct": 2,
+        "explanation": "Pozicioni Fowler ndihmon zgjerimin e mushkërive, duke lehtësuar frymëmarrjen."
+    },
+    {
+        "id": "infermieristik-bazat-155",
+        "question": "Drenimi i hapësirës pleurale për të nxjerrë ajrin nga kjo hapësirë realizohet në rast:",
+        "answers": [
+            "Pneumoperitoneumi",
+            "Hemotoraksi",
+            "Pneumotoraksi",
+            "Hemartroze"
+        ],
+        "correct": 2,
+        "explanation": "Drenimi pleural për nxjerrjen e ajrin bëhet në rast pneumotoraksi."
+    }
+]

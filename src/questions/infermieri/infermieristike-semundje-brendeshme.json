@@ -1,0 +1,1658 @@
+[
+    {
+        "id": "infermieristik-semundje-brendshme-001",
+        "question": "Shenjat klinike më të zakonshme në pacientet me enfizemë pulmonare janë:",
+        "answers": [
+            "Prania e sputumit",
+            "Ortopnea",
+            "Lodhja",
+            "Dispnea"
+        ],
+        "correct": 3,
+        "explanation": "Dispnea është shenja më karakteristike/e zakonshme e enfizemës pulmonare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-002",
+        "question": "Infermieri/a e vlerëson pacientin me bronkit kronik për:",
+        "answers": [
+            "Fryrje abdominale",
+            "Kequshqyerje",
+            "Cianoza",
+            "Dispnea"
+        ],
+        "correct": 2,
+        "explanation": "Cianoza ('blue bloater') është shenjë klasike e bronkitit kronik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-003",
+        "question": "Shenjat e kufizimit respirator ,në momente qetësie zakonisht zhduken në :",
+        "answers": [
+            "Insufiçensë repiratore",
+            "Asthma bronkiale",
+            "Bronkitin kronik",
+            "Emphizemë"
+        ],
+        "correct": 1,
+        "explanation": "Në astmën bronkiale obstruksioni është i kthyeshëm, simptomat zbuten/zhduken në qetësi, ndryshe nga BPOK."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-004",
+        "question": "Diagnozat e mundshme infermirore në asthmën bronkiale janë:",
+        "answers": [
+            "Reduktimi I rrezikut për infeksion",
+            "Përmirsimi I shkëmbimit të gazeve",
+            "Intolerance e aktiviteteve",
+            "Reduktimi I ankthit"
+        ],
+        "correct": 2,
+        "explanation": "Intoleranca e aktiviteteve është diagnozë infermierore tipike në astmën bronkiale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-005",
+        "question": "Sistemet e shprëndarjes se oksigjenit me ritëm të lartë janë:",
+        "answers": [
+            "Maska pa rithithje të ajrit",
+            "Maska me rithithje te ajrit",
+            "Maska venturë",
+            "Kanjula nazale"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, maska Venturi klasifikohet si sistem me ritëm të lartë shpërndarjeje oksigjeni."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-006",
+        "question": "Në hipertirozë janë të gjitha shenjet me përjashtim të:",
+        "answers": [
+            "Takikardisë",
+            "Shkurtim të reflekseve",
+            "Shtim në peshë",
+            "Çrregullim të ciklit menstrual"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, shtimi në peshë NUK bën pjesë në shenjat e hipertirozës (i cili tipikisht shkakton rënie peshe)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-007",
+        "question": "Toksiciteti i mushkërive me O2 jep dëmtime të tyre të tilla si:",
+        "answers": [
+            "Dhembje substernale",
+            "Koll productive",
+            "Ortopne",
+            "Temperaturë"
+        ],
+        "correct": 0,
+        "explanation": "Toksiciteti pulmonar nga oksigjeni shoqërohet me dhimbje substernale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-008",
+        "question": "Kërkesat për oksigjen zakonisht rriten në gjendje të tilla si:",
+        "answers": [
+            "Edemë polmonare",
+            "Hemoragji polmonare",
+            "Membrana hyaline",
+            "Gjendjet septike"
+        ],
+        "correct": 3,
+        "explanation": "Në gjendjet septike metabolizmi rritet, duke rritur kërkesën për oksigjen."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-009",
+        "question": "Agjentët mukolitike në pacientët me probleme respiratore përdoren në kolla:",
+        "answers": [
+            "me sekrecione trasha",
+            "jopruduktive",
+            "pa sekrecione",
+            "produktive"
+        ],
+        "correct": 0,
+        "explanation": "Mukolitikët përdoren për të holluar sekrecionet e trasha."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-010",
+        "question": "Në hipotireozë kemi situatën e mëposhtme hormonale:",
+        "answers": [
+            "Rritje të T3, T4 dhe rritje të TSH",
+            "Rritje të T3, T4 dhe ulje të TSH",
+            "Ulje të T3, T4 dhe rritje të TSH",
+            "Ulje të T3, rritje të T4 dhe ulje të TSH"
+        ],
+        "correct": 2,
+        "explanation": "Hipotiroidizmi primar karakterizohet nga ulje e T3/T4 dhe rritje kompensatore e TSH."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-011",
+        "question": "Përdorimi i anksiolitikëve është më produktiv gjatë gjendjeve të tilla si:",
+        "answers": [
+            "Emboli pulmonare",
+            "Emphyzemë pulmonare",
+            "Atelektazë pulmonare",
+            "Atak azmatik"
+        ],
+        "correct": 3,
+        "explanation": "Ankthi mund të përkeqësojë bronkospazmën; anksiolitikët mund të ndihmojnë gjatë atakut astmatik të shoqëruar me ankth."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-012",
+        "question": "Edukimi shëndetësor i pacientit me probleme respiratore bëhet nëpërmjet:",
+        "answers": [
+            "Përmiresimit të marrjeve ushqimore",
+            "Përmiresimit te natyrës se frymemarrjes",
+            "Përmiresimit të ankthit",
+            "Terapisë relaksuese"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, edukimi shëndetësor respirator bëhet nëpërmjet terapisë relaksuese."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-013",
+        "question": "Rritje të rasteve me TBC ka pasur vitet e fundit në pacientët me :",
+        "answers": [
+            "hepatit B kronik",
+            "hepatit C",
+            "HIV",
+            "IST"
+        ],
+        "correct": 2,
+        "explanation": "Rritja e rasteve me TBC lidhet me pandeminë e HIV (imunosupresioni rrit riskun)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-014",
+        "question": "Artriti rheumatoid nuk ka karakteristikë:",
+        "answers": [
+            "Prekjen e artikulacioneve të vogla",
+            "Eritemën marginale",
+            "Fenomenin Raynaud",
+            "Karakterin simetrik të prekjes artikulare"
+        ],
+        "correct": 2,
+        "explanation": "Fenomeni Raynaud nuk është karakteristikë tipike e artritit reumatoid."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-015",
+        "question": "Vlersimi infermieror i një pacienti me TBC bëhet nëpërmjet:",
+        "answers": [
+            "Gjendje e përgjithshme septike me temperature",
+            "Prezantimit të simptomave",
+            "Të dhënave objektive",
+            "Të dhënave subjektive"
+        ],
+        "correct": 3,
+        "explanation": "Vlerësimi infermieror bazohet gjerësisht te të dhënat subjektive të raportuara nga pacienti."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-016",
+        "question": "Zakonisht pacientët të cilët kanë sëmundjen e TBC:",
+        "answers": [
+            "Kanë temperature",
+            "Nuk kanë fare temperaturë",
+            "Kanë temperature subfebrile",
+            "Temperatura nuk është kriter vlerësimi"
+        ],
+        "correct": 2,
+        "explanation": "Pacientët me TBC paraqesin zakonisht temperaturë subfebrile."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-017",
+        "question": "Në rastin e aplikimit të testit të tuberkulinës, zona e skuqjes së lëkurës eshtë reaksion pozitiv:",
+        "answers": [
+            "me diameter 5 mm",
+            "me I madh se 10mm",
+            "me I vogel se 10mm",
+            "me diameter 10mm"
+        ],
+        "correct": 3,
+        "explanation": "Reaksioni pozitiv i testit të tuberkulinës konsiderohet zakonisht një induracion me diametër ≥10mm."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-018",
+        "question": "Vaksina e BCG jep mbrojtje efektive për pacientët për:",
+        "answers": [
+            "Zakonisht per 5 vjet",
+            "Zakonisht per 10 vjet",
+            "Zakonisht per 15 vjet",
+            "Për 20 vjet"
+        ],
+        "correct": 1,
+        "explanation": "Mbrojtja e vaksinës BCG konsiderohet efektive zakonisht për rreth 10 vjet."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-019",
+        "question": "Shkaktari më i shpeshtë i embolisë pulmonare është:",
+        "answers": [
+            "Cdo substancë që depërton në qarkullim",
+            "Nje copë garze ose pambuk",
+            "Nje copë age metalike",
+            "Nje koagul gjaku"
+        ],
+        "correct": 3,
+        "explanation": "Koaguli i gjakut (trombi) është shkaktari më i shpeshtë i embolisë pulmonare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-020",
+        "question": "Angina pektoris është gjendje në të cilën kemi:",
+        "answers": [
+            "Imbalancë e përhershme e muskulit kardiak nga oksigjeni",
+            "Imbalancë e përkohshme nga oksigjeni",
+            "Deprivim i përgjithshëm nga oksigjeni",
+            "Nekrotizim i përkohshem"
+        ],
+        "correct": 1,
+        "explanation": "Angina pectoris karakterizohet nga imbalancë e përkohshme (e kthyeshme) e furnizimit me oksigjen të miokardit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-021",
+        "question": "Ndër faktorët e modifikushëm të sëmundjeve te arterieve koronare janë:",
+        "answers": [
+            "Historia familjare",
+            "Stresi",
+            "Seksi",
+            "Mosha"
+        ],
+        "correct": 1,
+        "explanation": "Stresi është faktor risku i modifikueshëm, ndryshe nga historia familjare, seksi dhe mosha."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-022",
+        "question": "Cila nga të dhënat e mëposhtme nuk i përket endokarditit:",
+        "answers": [
+            "Zmadhim total i zemrës",
+            "Temperaturë, palpitacione",
+            "Djersë të shtuara, dispne",
+            "Kollë me sekrecione të shumta hemoragjike"
+        ],
+        "correct": 3,
+        "explanation": "Kolla me sekrecione të shumta hemoragjike nuk është shenjë tipike e endokarditit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-023",
+        "question": "Cila është veçoria me tipike e angina pectoris?",
+        "answers": [
+            "Dhembja substernale",
+            "Ndodh pa ndonjë shkaktar",
+            "Zakonisht zgjat 30 minuta",
+            "Lehtësohet vetëm me opiode"
+        ],
+        "correct": 0,
+        "explanation": "Dhimbja substernale është veçoria më tipike e anginës pectoris."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-024",
+        "question": "Zakonisht pacientët qe kanë dizorientim dhe konfuzion mendor jane:",
+        "answers": [
+            "Të moshës mesme post- infarkt",
+            "Të moshës vjetër post-infarkt",
+            "Më shumë burrat post- infarkt",
+            "Më shumë gratë post- infarct"
+        ],
+        "correct": 1,
+        "explanation": "Konfuzioni mendor post-infarkt është më i shpeshtë te pacientët e moshës së vjetër."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-025",
+        "question": "Në pacientët të cilët vuajnë nga angina ose infarkt gjatë observimit të përgjithshëm verejmë:",
+        "answers": [
+            "Me anë të palpacionit shohim që lëkura është e ngrohtë",
+            "Me anë të prekjes ndjejmë që lëkura është e ftohtë",
+            "Observimi me sy shohim djersitje",
+            "Mungesë e pranisë së djersve"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, te pacientët me anginë/infarkt, prekja e lëkurës së ftohtë vërehet me anë të palpimit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-026",
+        "question": "Cili nga shkaktarët e mëposhtëm nuk i përket pankreatitit:",
+        "answers": [
+            "Gurët biliare, hiperlipidemia",
+            "Ndërhyrjet kirurgjikale",
+            "Infeksionet virale",
+            "Osteoporoza dhe varfërimi me kalcium"
+        ],
+        "correct": 3,
+        "explanation": "Osteoporoza dhe varfërimi me kalcium nuk janë shkaktarë të pankreatitit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-027",
+        "question": "Nitroglicerina jepet nga infermieri/a zakonisht me rrugë:",
+        "answers": [
+            "i.m",
+            "i.v",
+            "s/c",
+            "sublinguale"
+        ],
+        "correct": 3,
+        "explanation": "Nitroglicerina administrohet zakonisht sublingualisht për veprim të shpejtë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-028",
+        "question": "Gjeni përgjigjen e gabuar për Kolitin ulceroz:",
+        "answers": [
+            "Karakterizohet nga ulceracione të shumta të zorrës",
+            "Prek kryesisht duodenin",
+            "Shoqërohet me rënie në peshë dhe diarre",
+            "Kolonoskopia vendos diagnozën"
+        ],
+        "correct": 1,
+        "explanation": "Koliti ulceroz prek kolonin/rektumin, jo duodenin — ky është pohimi i gabuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-029",
+        "question": "Një pacient i cili ka kaluar infarkt miokardi zakonisht për tu shëruar plotesisht i duhen:",
+        "answers": [
+            "Me pak se 4 jave",
+            "Zakonisht 5-6 jave",
+            "Duhet 6-8 jave",
+            "Në 10 jave shërohen plotësisht"
+        ],
+        "correct": 2,
+        "explanation": "Shërimi i plotë pas infarktit miokardi zgjat zakonisht 6-8 javë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-030",
+        "question": "Osteoartriti prek më shumë regjionin cervikal në nivelin:",
+        "answers": [
+            "C2-C3",
+            "C3-C4",
+            "C4-C5",
+            "C4-C6"
+        ],
+        "correct": 3,
+        "explanation": "Osteoartriti cervikal prek më shpesh nivelet C4-C6."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-031",
+        "question": "Gjeni përgjigjen e gabuar:",
+        "answers": [
+            "HTA sekondar ka patologjitë renale si shkaktarë më të shpeshtë",
+            "HTA kemi vetëm në rastet kur presioni sistolik është mbi 160 mmHg",
+            "Hipertrofia kardiake është karakteristike e HTA kronik",
+            "Preken nga HTA më shumë meshkujt se sa femrat"
+        ],
+        "correct": 1,
+        "explanation": "HTA përkufizohet me prag më të ulët (≥140/90 mmHg), jo vetëm mbi 160 mmHg — kjo është e gabuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-032",
+        "question": "Gjeni përgjigjen e saktë:",
+        "answers": [
+            "Nekroza miokardiale është proces i rikthyeshëm",
+            "Obeziteti nuk është faktor predispozues për Infarkt Akut të Miokardit",
+            "Preken më shumë femrat se meshkujt nga Infarkti Akut i Miokardit",
+            "Duhanpirja është ndër faktorët etiologjikë më të shpeshtë të Infarktit Akut të Miokardit"
+        ],
+        "correct": 3,
+        "explanation": "Duhanpirja është një nga faktorët etiologjikë kryesorë të infarktit akut të miokardit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-033",
+        "question": "Menaxhim kirurgjikal në osteoartrit do të thotë:",
+        "answers": [
+            "Rivendosje e pjesshme e kyçit",
+            "Osteotomi",
+            "Heqje e pjesshme e kyçit",
+            "Rivendosje totale e kyçit"
+        ],
+        "correct": 3,
+        "explanation": "Rivendosja totale e kyçit (protezë) është ndërhyrja kirurgjikale kryesore në osteoartrit të avancuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-034",
+        "question": "\"Ngurtësimi mengjezor\" është shenjë tipike për pacientët me :",
+        "answers": [
+            "Osteartrit",
+            "Artriti reumatoid",
+            "Asnjëra",
+            "Hernie diskale te regjionit lumbar"
+        ],
+        "correct": 1,
+        "explanation": "Ngurtësimi mëngjesor i zgjatur është shenjë klasike e artritit reumatoid."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-035",
+        "question": "Një kyç i ngrohtë dhe i enjtur tregon për:",
+        "answers": [
+            "Rritje e furnizimit me gjak në atë pjesë të kyçit",
+            "Grumbullim jonomal I gjakut venoz ne ate pjese te kyçit",
+            "Inflamacion",
+            "Infeksion"
+        ],
+        "correct": 2,
+        "explanation": "Kyç i ngrohtë dhe i enjtur tregon inflamacion lokal."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-036",
+        "question": "Gastriti kronik shoqerohet me :",
+        "answers": [
+            "Infeksion",
+            "Inflamacion",
+            "Lezione ne tru",
+            "Insufiçensë renale"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, gastriti kronik shoqërohet me inflamacion si karakteristikë kryesore."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-037",
+        "question": "Terapia antiacide nuk lehtëson gjendjen ne:",
+        "answers": [
+            "Gastritin kronik",
+            "Gastritin atrofik",
+            "Gastrititn akut",
+            "Ne ulçeren gastrike"
+        ],
+        "correct": 1,
+        "explanation": "Në gastritin atrofik (me sekretim të ulët acidi) antiacidet nuk japin lehtësim domethënës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-038",
+        "question": "Vitamina B12 , e rëndësishme si antianemik, sekretohet nga mukoza:",
+        "answers": [
+            "e pemës bronkiale",
+            "intestinale",
+            "gastrike",
+            "e ezofagut"
+        ],
+        "correct": 2,
+        "explanation": "Faktori intrinsik i domosdoshëm për thithjen e vit. B12 sekretohet nga mukoza gastrike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-039",
+        "question": "Gjeni përgjigjen e saktë:",
+        "answers": [
+            "Insuficienca renale shoqërohet me ulje të kreatininës",
+            "Mungesa e eritropoetinës është karakteristike e insuficiencës renale",
+            "Proteinuria tregon për dëmtim tëndjeshëm të filtracionit glomerular",
+            "Dializa është një ndër opsionet terapeutike"
+        ],
+        "correct": 3,
+        "explanation": "Dializa është një nga opsionet terapeutike standarde për insuficiencën renale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-040",
+        "question": "Shkaktar të tille si helicobacter pilori, duhani, stresi janë tipike per:",
+        "answers": [
+            "Gastritin akut",
+            "Gastritin kronik",
+            "Gastritin atrofik",
+            "Ulçeren peptike"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, helicobacter pilori, duhani dhe stresi lidhen tipikisht me ulçerën peptike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-041",
+        "question": "Triada discomfort - dhembje - urth jane tipike per ulçerën:",
+        "answers": [
+            "gastrike",
+            "peptike",
+            "duodenale",
+            "siperfaqesore"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, triada diskomfort-dhimbje-urth është tipike për ulçerën peptike në përgjithësi."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-042",
+        "question": "Perforacioni i stomakut shkakton shok:",
+        "answers": [
+            "septic",
+            "hypovolemik",
+            "hemoragjik",
+            "endogjen"
+        ],
+        "correct": 0,
+        "explanation": "Perforacioni i stomakut shkakton peritonit dhe shok septik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-043",
+        "question": "Shkaktarët më të zakonshëm të pielonefritit janë:",
+        "answers": [
+            "Pseudomonas",
+            "Enterobakteret",
+            "E. Coli",
+            "Klibsiella"
+        ],
+        "correct": 2,
+        "explanation": "E. Coli është shkaktari më i shpeshtë i pielonefritit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-044",
+        "question": "Gjeni pergjigjen e gabuar",
+        "answers": [
+            "Leucemia është mieloide dhe limfoide",
+            "Ulja e eritrociteve është domosdoshmëri në leucemi",
+            "Prek me shumë meshkujt se femrat",
+            "Leucemia mund të jetë akute ose kronike"
+        ],
+        "correct": 1,
+        "explanation": "Ulja e eritrociteve nuk është domosdoshmëri absolute në çdo rast leucemie — kjo është pohimi i gabuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-045",
+        "question": "Trajtimi i pielonefritit bëhet nëpërmjet:",
+        "answers": [
+            "Ndjekje e vazhdueshme ne shtëpi",
+            "Trajtimi medikamentoz",
+            "Trajtimi kirurgjikal",
+            "Hospitalizimi"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, trajtimi i pielonefritit kërkon shpesh hospitalizim."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-046",
+        "question": "Ulcera gastrike ndodh zakonisht ne grup moshat:",
+        "answers": [
+            "50-60 vjecare",
+            "40-50 vjecare",
+            "30-40 vjecare",
+            "20-30 vjecare"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, ulçera gastrike ndodh zakonisht në grupmoshën 40-50 vjeç."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-047",
+        "question": "Simptoma klinike karakteristike e pacientit me Cistit është:",
+        "answers": [
+            "Urgjenca për të urinuar",
+            "Anuri",
+            "Oliguri",
+            "Temperaturë e ulët"
+        ],
+        "correct": 0,
+        "explanation": "Urgjenca për të urinuar është simptomë karakteristike e cistitit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-048",
+        "question": "Gjeni pergjigjen e gabuar: në astmën bronkiale kemi:",
+        "answers": [
+            "Respiracion të shpeshtë",
+            "Spirometria tregon rritje të kapacitetit pulmonar",
+            "Dhimbje të kraharorit",
+            "Kollë të fortë"
+        ],
+        "correct": 1,
+        "explanation": "Në astmë spirometria tregon ulje, jo rritje, të parametrave pulmonarë — kjo është e gabuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-049",
+        "question": "Në aneminë ferrodificitare gjejmë të gjitha përveç:",
+        "answers": [
+            "Ferritinemi të ulur",
+            "Rritje të hemoglobinës",
+            "Hipokromi",
+            "Ulje të hematokritit"
+        ],
+        "correct": 1,
+        "explanation": "Anemia ferrodeficitare shoqërohet me ulje, jo rritje, të hemoglobinës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-050",
+        "question": "Gjeni përgjigjen e saktë:",
+        "answers": [
+            "Hiperuricemia nuk shkakton patologji reumatizmale",
+            "Dhimbjet me karakter inflamator nuk ndeshen në qetësi",
+            "Polimialgjia gjendet vetëm në semundjet reumatizmale",
+            "Osteoporoza prek më shumë femrat se meshkujt"
+        ],
+        "correct": 3,
+        "explanation": "Osteoporoza prek më shpesh femrat, veçanërisht pas menopauzës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-051",
+        "question": "Gjeni përgjigjen e gabuar:",
+        "answers": [
+            "Neuropatia monitorohet përmes ENG",
+            "Fundus okuli është ekzaminim i domosdoshëm tek diabetikët",
+            "HbA1C nuk është tregues i saktë i hiperglicemive",
+            "Peptidi C tregon për sasinë e saktë të insulinës së prodhuar nga pankreasi"
+        ],
+        "correct": 2,
+        "explanation": "HbA1C ËSHTË tregues i besueshëm i glicemisë mesatare — pohimi se 'nuk është' është i gabuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-052",
+        "question": "Tek pacienti me insuficience renale kronike, manifestimet hematologjike perfshijne, anemine, e cila manifestohet me:",
+        "answers": [
+            "temperature",
+            "dhimbje",
+            "zbehje",
+            "te vjella"
+        ],
+        "correct": 2,
+        "explanation": "Anemia në insuficiencën renale kronike manifestohet klinikisht me zbehje."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-053",
+        "question": "Tek pacientet me insuficience renale kronike, infermieri monitoron sasine e kaliumit te marre, pasi hiperkalemia mund shkaktoje:",
+        "answers": [
+            "Disritmi kardiake",
+            "Hypertension",
+            "Edema",
+            "Te vjella"
+        ],
+        "correct": 0,
+        "explanation": "Hiperkalemia mund të shkaktojë disritmi kardiake serioze."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-054",
+        "question": "Tek pacientet me insuficience renale kronike, infermieri siguron kujdesje per cdo zone ku integriteti I lekures eshte I demtuar; kjo eshte e rendesishme per te :",
+        "answers": [
+            "Zvogeluar rrezikun per infeksione",
+            "Eshte nje kujdes rutine nga ana e infermierit",
+            "E rendesishme per higjenen e pacientit",
+            "Nuk eshte faktore pedipozues"
+        ],
+        "correct": 0,
+        "explanation": "Kujdesi për integritetin e lëkurës redukton riskun për infeksione."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-055",
+        "question": "Në diabetin mellitus janë të pranishme të gjitha shenjat përveç njërës:",
+        "answers": [
+            "Polidipsia",
+            "Polifagia",
+            "Galaktorrea",
+            "Poliuria"
+        ],
+        "correct": 2,
+        "explanation": "Galaktorrea nuk është shenjë e diabetit mellitus; triada klasike është polidipsi-polifagji-poliuri."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-056",
+        "question": "Per te reduktuar konstipacionin, me qellim qe pacienti te kete nje aktivitet normal te zorreve eshte e rendesishme:",
+        "answers": [
+            "Nje diete me permbajtje fibrash",
+            "Nje diete pikante",
+            "Jete sedentare",
+            "Sa me pak aktivitet"
+        ],
+        "correct": 0,
+        "explanation": "Dieta e pasur me fibra ndihmon në reduktimin e konstipacionit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-057",
+        "question": "Trajtimi primar i pacienteve me anemi nga mungesa e Fe, eshte:",
+        "answers": [
+            "Rritja e marrjeve orale te hekurit nepermjet ushqimit",
+            "Aktiviteti fizik",
+            "Sa me shume likide",
+            "Regjim shtrati"
+        ],
+        "correct": 0,
+        "explanation": "Trajtimi primar i anemisë nga mungesa e hekurit është suplementimi/rritja e marrjes së hekurit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-058",
+        "question": "Ne trajtimin e pacienteve me anemi aplastike themelore jane:",
+        "answers": [
+            "Transfuzionet e gjakut",
+            "Dieta",
+            "Likidet",
+            "Aktiviteti"
+        ],
+        "correct": 0,
+        "explanation": "Transfuzionet e gjakut janë themelore në trajtimin e anemisë aplastike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-059",
+        "question": "Tek pacientet me anemi , shmangia e lodhjes, eshte e rendesishme qe:",
+        "answers": [
+            "Pacienti te mos perjetoje lodhje gjate kryerjes se aktiviteteve ditore",
+            "Eshte nje kujdes rutin",
+            "Nuk eshte e rendesishme per pacientin",
+            "Aktivizon pacientin"
+        ],
+        "correct": 0,
+        "explanation": "Kujdesi infermieror synon që pacienti të mos përjetojë lodhje të tepruar gjatë aktiviteteve ditore."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-060",
+        "question": "Qarko nje nder simptomat karakteristike te semundjes se diabetit mellitus:",
+        "answers": [
+            "Polifagi",
+            "Fotofobi",
+            "Anuri",
+            "Edem"
+        ],
+        "correct": 0,
+        "explanation": "Polifagia është simptomë klasike e diabetit mellitus."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-061",
+        "question": "Cirroza hepatike ka si shkaktar të gjithë shkaqet e poshtëshënuar përveç njërit:",
+        "answers": [
+            "Konsumimin e alkoolit",
+            "Dëmtimet e rrugëve biliare",
+            "Ulcerën duodenale",
+            "Hepatitin autoimun"
+        ],
+        "correct": 2,
+        "explanation": "Ulçera duodenale nuk është shkaktar i cirrozës hepatike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-062",
+        "question": "Limfomat Hodgkin jane semundje malinjizante qe mund te zhvillohen ne cdo grup moshe, por, piken me te madhe te incidences e ka ne moshat e reja:",
+        "answers": [
+            "10-vjecare",
+            "20-vjecare",
+            "30-vjecare",
+            "40-vjecare"
+        ],
+        "correct": 1,
+        "explanation": "Incidenca e limfomës Hodgkin ka një pik të parë tek moshat e reja, rreth 20 vjeç."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-063",
+        "question": "Per infermierin qe kujdeset per pacientin me Leucemi, objektivi kryesor eshte :",
+        "answers": [
+            "Ta mbroje ate nga infeksionet",
+            "Te parandaloje te vjellat",
+            "Te qetesoj nauset",
+            "Te qetesoj familjaret"
+        ],
+        "correct": 0,
+        "explanation": "Mbrojtja nga infeksionet (për shkak të imunosupresionit) është objektivi kryesor infermieror në leucemi."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-064",
+        "question": "Per shkak se prodhimi I palces normale eshte shume I kufizuar ne pacientet me leucemi, kjo e vendos pacientin ne rrezik te madhe:",
+        "answers": [
+            "per hemoragji",
+            "per nausea",
+            "te vjella",
+            "temperature"
+        ],
+        "correct": 0,
+        "explanation": "Kufizimi i trombociteve nga leucemia rrit riskun për hemoragji."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-065",
+        "question": "Diabeti mellitus eshte nje semundje kronike qe ndikon ne :",
+        "answers": [
+            "Shume organe dhe sisteme te organizmit",
+            "Ne te gjithe organizmin",
+            "Pothuaj nuk ndikon ne organet dhe sistemet e organizmit",
+            "Prek vetem nje organ te organizmi"
+        ],
+        "correct": 0,
+        "explanation": "Diabeti mellitus ndikon në shumë organe dhe sisteme (sy, veshka, nerva, enë gjaku etj.)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-066",
+        "question": "Mungesa e insulines ndalon qelizat qe :",
+        "answers": [
+            "Te perdorin glukozen si burim energjie",
+            "Nuk eshte e rendesishme per organizmin",
+            "Eshte fatale ne organizem",
+            "Ndikon disi ne mbarvajtjen e organizmit"
+        ],
+        "correct": 0,
+        "explanation": "Pa insulinë, qelizat nuk mund të përdorin glukozën si burim energjie."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-067",
+        "question": "Nje nder faktoret predispozues te infeksioneve te traktit urinar eshte:",
+        "answers": [
+            "Anomalia strukturale dhe funksionale e traktit urinar",
+            "Refluksi ezofageal",
+            "Gastritet",
+            "Diarret"
+        ],
+        "correct": 0,
+        "explanation": "Anomalitë strukturale/funksionale të traktit urinar predispozojnë ndaj infeksioneve urinare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-068",
+        "question": "Cistiti jo-infeksioz mund te rezultoje nga:",
+        "answers": [
+            "ekspozimi ne agjent kimik",
+            "ekspozimi ne agjent infeksioz",
+            "ekspozimi ne temperature te larta",
+            "semundje te ndryshme"
+        ],
+        "correct": 0,
+        "explanation": "Cistiti jo-infeksioz mund të vijë nga ekspozimi ndaj agjentëve kimikë (p.sh. kimioterapi)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-069",
+        "question": "Nje nder vendet ku eshte lokalizuar edema ne pacientet me Cirroze eshte :",
+        "answers": [
+            "Fytyra",
+            "Kapaket e syve",
+            "Sakrumi",
+            "ne te gjithe trupin"
+        ],
+        "correct": 2,
+        "explanation": "Edema dependente te pacientët e shtrirë me cirrozë lokalizohet shpesh te sakrumi."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-070",
+        "question": "Hypokalemia kronike qe takohet tek bulemiket rezulton nga:",
+        "answers": [
+            "Abuzimi me laksativ",
+            "Abuzimi me alkool",
+            "Abuzimi me kafein",
+            "Aktivitet I tepruar"
+        ],
+        "correct": 0,
+        "explanation": "Abuzimi me laksativë (dhe të vjellat e provokuara) shkaktojnë hipokalemi kronike te bulimikët."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-071",
+        "question": "Në pankreatitin akut nuk gjejmë:",
+        "answers": [
+            "Amilazën e rritur",
+            "Lipazën e rritur",
+            "Eritopoetinën e rritur",
+            "Kalcifikime të pankreasit"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, kalcifikimet e pankreasit NUK gjenden tipikisht në pankreatitin akut (më shpesh në atë kronik)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-072",
+        "question": "Psikoterapia tek paciente me bulemi nervore eshte e rendesishme dhe ka si qellim:",
+        "answers": [
+            "Rritjen e vet-vleresimit",
+            "Eshte nje procedure rutin",
+            "Nuk ka ndonje qellim te caktuar",
+            "Ndikon ne ushqyerjen e pacientit"
+        ],
+        "correct": 0,
+        "explanation": "Psikoterapia në bulimi synon rritjen e vetëvlerësimit të pacientes."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-073",
+        "question": "Shkaktari kryesor i Cistitit eshte:",
+        "answers": [
+            "Bakteri koliform",
+            "Insulin",
+            "Acetitkolina",
+            "Dopamine"
+        ],
+        "correct": 0,
+        "explanation": "Bakteret koliforme (si E. coli) janë shkaktari kryesor i cistitit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-074",
+        "question": "Bronkektazia karakterizohet nga të gjithë elementet me përjashtim të:",
+        "answers": [
+            "Kollë kronike me sputum purulent",
+            "Hemoptizia",
+            "Elemente kutane purpurik",
+            "Dispne dhe cianozë"
+        ],
+        "correct": 2,
+        "explanation": "Elementet kutane purpurike nuk janë karakteristikë e bronkektazisë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-075",
+        "question": "Kolecistiti kronik nuk karakterizohet nga:",
+        "answers": [
+            "Dhimbje të forta në zonën epigastrike",
+            "Të vjella biliare",
+            "Temperaturë subferile",
+            "Rritje e amilazës dhe lipazës"
+        ],
+        "correct": 3,
+        "explanation": "Rritja e amilazës/lipazës është karakteristikë e pankreatitit, jo e kolecistitit kronik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-076",
+        "question": "Qarko nje nder simptomat karakteristike te semundjes se diabetit insipid:",
+        "answers": [
+            "Diureza masive",
+            "Fotofobia",
+            "Anuria",
+            "Edema"
+        ],
+        "correct": 0,
+        "explanation": "Diureza masive është simptomë karakteristike e diabetit insipid."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-077",
+        "question": "Diabeti insipid nefrogenik rezulton nga:",
+        "answers": [
+            "Nje defect I trashegueshem",
+            "Tumoret ne regioninhypothalamic-petuitar",
+            "Trauma ne koke",
+            "Tumoret metastazike"
+        ],
+        "correct": 0,
+        "explanation": "Diabeti insipid nefrogenik shpesh vjen nga një defekt i trashëguar në receptorët renalë të ADH."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-078",
+        "question": "Pielonefriti akut eshte :",
+        "answers": [
+            "Infeksioni akut I traktit te siperm urinar",
+            "Pezmatimi I fshikezes urinare",
+            "Pezmatimi I uretres",
+            "Pezmatimi I prostatit"
+        ],
+        "correct": 0,
+        "explanation": "Pielonefriti akut është infeksion akut i traktit të sipërm urinar (veshkave)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-079",
+        "question": "Një ndër shkaktarët sekondarë të glomerulonefritit kronik është:",
+        "answers": [
+            "Stafilokoku",
+            "Streptokoku beta hemolitiki grupit A",
+            "Lupus sistemik eritematoz",
+            "Hepatitis A"
+        ],
+        "correct": 2,
+        "explanation": "Lupusi sistemik eritematoz mund të shkaktojë glomerulonefrit sekondar kronik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-080",
+        "question": "Nje nder shkaktaret primar te glomerulonefritit akut eshte:",
+        "answers": [
+            "sklerodermia sistemike progressive",
+            "purpura trombocitopenike",
+            "poliartriti nodular",
+            "sifilizi"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, sifilizi listohet ndër shkaktarët primarë të mundshëm të glomerulonefritit akut."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-081",
+        "question": "Azotemia prerenale në pacientë me insuficiencë renale akute karakterizohet me një nga simptomat e mëposhtme:",
+        "answers": [
+            "Ndryshime në sasinë ose aparencën e urinës",
+            "Hipotension arterial",
+            "Diarre",
+            "Konstipacion"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, azotemia prerenale karakterizohet me ndryshime në sasinë ose pamjen e urinës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-082",
+        "question": "Agjenti shkaktar i hepatitit A përhapet nëpërmjet rrugës:",
+        "answers": [
+            "Hematogjene",
+            "Oralo-fekale",
+            "Kontakti me plagë të kontaminuar",
+            "Kontakti me ujë të kontaminuar"
+        ],
+        "correct": 1,
+        "explanation": "Hepatiti A transmetohet kryesisht nëpërmjet rrugës oralo-fekale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-083",
+        "question": "Periudha e inkubacionit të hepatitit A është:",
+        "answers": [
+            "2-3 javë",
+            "2-6 javë",
+            "2-9 javë",
+            "2-12 javë"
+        ],
+        "correct": 1,
+        "explanation": "Periudha e inkubacionit të hepatitit A është zakonisht 2-6 javë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-084",
+        "question": "Gastriti kronik shkakton dhimbje epigastrike e cila:",
+        "answers": [
+            "Lehtesohet nga marrja e ushqimit",
+            "Perkeqesohet nga marrja e ushqimit",
+            "Nuk ndikon ne dhimbje marrja ose jo e ushqimit",
+            "Lehtesohet me likide"
+        ],
+        "correct": 1,
+        "explanation": "Dhimbja në gastritin kronik shpesh përkeqësohet pas marrjes së ushqimit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-085",
+        "question": "Tek cirrotiket, rekomandohet administrimi I Laktulozes per arsye se:",
+        "answers": [
+            "Eleminon amoniakun nepermjet feceve",
+            "Eshte pjese e kujdesit",
+            "Nuk eleminon amoniakun",
+            "Ndikon ne permiresimin e klinikes"
+        ],
+        "correct": 0,
+        "explanation": "Laktuloza ndihmon në eliminimin e amoniakut nëpërmjet feçeve, parandalon encefalopatinë hepatike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-086",
+        "question": "Faktoret familjare dhe gjenetik luajne nje rol te rendesishem ne obezitet. Kur te dy prinderit jane obese sa % e femijeve lindin te tille:",
+        "answers": [
+            "80 % e femijeve",
+            "60 % e femijve",
+            "40% e femijve",
+            "20% e femijve"
+        ],
+        "correct": 0,
+        "explanation": "Kur të dy prindërit janë obezë, rreth 80% e fëmijëve rrezikohen të bëhen obezë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-087",
+        "question": "Nje person percaktohet si obez kur, pesha e tij eshte:",
+        "answers": [
+            "45-50 % mbi peshen ideale",
+            "35-40 % mbi peshen ideale",
+            "25-30% mbi peshen ideale",
+            "15-20% mbi peshen ideale"
+        ],
+        "correct": 2,
+        "explanation": "Obeziteti përkufizohet zakonisht si peshë 25-30% mbi peshën ideale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-088",
+        "question": "Nje person percaktohet me obezitet morbid kur pesha e tij eshte:",
+        "answers": [
+            "80% mbi peshen ideale",
+            "60% mbi peshen ideale",
+            "40 % mbi peshen ideale",
+            "20 % mbi peshen ideale"
+        ],
+        "correct": 0,
+        "explanation": "Obeziteti morbid përkufizohet si peshë rreth 80% ose më shumë mbi peshën ideale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-089",
+        "question": "Karaharori i pacientit merr një formë si fuçi (bucelë) në:",
+        "answers": [
+            "Bronkit kronik",
+            "Pneumoni",
+            "Emfizemë",
+            "Fibrozë cistike"
+        ],
+        "correct": 2,
+        "explanation": "Kraharori në formë fuçie është shenjë klasike e emfizemës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-090",
+        "question": "Pacientët me SPOK (Sëmundje Pulmonare Obstruktive Kronike), preferohen të administrohen nëpërmjet inhalatimit sepse shpërnahet medikamenti direkt në mushkëri:",
+        "answers": [
+            "Mukolitikët",
+            "Sodium kromolin",
+            "Bronkodilatatorët",
+            "Antibiotikët"
+        ],
+        "correct": 2,
+        "explanation": "Bronkodilatatorët administrohen shpesh me inhalim, direkt në mushkëri."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-091",
+        "question": "Në pacientët me Pneumoni aspekti më i rëndësishëm për edukimin e pacientëve dhe familjarëve është:",
+        "answers": [
+            "Larja e duarve",
+            "Pozicionimi",
+            "Edukimi për shmangien e infeksioneve të traktit të sipërm respirator",
+            "Shmangia e qëndrimit me këmbë të kryqëzuara"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, edukimi për shmangien e infeksioneve të rrugëve të sipërme respiratore konsiderohet aspekti më i rëndësishëm te pacientët me pneumoni."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-092",
+        "question": "Në pacientët me SPOK, per të reduktuar inflamacionin në fyt dhe mushkëri: përdoren",
+        "answers": [
+            "Mukolitikët",
+            "Antikolinergjikët",
+            "Sodium kromolin",
+            "Kortikosteroidet"
+        ],
+        "correct": 3,
+        "explanation": "Kortikosteroidet përdoren për të reduktuar inflamacionin te pacientët me SPOK."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-093",
+        "question": "Testi i tuberkulinës bëhet (injektohet) në mënyrë:",
+        "answers": [
+            "Intravenoze",
+            "Intradermale",
+            "Intramuskulare",
+            "Subkutane"
+        ],
+        "correct": 1,
+        "explanation": "Testi i tuberkulinës (Mantoux) injektohet në mënyrë intradermale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-094",
+        "question": "Në pacientët me emboli pulmonare mjekët, që të mos lejojnë zmadhimin e embolës dhe të parandalojnë formimin e koagulave të reja, rekomandojnë:",
+        "answers": [
+            "Analgjezik",
+            "Antikoagulantë",
+            "Antikolinegjikë",
+            "Antibiotikë"
+        ],
+        "correct": 1,
+        "explanation": "Antikoagulantët parandalojnë zgjerimin e embolisë dhe formimin e koagulave të reja."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-095",
+        "question": "Palpitacioni është:",
+        "answers": [
+            "Një ndjenjë e të rrahurave të shpeshta në kraharor",
+            "Humbje e përkohshme e koshiencës",
+            "Frymëmarrje e shkurtër",
+            "Një tregues i qarkullimit periferial"
+        ],
+        "correct": 0,
+        "explanation": "Palpitacioni është ndjenja subjektive e rrahjeve të shpejta/të parregullta të zemrës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-096",
+        "question": "Diferenca midis vlerave sistolike dhe diastolike është referuar si:",
+        "answers": [
+            "Pulsacioni venoz",
+            "Presion i pulsit",
+            "Presion i gjakut paradoksal",
+            "Presion postural i gjakut"
+        ],
+        "correct": 1,
+        "explanation": "Presioni i pulsit është diferenca midis vlerave sistolike dhe diastolike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-097",
+        "question": "Presioni i gjakut paradoksal është përkufizuar si një rënie e presionit sistolik më shumë se:",
+        "answers": [
+            "10 mmHg",
+            "20 mmHg",
+            "30 mmHg",
+            "40 mmHg"
+        ],
+        "correct": 0,
+        "explanation": "Pulsus paradoxus përkufizohet si rënie e presionit sistolik mbi 10 mmHg gjatë inspirimit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-098",
+        "question": "Vlerësimi i pulsacionit arterial i jep infermierit informacion për:",
+        "answers": [
+            "Zhurmat",
+            "Integritetin vascular dhe qarkullimin",
+            "Temperaturën e lëkurës",
+            "Cianozën periferiale"
+        ],
+        "correct": 1,
+        "explanation": "Pulsacioni arterial jep informacion mbi integritetin vaskular dhe qarkullimin gjakut."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-099",
+        "question": "Shkaktari më i zakonshëm i insuficiensës kardiake është:",
+        "answers": [
+            "Infarkti i miokardit",
+            "Pneumonia",
+            "Bronkiti kronik",
+            "Astma bronkiale"
+        ],
+        "correct": 0,
+        "explanation": "Infarkti i miokardit është shkaktari më i zakonshëm i insuficiencës kardiake."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-100",
+        "question": "Në pacientët me hipertension, efekti anësor kryesor që shoqëron administrimin e diuretikëve është:",
+        "answers": [
+            "Disfunksioni seksual",
+            "Lodhja",
+            "Depresioni",
+            "Hypokalemia"
+        ],
+        "correct": 3,
+        "explanation": "Hipokalemia është efekt anësor kryesor i diuretikëve në trajtimin e HTA."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-101",
+        "question": "Në pacientët me Infarkt Miokardi mjeku mund të përshkruajë morfinë sulfat për lehtësimin e diskomfortit. Shenjat e një intoksikimi me morfinë janë:",
+        "answers": [
+            "Depresioni respirator-hypotensioni-të vjella të shumta",
+            "Lodhje-hypoglicemi-hypokalemi",
+            "Dhimbje koke-marrje mendsh-zbehtësi",
+            "Dobesi-lodhje-marrje mendsh"
+        ],
+        "correct": 0,
+        "explanation": "Intoksikimi me morfinë shfaqet me depresion respirator, hipotension dhe të vjella."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-102",
+        "question": "Në pacientët me Angina Pectoris medikamenti fillestar i përshkruar kundër dhimbjes është nitroglicerina sublinguale. Nitroglicerina:",
+        "answers": [
+            "Rishpërndan gjakun në drejtim të subendokardit",
+            "Redukton ritmin dhe punën e zemrës",
+            "Rrit kontrakturat",
+            "Ka efekt të shpejtë shkarkues"
+        ],
+        "correct": 0,
+        "explanation": "Nitroglicerina rishpërndan qarkullimin koronar drejt subendokardit të ishemizuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-103",
+        "question": "Endokarditi infektiv i referohet:",
+        "answers": [
+            "Inflamacionit të perikardiumit, qeses embriologjike që mbështjell zemrën",
+            "Trashjes inflamatore kronike të perikardiumit që e shtyp zemrën",
+            "Infeksionit bakteral ose fungal të endokardit, e cila përshin dhe valvulat",
+            "Dëmtimeve inflamatore të gjitha shtresave të zemrës"
+        ],
+        "correct": 2,
+        "explanation": "Endokarditi infektiv është infeksion bakterial/fungal i endokardit, duke përfshirë valvulat kardiake."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-104",
+        "question": "Ankesa kryesore e një pacienti me Osteoartrit është:",
+        "answers": [
+            "Dispnea",
+            "Kolla",
+            "Dhimbja e kyçeve",
+            "Petekie"
+        ],
+        "correct": 2,
+        "explanation": "Dhimbja e kyçeve është ankesa kryesore në osteoartrit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-105",
+        "question": "Nodulat Osler's apo lezionet Janeways konsiderohen manifestime klasike në pacientët me:",
+        "answers": [
+            "Endokardit infektiv",
+            "Perikardit",
+            "Kardiomiopati",
+            "Kardit reumatik"
+        ],
+        "correct": 0,
+        "explanation": "Nodulat Osler dhe lezionet Janeway janë manifestime klasike të endokarditit infektiv."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-106",
+        "question": "Manifestimi më i madh dhe zakonisht i vetmi në Lupusin diskoid është:",
+        "answers": [
+            "Temperature lokale",
+            "Lokalizimi i edemave",
+            "Prania e rasheve të thata dhe të luspuara në fytyrë",
+            "Hipertrofi e kyçeve"
+        ],
+        "correct": 2,
+        "explanation": "Rashi diskoid (i thatë, i luspuar) në fytyrë është manifestimi kryesor i lupusit diskoid."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-107",
+        "question": "Për shkak se Lupus nefritis është një shkaktar i vdekjes, infermieri me vëmendje vlerëson për shenjat e përfshirjes së:",
+        "answers": [
+            "sistemit respirator",
+            "sistemit renal",
+            "sistemit kardiak",
+            "sitemit neurologjik"
+        ],
+        "correct": 1,
+        "explanation": "Lupus nefritis kërkon vlerësim të kujdesshëm të sistemit renal."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-108",
+        "question": "Për shkak se Lupusi Sistemik është një gjendje inflamatore, gjendja më e zakonshme tek këta pacientë është:",
+        "answers": [
+            "Ethja",
+            "Takikardia",
+            "Dispnea",
+            "Kolla"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, takikardia konsiderohet gjendja më e zakonshme te pacientët me Lupus Sistemik inflamator."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-109",
+        "question": "Kujdesi infermieror për një pacient me Sklerodermi përfshin:",
+        "answers": [
+            "Përmirësimin dhe sigurimin e mos vajtjes në llixha dhe plazh",
+            "Sigurimin e lëvizjes së artikulacioneve duke inkurajuar ushtrime të shumta",
+            "Përdorimin e kremit mbrojtës kundër diellit",
+            "Kujdesin ndaj perceptimit të familjarëve"
+        ],
+        "correct": 2,
+        "explanation": "Pacientët me sklerodermi këshillohen të përdorin krem mbrojtës kundër diellit për lëkurën e ndjeshme."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-110",
+        "question": "Është një sëmundje inflamatore kronike e rrugëve të frymëmarrjes, në të cilën marrin pjesë shumë qeliza dhe element qelizorë, sidomos mastocitet, eozinofilet, dhe limfocitet T:",
+        "answers": [
+            "Tuberkulozi pulmonar",
+            "Embolia pulmonare",
+            "Astma bronkiale",
+            "Edema pulmonare"
+        ],
+        "correct": 2,
+        "explanation": "Astma bronkiale është sëmundje inflamatore kronike me pjesëmarrje të mastociteve, eozinofileve dhe limfociteve T."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-111",
+        "question": "Glukokortikodet inhalatore janë barnat mbajtëse më efikase në pacentët astmatikë. Ato:",
+        "answers": [
+            "Frenojnë inflamacionin e rrugëve të ajrit, pakësojnë hiperaktivitetin bronkial, kontrollojnë dhe parandalojnë simptomat",
+            "Janë bronkodilatatorë që bllokojnë efektin e acetilkolinës së çliruar nga nervat kolinergjikë në rrugët e ajrit",
+            "Janë bronkodilatatorë që e relaksojnë muskulaturën e lëmuar të bronkeve",
+            "Janë bronkodilatatorë që mund të kenë efekte ekstrapulmonare"
+        ],
+        "correct": 0,
+        "explanation": "Glukokortikoidet inhalatore frenojnë inflamacionin bronkial dhe kontrollojnë simptomat, ndryshe nga bronkodilatatorët."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-112",
+        "question": "Disfagia është:",
+        "answers": [
+            "Ndjenja e bllokimit apo shtrëngimit në rajonin retrosternal apo epigastër, gjatë fazës së kalimit të masës ushqimore nëpër ezofag",
+            "Një inflamacion i shtresës mukozale të stomakut",
+            "Një okluzion i plotë i lumenit të një segmenti të traktit gastrointestinal",
+            "Një kalim permanent ose interminent i një porcioni të pjesës së sipërme të stomakut, nëpërmjet orificiumit ezofageal të diafragmës"
+        ],
+        "correct": 0,
+        "explanation": "Disfagia është ndjenja e bllokimit/shtrëngimit gjatë kalimit të ushqimit nëpër ezofag."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-113",
+        "question": "Refluksi- Gastro-Ezofagial përfaqëson nje:",
+        "answers": [
+            "okluzion të plotë të lumenit të një segmenti të traktit gastro-intestinal",
+            "ngushtim të lumenit të një pjese të tubit tretës",
+            "qese të lokalizuar të murit të traktit tretës e cila përmban të gjitha shtresat e indit",
+            "situatë patologjike, që karakterizohet nga rikthimi i përmbajtjes acide të stomakut në ezofag."
+        ],
+        "correct": 3,
+        "explanation": "RGE karakterizohet nga rikthimi i përmbajtjes acide të stomakut në ezofag."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-114",
+        "question": "Cilat nga barnat e mëposhtme shkakton efekteve të padëshirueshme në stomak?",
+        "answers": [
+            "Antiinflamatorët josteroide",
+            "Antiacidet",
+            "Antagonistët e receptorëve histaminikë",
+            "Frenuesit e pompës protonike"
+        ],
+        "correct": 0,
+        "explanation": "AINS (antiinflamatorët josteroide) shkaktojnë shpesh irritim/ulçeracion gastrik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-115",
+        "question": "Asciti është:",
+        "answers": [
+            "Rritja e likidit me përmbajtje të lartë të karbohidrateve dhe të ulet në yndyrna",
+            "Akumulimi i likidit brenda kavitetit peritoneal",
+            "Rritja e osmolaritetit në urinë",
+            "Rritja e nivelit të urea-nitrogenit në serum"
+        ],
+        "correct": 1,
+        "explanation": "Asciti është akumulim i likidit brenda kavitetit peritoneal."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-116",
+        "question": "Ikteri hepatoqelizor zhvillohet sepse hepari:",
+        "answers": [
+            "Nuk mund të metabolizojë bilirubinën",
+            "Metabolizon bilirubinën më shumë se norma",
+            "Nuk ka çdo lob të përfshirë",
+            "I ka nodulat që ndryshojnë në formë dhe përmasë"
+        ],
+        "correct": 0,
+        "explanation": "Ikteri hepatoqelizor zhvillohet sepse mëlçia e dëmtuar nuk mund të metabolizojë bilirubinën normalisht."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-117",
+        "question": "Në pacientët me Cirrozë dhe likid ascitik qëllimi primar i terapisë diuretike është:",
+        "answers": [
+            "Të reduktojë volumin qarkullues dhe të ulë sasinë e likidit ascitik",
+            "Që pacienti të përjetojë lehtësim nga hemoragjia gastro-intestinale",
+            "Të mos ketë ripërsëritje të episodeve hemoragjike",
+            "Reduktimi i simptomave gastro-intestinale"
+        ],
+        "correct": 0,
+        "explanation": "Terapia diuretike synon reduktimin e volumit të lëngjeve dhe të ascitit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-118",
+        "question": "Bulimia nervore është një sëmundje e ushqyerjes që karakterizohet nga:",
+        "answers": [
+            "Episode të mbingrënies të cilat janë të pakontrolluara",
+            "Refuzimi i ushqimit për shkak të frikës së dhjamosjes",
+            "Defiçite të vitaminave në dietë",
+            "Humbje e masës kockore nga osteoporoza"
+        ],
+        "correct": 0,
+        "explanation": "Bulimia nervore karakterizohet nga episode të pakontrolluara mbingrënieje."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-119",
+        "question": "Obeziteti morbid (patologjik) i referohet peshës që negativisht vepron në shëndetin e personit, zakonisht më shumë se:",
+        "answers": [
+            "10% e peshës ideale trupore",
+            "20% e peshës ideale trupore",
+            "30% e peshës ideale trupore",
+            "40% e peshës ideale trupore"
+        ],
+        "correct": 1,
+        "explanation": "Obeziteti përkufizohet zakonisht si peshë mbi 20% të peshës ideale trupore."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-120",
+        "question": "Infeksionet e traktit urinar ndodhin:",
+        "answers": [
+            "Në raport të njëjtë mes meshkujve dhe femrave",
+            "Më shpesh tek meshkujt se tek femrat",
+            "Më shpesh tek femrat se tek meshkujt",
+            "Nuk ka rëndësi gjinia"
+        ],
+        "correct": 2,
+        "explanation": "Infeksionet e traktit urinar janë më të shpeshta te femrat për shkak të anatomisë (uretra e shkurtër)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-121",
+        "question": "Cistiti ndodh më shpesh tek gratë për shkak të:",
+        "answers": [
+            "Shkurtësisë së uretrës",
+            "Ndrryshimeve në inde lidhur me nivelin e ulët të estrogenit",
+            "Ndryshimeve në procesin e të menduarit",
+            "Deficiteve në njohuri në lidhje me metodat e parandalimit"
+        ],
+        "correct": 0,
+        "explanation": "Uretra e shkurtër te gratë favorizon ngjitjen bakteriale, duke shkaktuar cistit më shpesh."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-122",
+        "question": "Veçoria primare e sindromit nefrotik është nivel i larte i:",
+        "answers": [
+            "proteinurisë",
+            "glicemisë",
+            "leukociteve",
+            "acidit folik"
+        ],
+        "correct": 0,
+        "explanation": "Proteinuria masive është karakteristika kryesore e sindromit nefrotik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-123",
+        "question": "Anemia hemolitike kongenitale më e shpeshtë është e shoqëruar me mungesën e:",
+        "answers": [
+            "Fe (hekurit)",
+            "Glukoz 6 Fosfat Dehidrogjenit (G6PD)",
+            "Vit B 12",
+            "Acidit folik"
+        ],
+        "correct": 1,
+        "explanation": "Mungesa e G6PD është shkaku më i shpeshtë i anemisë hemolitike kongenitale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-124",
+        "question": "Problemi bazë në aneminë nga mungesa e Fe është:",
+        "answers": [
+            "Pengimi i transportit të acidit folik",
+            "Një defiçit i qarkullimit të eritrociteve, nga një dëmtim i qelizave të mëparshme hemapoetike",
+            "Zvogëlimi i mbështetjes së Fe për zhvillimin e rruazave të kuqe të gjakut",
+            "Një defiçit i enzimës Glukoz 6 Fosfat Dehidrogjenit (G6PD)"
+        ],
+        "correct": 2,
+        "explanation": "Anemia nga mungesa e Fe shkaktohet nga pamjaftueshmëria e hekurit për sintezën e rruazave të kuqe."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-125",
+        "question": "Komplikacionet kryesore të diabetit përfshijnë:",
+        "answers": [
+            "Çrregullime të strukturës e funksionit të murit të enës së gjakut",
+            "Dhimbje koke",
+            "Zvogëlim të periudhave të vëmendjes",
+            "Hemoragji nga gingivat"
+        ],
+        "correct": 0,
+        "explanation": "Komplikacionet mikro/makrovaskulare (dëmtim i murit të enëve të gjakut) janë komplikacione kryesore të diabetit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-126",
+        "question": "Acidoketoza Diabetike vjen nga mungesa e insulinës, me rritje relative apo absolute të:",
+        "answers": [
+            "Proteinurise",
+            "Urea-nitrogenit",
+            "Glukagonit",
+            "Kaliumit"
+        ],
+        "correct": 2,
+        "explanation": "Acidoketoza diabetike shoqërohet me rritje relative/absolute të glukagonit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-127",
+        "question": "Hypomagnezemia shihet tek:",
+        "answers": [
+            "Pijanecet dhe tek personat me sindromë të keqabsorbimit, disa sëmundje renale dhe keqëushqim",
+            "Tek pacientët me mungesë të Vit D",
+            "Tek pacientët me deformime të gjymtyrëve",
+            "Tek pacientët me shqetësime psikologjike"
+        ],
+        "correct": 0,
+        "explanation": "Hipomagnezemia shihet te alkoolikët dhe personat me keqabsorbim, sëmundje renale ose kequshqim."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-128",
+        "question": "Endokarditi Reumatik ndodh zakonisht pas një infeksioni të rrugëve të sipërme respiratore, shkaktuar nga:",
+        "answers": [
+            "Streptokoku i grupit A",
+            "Pseudomonas aeruginosa",
+            "Serratia marcescens",
+            "Adenoviruset"
+        ],
+        "correct": 0,
+        "explanation": "Endokarditi reumatik lidhet me infeksion të mëparshëm nga Streptokoku i grupit A."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-129",
+        "question": "Sindroma klinike, që karakterizohet nga rënie e shpejtë dhe e theksuar e vlerës së filtrimit glomerular (me rritje të kreatininës dhe azotemisë) eshte:",
+        "answers": [
+            "Insuficensa kardiake",
+            "Insuficensa ventilatore",
+            "IRA (Insuficensa Renale Akute)",
+            "Insuficensa e oksigjenimit"
+        ],
+        "correct": 2,
+        "explanation": "IRA karakterizohet nga rënie e shpejtë e filtrimit glomerular me rritje të kreatininës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-130",
+        "question": "Në diabetin insipid sasia e ADH (Hormonit Anti Diuretik) e çliruar në përgjigje të stimujve fiziologjikë është:",
+        "answers": [
+            "E pamjaftueshme",
+            "Në normë",
+            "E rritur",
+            "Në vlerat maksimale"
+        ],
+        "correct": 0,
+        "explanation": "Në diabetin insipid, çlirimi i ADH-së është i pamjaftueshëm."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-131",
+        "question": "Sindroma Kushing është sëmundje që vjen si pasojë e prodhimit të shtuar të:",
+        "answers": [
+            "Kortizolit",
+            "Kaliumit",
+            "Kalçiumit",
+            "Natriumit"
+        ],
+        "correct": 0,
+        "explanation": "Sindroma Kushing shkaktohet nga prodhimi i tepruar i kortizolit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-132",
+        "question": "Shkaktari kryesor i Ulçërës gastrike është:",
+        "answers": [
+            "Anemia pernicioze",
+            "Helicobacter pylori",
+            "Terapia me antiacid",
+            "Marrja e qumështit"
+        ],
+        "correct": 1,
+        "explanation": "Helicobacter pylori është shkaktari kryesor i ulçerës gastrike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-133",
+        "question": "Është sëmundje multisistemike e karakterizuar nga dëmtime inflamatore, vaskulare të lëkurës dhe të organeve të brendshme:",
+        "answers": [
+            "Ethja reumatizmale",
+            "Artriti rheumatoid",
+            "Sklerodermia",
+            "Osteoartriti"
+        ],
+        "correct": 2,
+        "explanation": "Sklerodermia është sëmundje multisistemike me dëmtime vaskulare të lëkurës dhe organeve."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-134",
+        "question": "Në pacientët me Uretrit, Cistit dhe Piolenefrit mikrobi shkaktar në 80% të infeksioneve të pandërlikuara të rrugëve urinare është:",
+        "answers": [
+            "Esherica coli",
+            "Herpes simplex",
+            "Adenoviruset",
+            "Cytomegaloviruset"
+        ],
+        "correct": 0,
+        "explanation": "E. Coli shkakton rreth 80% të infeksioneve të pandërlikuara urinare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-135",
+        "question": "Infermieri fokusohet në simptomat kryesore të një pacienti me Bronkit kronik të cilat janë:",
+        "answers": [
+            "Dhimbje kraharori gjatë respirimit",
+            "Dispne dhe kollë produktive",
+            "Temperaturë dhe djersë",
+            "Takipne dhe takikardi"
+        ],
+        "correct": 1,
+        "explanation": "Dispnea dhe kolla produktive janë simptomat kryesore të bronkitit kronik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-136",
+        "question": "Dhimbja e kraharorit në pacientët me Angina Pectoris shkaktohet nga:",
+        "answers": [
+            "Vazokonstriksioni koronar",
+            "Lëvizja e trombit",
+            "Ishemia e miokardit",
+            "Prezenca e ateromës"
+        ],
+        "correct": 2,
+        "explanation": "Dhimbja e anginës shkaktohet nga ishemia e miokardit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-137",
+        "question": "Ndër efektet anësore kryesore që shoqërojn administrimin e nitroglicerinës është:",
+        "answers": [
+            "Dobësia muskulare",
+            "Hipertensioni",
+            "Bradikardia",
+            "Dhimbja e kokës"
+        ],
+        "correct": 3,
+        "explanation": "Dhimbja e kokës është efekt anësor i shpeshtë i nitroglicerinës (vazodilatacion cerebral)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-138",
+        "question": "Alogjia-simptomat negative te skizofrenisë do te thotë:",
+        "answers": [
+            "Kontakt I varfër me sy",
+            "Emocion I papërshtatshëm",
+            "Varfëri në të folur",
+            "Latencë në përgjigje"
+        ],
+        "correct": 2,
+        "explanation": "Alogjia i referohet varfërisë në të folur, një simptomë negative e skizofrenisë."
+    }
+]

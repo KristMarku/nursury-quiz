@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-001",
+    "question": "Konjuktiviti bakterial:",
+    "answers": [
+      "Shkaktohet nga viruset",
+      "Ka papilla te zmadhuara",
+      "Ka prani te folikujve",
+      "Ka sekrecione mykoide"
+    ],
+    "correct": 3,
+    "explanation": "Konjuktiviti bakterial karakterizohet nga sekrecione mukopurulente."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-002",
+    "question": "Ne ankesat subjektive nuk ben pjese:",
+    "answers": [
+      "Ulja e te parit",
+      "Dhimbja",
+      "Lotimi i shtuar",
+      "Skuqja"
+    ],
+    "correct": 3,
+    "explanation": "Skuqja është shenjë objektive e vërejtur nga ekzaminuesi, jo ankesë subjektive."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-003",
+    "question": "Ne uvea nuk ben pjese:",
+    "answers": [
+      "Irisi",
+      "Trupi ciliar",
+      "Choroidea",
+      "Retina"
+    ],
+    "correct": 3,
+    "explanation": "Retina nuk bën pjesë në uvea; uvea përbëhet nga iris, trup ciliar dhe koroide."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-004",
+    "question": "Trupi qelqor:",
+    "answers": [
+      "Ka mbaresa nervore",
+      "Ka pigment",
+      "I jep formen syrit",
+      "Ushqen retinen"
+    ],
+    "correct": 2,
+    "explanation": "Trupi qelqor i jep formën syrit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-005",
+    "question": "Konjuktivitetet virale:",
+    "answers": [
+      "Jane te shpeshta ne cdo stine",
+      "Kane sekrecione purulente",
+      "Ka folikuj ne konjuktive",
+      "Ka zmadhim te papilave"
+    ],
+    "correct": 2,
+    "explanation": "Konjuktiviti viral karakterizohet nga prania e folikujve në konjuktivë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-006",
+    "question": "Mjekimi i konjuvitit viral:",
+    "answers": [
+      "Antiviral",
+      "Antibiotik",
+      "Antimykotik",
+      "Kalon pa mjekim"
+    ],
+    "correct": 3,
+    "explanation": "Konjuktiviti viral zakonisht është vetëkufizues dhe kalon pa mjekim specifik."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-007",
+    "question": "Nuk ben pjese ne shtresat e kornese:",
+    "answers": [
+      "Membrana e Bawmanit",
+      "Stroma",
+      "Konet",
+      "Endoteli"
+    ],
+    "correct": 2,
+    "explanation": "Konet janë qeliza retinale, jo pjesë e shtresave të kornesë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-008",
+    "question": "Fuqia perthyese e syrit eshte:",
+    "answers": [
+      "60 dioptri",
+      "58 dioptri",
+      "62 dioptri",
+      "50 dioptri"
+    ],
+    "correct": 0,
+    "explanation": "Sipas kësaj alternative, fuqia përthyese e syrit konsiderohet 60 dioptri."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-009",
+    "question": "Ne keratite dallojme gjithe keto pervec:",
+    "answers": [
+      "Infiltrate korneale",
+      "Hypopion",
+      "Turbullim I vitrozit",
+      "Edeme korneale"
+    ],
+    "correct": 2,
+    "explanation": "Turbullimi i vitrozit nuk është shenjë tipike e keratitit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-010",
+    "question": "Keratokonusi mjekohet me:",
+    "answers": [
+      "Antibiotik",
+      "Syze",
+      "Lente e fort kontakti",
+      "Kortizonike"
+    ],
+    "correct": 2,
+    "explanation": "Keratokonusi mjekohet me lente të forta kontakti."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-011",
+    "question": "Makrokornea eshte:",
+    "answers": [
+      "Semundje inflamatore e kornese",
+      "Diametri I kornese > 12mm",
+      "Dhome e perparme e thelle",
+      "Diameter <10 mm"
+    ],
+    "correct": 1,
+    "explanation": "Makrokornea përkufizohet si diametër i kornesë mbi 12mm."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-012",
+    "question": "Keratokonus eshte:",
+    "answers": [
+      "Anomali e perthyerjes se drites",
+      "Dalje ne forme koni e kristalinit",
+      "Semindje inflamatore",
+      "Ka sekrecione purulente"
+    ],
+    "correct": 1,
+    "explanation": "Keratokonusi karakterizohet nga një dalje/protuberancë në formë koni."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-013",
+    "question": "Cila forme e keratitit shfaqet me heret?",
+    "answers": [
+      "dentritik",
+      "punktat",
+      "vezikular",
+      "stromal"
+    ],
+    "correct": 1,
+    "explanation": "Forma punktate e keratitit shfaqet më herët."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-014",
+    "question": "Keratiti mykotik:",
+    "answers": [
+      "Shfaqet ne dimer",
+      "Ka aftesi te perseritet shpesh",
+      "Shfaqet nga perdorimi I gjate I kortizonikeve",
+      "Mjekohet me antibiotike"
+    ],
+    "correct": 2,
+    "explanation": "Keratiti mykotik favorizohet nga përdorimi i gjatë i kortizonikëve."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-015",
+    "question": "Ametropia eshte:",
+    "answers": [
+      "Anomalia e retines",
+      "Anomali e kornese",
+      "Shembellimi bie ne retine",
+      "Anomali e perthyerjes se drites"
+    ],
+    "correct": 3,
+    "explanation": "Ametropia është anomali e përthyerjes së dritës (refraksionit)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-016",
+    "question": "Ne hipermetropi shembellimi bie:",
+    "answers": [
+      "ne retine",
+      "pas retines",
+      "para retine",
+      "ne pika te ndryshme ne retine"
+    ],
+    "correct": 1,
+    "explanation": "Në hipermetropi, shëmbëllimi bie pas retinës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-017",
+    "question": "Keratiti mykotik mjekohet:",
+    "answers": [
+      "Antivirale",
+      "Antibiotike",
+      "Antimykotike",
+      "Kortizonikle"
+    ],
+    "correct": 2,
+    "explanation": "Keratiti mykotik mjekohet me antimykotikë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-018",
+    "question": "Emetropia eshte:",
+    "answers": [
+      "Anomali e refraksionit",
+      "Anomali e kornese",
+      "Shembellimi bie ne retine",
+      "Shembellimi bie para retines"
+    ],
+    "correct": 2,
+    "explanation": "Emetropia është gjendja normale ku shëmbëllimi bie saktë në retinë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-019",
+    "question": "Ne miopi shembellimi bie:",
+    "answers": [
+      "ne retine",
+      "para retines",
+      "pas retines",
+      "ne pika te ndryshme te retines"
+    ],
+    "correct": 1,
+    "explanation": "Në miopi, shëmbëllimi bie para retinës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-020",
+    "question": "Astigmatizimi:",
+    "answers": [
+      "Eshte anomali e kornese",
+      "Eshte anomali e kristalinit",
+      "Shembellimi bie ne retine",
+      "Eshte demtim i akomodimit"
+    ],
+    "correct": 0,
+    "explanation": "Astigmatizmi është anomali e formës së kornesë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-021",
+    "question": "Syzet e lugeta perdoren:",
+    "answers": [
+      "Miopi",
+      "Hipermetropi",
+      "Astigmatizem",
+      "Glaukone"
+    ],
+    "correct": 0,
+    "explanation": "Syzet me lente të lugëta (konkave) përdoren për miopinë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-022",
+    "question": "Shkolitje retinal mund te kemi ne:",
+    "answers": [
+      "Hipermetropi alta",
+      "Astigmatizem",
+      "Miopi alta",
+      "Asnjera"
+    ],
+    "correct": 2,
+    "explanation": "Shkolitja retinale hasej më shpesh në miopinë e lartë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-023",
+    "question": "Sfinkter dhe dilatators pupile ndodhen ne:",
+    "answers": [
+      "Iris",
+      "Trupin ciliar",
+      "Choroidea",
+      "Retine"
+    ],
+    "correct": 0,
+    "explanation": "Sfinkteri dhe dilatatori i pupilës ndodhen në iris."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-024",
+    "question": "Fenomeni tindal vihet re ne:",
+    "answers": [
+      "Uveite te perparme",
+      "Uveite te pasme",
+      "Konjuktivite",
+      "Glaukome"
+    ],
+    "correct": 0,
+    "explanation": "Fenomeni Tindall vihet re në uveitet e përparme."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-025",
+    "question": "Syzet e myseta perdoren:",
+    "answers": [
+      "Miopi",
+      "Hipermetropi",
+      "Astigmatizem",
+      "Glaukome"
+    ],
+    "correct": 1,
+    "explanation": "Syzet me lente të myshta (konvekse) përdoren për hipermetropinë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-026",
+    "question": "Akomodimi realizohet nga:",
+    "answers": [
+      "Retina",
+      "Kristalini",
+      "Kornea",
+      "Trupi qelqor"
+    ],
+    "correct": 1,
+    "explanation": "Akomodimi realizohet nga kristalini."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-027",
+    "question": "Fenomeni tindal eshte:",
+    "answers": [
+      "Anomali e perthyerjes se drites",
+      "Anomali e kristalinit",
+      "Turbullim I dhomes se perparme",
+      "Turbullim I vitrozit"
+    ],
+    "correct": 2,
+    "explanation": "Fenomeni Tindall është shenjë turbullimi i dhomës së përparme (prani qelizash/proteinash)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-028",
+    "question": "Hypopion eshte:",
+    "answers": [
+      "Grumbullim pusi ne dhomen e perparme",
+      "Turbullim I dhomes se perparme",
+      "Turbullim I trupit qelqor",
+      "Inflamacion I konjuktives"
+    ],
+    "correct": 0,
+    "explanation": "Hypopioni është grumbullim qelbi në dhomën e përparme të syrit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-029",
+    "question": "Sinecy anterior eshte ngjitje e:",
+    "answers": [
+      "kornese me kristalinin",
+      "irisit me kornene",
+      "irisit me kristalinin",
+      "kristalinit me vitrozin"
+    ],
+    "correct": 1,
+    "explanation": "Sinekia anteriore është ngjitje e irisit me kornenë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-030",
+    "question": "Cila shenje i perket uveiteve posteriore?",
+    "answers": [
+      "Turbullime te vitrozit",
+      "Turbullime ne kamera anterior",
+      "Skuqje ciliare",
+      "Dhimbje"
+    ],
+    "correct": 0,
+    "explanation": "Turbullimi i vitrozit është shenjë e uveiteve posteriore."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-031",
+    "question": "Synecy posterior eshte ngjitje e:",
+    "answers": [
+      "kornese me kristalinin",
+      "irisit me kornene",
+      "irisit me kristalinin",
+      "kristalinit me vitrozin"
+    ],
+    "correct": 2,
+    "explanation": "Sinekia posteriore është ngjitje e irisit me kristalinin."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-032",
+    "question": "Cili mjekim eshte kryesor ne uveite?",
+    "answers": [
+      "Atropina",
+      "Kortizoniket",
+      "Antiviralet",
+      "Antibiotiket"
+    ],
+    "correct": 0,
+    "explanation": "Sipas kësaj alternative, atropina konsiderohet mjekimi kryesor në uveite (veti cikloplegjike/parandaluese sinekish)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-033",
+    "question": "Glaukome eshte:",
+    "answers": [
+      "Tension i ulet i syrit",
+      "Semundje e nervit optik",
+      "Anomali refraksioni",
+      "Shtremberim i syrit"
+    ],
+    "correct": 1,
+    "explanation": "Glaukoma është sëmundje e nervit optik (shpesh e lidhur me tension të lartë okular)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-034",
+    "question": "Lengu ujor i syrit eleminohet nga:",
+    "answers": [
+      "Trabekulat",
+      "Trupi qelqor",
+      "Kristalini",
+      "Kornea"
+    ],
+    "correct": 0,
+    "explanation": "Lëngu ujor eliminohet përmes rrjetit trabekular."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-035",
+    "question": "Tensioni normal i syrit eshte:",
+    "answers": [
+      "10 -20 mmhg",
+      "11-22 mmhg",
+      "11-21 mmhg",
+      "10-22mmhg"
+    ],
+    "correct": 2,
+    "explanation": "Tensioni normal intraokular konsiderohet 11-21 mmHg."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-036",
+    "question": "Cili medikament nuk perdoret ne uveite?",
+    "answers": [
+      "Antiviralet",
+      "Kortizoniket",
+      "Antibiotiket",
+      "Atropina"
+    ],
+    "correct": 0,
+    "explanation": "Antiviralet nuk përdoren rutinë, pasi shumica e uveiteve nuk janë virale."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-037",
+    "question": "Strabizmi eshte:",
+    "answers": [
+      "Shtremberim I kapakeve",
+      "Shtremberim I syve",
+      "Rritje e tensionit te syrit",
+      "Turbullim I vitrozit"
+    ],
+    "correct": 1,
+    "explanation": "Strabizmi është shtrembërim (mospërputhje boshtesh) i syve."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-038",
+    "question": "Lengu ujor nuk eleminohet nga:",
+    "answers": [
+      "Trabekulat",
+      "Kanali I shlemit",
+      "Hapesirat e fontanes",
+      "Kornea"
+    ],
+    "correct": 3,
+    "explanation": "Kornea nuk eliminon lëngun ujor."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-039",
+    "question": "Ne glaukome nuk ndodh:",
+    "answers": [
+      "Rritje e tensionit intraocular",
+      "Demtim I n. Optic",
+      "Ulja e pamjes",
+      "Astigmatizmi"
+    ],
+    "correct": 3,
+    "explanation": "Astigmatizmi nuk lidhet me glaukomën."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-040",
+    "question": "Tensioni i syrit matet me",
+    "answers": [
+      "Tonometer",
+      "Ophthalrnoskop",
+      "Gonioskop",
+      "Biomikroskop"
+    ],
+    "correct": 0,
+    "explanation": "Tensioni i syrit matet me tonometer."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-041",
+    "question": "Timololi eshte:",
+    "answers": [
+      "B-bllokues",
+      "A2-Agoniste",
+      "Prostaglandine",
+      "ACE-inhibitor"
+    ],
+    "correct": 0,
+    "explanation": "Timololi është beta-bllokues përdorur në glaukomë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-042",
+    "question": "Azopti është:",
+    "answers": [
+      "B-bllokues",
+      "A 2 agonist",
+      "Prostanglandinë",
+      "Inhibitor i anhidrazës karbonike"
+    ],
+    "correct": 3,
+    "explanation": "Azopti është inhibitor i anhidrazës karbonike."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-043",
+    "question": "Kendi i CA shihet me :",
+    "answers": [
+      "Tonometer",
+      "Biomikroskop",
+      "Ophthalmoskop",
+      "Gonioskop"
+    ],
+    "correct": 3,
+    "explanation": "Këndi i dhomës së përparme (CA) shihet me gonioskop."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-044",
+    "question": "Travatani eshte:",
+    "answers": [
+      "B-bllokues",
+      "A2-agoniste",
+      "Prostaglandine",
+      "ACE- inhibitor"
+    ],
+    "correct": 2,
+    "explanation": "Travatani (travoprost) është prostaglandinë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-045",
+    "question": "Muskujt e jashtem te syrit jane:",
+    "answers": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "Syri ka 6 muskuj të jashtëm."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-046",
+    "question": "Cili muskul i jashtem i syrit inervohet nga n. Abducent?",
+    "answers": [
+      "M.rectus extern",
+      "M. Rcctus intern",
+      "M.rectus superior",
+      "M.rectus inferior"
+    ],
+    "correct": 0,
+    "explanation": "Nervi abducent inervon muskulin rectus extern."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-047",
+    "question": "Cila shenje nuk eshte ne krizen glaukomatoze?",
+    "answers": [
+      "Iris bombe",
+      "Sy I forte si gur",
+      "Dhome e perparme e thelle",
+      "Edeme korneale"
+    ],
+    "correct": 2,
+    "explanation": "Në krizën glaukomatoze dhoma e përparme është e cekët, jo e thellë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-048",
+    "question": "Cili muskul i jashtem inervohet nga n.troklearis?",
+    "answers": [
+      "M.obliquos inferior",
+      "M. Rectus inferior",
+      "M.obliquos superior",
+      "M.rectus med"
+    ],
+    "correct": 2,
+    "explanation": "Nervi trochlear inervon muskulin obliquus superior."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-049",
+    "question": "Termi adenopati i referohet:",
+    "answers": [
+      "Ënjtjes (zmadhimit) të nyjave limfatike",
+      "Ënjtjes së zorrëve të mëdha",
+      "Ënjtjes së fshikëzës së tëmthit",
+      "Ënjtjes së stomakut"
+    ],
+    "correct": 0,
+    "explanation": "Adenopatia i referohet zmadhimit të nyjave limfatike."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-050",
+    "question": "Vjellja e gjakut është i njohur si:",
+    "answers": [
+      "Hemorroide",
+      "Hemostasis",
+      "Hematemesis",
+      "Melena"
+    ],
+    "correct": 2,
+    "explanation": "Hematemeza është vjellje gjaku."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-051",
+    "question": "Inflamacioni i mëlcisë njihet si:",
+    "answers": [
+      "Cirrhozë",
+      "Hepatit",
+      "Bulimi",
+      "Fistul"
+    ],
+    "correct": 1,
+    "explanation": "Inflamacioni i mëlçisë quhet hepatit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-052",
+    "question": "Ndjesia e djegies retrosternale njihet si:",
+    "answers": [
+      "Cardiosis",
+      "Pyrosis",
+      "Mostretje",
+      "Meteorizëm"
+    ],
+    "correct": 1,
+    "explanation": "Djegia retrosternale (urthi) quhet pirozis."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-053",
+    "question": "Të vjellat e shtuara njihen si:",
+    "answers": [
+      "Hyperpepsia",
+      "Hyperemesis",
+      "Hyperamnesia",
+      "Hyperfagia"
+    ],
+    "correct": 1,
+    "explanation": "Të vjellat e shtuara njihen si hiperemezë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-054",
+    "question": "Defekimi me feçe në ngjyrë të zezë quhet:",
+    "answers": [
+      "Diarre",
+      "Karcinozë",
+      "Konstipacion",
+      "Melena"
+    ],
+    "correct": 3,
+    "explanation": "Feçet e zeza quhen melena."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-055",
+    "question": "Inspektimi instrumental i pjesës fundore të zorrës së trashë është i njohur si:",
+    "answers": [
+      "Colostomi",
+      "Trakeostomi",
+      "Sigmoidoskopi",
+      "Tonsilektomi"
+    ],
+    "correct": 2,
+    "explanation": "Sigmoidoskopia inspekton pjesën fundore të zorrës së trashë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-056",
+    "question": "Cila nga të mëposhtmet nuk është patologji e pankreasit?",
+    "answers": [
+      "Pancreatiti akut",
+      "Kolecititi akut",
+      "Fibroza cistike",
+      "Kanceri pankreatik"
+    ],
+    "correct": 1,
+    "explanation": "Kolecistiti akut prek fshikëzën e tëmthit, jo pankreasin."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-057",
+    "question": "Disfagia është:",
+    "answers": [
+      "Vështirësi në gëlltitje",
+      "Vështirësi në tretje",
+      "Pamundësi për të përtypur",
+      "Vështirësi në defekim"
+    ],
+    "correct": 0,
+    "explanation": "Disfagia është vështirësi në gëlltitje."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-058",
+    "question": "Stenoza e lindur e pilorit:",
+    "answers": [
+      "Zakonisht paraqitet që në ditët e para të jetës",
+      "Ndodh më shpesh në meshkuj se femra",
+      "Paraqitet me të vjella me gjak",
+      "Trajtohet me FPP"
+    ],
+    "correct": 1,
+    "explanation": "Stenoza pilorike prek më shpesh meshkujt."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-059",
+    "question": "Cirroza është:",
+    "answers": [
+      "Sëmundje kronike degjenerative e mëlçisë",
+      "Tumor i gojës",
+      "Tumor i stomakut",
+      "Prania e gurëve në fshikëzën e tëmthit"
+    ],
+    "correct": 0,
+    "explanation": "Cirroza është sëmundje kronike e mëlçisë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-060",
+    "question": "Një pacient diagnoztikuar me hbs Ag (+), propabikish ka:",
+    "answers": [
+      "Një Hepatit B",
+      "Koledokolitiazë",
+      "Cirrozë biliare primare",
+      "Kolangit sklerotizant primar"
+    ],
+    "correct": 0,
+    "explanation": "HBsAg pozitiv tregon infeksion nga hepatiti B."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-061",
+    "question": "Cili ekzaminim gjaku do të ishte më i dobishem për të konfirmuar diagnozën e Cirrhozës biliare primare?",
+    "answers": [
+      "Antitrupa Antigliadinë",
+      "Antitrupa Antimitokondrial (AMA)",
+      "Antitrupa Antinuclear",
+      "Niveli i amilazes ne gjak"
+    ],
+    "correct": 1,
+    "explanation": "Antitrupat antimitokondrialë (AMA) janë markuesi diagnostikues i cirrozës biliare primare."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-062",
+    "question": "Për cilin nga viruset e hepatitit ekziston vaksina?",
+    "answers": [
+      "Për virusin A",
+      "Për virusin B",
+      "Për virusin C",
+      "Për virusin D"
+    ],
+    "correct": 1,
+    "explanation": "Ekziston vaksinë efektive për hepatitin B."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-063",
+    "question": "Faktori më i rëndësishëm për progresionin e nefropatisë është:",
+    "answers": [
+      "Proteinuria",
+      "Leukocituria",
+      "Hematuria",
+      "Asnjëra"
+    ],
+    "correct": 0,
+    "explanation": "Proteinuria është faktori kryesor i progresionit të nefropatisë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-064",
+    "question": "Ndër shkaqet e Insuficencës Renale Kronike mund të jetë:",
+    "answers": [
+      "Diabeti Mellitus",
+      "Hipertensioni Sistemik",
+      "Pielonefriti kronik",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Diabeti, hipertensioni dhe pielonefriti kronik janë të gjithë shkaktarë të IRK."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-065",
+    "question": "Në Insuficencën Renale Kronike të avancuar mund të vihen re këto lezione kutane:",
+    "answers": [
+      "Pruritis",
+      "Kalçifikime kutane dhe subkutane",
+      "Dermatopati të fistulës arteriovenoze",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "IRK e avancuar shoqërohet me pruritis, kalçifikime kutane dhe dermatopati të fistulës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-066",
+    "question": "Faktorë predispozues për Insuficencën Renale Akute mund të jetë:",
+    "answers": [
+      "Mosha e avancuar",
+      "Përdorimi i anti-inflamatorëve-josteroidal",
+      "Përdorimi i anti-hipertensivëve ACE inhibitorë.",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Mosha e avancuar, AINS dhe ACE inhibitorët janë të gjithë faktorë predispozues për IRA."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-067",
+    "question": "Indikacion absolut për fillimin e dializës është:",
+    "answers": [
+      "Edema pulmonare",
+      "Hiperkaliemia",
+      "Perikarditi uremik",
+      "Të gjitha"
+    ],
+    "correct": 3,
+    "explanation": "Edema pulmonare, hiperkaliemia dhe perikarditi uremik janë indikacione absolute për dializë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-068",
+    "question": "Hemisferat cerebrale janë:",
+    "answers": [
+      "Identike me njëra-tjetrën;",
+      "Thuajse identike me njëra-tjetrën",
+      "Plotësisht të ndryshme nga njëra-tjetra",
+      "Të pakrahasueshme"
+    ],
+    "correct": 1,
+    "explanation": "Hemisferat cerebrale janë thuajse identike, me dallime funksionale të holla."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-069",
+    "question": "Hemisferat dallojnë nga njëra-tjetra nga:",
+    "answers": [
+      "Përmasat e lobit frontal;",
+      "Përmasat e lobit temporal;",
+      "Lokalizimi I zonës së të folurës;",
+      "Përmasat e lobit oksipital"
+    ],
+    "correct": 2,
+    "explanation": "Hemisferat dallojnë kryesisht nga lokalizimi i zonës së të folurit (lateralizim)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-070",
+    "question": "Ndarja e hemisferave për arsye didaktike bëhet në:",
+    "answers": [
+      "2 lobe;",
+      "3 lobe;",
+      "4 lobe;",
+      "5 lobe."
+    ],
+    "correct": 2,
+    "explanation": "Për qëllime didaktike, çdo hemisferë ndahet në 4 lobe."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-071",
+    "question": "Korteksi cerebral përbëhet kryesisht nga:",
+    "answers": [
+      "trupa qelizash nervore;",
+      "zgjatimet e qelizave nervore;",
+      "qeliza mbështetëse (jo neurone);",
+      "trupa qelizore dhe zgjatime të qelizave nervore në sasi thuajse të barabarta."
+    ],
+    "correct": 0,
+    "explanation": "Korteksi cerebral (lënda gri) përbëhet kryesisht nga trupa qelizash nervore."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-072",
+    "question": "Afazia është crregullim i:",
+    "answers": [
+      "vëmendjes",
+      "të folurit",
+      "nuhatjes",
+      "shikimit"
+    ],
+    "correct": 1,
+    "explanation": "Afazia është çrregullim i të folurit/gjuhës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-073",
+    "question": "Çrregullime të kujtesës janë:",
+    "answers": [
+      "Afazi",
+      "Agrafi",
+      "Amnezi",
+      "Disfagi"
+    ],
+    "correct": 2,
+    "explanation": "Amnezia është çrregullim i kujtesës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-074",
+    "question": "Anosmia është shenjë e dëmtimit të nervave:",
+    "answers": [
+      "olfaktorë",
+      "facial",
+      "glosofaringealë",
+      "trigeminalë"
+    ],
+    "correct": 0,
+    "explanation": "Anosmia lidhet me dëmtimin e nervit olfaktor."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-075",
+    "question": "Hemianopsia është:",
+    "answers": [
+      "Deficit motor",
+      "Çrregullim sensitiv",
+      "Deficit i fushës vizive",
+      "Çrregullim i ekuilibrit"
+    ],
+    "correct": 2,
+    "explanation": "Hemianopsia është deficit i fushës vizive."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-076",
+    "question": "Ptoza palpebrale haset në dëmtimet e nervit:",
+    "answers": [
+      "olfaktor",
+      "okulomotor",
+      "trigeminal",
+      "hypogloss"
+    ],
+    "correct": 1,
+    "explanation": "Ptoza palpebrale haset në dëmtimin e nervit okulomotor."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-077",
+    "question": "Shenja e \"Bell\", haset në:",
+    "answers": [
+      "Neuralginë trigeminale",
+      "Paralizën faciale centrale",
+      "Paralizën faciale përiferike;",
+      "Neuralgjinë glosso-faringeale."
+    ],
+    "correct": 2,
+    "explanation": "Shenja Bell haset në paralizën faciale periferike."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-078",
+    "question": "Në dëmtimet e nervit glosso-faringeal kemi humbjen e shijes në:",
+    "answers": [
+      "1/3 e përparme të gjuhës;",
+      "1/3 e mesme të gjuhës;",
+      "1/3 e pasme të gjuhës;",
+      "Gjithë gjuhën."
+    ],
+    "correct": 2,
+    "explanation": "Nervi glosofaringeal siguron shijen në 1/3 e pasme të gjuhës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-079",
+    "question": "Nervi hypogloss është:",
+    "answers": [
+      "sensitiv;",
+      "motor;",
+      "miks (sensitivo-motor);",
+      "me funksion parasimpatik."
+    ],
+    "correct": 1,
+    "explanation": "Nervi hipoglos është nerv motor."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-080",
+    "question": "Në sindromat miastenike dëmtimi primar është në:",
+    "answers": [
+      "Nervat përiferikë;",
+      "Fibrat muskulare;",
+      "Pllakën neuro-muskulare;",
+      "Sistemin nervor qendror."
+    ],
+    "correct": 2,
+    "explanation": "Miastenia gravis dëmton pllakën neuro-muskulare."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-081",
+    "question": "Në miopatitë, dëmtimi primar është në:",
+    "answers": [
+      "mekanizmin e kontraksionit muscular;",
+      "junksionin muskul-nerv;",
+      "nervat përiferikë;",
+      "harqet reflektore."
+    ],
+    "correct": 0,
+    "explanation": "Miopatitë dëmtojnë drejtpërdrejt mekanizmin e kontraksionit muskular."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-082",
+    "question": "Furnizimi arterial i trurit sigurohet nga 2 arteriet:",
+    "answers": [
+      "cerebri anterior;",
+      "cerebri media;",
+      "communicante anterior dhe 2 arteriet communicante posteriore;",
+      "karotis dhe 2 arteriet vertebrale."
+    ],
+    "correct": 3,
+    "explanation": "Truri furnizohet nga arteriet karotide dhe vertebrale."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-083",
+    "question": "Patologjite cerebrovaskulare karakterizohen nga deficite:",
+    "answers": [
+      "subakute neurologjike, nga çrregullim metabolic;",
+      "akute neurologjike, nga çrregullim I sistemit cerebro-vaskular;",
+      "neurologjik me baze gjenetike;",
+      "neurologjik nga intoksikacionet."
+    ],
+    "correct": 1,
+    "explanation": "Patologjitë cerebrovaskulare shkaktojnë deficite akute nga çrregullim i qarkullimit cerebral."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-084",
+    "question": "Skleroza multiple është patologji:",
+    "answers": [
+      "Dismielinizante hereditare;",
+      "Dismielinizante e fituar;",
+      "Demielinizante;",
+      "Metabolike."
+    ],
+    "correct": 2,
+    "explanation": "Skleroza multiple është sëmundje demielinizante."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-085",
+    "question": "M. Alzheimer është sëmundje:",
+    "answers": [
+      "Demielinizante;",
+      "Degjenerative progressive;",
+      "Traumatike;",
+      "Metabolike."
+    ],
+    "correct": 1,
+    "explanation": "Alzheimeri është sëmundje degjenerative progresive."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-086",
+    "question": "Në morbus Alzheimer ndodh humbje progressive neuronale në korteksin e lobeve:",
+    "answers": [
+      "parietale e temporal;",
+      "oksipitale e frontale;",
+      "frontale e parietale;",
+      "oksipitale e parietale."
+    ],
+    "correct": 0,
+    "explanation": "Alzheimeri prek kryesisht korteksin parietal dhe temporal."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-087",
+    "question": "Skleroza laterale amiotrofike (SLA) , karakterizohet nga humbje:",
+    "answers": [
+      "progresive neuronale në korteksin frontal;",
+      "neuronale në traktin pyramidal;",
+      "neuronale në fashikujt posterior;",
+      "neuronale në cornu anterior yë medulles spinale."
+    ],
+    "correct": 1,
+    "explanation": "Sipas kësaj alternative, SLA karakterizohet nga humbje neuronale në traktin piramidal."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-088",
+    "question": "Atrofitë spinocerebellare janë patologji:",
+    "answers": [
+      "demielinizante;",
+      "metabolike;",
+      "hereditare;",
+      "vaskulare."
+    ],
+    "correct": 2,
+    "explanation": "Atrofitë spinocerebellare janë patologji hereditare (gjenetike)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-089",
+    "question": "Patologjitë metabolike të trashëguara të sistemit nervor shkaktohen nga defekte te:",
+    "answers": [
+      "genit që kodon për një enzimë apo protein të rëndësishme;",
+      "kontraksionit muskular;",
+      "funksionit të harkut reflektor;",
+      "funksionit të pllakës neuro-muskulare."
+    ],
+    "correct": 0,
+    "explanation": "Këto patologji shkaktohen nga defekte gjenetike të enzimave/proteinave."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-090",
+    "question": "Morbus Willson është pasojë e anomalisë së një proteine transportuese të:",
+    "answers": [
+      "hekurit në organizëm;",
+      "klorit në organizëm;",
+      "azotit në organizëm;",
+      "bakrit në organizëm."
+    ],
+    "correct": 3,
+    "explanation": "Sëmundja Wilson vjen nga defekti i transportit të bakrit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-091",
+    "question": "MMSE, është test i cili përdoret për të vlerësuar:",
+    "answers": [
+      "forcën muskulare;",
+      "funksionet e larta konjitive;",
+      "sensibilitetin;",
+      "ekuilibrin."
+    ],
+    "correct": 1,
+    "explanation": "MMSE vlerëson funksionet konjitive të larta."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-092",
+    "question": "Dëmtimet e motoneuroneve inferior shkaktojnë:",
+    "answers": [
+      "Reflekse të pandryshuara;",
+      "Hipërrefleksi;",
+      "Hyporefleksi;",
+      "Arefleksi."
+    ],
+    "correct": 2,
+    "explanation": "Dëmtimi i motoneuronit inferior shkakton hiporefleksi."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-093",
+    "question": "Dëmtimet e motoneuroneve supëriore shkaktojnë:",
+    "answers": [
+      "Reflekse të pandryshuara;",
+      "Hipërrefleksi;",
+      "Hyporefleksi;",
+      "Arefleksi."
+    ],
+    "correct": 1,
+    "explanation": "Dëmtimi i motoneuronit superior shkakton hiperrefleksi."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-094",
+    "question": "Zona motore primare ndodhet në korteksin:",
+    "answers": [
+      "motor;",
+      "parietal;",
+      "oksipital;",
+      "temporal"
+    ],
+    "correct": 0,
+    "explanation": "Zona motore primare ndodhet në korteksin motor (lobi frontal)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-095",
+    "question": "Dhimbje neuropatike është dhimbje që shkaktohet nga lezione:",
+    "answers": [
+      "të korteksit cerebral;",
+      "të radikseve nervore;",
+      "muskulare;",
+      "të fibrave nervore."
+    ],
+    "correct": 3,
+    "explanation": "Dhimbja neuropatike vjen nga lezione të fibrave nervore."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-096",
+    "question": "Për të ekzaminuar sensibilitetin termik përdoren:",
+    "answers": [
+      "Një epruvetë qelqi me ujë të ngrohtë;",
+      "Një epruvetë qelqi me ujë të ftohtë;",
+      "Dy epruveta qelqi, njëra me ujë të ngrohtë dhe tjetra me ujë të ftohtë;",
+      "Një age sterile."
+    ],
+    "correct": 2,
+    "explanation": "Sensibiliteti termik ekzaminohet me dy epruveta, njëra e ngrohtë dhe tjetra e ftohtë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-097",
+    "question": "Zona sensore primare ndodhet në korteksin:",
+    "answers": [
+      "frontal;",
+      "parietal;",
+      "oksipital;",
+      "temporal."
+    ],
+    "correct": 1,
+    "explanation": "Zona sensore primare ndodhet në korteksin parietal."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-098",
+    "question": "Në sindromën hipotalamike (dëmtime të hipotalamusit), kemi:",
+    "answers": [
+      "Hypoestezi dhe disestezi;",
+      "Hipërestezi;",
+      "Hypoestezi;",
+      "Anestezi."
+    ],
+    "correct": 0,
+    "explanation": "Sindroma hipotalamike shoqërohet me hipoestezi dhe disestezi."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-099",
+    "question": "Halucinacionet olfaktore kanë të bëjnë me:",
+    "answers": [
+      "Mungesën e nuhatjes;",
+      "Ekzagjerimin e nuhatjes;",
+      "Mungesën e shijes;",
+      "Përceptimin e aromave inekzistente."
+    ],
+    "correct": 3,
+    "explanation": "Halucinacionet olfaktore janë perceptimi i aromave që nuk ekzistojnë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-100",
+    "question": "Ataksia statike është paaftësia për të:",
+    "answers": [
+      "ruajtur ekuilibrin në pozicionin në këmbë;",
+      "ruajtur ekuilibrin në ecje me sytë hapur;",
+      "ruajtur ekuilibrin në ecje me sytë mbyllur;",
+      "kryer provën index-nasi."
+    ],
+    "correct": 0,
+    "explanation": "Ataksia statike është paaftësi për të ruajtur ekuilibrin në pozicion në këmbë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-101",
+    "question": "Dismetria është paaftësia për:",
+    "answers": [
+      "ruajtjen e ekuilibrit në ecje;",
+      "arritjen në mënyrë korrekte një shenjë;",
+      "kapjen e një objekti;",
+      "ecjen me sytë mbyllur."
+    ],
+    "correct": 1,
+    "explanation": "Dismetria është paaftësia për të arritur saktë një shenjë/objektiv."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-102",
+    "question": "Agnozia është çrregullim i:",
+    "answers": [
+      "kuptimit të të folurës;",
+      "orientimit në kohë dhe hapësirë;",
+      "njohjes së objekteve në prani të sistemeve sensoriale intakte;",
+      "sensibilitetit taktil."
+    ],
+    "correct": 2,
+    "explanation": "Agnozia është paaftësia për të njohur objektet pavarësisht sensorëve intaktë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-103",
+    "question": "Elektroneurografia përcakton:",
+    "answers": [
+      "Aktivitetin elektrik kortikal;",
+      "Vijueshmërinë funksionale të harqeve reflektore;",
+      "Funksionin e fibrave muskulare;",
+      "Shpejtësinë e konduksionit nervor motor apo sensitiv;"
+    ],
+    "correct": 3,
+    "explanation": "Elektroneurografia mat shpejtësinë e konduksionit nervor."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-104",
+    "question": "Epilepsia reflektore përbëhet nga atake epileptike që:",
+    "answers": [
+      "Shpërthejnë pas një stimuli të caktuar;",
+      "Janë të palidhura me stimuj të ndryshëm;",
+      "Hasen më tepër në të rriturit;",
+      "Janë me bazë gjenetike."
+    ],
+    "correct": 0,
+    "explanation": "Epilepsia reflektore shpërthen pas një stimuli specifik."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-105",
+    "question": "EEG bën regjistrimin e :",
+    "answers": [
+      "Funksionit të harqeve reflektore;",
+      "Aktivitetit elektrik kortikal;",
+      "Funksionit të fibrave muskulare;",
+      "Funksionit të fibrave nervore."
+    ],
+    "correct": 1,
+    "explanation": "EEG regjistron aktivitetin elektrik kortikal."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-106",
+    "question": "Aura e migrenës është:",
+    "answers": [
+      "Faza e dhimbjes maksimale të kokës;",
+      "Përiudha pas qetësimit të kësaj dhimbjeje;",
+      "Simptomatologjia specifike që shfaqet para dhimbjes;",
+      "Nuk ka lidhje me dhimbjen e kokës."
+    ],
+    "correct": 0,
+    "explanation": "Sipas kësaj alternative, aura e migrenës përshkruhet si faza e dhimbjes maksimale të kokës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-107",
+    "question": "Progesteroni prodhohet nga:",
+    "answers": [
+      "Trupi i verdhe",
+      "Uterusi",
+      "Hypofiza",
+      "Ovaret"
+    ],
+    "correct": 0,
+    "explanation": "Progesteroni prodhohet kryesisht nga trupi i verdhë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-108",
+    "question": "Parandalimi paresor ul:",
+    "answers": [
+      "Prevalencen e një semundjeje",
+      "Incidencen e një semundjeje",
+      "Prevalencen e një handikapi",
+      "Incidencen e një handikapi"
+    ],
+    "correct": 1,
+    "explanation": "Parandalimi parësor ul incidencën e sëmundjes."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-109",
+    "question": "Për te evituar një shtatzani abstinohet nga dita:",
+    "answers": [
+      "8 deri ne diten e 14",
+      "6 deri ne diten e 14",
+      "8 deri ne diten e 18",
+      "6 deri ne diten e 12"
+    ],
+    "correct": 0,
+    "explanation": "Për metodën kalendarike, abstinimi rekomandohet nga dita 8 deri në ditën 14 të ciklit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-110",
+    "question": "Pilula kontraceptive e urgjences merret ne:",
+    "answers": [
+      "Mes te ciklit",
+      "Fillim te ciklit",
+      "Fund te ciklit",
+      "Nuk ka rendesi ne çfarë momenti te ciklit"
+    ],
+    "correct": 3,
+    "explanation": "Kontracepsioni i urgjencës mund të merret pavarësisht momentit të ciklit, sa më shpejt pas marrëdhënies."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-111",
+    "question": "Hormoni luteinizues prodhohet:",
+    "answers": [
+      "Ne hypofize",
+      "Ne ovare",
+      "Ne testikuj",
+      "Ne uterus"
+    ],
+    "correct": 0,
+    "explanation": "Hormoni luteinizues (LH) prodhohet në hipofizë."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-112",
+    "question": "Testosteroni është:",
+    "answers": [
+      "Qeliza seksuale mashkullore",
+      "Hormoni seksual femeror",
+      "Hormoni seksual mashkullor",
+      "Qeliza seksuale femerore"
+    ],
+    "correct": 2,
+    "explanation": "Testosteroni është hormoni kryesor seksual mashkullor."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-113",
+    "question": "Hormoni folikulo stimulus prodhohet nga:",
+    "answers": [
+      "Hypofiza dhe hypotalamusi",
+      "Ovaret",
+      "Uterusi",
+      "Testikujt"
+    ],
+    "correct": 0,
+    "explanation": "FSH prodhohet nga aksi hipotalamo-hipofizar."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-114",
+    "question": "Depoproverat bejne pjese ne metodat:",
+    "answers": [
+      "Orale",
+      "Kirurgjikale",
+      "Subdermale",
+      "Injektable"
+    ],
+    "correct": 3,
+    "explanation": "Depo-Provera është metodë kontraceptive injektabile."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-115",
+    "question": "E vetmja metode kontraceptive qe mbron nga HIV/AIDS është:",
+    "answers": [
+      "Metoda kirurgjikale",
+      "Spërmicidet",
+      "Kondomi",
+      "Metodat hormonale"
+    ],
+    "correct": 2,
+    "explanation": "Kondomi është i vetmi mjet kontraceptiv që mbron nga HIV/AIDS."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-116",
+    "question": "Cilat metoda kontraceptive mund te mbrojne nga IST?",
+    "answers": [
+      "Metoda e diteve kalendarike",
+      "Metodat barriere",
+      "Injëktablet",
+      "Metodat orale"
+    ],
+    "correct": 1,
+    "explanation": "Metodat barriere (kondomi) mbrojnë nga IST-të."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-117",
+    "question": "Vetinspektimi e vetekzaminimi behet ne:",
+    "answers": [
+      "Kancerin e qafës se mitres",
+      "Menopauze",
+      "Ne rastin e një IST je",
+      "Kancerin e gjirit"
+    ],
+    "correct": 3,
+    "explanation": "Vetekzaminimi rekomandohet për depistimin e kancerit të gjirit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-118",
+    "question": "PAP testi behet për te diagnostikuar:",
+    "answers": [
+      "Kancerin e qafës se mitres",
+      "Kancerin e gjirit",
+      "HIV/AIDS",
+      "Kancerin e ovarit"
+    ],
+    "correct": 0,
+    "explanation": "Testi PAP përdoret për depistimin e kancerit të qafës së mitrës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-119",
+    "question": "Norplanti dhe implanon bejne pjese te metodat:",
+    "answers": [
+      "injëktable",
+      "orale",
+      "barriere",
+      "subdermale"
+    ],
+    "correct": 3,
+    "explanation": "Norplant/Implanon janë implante subdermale."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-120",
+    "question": "Kur kemi largim të kondileve femorale kontrolaterale nga njëri-tjetri dhe afrim të maleolave kontrolaterale me njëra-tjetrën, kemi të bëjmë me:",
+    "answers": [
+      "Genus rekurvatum",
+      "Genus varum",
+      "Genus valgum",
+      "Genus pronatum"
+    ],
+    "correct": 2,
+    "explanation": "Ky pozicionim përshkruan gjunjët 'X' (genus valgum)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-121",
+    "question": "Në shenjat klinike të osteogenezës imperfekte vërejmë:",
+    "answers": [
+      "Deformim të shtyllës kurrizore",
+      "Ekzoftalmi",
+      "Sklera blu",
+      "Ptozë palpebrale"
+    ],
+    "correct": 0,
+    "explanation": "Sipas kësaj alternative, deformimi i shtyllës kurrizore listohet ndër shenjat klinike të osteogenezës imperfekte."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-122",
+    "question": "Osteoporoza ka si karakteristikë:",
+    "answers": [
+      "Mineralizim të pamjaftueshëm të kockës",
+      "Pakësim i masës kockore",
+      "Të dyja sa më sipër",
+      "Asnjë prej tyre"
+    ],
+    "correct": 2,
+    "explanation": "Osteoporoza karakterizohet nga të dyja: mineralizim i pamjaftueshëm dhe pakësim i masës kockore, sipas kësaj alternative."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-123",
+    "question": "Në pes ekuinovarus kemi:",
+    "answers": [
+      "Shkurtim të strukturave laterale",
+      "Shkurtim të strukturave mediale",
+      "Shkurtim të strukturave dorsale",
+      "Nuk kemi shkurtim të asnjë strukture"
+    ],
+    "correct": 3,
+    "explanation": "Sipas kësaj alternative, në pes ekuinovarus nuk kemi shkurtim të asnjë strukture specifike të listuar këtu."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-124",
+    "question": "Në hallux valgus patologjia qëndron në:",
+    "answers": [
+      "Artikulacionin metacarpo-falangeal",
+      "Artikulacionin interfalangeal",
+      "Artikulacionin talo-krural",
+      "Artikulacionin metatarso-falangeal"
+    ],
+    "correct": 3,
+    "explanation": "Hallux valgus prek artikulacionin metatarso-falangeal."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-125",
+    "question": "Kur kemi rrotullim të vertebrave në aksin e tyre dhe transmetim të këtij rrotullimi tek brinjët duke formuar gibus kifo-skoliotik kemi të bëjmë me:",
+    "answers": [
+      "Skoliozë strukturale",
+      "Skoliozë funksionale",
+      "Kifozë",
+      "Spondilolistezë"
+    ],
+    "correct": 0,
+    "explanation": "Rrotullimi strukturor i vertebrave me gibus tregon skoliozë strukturale."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-126",
+    "question": "Në luksacionin congenital koksofemoral kur fëmija fillon të ecë duke çaluar, kjo ndodh si pasojë:",
+    "answers": [
+      "E shkurtesës së njërit femur",
+      "E shkurtesës së të dy femureve",
+      "E insuficencës së muskujve gluteale",
+      "Asnjë prej sa më sipër"
+    ],
+    "correct": 2,
+    "explanation": "Çalimi vjen nga insuficienca e muskujve gluteale (shenja Trendelenburg)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-127",
+    "question": "Mielomeningocela shfaqet në kë nga këto diagnoza:",
+    "answers": [
+      "Sakralizim të vertebrës së fundit lumbare",
+      "Luksacion congenital kokso-femoral",
+      "Skoliozë funksionale",
+      "Spina bifida"
+    ],
+    "correct": 3,
+    "explanation": "Mielomeningocela është formë e rëndë e spina bifidas."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-128",
+    "question": "Në pes planus patologjia qëndron në:",
+    "answers": [
+      "Pozicionimin e metatarseve",
+      "Harkun longitudinal dhe atë transversal",
+      "Pozicionimim e kockës kuboide",
+      "Tendinin e akilit"
+    ],
+    "correct": 1,
+    "explanation": "Pes planus (këmba e sheshtë) prek harkun longitudinal dhe transversal të këmbës."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-129",
+    "question": "Trajtimi i luksacionit kokso-femoral kongenital në moshën 3 muaj konsiston:",
+    "answers": [
+      "Në vendosjen e jastëkut abduktor (Pavlik)",
+      "Në imobilizimin me gips",
+      "Në rikonstruksion të acetabulit kirurgjikalisht",
+      "Në reponim të hapur kirurgjikal"
+    ],
+    "correct": 0,
+    "explanation": "Në moshë të vogël përdoret jastëku abduktor tip Pavlik."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-130",
+    "question": "Mjekimi i pes equinovarus tek të porsalindurit konsiston në:",
+    "answers": [
+      "Ndërhyrje kirurgjikale",
+      "Artrodezë",
+      "E lëmë të autokorrigjohet deri në moshën 8 vjeç",
+      "Redresime me gips"
+    ],
+    "correct": 3,
+    "explanation": "Mjekimi fillestar i pes equinovarus është redresimet me gips."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-131",
+    "question": "Në coxa vara këndi cerviko-diafizar është:",
+    "answers": [
+      "Më i ngushtë (vogël) se norma",
+      "Më i gjerë (madh) se norma",
+      "180 gradë",
+      "Këndi cerviko-diafizar nuk ndikohet nga coxa vara"
+    ],
+    "correct": 0,
+    "explanation": "Në coxa vara, këndi cerviko-diafizar është më i ngushtë se normalja."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-132",
+    "question": "Fraktura e diafizës tibiale trajtohet:",
+    "answers": [
+      "Duke imobilizuar gjithë anësinë superiore",
+      "Duke imobilizuar vetëm bërrylin",
+      "Duke imobilizuar artikulacionin Gleno-humeral",
+      "Asnjë prej tyre"
+    ],
+    "correct": 3,
+    "explanation": "Trajtimi i frakturës tibiale nuk përfshin imobilizimin e anësisë së sipërme."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-133",
+    "question": "Në frakturat e thjeshta të klavikulës pa komplikacione duhet kryer:",
+    "answers": [
+      "Reponim dhe imobilizim në gips",
+      "Reponim kirurgjikal dhe fiksim me vida",
+      "Reponim e fiksim me bandazh në formë tete",
+      "Reponim dhe fillim i lëvizjeve të lehta"
+    ],
+    "correct": 2,
+    "explanation": "Frakturat e thjeshta të klavikulës trajtohen me bandazh në formë teje (figure-8)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-134",
+    "question": "Në frakturën e diafizës humerale mund të kemi dëmtim të:",
+    "answers": [
+      "arteries radiale",
+      "arteries ulnare",
+      "nervit radial",
+      "nervit ulnar"
+    ],
+    "correct": 1,
+    "explanation": "Sipas kësaj alternative, fraktura e diafizës humerale mund të dëmtojë arterien ulnare."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-135",
+    "question": "Luksacioni gleno-humeral reponohet sipas:",
+    "answers": [
+      "metodës së Hipokratit",
+      "metodës Kocher",
+      "metodës së Hipokratit metodës Kocher",
+      "kirurgjikalisht"
+    ],
+    "correct": 1,
+    "explanation": "Sipas kësaj alternative, reponimi i luksacionit gleno-humeral bëhet specifikisht sipas metodës Kocher."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-136",
+    "question": "Nëse kemi frakturë ekstensore suprakondilare të humerusit, pas reponimit imobilizimi duhet të kryhet në:",
+    "answers": [
+      "Fleksion",
+      "Abduksion",
+      "Ekstension",
+      "Pronacion"
+    ],
+    "correct": 1,
+    "explanation": "Sipas kësaj alternative, imobilizimi pas frakturës ekstensore suprakondilare kryhet në abduksion."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-137",
+    "question": "Fraktura e kondileve femorale ndodh:",
+    "answers": [
+      "Në pjesën distal të femurit",
+      "Në pjesën diafizare të femurit",
+      "Në pjesën proksimale të femurit",
+      "Në pjesën proksimale të humerit"
+    ],
+    "correct": 0,
+    "explanation": "Fraktura e kondileve femorale ndodh në pjesën distale të femurit."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-138",
+    "question": "Luksacioni gleno-humeral mund të jetë të gjitha më poshtë përveç:",
+    "answers": [
+      "Subklavikular",
+      "Erekta",
+      "Subakromial",
+      "Submandibular"
+    ],
+    "correct": 3,
+    "explanation": "Submandibular nuk është tip luksacioni gleno-humeral."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-139",
+    "question": "Frakturë oblike është fraktura që e ndan kockën:",
+    "answers": [
+      "Në 2 pjesë nëpërmjet një linje horizontale",
+      "Në 2 pjesë nëpërmjet një linje të pjerrët",
+      "Në 2 pjesë nëpërmjet një linje ovale",
+      "Në 3 ose më shumë pjesë"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura oblike ndan kockën me linjë të pjerrët."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-140",
+    "question": "Fraktura e ulnës dhe luksacioni i radiusit emërtohet:",
+    "answers": [
+      "Locos tipica ose Colles",
+      "Galeazzi",
+      "Monteggia",
+      "Jones"
+    ],
+    "correct": 2,
+    "explanation": "Kombinimi frakturë ulne + luksacion i kokës radiale quhet fraktura Monteggia."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-141",
+    "question": "Në konsolidimin kockor faza e dytë është:",
+    "answers": [
+      "e kallusit primar",
+      "e inflamacionit",
+      "pseudoartroza",
+      "asnjë prej tyre"
+    ],
+    "correct": 3,
+    "explanation": "Sipas kësaj alternative, faza e dytë e konsolidimit kockor nuk përputhet me asnjë nga alternativat e tjera të listuara."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-142",
+    "question": "Një frakturë mund të jetë:",
+    "answers": [
+      "komocionale",
+      "kompartimentale",
+      "spirale",
+      "të gjitha sa më lart"
+    ],
+    "correct": 3,
+    "explanation": "Frakturat mund të jenë të tipave të ndryshëm, duke përfshirë të gjitha këto."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-143",
+    "question": "Implantet jane metoda kontracepsinhormonale",
+    "answers": [
+      "Hormonale",
+      "Jo hormonale",
+      "Kimikate",
+      "Asnjera nga keto"
+    ],
+    "correct": 0,
+    "explanation": "Implantet janë metodë kontraceptive hormonale."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-144",
+    "question": "Pilulat progestative kunderindikohen ne;",
+    "answers": [
+      "Gjashte mujorin e pare te ushqyerjes me gji",
+      "Gjashte javet e para te ushqyerjes me gji",
+      "Tre muajt e pare te ushqyerjes me gji.",
+      "Asnjera nga keto"
+    ],
+    "correct": 3,
+    "explanation": "Sipas kësaj alternative, asnjë nga alternativat e tjera nuk përshkruan saktë kundërindikimin e pilulave progestative."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-145",
+    "question": "DIU vendoset kur femra eshte:",
+    "answers": [
+      "Shtatzane",
+      "Ka nje infeksion puerperal",
+      "Ka nje semundje inflamatore pelvike.",
+      "Asnje nga opsionet"
+    ],
+    "correct": 3,
+    "explanation": "DIU-ja nuk vendoset në asnjë prej këtyre gjendjeve (janë kundërindikacione)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-146",
+    "question": "Hormoni folikulo stimulus",
+    "answers": [
+      "Provokon ovulacionin",
+      "Mban trupin e verdhe",
+      "Nxit rritjen dhe zhvillimin e folikulit ovarian",
+      "Asnje nga opsionet"
+    ],
+    "correct": 2,
+    "explanation": "FSH nxit rritjen dhe zhvillimin e folikulit ovarian."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-147",
+    "question": "Estradioli prodhohet nga:",
+    "answers": [
+      "Hypofiza",
+      "Ovaret",
+      "Uterusi",
+      "Asnje nga opsionet"
+    ],
+    "correct": 1,
+    "explanation": "Estradioli prodhohet nga ovaret."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-148",
+    "question": "Kush e percakton tipin e pilulave te kombinuara:",
+    "answers": [
+      "Doza e etinil estradiolit",
+      "Doza e progesteronit",
+      "Doza e te dyve",
+      "Asnje nga keta"
+    ],
+    "correct": 2,
+    "explanation": "Sipas kësaj alternative, tipi i pilulave të kombinuara përcaktohet nga doza e të dyve (estrogjen+progesteron)."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-149",
+    "question": "Kontraceptivet oral jane metoda:",
+    "answers": [
+      "Hormonale",
+      "Jo hormonale",
+      "Kimikate",
+      "Asnje nga opsionet"
+    ],
+    "correct": 0,
+    "explanation": "Kontraceptivët oralë janë metodë hormonale."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-150",
+    "question": "Menopauza natyrale eshte si rezultat i:",
+    "answers": [
+      "Ndalimit te aktivitetit folikular ovarian",
+      "Ablacionit kirurgjikal te ovareve",
+      "Frenimit jatrogjen te funksionit te ovareve",
+      "Te treja se bashku"
+    ],
+    "correct": 0,
+    "explanation": "Menopauza natyrale vjen nga ndalimi i aktivitetit folikular ovarian."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-151",
+    "question": "Nje mesazh duhet te jete:",
+    "answers": [
+      "I gjate",
+      "I shkurter",
+      "Te mos perseritet",
+      "Asnje nga opsionet"
+    ],
+    "correct": 3,
+    "explanation": "Sipas kësaj alternative, asnjë nga alternativat e tjera nuk e përshkruan plotësisht cilësinë e një mesazhi efektiv."
+  },
+  {
+    "id": "infermieristik-okulistike-gastro-neuro-152",
+    "question": "Cfare eshte ovulacioni:",
+    "answers": [
+      "Pjekja e vezes",
+      "Dalja e vezes nga folikuli",
+      "Pjekja dhe dalja e vezes nga folikuli",
+      "Asnje nga opsionet"
+    ],
+    "correct": 1,
+    "explanation": "Sipas kësaj alternative, ovulacioni përkufizohet specifikisht si dalja e vezës nga folikuli."
+  }
+]

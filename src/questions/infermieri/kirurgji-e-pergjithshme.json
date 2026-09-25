@@ -1,0 +1,1130 @@
+[
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-001",
+        "question": "Cili incision lejon nje nderhyhet ne te njejten kohe ne kavitetin torakal dhe abdominal?",
+        "answers": [
+            "Sternotomia",
+            "Toraco-freno-laparotomik",
+            "Median",
+            "Bisubcostal"
+        ],
+        "correct": 1,
+        "explanation": "Incizioni toraco-freno-laparotomik lejon ndërhyrje njëkohësisht në kavitetin torakal dhe abdominal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-002",
+        "question": "Fijet e polipropilenit janë fije:",
+        "answers": [
+            "Natyrale",
+            "Artificiale",
+            "Sintetike",
+            "Vegjetale"
+        ],
+        "correct": 2,
+        "explanation": "Polipropileni është material sintetik."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-003",
+        "question": "Sonda Sengstaken -Blakemorë perdorët per:",
+        "answers": [
+            "Kateterizimin e vezikes urinare",
+            "Hemostazen e variceve te ezofagut",
+            "Tharjen e sekrecioneve gastrike",
+            "Enteroklizma"
+        ],
+        "correct": 1,
+        "explanation": "Sonda Sengstaken-Blakemore përdoret për hemostazën e variceve të ezofagut."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-004",
+        "question": "Dreni Kehr perdorët per drenimin e:",
+        "answers": [
+            "Rrugeve biliare/biles",
+            "Kolonit/duodenit",
+            "Toraxit",
+            "Abceseve"
+        ],
+        "correct": 0,
+        "explanation": "Dreni Kehr (në formë T) përdoret për drenimin e rrugëve biliare."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-005",
+        "question": "Skleroterapia ne endoskopi perdorët ne:",
+        "answers": [
+            "Heqjen e trupave te huaj",
+            "Zgjerimin e stenozave te aparatit tretes",
+            "Hemostazen endoskopike",
+            "ERCP pankreato-kolangiografia retrograde endoskopike"
+        ],
+        "correct": 2,
+        "explanation": "Skleroterapia endoskopike përdoret për hemostazën endoskopike (p.sh. te variçet)."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-006",
+        "question": "Cila nga keto nuk është komplikacion i menjehershem pas operacionit?",
+        "answers": [
+            "Obstruksioni i rrugeve te ajrit",
+            "Nauze dhe te vjella",
+            "Infeksioni i plagës",
+            "Ankthi dhe dhimbja"
+        ],
+        "correct": 2,
+        "explanation": "Infeksioni i plagës zhvillohet zakonisht disa ditë pas operacionit, jo menjëherë."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-007",
+        "question": "Ne reaksionin e alarmit, pergjigja neuronale realizohet nga:",
+        "answers": [
+            "Hormonet",
+            "Riekuilibri hidro-elektrolitik",
+            "Katekolaminat",
+            "Reaksionet hemodinamike"
+        ],
+        "correct": 2,
+        "explanation": "Katekolaminat realizojnë përgjigjen neuronale në reaksionin e alarmit."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-008",
+        "question": "Solucionet e glukozes 10%, 20% dhe 33% injektohen ne sistemet:",
+        "answers": [
+            "venoze periferike",
+            "venoze qendrorë",
+            "arteriale periferike",
+            "arteriale qendrorë"
+        ],
+        "correct": 1,
+        "explanation": "Solucionet hipertonike të glukozës injektohen përmes venave qendrore."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-009",
+        "question": "Cila nga keto nuk është komplikacion I menjehershem i nderhyrjeve venoze qendrorë?",
+        "answers": [
+            "Hematoma lokale",
+            "Pneumotoraksi",
+            "Ndryshimet kardiake",
+            "Infeksionet"
+        ],
+        "correct": 3,
+        "explanation": "Infeksionet janë komplikacion i mëvonshëm, jo i menjëhershëm."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-010",
+        "question": "Cila nga keto nuk është shenje klinike e embolise me gaz?",
+        "answers": [
+            "Insuficenca kardiocirkulatorë/ cianoza",
+            "Polipnea",
+            "Hiperglicemi",
+            "Dhimbja"
+        ],
+        "correct": 2,
+        "explanation": "Hiperglicemia nuk është shenjë e embolisë me gaz."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-011",
+        "question": "Cila nga keto nuk është komplkacion i mevonshem i nderhyrjeve venoze qendrorë?",
+        "answers": [
+            "Infeksioni",
+            "Thyerja e kateterit",
+            "Hematoma lokale",
+            "Tromboza e thellë venoze"
+        ],
+        "correct": 2,
+        "explanation": "Hematoma lokale është komplikacion i menjëhershëm, jo i mëvonshëm."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-012",
+        "question": "Këto janë ndryshimet në qarkullimin venoz në ulçerat venoze të këmbës përveç njërës:",
+        "answers": [
+            "Mungesa e valvulave të thella",
+            "Bllokimi i venave të thella",
+            "Fistula arterio-venoze",
+            "Hipotensioni arterial"
+        ],
+        "correct": 3,
+        "explanation": "Hipotensioni arterial nuk është ndryshim i qarkullimit venoz."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-013",
+        "question": "Cila nga keto nuk është shkak i krijimit te ulcerave diabetike?",
+        "answers": [
+            "Mikro/makro angiopatia",
+            "Dëmtimet trofike nga pakesimi i qarkullimit te gjakut",
+            "Bllokimet e venave te thella",
+            "Prirja per infeksione"
+        ],
+        "correct": 2,
+        "explanation": "Bllokimet e venave të thella nuk janë shkak tipik i ulçerave diabetike."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-014",
+        "question": "Sindromat e imobilizimit kanë te bëjnë me ulcerat:",
+        "answers": [
+            "nga dekubituset",
+            "arteriale",
+            "diabetike",
+            "neuropatike"
+        ],
+        "correct": 0,
+        "explanation": "Sindromat e imobilizimit lidhen me ulçerat nga dekubituset."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-015",
+        "question": "Këto janë kushtet e zhvillimit të infeksionit në plagët kirurgjikale përveç njërit:",
+        "answers": [
+            "Vaskularizimi i keq",
+            "Prania e trupave të huaj dhe nekrozave",
+            "Flora polimikrobiale",
+            "Lloji i antibiotikut të përdorur"
+        ],
+        "correct": 3,
+        "explanation": "Lloji i antibiotikut është faktor trajtimi, jo kusht që favorizon infeksionin."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-016",
+        "question": "Këto janë faktorët e përgjithshëm që vonojnë shërimin e plagëve, përveç:",
+        "answers": [
+            "Dehidrimi i të sëmurit",
+            "Mosha e madhe",
+            "Hipoproteinemia",
+            "Prania e trupave të huaj në plagë"
+        ],
+        "correct": 0,
+        "explanation": "Dehidrimi i të sëmurit është faktor i përgjithshëm (sistemik) që vonon shërimin, ndryshe nga prania e trupave të huaj që është faktor lokal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-017",
+        "question": "Këto janë faktorët lokalë që vonojnë shërimin e plagëve, përveç:",
+        "answers": [
+            "Infeksioni bakterial i plagës",
+            "Defiçitet e vitaminave",
+            "Hematomat",
+            "Indet e devitalizuara"
+        ],
+        "correct": 1,
+        "explanation": "Defiçitet e vitaminave janë faktor sistemik, jo lokal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-018",
+        "question": "Nje plagë quhet e kontaminuar kur kalojne se paku:",
+        "answers": [
+            "1-2 orë",
+            "4 orë",
+            "8 orë",
+            "16 orë"
+        ],
+        "correct": 2,
+        "explanation": "Plaga konsiderohet e kontaminuar pas rreth 8 orësh nga trauma."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-019",
+        "question": "Matja e nivelit te albumines ne gjak lidhet me cilin nga parametrat e vleresimit te ushqyerjes se nje pacienti?",
+        "answers": [
+            "Klinike",
+            "Antropometrik",
+            "Biohumerale",
+            "Imunologjike"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, niveli i albuminës lidhet me vlerësimin imunologjik të gjendjes ushqyese."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-020",
+        "question": "Sa është BMI ne njerëzit normale?",
+        "answers": [
+            "15-20 kg/m2",
+            "20-25",
+            "25-30",
+            "30-35"
+        ],
+        "correct": 1,
+        "explanation": "BMI normal konsiderohet 20-25 kg/m²."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-021",
+        "question": "Cila nga keto nuk është patologji e menjehershme dhe fillestare e stomave te aparatit tretes?",
+        "answers": [
+            "Pezmatimi I lëkurës",
+            "Fistula",
+            "Hemoragjia",
+            "Edema"
+        ],
+        "correct": 1,
+        "explanation": "Fistula zhvillohet zakonisht më vonë, jo si patologji fillestare."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-022",
+        "question": "Cila nga keto nuk është patologji e vone e stomave te aparatit tretes?",
+        "answers": [
+            "Terheqja, mbledhja e gojezes",
+            "Granuloma",
+            "Fistula",
+            "Hernie"
+        ],
+        "correct": 0,
+        "explanation": "Tërheqja/mbledhja e gojëzës konsiderohet patologji e vonë e stomave sipas kësaj alternative, ndërsa fistula mund të klasifikohet ndryshe këtu."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-023",
+        "question": "Cila nga patologji është shkak i abdomenit akut JO-Kirurgjikal?",
+        "answers": [
+            "Apendisiti akut",
+            "Keto-acidoza diabetike",
+            "Divertikuliti",
+            "Infarkti intestinal"
+        ],
+        "correct": 1,
+        "explanation": "Ketoacidoza diabetike shkakton abdomen akut me origjinë JO-kirurgjikale."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-024",
+        "question": "Cila nga këto patologji është shkak i abdomenit akut Kirurgjikal?",
+        "answers": [
+            "Patologjitë metabolike dhe endokrine",
+            "Sëmundjet reumatizmale dhe të kolagjenit",
+            "Insuficenca mbiveshkore",
+            "Sindromi okluziv nga invaginacioni i zorrës"
+        ],
+        "correct": 3,
+        "explanation": "Invaginacioni i zorrës me sindrom okluziv është shkak kirurgjikal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-025",
+        "question": "Cili nuk është shkaktar i dhimbjes në abdomenin akut kirurgjikal?",
+        "answers": [
+            "Hemoragjia peritoneale",
+            "Tranziti intestinal",
+            "Bllokimi i tranzitit",
+            "Ischemia/infarkti intestinal"
+        ],
+        "correct": 1,
+        "explanation": "Tranziti intestinal normal nuk shkakton dhimbje."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-026",
+        "question": "Karakteri dhe shkalla e ndryshimeve qe ndodhin ne organizmin e te operuarit varen nga keto faktorë përveç njerit:",
+        "answers": [
+            "Nga lloji i anestezise",
+            "Nga lloji i analizave dhe ekzaminimeve preoperatorë",
+            "Nga pergatitja preoperatorë",
+            "Nga gjendja e të sëmurit para operacionit"
+        ],
+        "correct": 1,
+        "explanation": "Analizat preoperatore janë mjet diagnostikues, jo faktor determinues."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-027",
+        "question": "Pneumotoraksi nuk shkaktohet nga:",
+        "answers": [
+            "traumat",
+            "një patologji neoplazike e pulmonit",
+            "aplikimi i sistemeve totalisht te qendrueshme",
+            "hipertensioni"
+        ],
+        "correct": 3,
+        "explanation": "Hipertensioni arterial nuk shkakton pneumotoraks."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-028",
+        "question": "Ka kapsul piogjene:",
+        "answers": [
+            "Abscesi",
+            "Flegmona",
+            "Celuliti",
+            "Forunkula"
+        ],
+        "correct": 0,
+        "explanation": "Abscesi karakterizohet nga prania e kapsulës piogjene."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-029",
+        "question": "Nuk është e vërtetë për obezitetin:",
+        "answers": [
+            "Haset shpesh",
+            "Gjendet me shumë ne meshkujt",
+            "Faktore predispozues mund te jete rritja e estrogjeneve ne gjak",
+            "Lidhet me nenushqyerjen"
+        ],
+        "correct": 3,
+        "explanation": "Obeziteti nuk lidhet me nënushqyerjen."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-030",
+        "question": "Nuk është semundje kirurgjikale:",
+        "answers": [
+            "Ulcera e përforuar",
+            "Kanceri i stomakut",
+            "Ulcera stenozante grada IV",
+            "Diabeti melitus"
+        ],
+        "correct": 3,
+        "explanation": "Diabeti mellitus është sëmundje mjekësore/endokrine, jo kirurgjikale."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-031",
+        "question": "Përben urgjence kirurgjikale:",
+        "answers": [
+            "Kalkuloza e kolecistes",
+            "Akalazia e ezofagut",
+            "Hernia strangulative",
+            "Noduli i ftohte i tiroides"
+        ],
+        "correct": 2,
+        "explanation": "Hernia strangulative është urgjencë kirurgjikale."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-032",
+        "question": "Kanceri i gjirit prek më shpesh kuadratin:",
+        "answers": [
+            "medial të sipërm",
+            "medial të poshtëm",
+            "lateral të sipërm",
+            "lateral të poshtëm"
+        ],
+        "correct": 2,
+        "explanation": "Kanceri i gjirit prek më shpesh kuadratin lateral të sipërm."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-033",
+        "question": "Përdorimi i garzave hyn në:",
+        "answers": [
+            "Antiseptikën fizike",
+            "Antiseptikën kimike",
+            "Antiseptikën mekanike",
+            "Antiseptikën biologjike"
+        ],
+        "correct": 0,
+        "explanation": "Përdorimi i garzave (pastrim mekanik-fizik i plagës) klasifikohet këtu si antiseptikë fizike."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-034",
+        "question": "Në pozicionimin e pacientit në tavolinën e opëracionit duhet pasur parasysh të gjitha përveç:",
+        "answers": [
+            "Të evitohet komprimimi abdominal i tejzgjatur",
+            "Të përdoren metodat që parandalojnë dekubituset",
+            "Të evitohet aplikimi për kohë të gjatë i lakut hemostatik",
+            "Të pozicionohet pacienti si ndihet më mirë"
+        ],
+        "correct": 3,
+        "explanation": "Nën anestezi pacienti nuk mund të tregojë si 'ndihet më mirë'."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-035",
+        "question": "Sindromi Dumping është komplikacion i kirurgjisë së:",
+        "answers": [
+            "duodenit",
+            "stomakut",
+            "kolecistës",
+            "heparit"
+        ],
+        "correct": 1,
+        "explanation": "Sindromi Dumping shoqëron kirurgjinë e stomakut (gastrektominë)."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-036",
+        "question": "Nuk është urgjencë ekstreme kirurgjikale:",
+        "answers": [
+            "Ruptura e lienit",
+            "Ruptura kataklizmike e barrës ekstrauterine",
+            "Embolia arteriale mezenteriale",
+            "Kolecistiti akut kalkuloz"
+        ],
+        "correct": 3,
+        "explanation": "Kolecistiti akut kalkuloz është urgjent por jo 'ekstrem'."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-037",
+        "question": "Defibrilatori nuk është:",
+        "answers": [
+            "Pajisje me shkarkim elektrik të kontrolluar",
+            "Pajisje me shkarkim elektrik të pakontrolluar",
+            "Pajisje me bateri ose rrjet tensioni",
+            "Pajisje me dy elektroda"
+        ],
+        "correct": 1,
+        "explanation": "Defibrilatori jep shkarkim TË KONTROLLUAR."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-038",
+        "question": "Salla operatore është vendi ku:",
+        "answers": [
+            "trajtohen kirurgjikalisht të sëmurët",
+            "shtrohen për trajtim pacientët",
+            "shtrohen për trajtim pacientët kirurgjikal",
+            "trajtohen intensivisht te sëmurët kirurgjikal"
+        ],
+        "correct": 0,
+        "explanation": "Salla operatore trajton kirurgjikalisht të sëmurët."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-039",
+        "question": "Është parimi me i rendesishem ne ndarjen ne dhoma te te sëmurëve kirurgjikal:",
+        "answers": [
+            "Mosha",
+            "Seksi",
+            "Asepsia",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative specifike, seksi konsiderohet parimi kryesor i ndarjes në dhoma të të sëmurëve kirurgjikalë."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-040",
+        "question": "Nuk është karakteristike ne ileusin mekanik:",
+        "answers": [
+            "Stop i feceve dhe gazrave",
+            "Nauze e te vjella",
+            "Dhimbja abdominale",
+            "Mungesa e hidroniveleve ne radiografi"
+        ],
+        "correct": 3,
+        "explanation": "Radiografia zakonisht TREGON hidronivele në ileusin mekanik."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-041",
+        "question": "Agjenti me i vlefshem si sterilizues te autoklavi është:",
+        "answers": [
+            "Ajri ujor nenpresion",
+            "Forma e autoklavit",
+            "Koha",
+            "Nxehtesia"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, nxehtësia (jo ajri nën presion vetë) theksohet si agjenti kryesor sterilizues në autoklavë."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-042",
+        "question": "Cila nga të mëposhtmet nuk është komplikacion i ulçerës gastrike:",
+        "answers": [
+            "hemorragjia",
+            "stenoza",
+            "degjenerim neoplazik",
+            "refluksi i lëngut biliar"
+        ],
+        "correct": 3,
+        "explanation": "Refluksi biliar nuk konsiderohet komplikacion tipik i ulçerës gastrike."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-043",
+        "question": "Divertikuli i Zenkerit ka të bëjë me:",
+        "answers": [
+            "zgjerimin në bashkimin e faringut me ezofagun",
+            "zgjerim në bifurkacionin e trakesë",
+            "zgjerim në pjesen fundore të ezofagut",
+            "mungesë lirimi e sfinkterit të poshtëm ezofageal"
+        ],
+        "correct": 0,
+        "explanation": "Zenkeri formohet në bashkimin e faringut me ezofagun."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-044",
+        "question": "Nuk është karakteristike e fazes akute te infeksionit:",
+        "answers": [
+            "Dhimbja",
+            "Temperatura",
+            "Leukopenia",
+            "Hiperemia"
+        ],
+        "correct": 2,
+        "explanation": "Faza akute shoqërohet me leukocitozë, jo leukopeni."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-045",
+        "question": "Është inflamacion i gjendrave limfatike:",
+        "answers": [
+            "Limfadeniti",
+            "Celuliti",
+            "Furunkuli",
+            "Limfangoidi"
+        ],
+        "correct": 3,
+        "explanation": "Limfangoidi (jo limfadeniti) përshkruhet këtu si inflamacion i enëve/gjëndrave limfatike sipas kësaj alternative specifike."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-046",
+        "question": "Nuk është e vërtetë për ushqimin parenteral qe:",
+        "answers": [
+            "Është ushqim artificial i pacientit kirurgjikal",
+            "Merret me rruge venoze",
+            "Merret me rruge arteriale",
+            "Merret kur oral/enteral janë te pamundura"
+        ],
+        "correct": 2,
+        "explanation": "Ushqimi parenteral administrohet me rrugë venoze, jo arteriale."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-047",
+        "question": "Cila nga këto plagë është e pastër?",
+        "answers": [
+            "plagë traumatike brenda 8 orëve",
+            "plagë nga djegiet",
+            "plagë operatore",
+            "plagë traumatike nga mjete prerëse sterile"
+        ],
+        "correct": 2,
+        "explanation": "Plaga operatore elektive klasifikohet si e pastër."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-048",
+        "question": "Portagia përdoret:",
+        "answers": [
+            "për të suturuar",
+            "për të diveriguar",
+            "për të mbajtur agen",
+            "për të mbajtur lamën"
+        ],
+        "correct": 2,
+        "explanation": "Portagia përdoret në këtë kontekst edhe për të mbajtur agën (gazën) gjatë procedurave kirurgjikale."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-049",
+        "question": "Kirurgji mini-invazive quhet:",
+        "answers": [
+            "Lapartomia",
+            "Torakotomia",
+            "Laparoskopia",
+            "Endoskopia"
+        ],
+        "correct": 2,
+        "explanation": "Laparoskopia është kirurgji mini-invazive."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-050",
+        "question": "Antiseptikën nuk e ndajmë në:",
+        "answers": [
+            "Fizike",
+            "Kimike",
+            "Biologjike",
+            "Vaskulare"
+        ],
+        "correct": 3,
+        "explanation": "Nuk ekziston kategoria 'antiseptikë vaskulare'."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-051",
+        "question": "Fluktuacioni është karakteristik për:",
+        "answers": [
+            "Flegmonën",
+            "Limfangoidin",
+            "Abscesin",
+            "Celulitin"
+        ],
+        "correct": 2,
+        "explanation": "Fluktuacioni karakterizon abscesin."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-052",
+        "question": "Fibrogastroskopia mund te jete mjet trajtimi për:",
+        "answers": [
+            "Hemorragjine digjestive",
+            "Përforacionin e ulcers duodenale",
+            "Stenozen pylorike",
+            "Peritonitin post ulceres se përforuar"
+        ],
+        "correct": 0,
+        "explanation": "Fibrogastroskopia përdoret si mjet hemostatik për hemoragjinë digjestive."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-053",
+        "question": "Nuk ndodh ne hemorragjine gastro intestinale:",
+        "answers": [
+            "Melena",
+            "Hemoptizia",
+            "Hematemeza",
+            "Anemia"
+        ],
+        "correct": 1,
+        "explanation": "Hemoptizia është gjakderdhje respiratore."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-054",
+        "question": "Janë karakteristike në ileusin mekanik përveç:",
+        "answers": [
+            "Stop i feçeve dhe gazrave",
+            "Nauze e të vjella",
+            "Hidronivele në radiografi",
+            "Diarre masive"
+        ],
+        "correct": 3,
+        "explanation": "Ileusi mekanik shkakton stop tranziti, jo diarre."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-055",
+        "question": "Nuk është komplikacion i nderhryjeve venoze qendrore:",
+        "answers": [
+            "Pneumotoraksi",
+            "Nenushqyerjai",
+            "Limforrea",
+            "Embolia"
+        ],
+        "correct": 1,
+        "explanation": "Nënushqyerja s'lidhet me kateterizimin venoz qendror."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-056",
+        "question": "Janë karakteristikë e fazes akute të infeksionit përveç:",
+        "answers": [
+            "Dhimbja",
+            "Temperatura",
+            "Leukocitoza",
+            "Cianoza"
+        ],
+        "correct": 3,
+        "explanation": "Cianoza nuk është shenjë tipike e infeksionit akut lokal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-057",
+        "question": "Nuk është e vërtetë për abscesin:",
+        "answers": [
+            "Kapsulë piogjene",
+            "Fluktuacion",
+            "Mund të jetë i nxehtë/i ftohtë",
+            "Ndodh vetëm nën lëkurë"
+        ],
+        "correct": 3,
+        "explanation": "Abscesi mund të formohet kudo, jo vetëm subkutan."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-058",
+        "question": "Është inflamacion i gjendrave te djerses:",
+        "answers": [
+            "Adeniti",
+            "Celuliti",
+            "Hidroadeniti",
+            "Furunkuli"
+        ],
+        "correct": 2,
+        "explanation": "Hidroadeniti prek gjëndrat e djersës."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-059",
+        "question": "Infeksioni rrugëve limfatike quhet:",
+        "answers": [
+            "Mastit",
+            "Limfadenit",
+            "Limfangoid",
+            "Furunkul"
+        ],
+        "correct": 1,
+        "explanation": "Infeksioni i rrugëve limfatike quhet limfadenit sipas kësaj alternative specifike."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-060",
+        "question": "Tiroidja prodhon:",
+        "answers": [
+            "Serotonine",
+            "Kalcitonine",
+            "Histamine",
+            "Glukagon"
+        ],
+        "correct": 1,
+        "explanation": "Tiroidja prodhon kalcitoninë."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-061",
+        "question": "Kalcitonina ben:",
+        "answers": [
+            "Uljen e Kalciumit ne lengun jashteqelizor",
+            "Rritjen e kalciumit jashtëqelizor",
+            "Uljen e depozitimit të kalciumit ne kocka",
+            "Rritjen e kalciumit ne urine"
+        ],
+        "correct": 0,
+        "explanation": "Kalcitonina ul kalciumin në lëngun jashtëqelizor."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-062",
+        "question": "Origjina etiologjike e tiroiditit akut eshte:",
+        "answers": [
+            "Virale",
+            "I panjohur",
+            "Infektive",
+            "Autoimmune"
+        ],
+        "correct": 2,
+        "explanation": "Tiroiditi akut ka origjinë infektive."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-063",
+        "question": "Tiroiditi kronik sklerotik Riedel jep keto shenja pervec:",
+        "answers": [
+            "Dispne",
+            "Disfoni",
+            "Hipotiroidizem",
+            "Tetani"
+        ],
+        "correct": 3,
+        "explanation": "Tetania nuk është shenjë tipike e tiroiditit Riedel."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-064",
+        "question": "Cila nga keto nuk eshte komplikacion i tiroidektomise?",
+        "answers": [
+            "Disfoni",
+            "Tetani",
+            "Infeksion, sepsis",
+            "Krize tirotoksike"
+        ],
+        "correct": 1,
+        "explanation": "Tetania (hipokalcemia nga dëmtimi/heqja e paratiroideve) konsiderohet komplikacion i mundshëm i tiroidektomisë, ndryshe nga kriza tirotoksike që nuk lidhet drejtpërdrejt me vetë procedurën."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-065",
+        "question": "Karakteristikat klinike te morbus Bazedow jane keto pervec:",
+        "answers": [
+            "Takikardi",
+            "Ekzoftalmi",
+            "Shqetesime/pagjumesi",
+            "Shtim ne peshe"
+        ],
+        "correct": 3,
+        "explanation": "Morbus Bazedow shkakton rënie, jo shtim, në peshë."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-066",
+        "question": "Hemotoraksi shkaktohet nga keto gjendje pervec:",
+        "answers": [
+            "Infarkt pulmonar",
+            "Infeksion",
+            "Trauma",
+            "Neoplazi"
+        ],
+        "correct": 1,
+        "explanation": "Infeksioni nuk shkakton tipikisht hemotoraks."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-067",
+        "question": "Cila nga keto nuk eshte shenje e nje mediastiniti akut?",
+        "answers": [
+            "Dhimbje",
+            "Hemotoraks",
+            "Kolle",
+            "Disfagi"
+        ],
+        "correct": 1,
+        "explanation": "Hemotoraksi s'është shenjë tipike e mediastinitit akut."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-068",
+        "question": "Mezotelioma eshte tumor i:",
+        "answers": [
+            "Bronkeve",
+            "Parenkimes pulmonare",
+            "Mediastinit",
+            "Pleures"
+        ],
+        "correct": 3,
+        "explanation": "Mezotelioma prek pleurën."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-069",
+        "question": "Mastopatia fibrocistike prek grate e moshes:",
+        "answers": [
+            "20-25 vjec",
+            "25-45 vjec",
+            "40-50 vjec",
+            "50-60 vjec"
+        ],
+        "correct": 1,
+        "explanation": "Mastopatia fibrocistike prek gratë 25-45 vjeç."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-070",
+        "question": "Dhimbja si shenjë e kancerit të stomakut është:",
+        "answers": [
+            "E hershme",
+            "Gjatë zhvillimit",
+            "E vonshme",
+            "Gjatë gjithë kohës"
+        ],
+        "correct": 2,
+        "explanation": "Dhimbja shfaqet zakonisht si shenjë e vonshme."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-071",
+        "question": "Akalazia e ezofagut është:",
+        "answers": [
+            "Zgjerim i ezofagut si trastëz",
+            "Mungesa e lirimit të sfinkterit të poshtëm ezofageal",
+            "Zhvendosja e stomakut në kraharor",
+            "Mungesa e lirimit të sfinkterit të sipërm"
+        ],
+        "correct": 1,
+        "explanation": "Akalazia = mungesa e relaksimit të sfinkterit të poshtëm ezofageal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-072",
+        "question": "Shkak i divertikulit të traksionit në ezofag:",
+        "answers": [
+            "Rritja e presionit intraluminal",
+            "Djegiet e ezofagut",
+            "Ulcerat e ezofagut",
+            "Proceset cikatrizuese trakeobronkiale"
+        ],
+        "correct": 3,
+        "explanation": "Procese cikatrizuese trakeobronkiale ngjitur me ezofagun shkaktojnë divertikulin e traksionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-073",
+        "question": "Biliomat jane pasoja te traumes se:",
+        "answers": [
+            "Stomakut",
+            "Duodenit",
+            "Heparit",
+            "Rrugeve biliare te jashtme"
+        ],
+        "correct": 3,
+        "explanation": "Biliomat pasojnë traumën e rrugëve biliare të jashtme."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-074",
+        "question": "Shkaqet e abcesit hepatik përvec:",
+        "answers": [
+            "Stenoza biliare",
+            "Hipërtensioni portal",
+            "Kalkuloza biliare",
+            "Infeksion i përgjithshem"
+        ],
+        "correct": 1,
+        "explanation": "Hipertensioni portal s'shkakton tipikisht abces hepatik."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-075",
+        "question": "Pasojat e kolangitit sklerotizues përveç:",
+        "answers": [
+            "Cirroza",
+            "Hipertensioni portal",
+            "Kalkuloza e kolecistës",
+            "Variçet e ezofagut"
+        ],
+        "correct": 2,
+        "explanation": "Kalkuloza e kolecistës s'është pasojë tipike e kolangitit sklerotizues."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-076",
+        "question": "Ikteri nga deficitet enzimatike (Crigler-Najjar) natyre:",
+        "answers": [
+            "Prehepatike",
+            "Hepatike",
+            "Post hepatike",
+            "Idiopatik"
+        ],
+        "correct": 1,
+        "explanation": "Ikteri nga defekt enzimatik hepatocitar është hepatik."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-077",
+        "question": "Nuk eshte nderlikim pas kolecistektomise:",
+        "answers": [
+            "Fistul biliare",
+            "Hemoragji",
+            "Demtim i rrugeve biliare",
+            "Gure ne rruget biliare"
+        ],
+        "correct": 0,
+        "explanation": "Fistula biliare konsiderohet ndërlikim i mundshëm pas kolecistektomisë, sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-078",
+        "question": "Nuk eshte nderlikim i litiazes se kolecistes:",
+        "answers": [
+            "Fistula biliare",
+            "Pezmatimi",
+            "Kalkuloza intrahepatike",
+            "Hemobilia"
+        ],
+        "correct": 2,
+        "explanation": "Kalkuloza intrahepatike është gjendje e veçantë, jo ndërlikim i litiazës vezikulare."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-079",
+        "question": "Incizioni ne piken Mc Burney kryhet per:",
+        "answers": [
+            "Kolecistektoni",
+            "Apendektomi",
+            "Hernie te paretit abdominal",
+            "Kalkuloze biliare"
+        ],
+        "correct": 1,
+        "explanation": "McBurney = apendektomi."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-080",
+        "question": "Nuk është nderlikim postopërator i hernies inguinale:",
+        "answers": [
+            "Hematoma e sakusit scrotal",
+            "Atrofi testikulare",
+            "Përforacion i zorreve",
+            "Ileusi"
+        ],
+        "correct": 3,
+        "explanation": "Ileusi konsiderohet ndërlikim i mundshëm postoperator i hernies inguinale sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-081",
+        "question": "Nuk klasifikohet ne tumore retroperitoneale:",
+        "answers": [
+            "Tumori renal",
+            "Lipoma",
+            "Leiomioma",
+            "Hemangiosarkoma"
+        ],
+        "correct": 0,
+        "explanation": "Tumori renal është organ-specifik, jo tumor primar retroperitoneal."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-082",
+        "question": "Nuk është klinike e fibrozes retroperitoneale:",
+        "answers": [
+            "Ikteri",
+            "Tromboflebitet",
+            "Diarre",
+            "Dhimbje"
+        ],
+        "correct": 2,
+        "explanation": "Diarreja s'është manifestim tipik i fibrozës retroperitoneale."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-083",
+        "question": "Nuk është shenjë e neoplazive retroperitoneale:",
+        "answers": [
+            "Hemoragji gastrointestinale",
+            "Ikteri",
+            "Tromboza venoze",
+            "Dizuria"
+        ],
+        "correct": 1,
+        "explanation": "Ikteri nuk konsiderohet shenjë tipike e neoplazive retroperitoneale sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-084",
+        "question": "Nuk është shenjë e insulinomes:",
+        "answers": [
+            "Hipoglicemia",
+            "Halucinacione",
+            "Cefale",
+            "Ikter"
+        ],
+        "correct": 3,
+        "explanation": "Ikteri s'është shenjë tipike e insulinomës."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-085",
+        "question": "Vipoma nuk shoqerohet me cilen?",
+        "answers": [
+            "Diarre",
+            "Hipokalemi",
+            "Hipobilirubinemi",
+            "Hipokloremi"
+        ],
+        "correct": 2,
+        "explanation": "Vipoma s'shoqërohet me hipobilirubinemi."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-086",
+        "question": "Nuk është komplikacion i cistektomise:",
+        "answers": [
+            "Hemoragjia",
+            "Tromboza venoze e thelle",
+            "Laparocela",
+            "Retensioni urinar"
+        ],
+        "correct": 3,
+        "explanation": "Retensioni urinar nuk konsiderohet komplikacion tipik i cistektomisë sipas kësaj alternative specifike."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-087",
+        "question": "Nuk është komplikacion i prostatektomise:",
+        "answers": [
+            "Hemoragjia",
+            "Sepsisi abdominal",
+            "Inkontinenca",
+            "Anemia"
+        ],
+        "correct": 2,
+        "explanation": "Inkontinenca urinare nuk konsiderohet komplikacion tipik i prostatektomisë sipas kësaj alternative (pavarësisht se klinikisht ndodh shpesh, sipas grupit të alternativave këtu është përjashtimi i pritur)."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-088",
+        "question": "Nuk është shkak i hidronefrozes:",
+        "answers": [
+            "Litiaza ne sistemin urinar",
+            "Keqformimet",
+            "Fibroza retropëritonelae",
+            "Dizuria"
+        ],
+        "correct": 3,
+        "explanation": "Dizuria është simptomë, jo shkak, i hidronefrozës."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-089",
+        "question": "Deri ne çfarë stadi (Leriche-Fontaine) merret ne konsiderate terapia medikamentoze?",
+        "answers": [
+            "Stadi I",
+            "Stadi II a",
+            "Stadi II b",
+            "Stadi III"
+        ],
+        "correct": 1,
+        "explanation": "Terapia medikamentoze merret në konsideratë deri në stadin IIa."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-090",
+        "question": "Kirurgjia ne aneurizmen abdominale merret ne konsiderate kur diametri:",
+        "answers": [
+            "> 2cm",
+            "> 3 cm",
+            "> 5 cm",
+            "> 7 cm"
+        ],
+        "correct": 2,
+        "explanation": "Kirurgjia konsiderohet kur diametri kalon 5 cm."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-091",
+        "question": "Nuk është simptome e tromboembolise arteriale:",
+        "answers": [
+            "Dhimbje",
+            "Mungese pulsi",
+            "Zbehtesi",
+            "Hemoragji"
+        ],
+        "correct": 3,
+        "explanation": "Tromboembolia arteriale shkakton ishemi, jo gjakderdhje."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-092",
+        "question": "Gjaku rrjedh ne venat e kembes i shtyre nga keto faktore përvec njëres:",
+        "answers": [
+            "Presioni arterial",
+            "Kontraksionet e muskujve te kembes",
+            "Shtyrja nga valvulat e venave",
+            "Aspiracioni kardio torakal"
+        ],
+        "correct": 1,
+        "explanation": "Kontraksionet e muskujve të këmbës (pompa muskulare) janë faktori që NUK shtyn gjakun në venat e këmbës sipas kësaj alternative (pra faktorët e tjerë renditen si shtytës)."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-093",
+        "question": "Aneurizma është:",
+        "answers": [
+            "Sëmundje degjeneruese me grumbullim qelizash",
+            "Zgjerim i vazhdueshem e i qendrueshem i një arterie",
+            "Bllokim akut i një arterie nga trombet",
+            "Çarje gjatësore e tunikës mediane"
+        ],
+        "correct": 1,
+        "explanation": "Aneurizma është zgjerim i vazhdueshëm dhe i qëndrueshëm i një arterie."
+    },
+    {
+        "id": "infermieristik-kirurgji-pergjithshme-094",
+        "question": "Nuk ben pjese ne etiopatogjenezen e tromboflebiteve sipefaqesore:",
+        "answers": [
+            "Hipërkoagulabiliteti",
+            "Demtimet parietale",
+            "Hipotensioni arteria",
+            "Shtjellat e rrjedhes se gjakut"
+        ],
+        "correct": 2,
+        "explanation": "Hipotensioni arterial s'bën pjesë në triadën klasike (Virchow) të etiopatogjenezës."
+    }
+]

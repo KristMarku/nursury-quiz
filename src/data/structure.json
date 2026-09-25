@@ -1,0 +1,141 @@
+{
+    "id":  "root",
+    "title":  "Infermieri",
+    "type":  "root",
+    "description":  "Zgjidh provimin ose temat e infermierisë.",
+    "children":  [
+                     {
+                         "id":  "exam",
+                         "title":  "Provimi",
+                         "type":  "exam",
+                         "description":  "Simulo provimin me 50 pyetje të rastësishme nga të gjitha temat."
+                     },
+                     {
+                         "id":  "infermieri",
+                         "title":  "Infermieri",
+                         "type":  "folder",
+                         "description":  "Zgjidh një temë për të praktikuar të gjitha pyetjet me radhë ose të përziera.",
+                         "children":  [
+                                          {
+                                              "id":  "bazat-e-infermieristikes",
+                                              "title":  "Bazat e Infermieristikes",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/bazat-e-infermieristikes.json",
+                                              "description":  "Praktiko: Bazat e Infermieristikes."
+                                          },
+                                          {
+                                              "id":  "infermieristik-pediatrie",
+                                              "title":  "Infermieristik Pediatrie",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/infermieristik-pediatrie.json",
+                                              "description":  "Praktiko: Infermieristik Pediatrie."
+                                          },
+                                          {
+                                              "id":  "infermieristike-semundje-brendeshme",
+                                              "title":  "Infermieristike Semundje Brëndëshme",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/infermieristike-semundje-brendeshme.json",
+                                              "description":  "Praktiko: Infermieristike Semundje Brëndëshme."
+                                          },
+                                          {
+                                              "id":  "inf-psikiatri-okulistike-derma-neuro",
+                                              "title":  "Inf. Psikiatri , Okulistike, Derma, Neuro",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/inf-psikiatri-okulistike-derma-neuro.json",
+                                              "description":  "Praktiko: Inf. Psikiatri , Okulistike, Derma, Neuro."
+                                          },
+                                          {
+                                              "id":  "inf-kirurgji-infekt-trauma-aneste-reanimacion",
+                                              "title":  "Inf. Kirurgji, Infekt, Trauma, Aneste, Reanimacion",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/inf-kirurgji-infekt-trauma-aneste-reanimacion.json",
+                                              "description":  "Praktiko: Inf. Kirurgji, Infekt, Trauma, Aneste, Reanimacion."
+                                          },
+                                          {
+                                              "id":  "inf-obstr-gjin-sh-riprodhues",
+                                              "title":  "Inf. Obstr-Gjin, Sh-Riprodhues",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/inf-obstr-gjin-sh-riprodhues.json",
+                                              "description":  "Praktiko: Inf. Obstr-Gjin, Sh-Riprodhues."
+                                          },
+                                          {
+                                              "id":  "infermieristike-fizioterapi",
+                                              "title":  "Infermieristike Fizioterapi",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/infermieristike-fizioterapi.json",
+                                              "description":  "Praktiko: Infermieristike Fizioterapi."
+                                          },
+                                          {
+                                              "id":  "semundje-te-brendshme",
+                                              "title":  "Sëmundje të Brendshme",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/semundje-te-brendshme.json",
+                                              "description":  "Praktiko: Sëmundje të Brendshme."
+                                          },
+                                          {
+                                              "id":  "kirurgji-e-pergjithshme",
+                                              "title":  "Kirurgji E Pergjithshme",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/kirurgji-e-pergjithshme.json",
+                                              "description":  "Praktiko: Kirurgji E Pergjithshme."
+                                          },
+                                          {
+                                              "id":  "pediatri",
+                                              "title":  "Pediatri",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/pediatri.json",
+                                              "description":  "Praktiko: Pediatri."
+                                          },
+                                          {
+                                              "id":  "okulistike-gastr-hepato-nefro-neuro",
+                                              "title":  "Okulistike, Gastr-Hepato, Nefro, Neuro",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/okulistike-gastr-hepato-nefro-neuro.json",
+                                              "description":  "Praktiko: Okulistike, Gastr-Hepato, Nefro, Neuro."
+                                          },
+                                          {
+                                              "id":  "obstr-gjin-anest-reanim",
+                                              "title":  "Obstr-Gjin, Anest-Reanim",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/obstr-gjin-anest-reanim.json",
+                                              "description":  "Praktiko: Obstr-Gjin, Anest-Reanim."
+                                          },
+                                          {
+                                              "id":  "anatomi-fiziologji",
+                                              "title":  "Anatomi-Fiziologji",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/anatomi-fiziologji.json",
+                                              "description":  "Praktiko: Anatomi-Fiziologji."
+                                          },
+                                          {
+                                              "id":  "shendet-publik-etika",
+                                              "title":  "Shendet Publik, Etika",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/shendet-publik-etika.json",
+                                              "description":  "Praktiko: Shendet Publik, Etika."
+                                          },
+                                          {
+                                              "id":  "teknik-laboratori-imunologji",
+                                              "title":  "Teknik Laboratori, Imunologji",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/teknik-laboratori-imunologji.json",
+                                              "description":  "Praktiko: Teknik Laboratori, Imunologji."
+                                          },
+                                          {
+                                              "id":  "legjisl-gjen-mjeksore-biologji-farmakologji",
+                                              "title":  "Legjisl,Gjen Mjeksore,Biologji,Farmakologji",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/legjisl-gjen-mjeksore-biologji-farmakologji.json",
+                                              "description":  "Praktiko: Legjisl,Gjen Mjeksore,Biologji,Farmakologji."
+                                          },
+                                          {
+                                              "id":  "dietologji-shendet-mjedisor-mikrobiologji",
+                                              "title":  "Dietologji,Shendet Mjedisor,Mikrobiologji",
+                                              "type":  "lesson",
+                                              "questionFile":  "infermieri/dietologji-shendet-mjedisor-mikrobiologji.json",
+                                              "description":  "Praktiko: Dietologji,Shendet Mjedisor,Mikrobiologji."
+                                          }
+                                      ]
+                     }
+                 ]
+}

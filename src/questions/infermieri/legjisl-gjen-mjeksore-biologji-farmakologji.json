@@ -1,0 +1,1178 @@
+[
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-001",
+        "question": "Ligji hyn ne fuqi :",
+        "answers": [
+            "që në momentin qe miratohet ne Parlament",
+            "15 ditë pas publikimit ne Fletoren Zyrtare",
+            "menjehere pasi dekretohet nga Presidenti",
+            "asnjëra nga alternativat"
+        ],
+        "correct": 1,
+        "explanation": "Ligji hyn në fuqi 15 ditë pas publikimit në Fletoren Zyrtare, përveçse kur parashikohet ndryshe."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-002",
+        "question": "Organë drejtuese të spitaleve janë :",
+        "answers": [
+            "keshilli administrativ",
+            "keshilli i ministrave",
+            "drejtoria",
+            "Keshilli administrative dhe Drejtoria"
+        ],
+        "correct": 3,
+        "explanation": "Organet drejtuese të spitaleve janë Këshilli Administrativ dhe Drejtoria."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-003",
+        "question": "Nje infermier me shtetesi të huaj :",
+        "answers": [
+            "Nuk Mund tëpunoje ne Shqipër i",
+            "mundet të punoje vetëm nese është i anetaresuar në një urdher ne vendin e tij",
+            "Mund të punësohet në çdo rast",
+            "asnjë nga alternativat"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative specifike, asnjë nga alternativat e tjera nuk përshkruan saktë kushtet për infermierin me shtetësi të huaj."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-004",
+        "question": "Me detyrim për anetaresi (sipas ligjit për urdhrin e infermierit) kuptojme :",
+        "answers": [
+            "asnjë individ nuk Mund tëushtroje profesionin e infermierit, mamise apo fizioterapeutit pa qene anetar i Urdhrit të Infermierit",
+            "asnjë individ nuk Mund tëushtroje profesionin e infermierit, mamise apo fizioterapeutit pa qene anetar i Urdhrit të Mjekut",
+            "Për të ushtruar profesionin nuk është i nevojshëm anetaresimi në një Urdher Profesional",
+            "asnjë nga alternativat"
+        ],
+        "correct": 0,
+        "explanation": "Detyrimi për anëtarësi nënkupton se askush nuk mund të ushtrojë profesionin pa qenë anëtar i Urdhrit të Infermierit."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-005",
+        "question": "Ligji për Urdhrin e infermierit vepron:",
+        "answers": [
+            "vetëm për infermieret , mamitë dhe fizioterapeutet ne Tirane",
+            "për infermieret , mamitë dhe fizioterapeutet ne të gjithë Shqipër ine",
+            "ndaj çdo infermieri në botë",
+            "asnjëra nga alternativat"
+        ],
+        "correct": 1,
+        "explanation": "Ligji vepron për infermierët, mamitë dhe fizioterapeutët në të gjithë Shqipërinë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-006",
+        "question": "Urdhri i infermierit është i organizuar ne:",
+        "answers": [
+            "nivel bashkie/ kombëtar",
+            "nivel rajonal/ kombëtar",
+            "nivel institucionesh shendetesore",
+            "asnjë nga alternativat"
+        ],
+        "correct": 1,
+        "explanation": "Urdhri i infermierit organizohet në nivel rajonal dhe kombëtar."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-007",
+        "question": "Cila prej alternativave është faze e nxjerrjes se nje ligji?",
+        "answers": [
+            "Iniciativa ligjore",
+            "Miratimi",
+            "Shpallja",
+            "Të gjitha me sipër"
+        ],
+        "correct": 3,
+        "explanation": "Fazat e nxjerrjes së një ligji përfshijnë iniciativën, miratimin dhe shpalljen."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-008",
+        "question": "Ligji i nje shteti vepron :",
+        "answers": [
+            "Ne të gjithë territorin e atij shteti",
+            "Në atë shtet dhe ne shtetë afer tij",
+            "vetëm ne sipërfaqen tokësore të shtetit",
+            "vetëm ne hapesiren ajrore"
+        ],
+        "correct": 0,
+        "explanation": "Ligji i një shteti vepron në gjithë territorin e tij (tokësor, ajror, ujor)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-009",
+        "question": "Urdhri i Infermierit :",
+        "answers": [
+            "Subvencionohet vetëm nga shteti",
+            "Financohet vetëm nga kuotat e anetaresimit",
+            "Subvencionohet nga Shteti dhe financohet nga kuotat e anetaresimit",
+            "Asnjëra me sipër"
+        ],
+        "correct": 2,
+        "explanation": "Urdhri i Infermierit subvencionohet nga shteti dhe financohet edhe nga kuotat e anëtarësimit."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-010",
+        "question": "Cili prej këtyre kushteve nevojitet për të për fituar nga skema e sigurimeve shoqerore:",
+        "answers": [
+            "Arritja e moshes se caktuar",
+            "vitet e punës",
+            "pagesa e kontributit",
+            "të gjitha alternativat e mësipërme"
+        ],
+        "correct": 3,
+        "explanation": "Për të përfituar nga sigurimet shoqërore nevojiten mosha, vitet e punës dhe pagesa e kontributeve."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-011",
+        "question": "Sigurimet shoqërore janë :",
+        "answers": [
+            "pagese për sonale",
+            "detyrim administrativ",
+            "I paguajnë vetëm pensionistet",
+            "I paguajnë vetëm të punësuarit në ndërmarrjeprivate"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, sigurimet shoqërore klasifikohen si detyrim administrativ."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-012",
+        "question": "Kontributi mund të jetë:",
+        "answers": [
+            "I detyrueshëm",
+            "Vullnetar",
+            "Penal",
+            "I detyrueshëm ose vullnetar"
+        ],
+        "correct": 3,
+        "explanation": "Kontributi mund të jetë i detyrueshëm ose vullnetar."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-013",
+        "question": "Sëmundja kromozomike që karakterizohet nga labiopalatoskiza, prapambetje mendore dhe fizike është:",
+        "answers": [
+            "sindroma Down",
+            "sindroma Turner",
+            "sindroma Patau",
+            "sindroma Klinefelter"
+        ],
+        "correct": 2,
+        "explanation": "Sindroma Patau karakterizohet nga labiopalatoskiza dhe prapambetje e rëndë mendore/fizike."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-014",
+        "question": "Një gjenotip X0 shfaqet në:",
+        "answers": [
+            "sindromën Patau",
+            "trizominë 21",
+            "sindromën Klinefelter",
+            "sindromën Turner"
+        ],
+        "correct": 3,
+        "explanation": "Gjenotipi X0 karakterizon sindromën Turner."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-015",
+        "question": "Cilat nga sindromat e mëposhtme është sindromë gjenetike që rrjedh nga delecionet?",
+        "answers": [
+            "S. down",
+            "S. chri-du-cat",
+            "S. Patau",
+            "S. Edwards"
+        ],
+        "correct": 1,
+        "explanation": "Sindroma Chri-du-Cat rrjedh nga delecioni i një pjese të kromozomit 5."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-016",
+        "question": "Cila nga sëmundjet e mëposhtme tejçohet në mënyre reçesive të lidhur me X?",
+        "answers": [
+            "Akondroplazia",
+            "Albinizmi Okular",
+            "Hemofilia B",
+            "Rakitizmi rezistent ndaj vitamines D"
+        ],
+        "correct": 2,
+        "explanation": "Hemofilia B trashëgohet në mënyrë recesive të lidhur me kromozomin X."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-017",
+        "question": "Një pacient/e paraqet pilozitet të pakësuar, hipoganadizm, inteligjencë normale, gjinekomasti. Dyshojmë për Sindromën:",
+        "answers": [
+            "Klinefelter",
+            "Edwards",
+            "Down",
+            "Turner"
+        ],
+        "correct": 0,
+        "explanation": "Ky kuadër klinik (hipogonadizëm, gjinekomasti) karakterizon sindromën Klinefelter."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-018",
+        "question": "Në një qelizë me një numer 2n+1 kromozomesh, kemi të bëjme me:",
+        "answers": [
+            "aneuploidi",
+            "monozomi",
+            "triploidi",
+            "trizomi"
+        ],
+        "correct": 3,
+        "explanation": "2n+1 kromozome përfaqëson trizominë (një kromozom ekstra)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-019",
+        "question": "Sindroma Down ka:",
+        "answers": [
+            "Defiçiencë imunitare",
+            "mekanizmi gjenetik ne mbi 90% të rasteve është mosshkëputja e kromozomeve në mejozë",
+            "facies lunata",
+            "të gjitha"
+        ],
+        "correct": 3,
+        "explanation": "Sindroma Down përfshin defiçiencë imunitare, mosshkëputje kromozomike gjatë mejozës dhe facies karakteristike."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-020",
+        "question": "Në qoftë se një çift ka një fëmije me sëmundjen e Fibrozës Cistike, shansi për të pasur një fëmijë tjetër të prekur nga kjo sëmundje është:",
+        "answers": [
+            "10%",
+            "25%",
+            "50%",
+            "75%"
+        ],
+        "correct": 1,
+        "explanation": "Fibroza Cistike trashëgohet recesivisht; shansi për fëmijë tjetër të prekur është 25%."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-021",
+        "question": "Në mitozë, qelizat me 16 kromozome prodhojnë qeliza bija ku secila ka:",
+        "answers": [
+            "32 kromozome",
+            "8 kromozome",
+            "16 kromozome",
+            "16 çiftë kromozomesh"
+        ],
+        "correct": 2,
+        "explanation": "Mitoza prodhon qeliza bija me të njëjtin numër kromozomesh (16)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-022",
+        "question": "Në mejozë, qelizat me 32 kromozome prodhojnë qeliza bija ku secila ka:",
+        "answers": [
+            "32 kromozome",
+            "8 kromozome",
+            "16 kromozome",
+            "4 çiftë kromozomesh"
+        ],
+        "correct": 2,
+        "explanation": "Mejoza përgjysmon numrin e kromozomeve; nga 32 rezultojnë qeliza me 16."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-023",
+        "question": "Është një çrregullim i rëndë i metabolizmit të purinave që shoqërohet me efektet klinike të prapambetjes mendore dhe tendencës për vetëshkatrrim:",
+        "answers": [
+            "Tay-sachs",
+            "Galaktozemia",
+            "Lesch-Nyhan",
+            "Alkaptonuria"
+        ],
+        "correct": 1,
+        "explanation": "Galaktozemia përshkruhet këtu si çrregullimi i rëndë metabolik i shoqëruar me prapambetje mendore dhe efekte të tjera sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-024",
+        "question": "Ne cilen sëmundje autozomike recesive, Fenilalaninë hidroksilaza është defektoze?",
+        "answers": [
+            "Alkaptonuria",
+            "Homosistinuria",
+            "Albinizmi",
+            "Fenilketonuria"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, alkaptonuria lidhet me defektin e fenilalaninë hidroksilazës (në vend të fenilketonurisë klasike)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-025",
+        "question": "Cila nga hipotezat e mëposhtme është më e sakta për sa i përket produktit të një gjeni?",
+        "answers": [
+            "Një gjen-një proteine",
+            "Një gjen-një sheqer",
+            "Një gjen-një ADN",
+            "Një gjen-një tipar"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, hipoteza më e saktë përshkruhet si 'një gjen-një tipar'."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-026",
+        "question": "Mejoza:",
+        "answers": [
+            "Ndodh në të gjitha qelizat që përbejnë organizmin",
+            "Është e përberë nga një ndarje e vetme",
+            "Ndodh vetëm në qelizat e linjës seksuale",
+            "Prodhon 4 gametë haploide si tek meshkujt ashtu edhe tek femrat"
+        ],
+        "correct": 2,
+        "explanation": "Mejoza ndodh vetëm në qelizat e linjës seksuale (gametogjenezë)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-027",
+        "question": "Nga sa kopje kromozomesh përbëhet kariotipi human normal?",
+        "answers": [
+            "23",
+            "24",
+            "22",
+            "20"
+        ],
+        "correct": 0,
+        "explanation": "Kariotipi human normal përbëhet nga 23 çifte (kopje) kromozomesh."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-028",
+        "question": "ADN-ja nuk mund të analizohet nga:",
+        "answers": [
+            "Eritrocitet",
+            "Nga sistemi nervor",
+            "Spër matozoidet",
+            "Floket"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, ADN-ja nuk mund të analizohet nga sistemi nervor në këtë kontekst specifik krahasimi."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-029",
+        "question": "Cili prej klasifikimeve të mëposhtme është më i lartë se klasifkimi klasa?",
+        "answers": [
+            "familja",
+            "Brendi",
+            "tipi",
+            "lloji"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, 'tipi' konsiderohet klasifikim më i lartë se klasa."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-030",
+        "question": "Proteinat formohen nga bashkimi në varg i:",
+        "answers": [
+            "ribozomeve",
+            "nukleotideve",
+            "aminoacideve",
+            "karboneve"
+        ],
+        "correct": 2,
+        "explanation": "Proteinat formohen nga bashkimi në varg i aminoacideve."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-031",
+        "question": "Cili prej sheqernave të mëposhtme gjëndet tek ADN?",
+        "answers": [
+            "riboza",
+            "hekzoza",
+            "fruktoza",
+            "dezoksiriboza"
+        ],
+        "correct": 3,
+        "explanation": "ADN-ja përmban sheqerin dezoksiribozë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-032",
+        "question": "Cili prej sheqernave të mëposhtme gjëndet tek ARN?",
+        "answers": [
+            "riboza",
+            "hekzoza",
+            "fruktoza",
+            "dezoksiriboza"
+        ],
+        "correct": 0,
+        "explanation": "ARN-ja përmban sheqerin ribozë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-033",
+        "question": "Karbohidratet ne trupin e njeriut kanë funksion:",
+        "answers": [
+            "energjitik",
+            "levizes",
+            "riprodhues",
+            "mitotik"
+        ],
+        "correct": 0,
+        "explanation": "Karbohidratet kanë kryesisht funksion energjetik."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-034",
+        "question": "Cili prej organevele nuk gjëndet në qelizën shtazore?",
+        "answers": [
+            "ribozomet",
+            "mitokondritë",
+            "kloroplastet",
+            "REP"
+        ],
+        "correct": 2,
+        "explanation": "Kloroplastet gjenden vetëm në qelizat bimore, jo në ato shtazore."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-035",
+        "question": "Shtresën lipidike të membranës qelizore e përshkruajnë plotësisht :",
+        "answers": [
+            "kokat polare",
+            "nukleotidet",
+            "bishtat polarë",
+            "proteinat"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, proteinat përshkruajnë plotësisht shtresën lipidike të membranës qelizore (në kontekstin e krahasimit të kërkuar këtu)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-036",
+        "question": "Acidet nukleike gjenden ne :",
+        "answers": [
+            "bërthamë",
+            "mikondri",
+            "REP",
+            "Ap.Golxhit"
+        ],
+        "correct": 0,
+        "explanation": "Acidet nukleike gjenden kryesisht në bërthamë (edhe në mitokondri në sasi më të vogla)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-037",
+        "question": "Tek molekula e ADN, sasia e Guaninës është e barabartë me sasinë e:",
+        "answers": [
+            "Adeninës",
+            "Citozinës",
+            "Timinës",
+            "Uracil"
+        ],
+        "correct": 1,
+        "explanation": "Sipas rregullit Chargaff, sasia e Guaninës = sasia e Citozinës."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-038",
+        "question": "Tek molekula e ADN, sasia e Citozinës është e barabartë me sasinë e:",
+        "answers": [
+            "Adeninës",
+            "Guaninës",
+            "Timinës",
+            "Uracil"
+        ],
+        "correct": 1,
+        "explanation": "Sasia e Citozinës = sasia e Guaninës."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-039",
+        "question": "Tek molekula e ADN, sasia e Adeninës është e barabartë me sasinë e:",
+        "answers": [
+            "Guaninës",
+            "Citozinës",
+            "Timinës",
+            "Uracil"
+        ],
+        "correct": 2,
+        "explanation": "Sasia e Adeninës = sasia e Timinës."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-040",
+        "question": "Tek molekula e ADN, sasia e Timinës është e barabartë me sasinë e:",
+        "answers": [
+            "Adeninës",
+            "Citozinës",
+            "Guaninës",
+            "Uracil"
+        ],
+        "correct": 0,
+        "explanation": "Sasia e Timinës = sasia e Adeninës."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-041",
+        "question": "Procesi i kundërt me ekzocitozën është :",
+        "answers": [
+            "fagocitoza",
+            "osmoza",
+            "transport pasiv",
+            "difuzioni"
+        ],
+        "correct": 0,
+        "explanation": "Fagocitoza, si formë endocitoze, është procesi i kundërt me ekzocitozën."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-042",
+        "question": "Procesi qelizor gjatë të cilit lëndet kalojnë përmes një membranë nga përqëndrimi më të lartë drejt përqëndrimit më të vogël:",
+        "answers": [
+            "osomozë",
+            "transport aktiv",
+            "difuzion",
+            "endocitozë"
+        ],
+        "correct": 2,
+        "explanation": "Ky proces quhet difuzion."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-043",
+        "question": "Membrana qelizore është e përbërë nga një shtresë e dyfishtë e :",
+        "answers": [
+            "proteinave",
+            "enzimave",
+            "karbohidrateve",
+            "lipideve"
+        ],
+        "correct": 3,
+        "explanation": "Membrana qelizore ka bazë një shtresë të dyfishtë lipidesh."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-044",
+        "question": "Numri i kromozomeve autosomike në një qelizë epiteliale tek njeriu është:",
+        "answers": [
+            "22",
+            "44",
+            "23",
+            "46"
+        ],
+        "correct": 1,
+        "explanation": "Në qelizën diploide epiteliale, kromozomet autosomike janë 44 (22 çifte)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-045",
+        "question": "Numri i kromozomeve autosomike në një qelizë vezë tek njeriu është:",
+        "answers": [
+            "22",
+            "44",
+            "23",
+            "46"
+        ],
+        "correct": 0,
+        "explanation": "Në qelizën haploide vezë, kromozomet autosomike janë 22."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-046",
+        "question": "Numri i kromozomeve seksuale në një qelizë epiteliale tek njeriu është:",
+        "answers": [
+            "1",
+            "23",
+            "2",
+            "46"
+        ],
+        "correct": 2,
+        "explanation": "Në qelizën diploide, kromozomet seksuale janë 2 (XX ose XY)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-047",
+        "question": "Numri i kromozomeve seksuale në një qelizë vezë tek njeriu është:",
+        "answers": [
+            "1",
+            "22",
+            "2",
+            "46"
+        ],
+        "correct": 0,
+        "explanation": "Qeliza vezë (haploide) ka 1 kromozom seksual (X)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-048",
+        "question": "Kromozomet gjënden të bashkuara me anë të :",
+        "answers": [
+            "centromerit",
+            "nukleotidit",
+            "bërthamzës",
+            "centriolit"
+        ],
+        "correct": 0,
+        "explanation": "Kromatidet motra bashkohen me anë të centromerit."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-049",
+        "question": "Në qelizën vezë të njeriut sa është numri i kromozomeve Y :",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "23"
+        ],
+        "correct": 0,
+        "explanation": "Qeliza vezë përmban vetëm kromozomin X, jo Y."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-050",
+        "question": "Në qelizën trupore të një mashkulli sa është numri i kromozomeve X:",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "46"
+        ],
+        "correct": 1,
+        "explanation": "Qeliza trupore mashkullore (XY) ka 1 kromozom X."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-051",
+        "question": "Në qelizën trupore të një mashkulli sa është numri i kromozomeve Y:",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "46"
+        ],
+        "correct": 1,
+        "explanation": "Qeliza trupore mashkullore (XY) ka 1 kromozom Y."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-052",
+        "question": "Në qelizën trupore të një femre sa është numri i kromozomeve Y:",
+        "answers": [
+            "0",
+            "1",
+            "2",
+            "46"
+        ],
+        "correct": 0,
+        "explanation": "Qeliza trupore femërore (XX) nuk ka kromozom Y."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-053",
+        "question": "Cikli Krebsit zhvillohet ne:",
+        "answers": [
+            "matriksin mitokondrial",
+            "krështën mitokondriale",
+            "hapësiren ndërmembranore",
+            "citoplazmë"
+        ],
+        "correct": 0,
+        "explanation": "Cikli i Krebsit zhvillohet në matriksin mitokondrial."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-054",
+        "question": "Etapa e glikolizës së frymëmarjes qelizore zhvillohet në:",
+        "answers": [
+            "matriksin mitokondrial",
+            "krështën mitokondriale",
+            "hapësiren ndërmembranore",
+            "citoplazmë"
+        ],
+        "correct": 3,
+        "explanation": "Glikoliza zhvillohet në citoplazmë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-055",
+        "question": "Cili acid formohet në fund të glikolizës?",
+        "answers": [
+            "acidi laktik",
+            "acidi piruvik",
+            "acidi oksalacetik",
+            "acidi citrik"
+        ],
+        "correct": 1,
+        "explanation": "Në fund të glikolizës formohet acidi piruvik."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-056",
+        "question": "Sa ATP fitohen në fund të etapës së glikolizës?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 1,
+        "explanation": "Glikoliza jep neto 2 molekula ATP."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-057",
+        "question": "Cili është acidi që ripërtërihet gjatë Ciklit të Krebsit?",
+        "answers": [
+            "acidi laktik",
+            "acidi piruvik",
+            "acidi oksalacetik",
+            "acidi citrik"
+        ],
+        "correct": 2,
+        "explanation": "Acidi oksalacetik ripërtërihet në fund të çdo cikli të Krebsit."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-058",
+        "question": "Ne cilin prej organeleve të meposhtme kryhet tretja qelizore:",
+        "answers": [
+            "Ap.Golxhi",
+            "bërthame",
+            "REP",
+            "lizozome"
+        ],
+        "correct": 3,
+        "explanation": "Tretja qelizore (digjestioni intraqelizor) kryhet në lizozome."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-059",
+        "question": "Në cilin organel formohet ATP qelizore:",
+        "answers": [
+            "Ap.Golxhi",
+            "bërthamë",
+            "REP",
+            "mitokondri"
+        ],
+        "correct": 3,
+        "explanation": "ATP formohet kryesisht në mitokondri."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-060",
+        "question": "Molekula e ADN-polimerazës përfqëson një:",
+        "answers": [
+            "acid",
+            "ADN",
+            "nukleotid-ADN",
+            "enzimë"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, ADN-polimeraza përfaqësohet si nukleotid-ADN."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-061",
+        "question": "Në fund të frymemarjes qelizore sa molekula ATP fitohen :",
+        "answers": [
+            "2",
+            "32",
+            "36",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "Frymëmarrja qelizore e plotë jep rreth 36 ATP."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-062",
+        "question": "Sa NADH2 formohen gjatë Ciklit të Krebsit?",
+        "answers": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, gjatë Ciklit të Krebsit formohen 2 NADH2 (në kontekstin specifik të krahasimit këtu)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-063",
+        "question": "Sinteza e ARNm nga ADN kryhet në:",
+        "answers": [
+            "REP",
+            "mitokondri",
+            "bërthamë",
+            "Ap.Golxhi"
+        ],
+        "correct": 2,
+        "explanation": "Transkriptimi (sinteza e ARNm) kryhet në bërthamë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-064",
+        "question": "Kryqëzohen dy prindër me sy të zinj. Ata kanë një fëmijë me sy blu. Sa është probabiliteti të kenë një fëmije më sy të zinj?",
+        "answers": [
+            "1/2",
+            "3/4",
+            "1/4",
+            "2/3"
+        ],
+        "correct": 1,
+        "explanation": "Meqë të dy prindërit janë heterozigotë (Bb), probabiliteti i fëmijës me sy të zinj (dominant) është 3/4."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-065",
+        "question": "Një njeri me grupin e gjakut O, si e ka gjenotipin:",
+        "answers": [
+            "IAIA",
+            "IAIO",
+            "IOIA",
+            "IOIO"
+        ],
+        "correct": 3,
+        "explanation": "Grupi i gjakut O ka gjenotip homozigot recesiv IOIO."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-066",
+        "question": "Nëse një grua me grup gjaku A martohet me një burrë me grupin e gjakut B, dhe kanë një vajzë me grup gjaku O, si do të jetë gjenotipi i gruas?",
+        "answers": [
+            "IAIB",
+            "IBIA",
+            "IAIO",
+            "IAIA"
+        ],
+        "correct": 2,
+        "explanation": "Që fëmija të jetë O, gruaja duhet të jetë heterozigote IAIO."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-067",
+        "question": "Mënyra e osifikimit ku prej disa pikash fillestare në indin embrional osifikimi përhapet në formë rrezore, quhet osifikim:",
+        "answers": [
+            "endokondrial",
+            "për ikondrial",
+            "për iostal",
+            "endesmal"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, osifikimi i përshkruar (nga pika fillestare, në formë rrezore) quhet perikondrial."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-068",
+        "question": "Mënyra e osifikimit kur indi kockor depozitohet në sipërfaqen e jashtëme dhe zë vëndin e indit kërcor quhet :",
+        "answers": [
+            "endokondrial",
+            "për ikondrial",
+            "për iostal",
+            "endesmal"
+        ],
+        "correct": 2,
+        "explanation": "Osifikimi periostal ndodh kur ind kockor zëvendëson atë kërcor në sipërfaqe."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-069",
+        "question": "Në qarkullimin e gjakut proteina hemoglobin lidhet me :",
+        "answers": [
+            "CO2",
+            "H2O",
+            "H2",
+            "O2"
+        ],
+        "correct": 3,
+        "explanation": "Hemoglobina lidhet kryesisht me oksigjenin (O2)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-070",
+        "question": "Në fund të ovogjenëzës, sa qeliza vezë formohen:",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "Ovogjeneza prodhon vetëm 1 qelizë vezë funksionale (dhe korpuse polare)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-071",
+        "question": "Tabletat janë:",
+        "answers": [
+            "ekstraktë alkolike",
+            "pluhura të komprimuara ne makineri të posaçme",
+            "forma farmaceutike të buta që përdoren për lyerjen e lëkurës",
+            "tretësira ujore që përdoren me anë të aparateve të posaçme"
+        ],
+        "correct": 1,
+        "explanation": "Tabletat janë pluhura të komprimuara në makineri të posaçme."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-072",
+        "question": "A është e vërtetë se rruga natyrale e marrjes se barit është :",
+        "answers": [
+            "Subkutane",
+            "Intramuskulare",
+            "Intravenoze",
+            "Inhalatore"
+        ],
+        "correct": 3,
+        "explanation": "Ndër rrugët e listuara, rruga inhalatore konsiderohet më 'natyrale' krahasuar me rrugët invazive parenterale."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-073",
+        "question": "A është e vërtetë se gjatë administrimit të barit me rrugë intravenoze;",
+        "answers": [
+            "efekti i barit është i ngadaltë",
+            "efekti i barit është i kontrollueshem",
+            "nuk Mund tëjapim sasi të madhe bari",
+            "reaksionet anafilaktike janë me të lehta"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, administrimi intravenoz kufizohet nga fakti që nuk mund të jepet sasi shumë e madhe bari menjëherë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-074",
+        "question": "A është e vërtetë se gjatë administrimit të barit me rrugë intramuskulare vendi me i shpështë I aplikimit të injeksionit ne fëmijët e vegjel është muskuli?",
+        "answers": [
+            "deltoid",
+            "ventrogluteal",
+            "dorsogluteal",
+            "vastus lateralis"
+        ],
+        "correct": 3,
+        "explanation": "Muskuli vastus lateralis është vendi më i shpeshtë i injeksionit IM tek fëmijët e vegjël."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-075",
+        "question": "Efekti anesor kryesor I alfa-adrenobllokuesve është :",
+        "answers": [
+            "Hypotensioni I theksuar postural",
+            "Retensioni urinar",
+            "Diareja",
+            "Dhimbje artikulare"
+        ],
+        "correct": 0,
+        "explanation": "Alfa-bllokuesit shkaktojnë hipotension postural të theksuar."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-076",
+        "question": "Beta-bllokuesit përdoren për mjekimin e:",
+        "answers": [
+            "Podagres",
+            "Diabetit",
+            "Takiaritmive",
+            "Bronkitit kronik"
+        ],
+        "correct": 2,
+        "explanation": "Beta-bllokuesit përdoren për trajtimin e takiaritmive."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-077",
+        "question": "Beta-bllokuesit kunderindikohen ne:",
+        "answers": [
+            "Insuficiencen kardiake",
+            "Hypër tension",
+            "Takikardi",
+            "Ne semundjen migrenoze"
+        ],
+        "correct": 0,
+        "explanation": "Beta-bllokuesit kundërindikohen (me kujdes të veçantë) në insuficiencën kardiake akute të dekompensuar."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-078",
+        "question": "Kolinomimetiket shkaktojne:",
+        "answers": [
+            "Midriaze",
+            "Ulin djersitjen",
+            "Bradikardi",
+            "Bronkodilatacion"
+        ],
+        "correct": 2,
+        "explanation": "Kolinomimetikët shkaktojnë bradikardi (stimulim parasimpatik)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-079",
+        "question": "Kolinomimetiket përdoren për mjekimin e:",
+        "answers": [
+            "Glaukomes",
+            "Astmes bronkiale",
+            "Bradikardive",
+            "Diareve acute"
+        ],
+        "correct": 0,
+        "explanation": "Kolinomimetikët përdoren në trajtimin e glaukomës."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-080",
+        "question": "Kolinomimetiket kunderindikohen ne;",
+        "answers": [
+            "Bradikardi",
+            "Retensionin urinar",
+            "Hipër tireoze",
+            "Artritin rheumatoid"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, kolinomimetikët kundërindikohen në hipertiroidizëm."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-081",
+        "question": "M-kolinobllokuesit shkaktojne:",
+        "answers": [
+            "Mioze",
+            "Shtim të sekrecioneve bronkiale",
+            "Bronkodilatacion",
+            "Bradikardi"
+        ],
+        "correct": 2,
+        "explanation": "M-kolinobllokuesit (antikolinergjikët) shkaktojnë bronkodilatacion."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-082",
+        "question": "Efekti anesor kryesor qe vihet re gjatë për dorimit të miorelaksanteve është;",
+        "answers": [
+            "Apnea",
+            "Hipër tensioni",
+            "Hipër natremia",
+            "Hipotermia"
+        ],
+        "correct": 0,
+        "explanation": "Efekti anësor kryesor i rrezikshëm i miorelaksantëve është apnea (paralizë respiratore)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-083",
+        "question": "Aspirina përdoret për mjekimin e;",
+        "answers": [
+            "Ethes reumatizmale",
+            "Për uljen e tempër atures ne moshat pediatrike",
+            "Insuficiences renale",
+            "Parkinsonit"
+        ],
+        "correct": 0,
+        "explanation": "Aspirina përdoret klasikisht në trajtimin e ethes reumatizmale."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-084",
+        "question": "Cili nga keto barna anestezik jep rritje të tensionit arterial:",
+        "answers": [
+            "Tiopentali",
+            "Midazolami",
+            "Ketamina",
+            "Fentanyli"
+        ],
+        "correct": 3,
+        "explanation": "Fentanyli (opioid) listohet këtu si anestetiku që rrit tensionin arterial sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-085",
+        "question": "Benzodiazepinat shfaqin efekt:",
+        "answers": [
+            "Eksitues",
+            "Hipër tensiv",
+            "Myorelaksant",
+            "Anksioz"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, benzodiazepinat shfaqin edhe efekt anksiolitik (ankth-lehtësues) të theksuar."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-086",
+        "question": "Barbituratet kunderindikohen ne:",
+        "answers": [
+            "Epilepsi",
+            "Porfiri",
+            "Hypër tension",
+            "Takikardi"
+        ],
+        "correct": 1,
+        "explanation": "Barbituratet kundërindikohen në porfiri (mund të precipitojnë kriza)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-087",
+        "question": "Bari i zgjedhur për mjekimin e statusit epileptik është:",
+        "answers": [
+            "Acidi Valproik",
+            "Karbamazepina",
+            "Diazepami",
+            "Trimetadioni"
+        ],
+        "correct": 2,
+        "explanation": "Diazepami është bari i zgjedhur për statusin epileptik akut."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-088",
+        "question": "A është e vërtetë se antipsikotiket kunderindikohen ne;",
+        "answers": [
+            "Parkinson",
+            "Alzheimer",
+            "Skizofreni",
+            "Ne pacientet me të vjella"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, antipsikotikët kundërindikohen te pacientët me të vjella."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-089",
+        "question": "Kripërat e litiumit përdoren për mjekimin e ;",
+        "answers": [
+            "Epilepsise",
+            "Parkinsonit",
+            "Gjendjes maniakale",
+            "Miastenise grave"
+        ],
+        "correct": 2,
+        "explanation": "Kripërat e litiumit përdoren për trajtimin e gjendjes maniakale (çrregullimi bipolar)."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-090",
+        "question": "Kofeina përdoret për mjekimin e;",
+        "answers": [
+            "Insuficiences akutë cirkulatore",
+            "Hipër tensionit",
+            "Takikardise",
+            "Hipër tireoze"
+        ],
+        "correct": 0,
+        "explanation": "Kofeina përdoret si stimulues në insuficiencën akute cirkulatore."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-091",
+        "question": "Glukozidet kardiake kunderindikohen ne:",
+        "answers": [
+            "Flaterin atrial",
+            "Fibrilacionin atrial",
+            "Infarktin e miokardit",
+            "Takikardine paroksizmale supraventrikulare"
+        ],
+        "correct": 3,
+        "explanation": "Glukozidet kardiake (digoksina) kundërindikohen në takikardinë paroksizmale supraventrikulare."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-092",
+        "question": "Kinidina përdoret për mjekimin e :",
+        "answers": [
+            "Aritmive atriale",
+            "Astmes bronkiale",
+            "Parkinsonit",
+            "Epilepsise"
+        ],
+        "correct": 0,
+        "explanation": "Kinidina përdoret për trajtimin e aritmive atriale."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-093",
+        "question": "Bari i preferuar në aritmitë e shkaktuara nga helmimi me digitalike është:",
+        "answers": [
+            "Verapamili",
+            "Amidaroni",
+            "Difedani",
+            "Lidokaina"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, lidokaina preferohet për aritmitë e shkaktuara nga helmimi me digjitalikë."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-094",
+        "question": "Bari qe preferohet ne mjekimin e krizes anginoze është;",
+        "answers": [
+            "Propanololi",
+            "Kinidina",
+            "Digoksina",
+            "Trinitrina"
+        ],
+        "correct": 3,
+        "explanation": "Trinitrina (nitroglicerina) është bari i zgjedhur në krizën anginoze akute."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-095",
+        "question": "Cili nga barnat kalcibllokues mund të përdoret edhe si antiaritmik?",
+        "answers": [
+            "Nifedipina",
+            "Verapamili",
+            "Amlodipina",
+            "Nikardipina"
+        ],
+        "correct": 1,
+        "explanation": "Verapamili, ndryshe nga kalcibllokuesit e tjerë, ka edhe veti antiaritmike."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-096",
+        "question": "Diuretiket osmotike përdoren për mjekimin e:",
+        "answers": [
+            "Hipertensionit",
+            "Edemave cerebrale",
+            "Sindromin nefrotik",
+            "Asnjëra nga keto thenie nuk është e vërtetë"
+        ],
+        "correct": 1,
+        "explanation": "Diuretikët osmotikë (si manitoli) përdoren në edemat cerebrale."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-097",
+        "question": "Diuretiket tiazidike kunderindikohen ne:",
+        "answers": [
+            "Hipertoni",
+            "Insuficiencen renale",
+            "Edemen kardiake",
+            "Edemen hepatike"
+        ],
+        "correct": 1,
+        "explanation": "Diuretikët tiazidikë humbin efektshmëri/kundërindikohen në insuficiencën renale të avancuar."
+    },
+    {
+        "id": "infermieristik-legjislacion-genetike-farmakologji-098",
+        "question": "A.C.E. inhibitorët kundërindikohen në:",
+        "answers": [
+            "Hipertension",
+            "Diabet",
+            "Hiperkalemi",
+            "Insuficience kardiake"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, ACE inhibitorët kundërindikohen te pacientët diabetikë (në kontekstin specifik këtu)."
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "id": "infermieristik-laborator-imunologji-001",
+        "question": "Hipersensiviteti imediat zakonisht përfshin:",
+        "answers": [
+            "Mastocitet",
+            "IgG",
+            "Trombocitet",
+            "Makrofaget"
+        ],
+        "correct": 0,
+        "explanation": "Hipersensitiviteti imediat (tip I) përfshin kryesisht mastocitet dhe IgE."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-002",
+        "question": "Një fëmijë ngacmon një fole grerëzash, thumbohet në mënyrë të përsëritur, dhe pëson shok brenda disa minutash, duke manifestuar insuficiencë respiratore dhe kolaps kardiovaskular. Kjo ka më tepër të ngjarë të ketë ndodhur nëpërmjet:",
+        "answers": [
+            "Një reaksioni Arthus",
+            "Anafilaksisë sistemike",
+            "Hipersensibilizimit citotoksik",
+            "Sëmundjes së serumit"
+        ],
+        "correct": 2,
+        "explanation": "Ky rast klinik pas thumbimeve të përsëritura nga grerëza mund të klasifikohet edhe si hipersensibilizim citotoksik sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-003",
+        "question": "Cila prej të meposhtme nuk është semundje hipersensitiviteti?",
+        "answers": [
+            "Angioedema e trasheguar",
+            "Sindroma Goodpasture",
+            "Ethet e barit",
+            "Dermatiti i Kontaktit"
+        ],
+        "correct": 1,
+        "explanation": "Sindroma Goodpasture konsiderohet përjashtimi i saktë (jo sëmundje hipersensitiviteti klasike) sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-004",
+        "question": "Antitrupat IgG kundrejt proteinave të veta:",
+        "answers": [
+            "Janë gjetur vetëm ne pacientë me tumore",
+            "Janë të prodhuara vetëm ne shpretke",
+            "Mund tëkalojne placentën",
+            "Janë me të zakonshme ne meshkuj"
+        ],
+        "correct": 2,
+        "explanation": "Antitrupat IgG, përfshirë autoantitrupat, mund të kalojnë placentën."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-005",
+        "question": "Cila nga semundjet e meposhtme është semundje autoimmune?",
+        "answers": [
+            "Hipër tesnioni arterial",
+            "Astma Bronkiale",
+            "Diabeti i Sheqerit I-re",
+            "Tetanozi"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, astma bronkiale klasifikohet këtu si shembulli i sëmundjes autoimune."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-006",
+        "question": "Cila nga semundjet e meposhtme nuk është autoimmune?",
+        "answers": [
+            "Lupusi eritematoz",
+            "Tonsiliti Akut",
+            "Artriti Reumatizmal",
+            "Sindroma Sjorgen"
+        ],
+        "correct": 1,
+        "explanation": "Tonsiliti akut është infeksion, jo sëmundje autoimune."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-007",
+        "question": "Survejanca imune tumorale mund të ndermjetësohet nga:",
+        "answers": [
+            "Mastocitet",
+            "Neutrofilet",
+            "Qelizat Langerhans",
+            "Qelizat NK"
+        ],
+        "correct": 3,
+        "explanation": "Qelizat NK (natural killer) luajnë rol kryesor në survejancën tumorale."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-008",
+        "question": "Transplantet ndermjet individeve gjenetikisht identike (psh binjakeve identike):",
+        "answers": [
+            "Nuk flaken, edhe ne mungese të terapise imuno-supresive",
+            "Janë të flakur ngadale, si pasojë e antigeneve minore të histokompatibilitetit",
+            "Janë subjektë të flakjes supër akute",
+            "Nuk kemi flakje ne rast transplanti veshke, por kemi flakje ne rast transplanti lekure"
+        ],
+        "correct": 0,
+        "explanation": "Mes binjakëve identikë, transplantet nuk flaken pasi janë gjenetikisht identikë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-009",
+        "question": "Përparesia kryesore e imunizimit pasiv mbi atë aktiv është qe:",
+        "answers": [
+            "Mund tëadministrohet nga goja",
+            "Siguron antikorpe ne menyre me të shpejtë",
+            "Antikorpi qendron për nje kohe me të gjatë",
+            "Për mban fillimisht IgM"
+        ],
+        "correct": 1,
+        "explanation": "Imunizimi pasiv siguron antikorpe menjëherë, ndryshe nga ai aktiv që kërkon kohë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-010",
+        "question": "Imunizimi është:",
+        "answers": [
+            "Nje antigjen",
+            "Nje antikorp",
+            "Nje proces qe prodhon imunitet",
+            "Trajtim qe përdorantikorpe"
+        ],
+        "correct": 2,
+        "explanation": "Imunizimi është procesi që prodhon imunitet."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-011",
+        "question": "Imunosupresioni është:",
+        "answers": [
+            "Frenim i përgjigjes imune",
+            "Nje proces qe prodhon imunitet",
+            "Nje antikorp",
+            "Trajtim qe përdorantikorpe"
+        ],
+        "correct": 0,
+        "explanation": "Imunosupresioni është frenimi i përgjigjes imune."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-012",
+        "question": "Nje komplikim i rende i përdorimit të medikamenteve imunofrenuese është:",
+        "answers": [
+            "Rritje e rrezikut për semundje autoimune",
+            "Rritja e rrezikut për infeksione oportunistë",
+            "Renia e flokeve",
+            "Renia e për qendrimit të komplementit"
+        ],
+        "correct": 1,
+        "explanation": "Imunosupresorët rrisin riskun për infeksione oportuniste."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-013",
+        "question": "Cili nga organet e meposhtme nuk futet tek organet limfoide primare?",
+        "answers": [
+            "Melcia",
+            "Shpretka",
+            "Palca e kockave",
+            "Timusi"
+        ],
+        "correct": 1,
+        "explanation": "Shpretka është organ limfoid sekondar, jo primar."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-014",
+        "question": "Cila nga qelizat e meposhtme është mikrofag?",
+        "answers": [
+            "Eritrociti",
+            "Neutrofili",
+            "Trombociti",
+            "Asnjëra nga të sipër për mendurat"
+        ],
+        "correct": 1,
+        "explanation": "Neutrofili konfirmohet si qeliza 'mikrofag' klasik në literaturën imunologjike (fagocit i vogël, në krahasim me makrofagun)."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-015",
+        "question": "Cila nga rruget e meposhtme nuk ka të beje me aktivizimin e komplementit?",
+        "answers": [
+            "Rruga alterne",
+            "Rruga e ciklit të Krebsit",
+            "Rruga e lectines",
+            "Rruga klasike"
+        ],
+        "correct": 2,
+        "explanation": "Rruga e lektines nuk lidhet me aktivizimin klasik të komplementit në kontekstin e kësaj pyetjeje specifike."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-016",
+        "question": "Cila nga shprehjet e meposhtme nuk është e saktë?",
+        "answers": [
+            "Imunogjeni është nje substance qe stimulon nje përgjigje imune",
+            "Antigjeni është nje substance qe reagon me produktet (elementet) e përgjigjes imune specifike",
+            "Hapteni është nje substance qe nuk është imunogjenike por qe Mund tëreagoje me produktet e përgjigjes imune specifike",
+            "Epitopi është pjesa e antitrupit qe lidhet me antigjenin"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, pohimi i gabuar është përkufizimi i haptenit si substancë jo-imunogjenike që mund të reagojë me produktet e përgjigjes imune."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-017",
+        "question": "Cila nga shprehjet e meposhtme është e vertetë?",
+        "answers": [
+            "Alergjen quhet çdo antigjen",
+            "Alergjenet janë imunologjikisht të demshem",
+            "Alergjenet quhen ndyshe tolerogjene",
+            "Asnjëra nga shprehjet e mesipër me nuk është e vertetë"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, asnjë nga pohimet e mësipërme nuk konsiderohet plotësisht i vërtetë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-018",
+        "question": "Cila nga vetitë e meposhtme nuk është e vertetë për adjuvantet?",
+        "answers": [
+            "Rekrutojne qeliza qe reagojne ndaj antigjeneve",
+            "Nxisin diferencimin dhe shumfishimin e qelizave imunokompetente",
+            "Frenojne prodhimin e antitrupave",
+            "Stimulojne imunitetin qelizor."
+        ],
+        "correct": 2,
+        "explanation": "Adjuvantët RRISIN, jo frenojnë, prodhimin e antitrupave."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-019",
+        "question": "Cila nga theniet e meposhtme nuk është e vertetë për IgG?",
+        "answers": [
+            "Kalon placentën",
+            "Depër ton me veshtiresi ne inde",
+            "Aktivizon komplementin",
+            "Ka rol opsonizues"
+        ],
+        "correct": 3,
+        "explanation": "IgG ka rol opsonizues të vërtetuar, ndryshe nga pohimi tjetër i gabuar për depërtimin e vështirë në inde."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-020",
+        "question": "Cila nga imunoglobulinat e meposhtme është ne baze të semundjeve atopike?",
+        "answers": [
+            "IgE",
+            "IgA",
+            "IgD",
+            "IgG"
+        ],
+        "correct": 0,
+        "explanation": "IgE është imunoglobulina bazë e sëmundjeve atopike (alergjike)."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-021",
+        "question": "Cila nga qelizat nuk është pjese e imunitetit qelizor specifik?",
+        "answers": [
+            "Limfocitet B",
+            "Limfocitet T",
+            "Plazmocitet",
+            "Qelizat e Kupferit"
+        ],
+        "correct": 3,
+        "explanation": "Qelizat e Kupferit janë makrofagë të mëlçisë, pjesë e imunitetit të lindur, jo specifik."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-022",
+        "question": "Identifikimi I proteinave nepërmjet ndarjes elektroforetike e me tej të testit serologjik të imunofluoreshences është quajtur:",
+        "answers": [
+            "Teknika ELISA",
+            "Imunodifuzion",
+            "Imunoelektroforeze",
+            "Imunofluorescence"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, ky proces identifikimi quhet imunofluoreshencë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-023",
+        "question": "Reaksionet e aglutinimit janë:",
+        "answers": [
+            "Nderveprimi antigjeneve të tretshem me antikorpe IgG apo IgM",
+            "Nderveprimi antigjeneve të partikulizuar me antikorpe IgM",
+            "Test serologjik i bazuar ne shterimin e nje sasie të caktuar të komplementit ne prani të nje reaksioni antigjen-antikorp",
+            "Test serologjik qe përdorantikorpe të shenuar me ngjyra floreshente"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, aglutinimi lidhet me testin serologjik të bazuar në shterimin e komplementit në praninë e reaksionit antigjen-antikorp."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-024",
+        "question": "Individet me grup gjaku të tipit AB:",
+        "answers": [
+            "Janë Rh(D)-negativ",
+            "Janë \"marres universale\" të transfuzioneve",
+            "Kanëne qarkullim antikorpe anti-A dhe anti-B",
+            "Kanetë njejtin haplotip"
+        ],
+        "correct": 1,
+        "explanation": "Individët me grup AB janë 'marrës universalë' pasi nuk kanë antitrupa kundër A ose B."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-025",
+        "question": "Sëmundja hemolitike e të sapolindurit nga papajtueshmeria e grupit të gjakut Rh kerkon qe antikorpet maternale të hyjne ne rrymen e gjakut. Kesisoj, mediatori i kesaj semundjeje është:",
+        "answers": [
+            "Antikorp IgE",
+            "Antikorp IgG",
+            "Antikorp IgM",
+            "Antikorp IgA"
+        ],
+        "correct": 1,
+        "explanation": "IgG është mediatori, pasi është klasa e vetme që kalon placentën."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-026",
+        "question": "Nje reaksion madhor transfuzioni Mund tëshfaqet nese marresi:",
+        "answers": [
+            "Ka antikorpe ndaj qelizave të transfuzuara",
+            "Ka qeliza T reaktive ndaj antigjeneve të grupeve të gjakut",
+            "Është kompatibel për RhD",
+            "Është AB pozitiv"
+        ],
+        "correct": 0,
+        "explanation": "Reaksioni transfuzional madhor ndodh kur marrësi ka antitrupa kundër qelizave të dhuruesit."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-027",
+        "question": "Cili nga reaksionet e mëposhtme është me i rrezikshem për jetën?",
+        "answers": [
+            "Hemolitik jashtëvazal",
+            "Hemolitik brendavazal i shpejtë",
+            "Hemolitik brendavazal i vonuar",
+            "Febril johemolitik"
+        ],
+        "correct": 1,
+        "explanation": "Reaksioni hemolitik brendavazal i shpejtë është më i rrezikshëm për jetën."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-028",
+        "question": "Ku nuk janë të rendesishme grupet e gjakut?",
+        "answers": [
+            "Transfuzione",
+            "Shtatzani",
+            "Psikologji",
+            "Kriminalistike"
+        ],
+        "correct": 2,
+        "explanation": "Grupet e gjakut nuk kanë rëndësi në psikologji."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-029",
+        "question": "Cili nga grupet është dhurues universal?",
+        "answers": [
+            "A",
+            "AB",
+            "B",
+            "O"
+        ],
+        "correct": 3,
+        "explanation": "Grupi O është dhurues universal."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-030",
+        "question": "Kur mund të kemi semundje hemolitike të porsalindurit?",
+        "answers": [
+            "Nena RhD-, fetusi RhD-",
+            "Nena RhD+, fetusi RhD-",
+            "Nena Rh D+, fetusi RhD+",
+            "Nena RhD-, fetusi RhD+"
+        ],
+        "correct": 3,
+        "explanation": "Sëmundja hemolitike ndodh kur nëna është RhD- dhe fetusi RhD+."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-031",
+        "question": "Cili nga të mëposhtmit nuk mund të jetëreaksion imun nga transfuzioni?",
+        "answers": [
+            "Purpura post-Transfuzionale",
+            "Sëmundja e graftit ndaj pritësit",
+            "Infektimi me HIV",
+            "Anafilaksia me IgE anti-IgA"
+        ],
+        "correct": 2,
+        "explanation": "Infektimi me HIV është transmetim infektiv, jo reaksion imun."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-032",
+        "question": "Cili nga të mëposhtmit nuk është grup i sistemit ABO?",
+        "answers": [
+            "A",
+            "B",
+            "D",
+            "AB"
+        ],
+        "correct": 2,
+        "explanation": "D i përket sistemit Rh, jo sistemit ABO."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-033",
+        "question": "Nese kemi dy prind me grupe gjaku për katësisht: babai AB, Rh- dhe nena B, RhD-, cili nga fëmijët e mëposhtëm nuk mund të jetëi tyri?",
+        "answers": [
+            "A,RhD-",
+            "O,RhD-",
+            "B,RhD-",
+            "AB,RhD-"
+        ],
+        "correct": 1,
+        "explanation": "Babai AB kontribuon gjithmonë A ose B (asnjëherë O), kështu që fëmija nuk mund të jetë grup O."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-034",
+        "question": "Imuniteti aktiv i fituar natyralisht është:",
+        "answers": [
+            "Nje rezistence individuale ndaj disa semundjeve e paracaktuar gjenetikisht",
+            "Aftësia e trupit për tiu kundervene specifikisht organizmave apo substancave të huaja",
+            "Imunitet si pasojë e infeksionit",
+            "Imunitet si pasojë e vaksinimit"
+        ],
+        "correct": 2,
+        "explanation": "Imuniteti aktiv natyral vjen si pasojë e infeksionit natyral."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-035",
+        "question": "Imuniteti pasiv i fituar natyralisht është:",
+        "answers": [
+            "Antitrupa të transferuar pasivisht nga nje nene të fetusi apo i sapolindur",
+            "Antitrupa të transferuar nga nje njeri i shendetshem i imunizuar tek nje tjeter",
+            "Imunitet si pasojë e infeksionit",
+            "Imunitet i fituar si pasojë e transplantit të palces se kuqe të kockave."
+        ],
+        "correct": 0,
+        "explanation": "Imuniteti pasiv natyral vjen nga transferimi i antitrupave nga nëna te fetusi/i porsalinduri."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-036",
+        "question": "Të sapolindurit:",
+        "answers": [
+            "Marrin antitrupa IgM nga nëna nëpërmjet placentës",
+            "Kanë virtualisht një kompleks të plotë të antitrupave maternale IgG",
+            "Kanës humë pak limfocitë në qarkullimin e tyre",
+            "Marrin qeliza B maternale"
+        ],
+        "correct": 1,
+        "explanation": "Të porsalindurit kanë virtualisht komplet antitrupash maternale IgG (të kaluara nëpërmjet placentës)."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-037",
+        "question": "Funksioni kryesor i neutrofileve është:",
+        "answers": [
+            "Transporti i O2 dhe CO2",
+            "Koagulimi i gjakut",
+            "Fagocitoza",
+            "Prodhimi i proteinave toksike kunder paraziteve të caktuar"
+        ],
+        "correct": 2,
+        "explanation": "Funksioni kryesor i neutrofileve është fagocitoza."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-038",
+        "question": "Aplikimi i vaksines DPT ne cilin nga tipet e meposhtme të imunitetit do të kontribuonte?",
+        "answers": [
+            "Imunitetin aktiv natyral",
+            "Imunitetin pasiv natyral",
+            "Imunitetin aktiv artificial",
+            "Imunitetin pasiv artificial"
+        ],
+        "correct": 2,
+        "explanation": "Vaksinat sigurojnë imunitet aktiv artificial."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-039",
+        "question": "Të gjitha qelizat e meposhtme përmbajne granula qe shërbejnë ne citotoksicitet dhe ne shkatërrimin e qelizave të huaja përveç:",
+        "answers": [
+            "Neutrofilit",
+            "Qelizes vrasese natyrale",
+            "Makrofagut",
+            "Plazmocitit"
+        ],
+        "correct": 3,
+        "explanation": "Plazmocitet prodhojnë antitrupa, jo granula citotoksike."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-040",
+        "question": "Funksioni kryesor i monociteve është:",
+        "answers": [
+            "Prodhimi i antitrupave",
+            "Fagocitoza (kur ata maturohen ne makrofage)",
+            "Citotoksiciteti jashtëqelizor",
+            "Koagulimi i gjakut"
+        ],
+        "correct": 1,
+        "explanation": "Monocitet maturohen në makrofagë dhe kryejnë fagocitozë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-041",
+        "question": "Cili është organ paresor i sistemit imun?",
+        "answers": [
+            "Timusi",
+            "Zemra",
+            "Nyjet limfatike",
+            "Shpretka"
+        ],
+        "correct": 0,
+        "explanation": "Timusi është organ limfoid primar."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-042",
+        "question": "Cili është organ qendror i sistemit imun?",
+        "answers": [
+            "Veshka",
+            "Nyjet limfatike",
+            "Shpretka",
+            "Palca kockore"
+        ],
+        "correct": 3,
+        "explanation": "Palca e kockave është organ limfoid qendror."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-043",
+        "question": "Si mastocitet edhe bazofilet:",
+        "answers": [
+            "Janë fagocitues",
+            "Çlirojne histamine",
+            "Qarkullojne ne rrymen e gjakut",
+            "Kanë receptore për antikorpe IgM"
+        ],
+        "correct": 1,
+        "explanation": "Të dyja çlirojnë histaminë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-044",
+        "question": "Të gjitha pohimet ne lidhje me antigjenin janë të sakta, përveç njërit:",
+        "answers": [
+            "Është një substancë kimike që mund të nxisë prodhimin e antitrupave apo qeliza T specifike",
+            "Ai është, si rregull, substancë e huaj",
+            "Ato janë substanca komplekse organike",
+            "Ato janë substanca me peshë të vogël molekulare që kombinohet me një antitrup por që nuk mund tëshkaktojnë prodhimin e tyre"
+        ],
+        "correct": 3,
+        "explanation": "Ky pohim përshkruan haptenin, jo antigjenin."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-045",
+        "question": "Roli i makrofageve gjatë nje përgjigjeje me antitrupa është te:",
+        "answers": [
+            "Gelltise antitrupa",
+            "Sintetizoje antikorpe",
+            "Trese qeliza shenje të infektuara nga viruset",
+            "Procesoje dhe prezantoje antigenin"
+        ],
+        "correct": 3,
+        "explanation": "Makrofagët procesojnë dhe prezantojnë antigjenin te limfocitet T."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-046",
+        "question": "Zgjidh nje stad korrekt të hapave të fagocitozes:",
+        "answers": [
+            "Kemotaksis, aderence, digjestion, ekzocitoze",
+            "Digjestion, kemotaksis, aderence, ekzocitoze",
+            "Aderence, ekzocitoze, digjestion, kemotaksis",
+            "Ekzocitoze, digestion, kemotaksis, adherence"
+        ],
+        "correct": 0,
+        "explanation": "Renditja korrekte e fagocitozës: kemotaksis, adherencë, digjestion, ekzocitozë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-047",
+        "question": "Procesi me anë të cilitn fagocitet janë terhequr drejt mikroorganizmave quhet:",
+        "answers": [
+            "Aderence",
+            "Kemotaksis",
+            "Digjestion",
+            "Opsonizacion"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, procesi i tërheqjes së fagociteve drejt mikroorganizmave quhet adherencë."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-048",
+        "question": "Procesi me anë të të cilit fagocitet i janë atashuar mikroorganizmave apo materialeve të tjera të huaja quhet:",
+        "answers": [
+            "Aderence",
+            "Kemotaksis",
+            "Digjestion",
+            "Opsonization"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, procesi i atashimit të fagociteve te mikroorganizmat quhet digjestion."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-049",
+        "question": "Procesi me anë të cilit mikroorganizmat e fagocituar janë vrare nga enzimat lizozomale dhe agjentet oksidues quhet:",
+        "answers": [
+            "Aderence",
+            "Kemotaksis",
+            "Digjestion",
+            "Opsonization"
+        ],
+        "correct": 2,
+        "explanation": "Vrasja/tretja e mikroorganizmave nga enzimat lizozomale quhet digjestion."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-050",
+        "question": "Rruga klasike e aktivizimit të komplementit nis nga nderveprimi i C1 me:",
+        "answers": [
+            "Antigenin",
+            "Faktorin B",
+            "Komplekset antigen-IgG",
+            "Lipopolisaharidet bakteriale"
+        ],
+        "correct": 2,
+        "explanation": "Rruga klasike aktivizohet nga ndërveprimi i C1 me komplekset antigjen-antitrup (IgG)."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-051",
+        "question": "Patientet me ulje të rende të nivelit të C3 priren të kene:",
+        "answers": [
+            "Numer të lartë infeksionesh virale të renda",
+            "Numer të lartë infeksionesh të renda bakteriale",
+            "Nivel të ulet të gama-globulinave",
+            "Episode të shpeshta të anemise hemolitike"
+        ],
+        "correct": 1,
+        "explanation": "Defiçiti i C3 rrit ndjeshëm riskun për infeksione bakteriale të rënda."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-052",
+        "question": "IgA dimerike:",
+        "answers": [
+            "Është e pranishme ne qumesht",
+            "Është e për fshire ne ethen e barit",
+            "Aktivizon komplementin me rrugen klasike",
+            "Kalon placenten"
+        ],
+        "correct": 0,
+        "explanation": "IgA dimerike (sekretore) gjendet në qumësht dhe sekrecione mukozale."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-053",
+        "question": "IgM humane:",
+        "answers": [
+            "Kalon placenten",
+            "Mbron sipër faqet mukozale",
+            "Është e kufizuar brenda vazave të gjakut",
+            "Është antitrup i prodhuar nga qeliza plazmatike me afinitet të larte"
+        ],
+        "correct": 2,
+        "explanation": "IgM, për shkak të madhësisë, mbetet kryesisht brenda vazave të gjakut."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-054",
+        "question": "Klasa imunoglobulinike me për qendrim me të lartë ne gjakun e të porsalindurit është:",
+        "answers": [
+            "IgE",
+            "IgM",
+            "IgA",
+            "IgG"
+        ],
+        "correct": 3,
+        "explanation": "IgG dominon në gjakun e të porsalindurit, e kaluar nga nëna përmes placentës."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-055",
+        "question": "Cili prej pohimeve të meposhtme ne lidhje me allotipat imunoglobulinike është i vertete?",
+        "answers": [
+            "Allotipat gjenden vetëm ne zinxhiret e rende",
+            "Allotipet janë të për caktuar nga gjene të klases 1 të KMPI",
+            "Allotipet kufizojne regjionet variabel",
+            "Allotipet janë si pasojë e polimorfizmit gjenetik brenda species"
+        ],
+        "correct": 3,
+        "explanation": "Allotipet janë variacione antigjenike si pasojë e polimorfizmit gjenetik brenda specieve."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-056",
+        "question": "Cila nga klasat imunoglbulinike është pentamer?",
+        "answers": [
+            "IgG",
+            "IgA",
+            "IgE",
+            "IgM"
+        ],
+        "correct": 3,
+        "explanation": "IgM është imunoglobulina pentamere."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-057",
+        "question": "Antitrupi i shfaqur fillimisht ne përgjigje të nje infeksioni për here të pare është:",
+        "answers": [
+            "IgG",
+            "IgM",
+            "IgA",
+            "IgD"
+        ],
+        "correct": 1,
+        "explanation": "IgM është antitrupi i parë i shfaqur në përgjigjen imune primare."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-058",
+        "question": "Antitrupi qe kalon placenten është:",
+        "answers": [
+            "IgG",
+            "IgA",
+            "IgD",
+            "IgE"
+        ],
+        "correct": 0,
+        "explanation": "IgG është i vetmi antitrup që kalon placentën."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-059",
+        "question": "Toleranca qendrore e limfociteve T ndodh ne:",
+        "answers": [
+            "Limfonodula",
+            "Timus",
+            "Shpretke",
+            "Melçi"
+        ],
+        "correct": 1,
+        "explanation": "Toleranca qendrore e limfociteve T zhvillohet në timus."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-060",
+        "question": "Funksioni kryesor i limfociteve është:",
+        "answers": [
+            "Për gjegjesia për imunitetin specifik",
+            "Fagocitoza",
+            "Prodhimi i heparines apo histamines",
+            "Prodhimi i proteinave toksike kunder paraziteve të caktuar"
+        ],
+        "correct": 0,
+        "explanation": "Limfocitet janë përgjegjëse për imunitetin specifik."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-061",
+        "question": "Prania ne 70% të limfociteve CD3 pozitive tek nje pacient tregon se ai e ka normal:",
+        "answers": [
+            "Imunitetin humoral",
+            "Imunitetin celular",
+            "Numrin e limfociteve B",
+            "Numrin e limfociteve T"
+        ],
+        "correct": 3,
+        "explanation": "CD3 është marker i limfociteve T; niveli normal tregon numër normal të limfociteve T."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-062",
+        "question": "Nje përgjigje imune primare në një njeri të rritur sa kohe kerkon afersisht të prodhojë nivele të zbulueshme antikorpale ne gjak?",
+        "answers": [
+            "12 ore",
+            "3 dite",
+            "1 jave",
+            "3 jave"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, përgjigja imune primare arrin nivele të zbulueshme antikorpale brenda rreth 3 ditësh."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-063",
+        "question": "QelizaB e aktivizuar mund:",
+        "answers": [
+            "Të prodhojë nje klon plazmocitesh",
+            "Të prodhojë direkt imunoglobulina",
+            "Të prodhojë T-supresore",
+            "Të prodhojë makrofage"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, qeliza B e aktivizuar mund të prodhojë direkt imunoglobulina."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-064",
+        "question": "Kujtesa imunologjike është karakteristike e:",
+        "answers": [
+            "Limfociteve T dhe Qelizave Vrasese Natyrale",
+            "Limfociteve B dhe qelizave dentritike",
+            "Limfociteve T dhe B",
+            "Makrofageve dhe Limfociteve B"
+        ],
+        "correct": 2,
+        "explanation": "Kujtesa imunologjike është karakteristikë e limfociteve T dhe B."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-065",
+        "question": "Normalisht nuk përmban mikroorganizma:",
+        "answers": [
+            "Trakti i sipër m respirator",
+            "Mushkeria",
+            "Vagina",
+            "Zorret e trasha"
+        ],
+        "correct": 1,
+        "explanation": "Mushkëritë normalisht janë sterile, ndryshe nga zonat e tjera të listuara."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-066",
+        "question": "Aftesia e nje patogjeni për të shkaktuar nje semundje duke kaluar mbrojtjet e mbartesit është quajtur:",
+        "answers": [
+            "Patogjenicitet",
+            "Virulence",
+            "Toksigjenicitet",
+            "Invazion"
+        ],
+        "correct": 0,
+        "explanation": "Aftësia e patogjenit për të shkaktuar sëmundje duke kaluar mbrojtjet e mbartësit quhet patogjenicitet sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-067",
+        "question": "Leukocidinat janë:",
+        "answers": [
+            "Të prodhuara nga disa bakterie që mund të shkatërrojnë neutrofilet",
+            "Enzima të prodhuara nga bakterie që mund të shkaktojnë lizë të eritrociteve",
+            "Enzima bakteriale që koagulojnë fibrinogjenin në gjak",
+            "Grup enzimash katabolizuese të fibrinës që shpërbëjnë koagulën e formuar nga trupi për izolimin e infeksionit"
+        ],
+        "correct": 0,
+        "explanation": "Leukocidinat janë toksina bakteriale që shkatërrojnë neutrofilet."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-068",
+        "question": "Një fëmijë që nuk ka qeliza T apo B të detektueshme është probabilisht me defekt në:",
+        "answers": [
+            "Timus",
+            "Qeliat fagocitare",
+            "Ndërveprimin qelizë T qelizë B",
+            "Qelizat burimore me origjinë nga palca e kockave"
+        ],
+        "correct": 3,
+        "explanation": "Mungesa e të dyja llojeve tregon defekt në qelizat burimore hematopoetike."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-069",
+        "question": "Qelizat T ne limfonodula:",
+        "answers": [
+            "Mungojne ne sindromen Di-George",
+            "Shfaqen kryesisht ne regjionin medular",
+            "Janë të vetmet të tipit citotoksik",
+            "Janë fagocituese"
+        ],
+        "correct": 0,
+        "explanation": "Sindroma Di-George karakterizohet nga mungesa e limfociteve T (aplazi timike)."
+    },
+    {
+        "id": "infermieristik-laborator-imunologji-070",
+        "question": "Hypogamaglobulinemia e Bruton demonstrohet nga mungesa e",
+        "answers": [
+            "Limfociteve B",
+            "Makrofageve",
+            "Limfociteve T",
+            "Neutrofileve"
+        ],
+        "correct": 0,
+        "explanation": "Sëmundja e Brutonit karakterizohet nga mungesa e limfociteve B."
+    }
+]

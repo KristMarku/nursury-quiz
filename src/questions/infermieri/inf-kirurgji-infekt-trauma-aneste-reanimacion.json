@@ -1,0 +1,1814 @@
+[
+    {
+        "id": "infermieristik-kirurgji-001",
+        "question": "Termi hiperemi aktive i referohet ngjyrës së lëkurës:",
+        "answers": [
+            "pas djegies së saj",
+            "normale",
+            "pas mjekimit",
+            "pas një traume"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, hiperemia aktive lidhet me ngjyrën e lëkurës pas djegies."
+    },
+    {
+        "id": "infermieristik-kirurgji-002",
+        "question": "Hypotermia aksidentale është një gjendje ku personi ekspozohet:",
+        "answers": [
+            "në temperatura shumë të ulta",
+            "në temperatura të ulta",
+            "në situata aksidentale",
+            "në temperatura të larta"
+        ],
+        "correct": 1,
+        "explanation": "Hipotermia aksidentale ndodh kur personi ekspozohet aksidentalisht ndaj temperaturave të ulëta."
+    },
+    {
+        "id": "infermieristik-kirurgji-003",
+        "question": "Hypotermia urbane është :",
+        "answers": [
+            "ekspozimi ekstrem ndaj të ftohtit në mjedise urbane",
+            "ulja e temperaturës trupore nga kontakti me ujë të ftohtë",
+            "ulja e temperaturës trupore nga patologji të ndryshme",
+            "ulja e temperaturës trupore nga të ftohtit"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, hipotermia urbane përkufizohet si ekspozim ekstrem ndaj të ftohtit në mjedise urbane."
+    },
+    {
+        "id": "infermieristik-kirurgji-004",
+        "question": "Hemoragjia, quhet e ndërmjetme kur shfaqet :",
+        "answers": [
+            "gjatë operacionit",
+            "pak orë pas operacionit",
+            "pak ditë pas operacionit",
+            "pas një traume të jashtëme"
+        ],
+        "correct": 1,
+        "explanation": "Hemoragjia e ndërmjetme shfaqet pak orë pas operacionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-005",
+        "question": "Hemoragjia, quhet primare kur shfaqet:",
+        "answers": [
+            "pak orë pas operacionit",
+            "gjatë operacionit",
+            "pak ditë pas operacionit",
+            "pas një traume të jashtëme"
+        ],
+        "correct": 1,
+        "explanation": "Hemoragjia primare shfaqet gjatë vetë operacionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-006",
+        "question": "Ndihma e pare në raste hemoragjie është:",
+        "answers": [
+            "vendosja shtrirë e pacientit",
+            "vendosja e bandazhit",
+            "vendosja e akullit",
+            "terapi medikamentoze"
+        ],
+        "correct": 1,
+        "explanation": "Ndihma e parë në hemoragji është vendosja e bandazhit kompresiv."
+    },
+    {
+        "id": "infermieristik-kirurgji-007",
+        "question": "Donatori lejohet të japi gjak pasi të kenë kaluar të paktën:",
+        "answers": [
+            "45 ditë nga dhurimi i fundit",
+            "56 ditë nga dhurimi i fundit",
+            "65ditë nga dhurimi i fundit",
+            "75 ditë nga dhurimi i fundit"
+        ],
+        "correct": 1,
+        "explanation": "Intervali standard mes dhurimeve të gjakut është të paktën 56 ditë."
+    },
+    {
+        "id": "infermieristik-kirurgji-008",
+        "question": "Sasia e gjakut që dhurohet është të paktën :",
+        "answers": [
+            "350ml",
+            "450 ml",
+            "550ml",
+            "650ml"
+        ],
+        "correct": 1,
+        "explanation": "Sasia standarde e dhurimit të gjakut është rreth 450 ml."
+    },
+    {
+        "id": "infermieristik-kirurgji-009",
+        "question": "Pesha minimale trupore për një donator gjaku duhet të jetë:",
+        "answers": [
+            "40 kg",
+            "50 kg",
+            "60 kg",
+            "70 kg"
+        ],
+        "correct": 1,
+        "explanation": "Pesha minimale e kërkuar për donator gjaku është 50 kg."
+    },
+    {
+        "id": "infermieristik-kirurgji-010",
+        "question": "Mosha minimale për një donator gjaku është:",
+        "answers": [
+            "15 vjeç",
+            "17 vjeç",
+            "20 vjeç",
+            "25 vjeç"
+        ],
+        "correct": 1,
+        "explanation": "Mosha minimale e zakonshme për dhurim gjaku është rreth 17 vjeç (me pëlqim)."
+    },
+    {
+        "id": "infermieristik-kirurgji-011",
+        "question": "Mosha maksimale për një donator gjaku duhet është:",
+        "answers": [
+            "45 vjeç",
+            "55 vjeç",
+            "65 vjeç",
+            "75 vjeç"
+        ],
+        "correct": 2,
+        "explanation": "Mosha maksimale standarde për dhurim gjaku është 65 vjeç."
+    },
+    {
+        "id": "infermieristik-kirurgji-012",
+        "question": "Pozicioni më i përshtatshem për pacientët pas operacionit është :",
+        "answers": [
+            "pozicioni semi - Fowler",
+            "pozicioni Fowler",
+            "tredelenburg",
+            "gjinekologjik"
+        ],
+        "correct": 0,
+        "explanation": "Pozicioni semi-Fowler është më i përshtatshëm zakonisht për pacientët pas operacionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-013",
+        "question": "Mjeku Reanimator është anëtar ne grupin:",
+        "answers": [
+            "steril",
+            "jo steril",
+            "vezhgues",
+            "qarkullues"
+        ],
+        "correct": 1,
+        "explanation": "Mjeku reanimator (anestezist) bën pjesë në grupin josteril të sallës operatore sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-kirurgji-014",
+        "question": "Numërimi i veglave kirurgjikale para dhe pas operacionit kryhet nga:",
+        "answers": [
+            "infermieria qarkulluese",
+            "infermieria instrumentare",
+            "mjeku kirurg",
+            "mjeku anestezist"
+        ],
+        "correct": 1,
+        "explanation": "Numërimi i instrumenteve kryhet nga infermieria instrumentare sipas kësaj alternative specifike."
+    },
+    {
+        "id": "infermieristik-kirurgji-015",
+        "question": "Me termin asepsi nënkuptojmë:",
+        "answers": [
+            "Eleminim të mikroorganizmave në një zonë të caktuar",
+            "Kufizim të mikroorganizmave në një zonë të caktuar",
+            "Pastrim",
+            "Dezinfektim"
+        ],
+        "correct": 0,
+        "explanation": "Asepsia nënkupton eliminimin e mikroorganizmave në një zonë të caktuar."
+    },
+    {
+        "id": "infermieristik-kirurgji-016",
+        "question": "Asepsia kirurgjikale përfshin të gjitha si më poshtë përveç:",
+        "answers": [
+            "Përdorimin e dorezave sterile gjatë vendosjes së kateterit urinar",
+            "Përdorimin e pajisjeve sterile në ndryshimin e garzave të plagës",
+            "Larjen e duarve para dhe pas kryerjes së manipulimeve",
+            "Sterilizimin e instrumentave kirurgjikal"
+        ],
+        "correct": 2,
+        "explanation": "Larja e duarve para/pas manipulimeve i përket asepsisë mjekësore, jo domosdoshmërisht standardit kirurgjikal steril."
+    },
+    {
+        "id": "infermieristik-kirurgji-017",
+        "question": "Asepsia mjekësore përfshin :",
+        "answers": [
+            "Larjen e duarve para dhe pas servirjes së ushqimit",
+            "Larjen e duarve pas zbrazjes së uturakut",
+            "Përdormin e dorezave sterile gjatë mjekimit të plagës",
+            "Larjen e duarve para, pas servirjes së ushqimit dhe pas zbrazjes së uturakut"
+        ],
+        "correct": 2,
+        "explanation": "Përdorimi i dorezave sterile gjatë mjekimit të plagës klasifikohet këtu si pjesë e asepsisë mjekësore."
+    },
+    {
+        "id": "infermieristik-kirurgji-018",
+        "question": "Flebotomia konsiston në :",
+        "answers": [
+            "venipunkturën dhe thithjen e gjakut",
+            "dëmtimin e enës së gjakut",
+            "venipunkturën dhe dhënien e gjakut",
+            "aplikimin e infuzioneve"
+        ],
+        "correct": 0,
+        "explanation": "Flebotomia është venipunktura dhe thithja (marrja) e gjakut."
+    },
+    {
+        "id": "infermieristik-kirurgji-019",
+        "question": "Vlerësimet fizike të pacientit në periudhën preoperatore përfshijnë të gjitha si më poshtë, përveç:",
+        "answers": [
+            "Vlerësimin e bilancit hidrik dhe elektroliktik",
+            "Vlerësimin e statusit ushqimor",
+            "Vlerësimin e funksionit kardiovaskular",
+            "Vlerësimin e ankthit"
+        ],
+        "correct": 3,
+        "explanation": "Vlerësimi i ankthit është vlerësim psikologjik, jo fizik."
+    },
+    {
+        "id": "infermieristik-kirurgji-020",
+        "question": "Bën pjesë në anëtarët e grupit steril :",
+        "answers": [
+            "Kirurgu",
+            "Anestezisti",
+            "Infermieria qarkulluese",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Kirurgu bën pjesë në grupin steril të sallës operatore."
+    },
+    {
+        "id": "infermieristik-kirurgji-021",
+        "question": "Administrimi i opiateve para operacionit ndihmon :",
+        "answers": [
+            "në paksimin e sekrecioneve",
+            "uljen e tonusit muskular",
+            "reduktimin e ankthit dhe stresit",
+            "tharjen e mukozave"
+        ],
+        "correct": 2,
+        "explanation": "Opiatet e para operacionit ndihmojnë kryesisht në reduktimin e ankthit dhe stresit të pacientit."
+    },
+    {
+        "id": "infermieristik-kirurgji-022",
+        "question": "Administrimi i antikolinergjikëve para operacionit ndikon në :",
+        "answers": [
+            "në pakësimin e sekrecioneve",
+            "reduktimin e ankthit dhe stresit",
+            "uljen e tonusit muskular",
+            "tharjen e mukozave"
+        ],
+        "correct": 0,
+        "explanation": "Antikolinergjikët preoperativë reduktojnë sekrecionet e rrugëve respiratore."
+    },
+    {
+        "id": "infermieristik-kirurgji-023",
+        "question": "Asepsitë kirurgjikale janë aktivitete që :",
+        "answers": [
+            "minimizojnë përhapjen e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar",
+            "eleminojnë numrin dhe përhapjen e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar",
+            "pakësojnë numrin e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar",
+            "pakësojnë përhapjen e sporeve dhe mikroorganizmave në një sipërfaqe të caktuar"
+        ],
+        "correct": 1,
+        "explanation": "Asepsia kirurgjikale synon eliminimin e numrit dhe përhapjen e mikroorganizmave/sporeve."
+    },
+    {
+        "id": "infermieristik-kirurgji-024",
+        "question": "Asepsia është procedura që bën të mundur:",
+        "answers": [
+            "eleminimin e të gjithë mikroorganizmave",
+            "eleminimin e shumicës së mikroorganizmave",
+            "pakësimin e të gjithë mikroorganizmave",
+            "pakësimin e shumicës së mikroorganizmave"
+        ],
+        "correct": 0,
+        "explanation": "Asepsia synon eliminimin e plotë të mikroorganizmave nga zona e caktuar."
+    },
+    {
+        "id": "infermieristik-kirurgji-025",
+        "question": "Anëtarë të grupit jo steril janë të gjihë si më poshtë përveç:",
+        "answers": [
+            "Anestezisti",
+            "Infermieria qarkulluese",
+            "Ndihmës kirurgu",
+            "Teknikët radiolog"
+        ],
+        "correct": 2,
+        "explanation": "Ndihmës kirurgu bën pjesë në grupin steril, jo në atë josteril."
+    },
+    {
+        "id": "infermieristik-kirurgji-026",
+        "question": "Praktikat që ulin dhe pengojnë proçeset e infeksionit në pacientët post– kirurgjikal quhen:",
+        "answers": [
+            "Teknika Dezinfektuese",
+            "Teknika Dekontaminuese",
+            "Teknika Kontrolli",
+            "Teknika Aseptike"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, teknikat dezinfektuese janë ato që ulin/pengojnë proceset infektive postoperatore."
+    },
+    {
+        "id": "infermieristik-kirurgji-027",
+        "question": "Pacientët e pranuar në Njësinë e Kujdesit Post – Anestezik pa refleksin faringeal duhet të vendosen në pozicion:",
+        "answers": [
+            "Dorsal",
+            "Lateral",
+            "Fowler",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Pa refleks faringeal, pacienti vendoset në pozicion lateral për të parandaluar aspirimin."
+    },
+    {
+        "id": "infermieristik-kirurgji-028",
+        "question": "Infermieri duhet të njohë shenjat dhe simptomat e pengesës respiratore tek pacienti në periudhën post operatore, këto shenja përfshijnë:",
+        "answers": [
+            "përdorimi i muskujve ndihmës gjatë frymëmarrjes",
+            "hipotension arterial",
+            "dhimbje kraharori",
+            "asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Përdorimi i muskujve ndihmës gjatë frymëmarrjes tregon pengesë respiratore."
+    },
+    {
+        "id": "infermieristik-kirurgji-029",
+        "question": "Përdorimi i klizmës pastruese është i detyrueshëm të aplikohet :",
+        "answers": [
+            "para të gjitha llojeve të operacioneve",
+            "para operacioneve që përfshijnë traktin gastro - intestinal",
+            "para operacioneve që përfshijnë traktin uro -genital",
+            "para asnjë lloj operacioni pasi nuk rekomandohet më"
+        ],
+        "correct": 1,
+        "explanation": "Klizma pastruese aplikohet para operacioneve që përfshijnë traktin gastrointestinal."
+    },
+    {
+        "id": "infermieristik-kirurgji-030",
+        "question": "Infermieria qarkulluese është pjesë e:",
+        "answers": [
+            "grupit steril",
+            "grupit josteril",
+            "grupit vëzhgues",
+            "nuk është antare e bllokut operator"
+        ],
+        "correct": 1,
+        "explanation": "Infermieria qarkulluese bën pjesë në grupin josteril."
+    },
+    {
+        "id": "infermieristik-kirurgji-031",
+        "question": "Ruajtja e sigurisë dhe integritetit të fushës sterile gjatë proçedurës kirurgjikale është detyrë e :",
+        "answers": [
+            "kirurgut primar",
+            "anestezistit",
+            "infermieres qarkulluese",
+            "infermieres instrumentare"
+        ],
+        "correct": 3,
+        "explanation": "Ruajtja e fushës sterile është detyrë kryesore e infermieres instrumentare."
+    },
+    {
+        "id": "infermieristik-kirurgji-032",
+        "question": "Në rast se pas operacionit kanë kaluar më shumë se 12 – 18 orë dhe pacienti nuk ka urinuar, ndërhyrje primare është :",
+        "answers": [
+            "vendosja e kateterit urinar",
+            "nxitja e pacientit për të urinuar vetë nëpërmjet përdorimit të borsave të ngrohta",
+            "vendosja e kateterit supra pubik",
+            "asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Nëse kanë kaluar mbi 12-18 orë pa urinim, ndërhyrja primare sipas kësaj alternative është vendosja e kateterit urinar."
+    },
+    {
+        "id": "infermieristik-kirurgji-033",
+        "question": "Hipotensioni arterial në periudhën post –operatore mund të shkaktohet nga:",
+        "answers": [
+            "Acidoza",
+            "Hipoksemia",
+            "Disritmia",
+            "Humbja e gjakut dhe e lëngjeve"
+        ],
+        "correct": 3,
+        "explanation": "Hipotensioni postoperator shkaktohet shpesh nga humbja e gjakut/lëngjeve."
+    },
+    {
+        "id": "infermieristik-kirurgji-034",
+        "question": "Cila nga alternativat e mëposhtme tregon për një proçedurë diagnostikuese?",
+        "answers": [
+            "kolostomia",
+            "ileostomia",
+            "kolonoskopia",
+            "jejunostomia"
+        ],
+        "correct": 2,
+        "explanation": "Kolonoskopia është procedurë diagnostikuese."
+    },
+    {
+        "id": "infermieristik-kirurgji-035",
+        "question": "Djegiet kimike të lëkurës cilat rezultojnë nga lëndë korrozive duhet:",
+        "answers": [
+            "Të shpëlahen menjëherë me ujë të rrjedhshëm për 15 – 20 min",
+            "Të aplikohet pomadë",
+            "Të aplikohet balsame",
+            "Të fashohet menjëherë"
+        ],
+        "correct": 0,
+        "explanation": "Djegiet kimike shplahen menjëherë me ujë të rrjedhshëm për 15-20 minuta."
+    },
+    {
+        "id": "infermieristik-kirurgji-036",
+        "question": "Pas operacioneve gastrike pacienti këshillohet të qëndroj në pozicionin:",
+        "answers": [
+            "Fowler",
+            "Semi- Fowler",
+            "Tredelenburg",
+            "Gjinekologjik"
+        ],
+        "correct": 1,
+        "explanation": "Pas operacioneve gastrike, pozicioni i këshilluar sipas kësaj alternative është semi-Fowler."
+    },
+    {
+        "id": "infermieristik-kirurgji-037",
+        "question": "Infermieria qarkulluese ka përgjegjësi për të gjitha sa më poshtë përveç :",
+        "answers": [
+            "A Kryerjen e veprimeve jashtë fushës sterile",
+            "Të siguroj kujdes infermieror për pacientin",
+            "Të siguroj mbështetje emocionale për pacientin",
+            "Të numërojë instrumentet dhe paisjet e përdorura në operacion"
+        ],
+        "correct": 3,
+        "explanation": "Numërimi kryesor i instrumenteve është përgjegjësi primare e infermieres instrumentare, jo vetëm e qarkulluese."
+    },
+    {
+        "id": "infermieristik-kirurgji-038",
+        "question": "Është procedure diagnostikuese :",
+        "answers": [
+            "qarkullimi ekstrakorporal",
+            "koronarografia",
+            "stenti",
+            "koronaroskopia"
+        ],
+        "correct": 1,
+        "explanation": "Koronarografia është procedurë diagnostikuese."
+    },
+    {
+        "id": "infermieristik-kirurgji-039",
+        "question": "Qarkullimi ekstrakorporal haset në:",
+        "answers": [
+            "Kardiokirurgji",
+            "Neurokirurgji",
+            "Kirurgji abdominale",
+            "Kirurgji estetike"
+        ],
+        "correct": 0,
+        "explanation": "Qarkullimi ekstrakorporal (bypass kardiopulmonar) përdoret në kardiokirurgji."
+    },
+    {
+        "id": "infermieristik-kirurgji-040",
+        "question": "Hematemeza është :",
+        "answers": [
+            "Prania e gjakut në të vjella",
+            "Prania e gjakut në feçe",
+            "Rrjedhja e gjakut nga hundët",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Hematemeza është prania e gjakut në të vjella."
+    },
+    {
+        "id": "infermieristik-kirurgji-041",
+        "question": "Dhënia e ushqimeve dhe e lëngjeve nga goja tek pacientët post – operator fillon:",
+        "answers": [
+            "Në momentin e rifillimit të peristaltikës dhe zhurmës aktive intestinale",
+            "Në momentin e rifillimt të diurezës",
+            "Në momentin e stabilizimit të presionit arterial",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Ushqyerja orale postoperative fillon me rifillimin e peristaltikës intestinale."
+    },
+    {
+        "id": "infermieristik-kirurgji-042",
+        "question": "Çrregullimi i bilancit hidro-elektrolitik tek pacientët e djegur mund të vijë si pasojë e:",
+        "answers": [
+            "Humbjes të një sasie të madhe plazme",
+            "Humbjes të një sasie të madhe gjaku",
+            "Diurezës së shtuar",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Djegiet shkaktojnë humbje të madhe plazme, çrregullim hidro-elektrolitik."
+    },
+    {
+        "id": "infermieristik-kirurgji-043",
+        "question": "Plagët nga dekubituset janë plagë që shkaktohen nga:",
+        "answers": [
+            "traumat e hapura",
+            "armët e zjarrit",
+            "aksidentet automobilistike",
+            "qëndrimi në shtrat për një kohë të gjatë"
+        ],
+        "correct": 3,
+        "explanation": "Plagët dekubitale shkaktohen nga qëndrimi i zgjatur në shtrat (presioni)."
+    },
+    {
+        "id": "infermieristik-kirurgji-044",
+        "question": "Faktorët që ndikojnë për formimin e dekubituesëve janë të gjitha përveç:",
+        "answers": [
+            "kequshqyerja",
+            "higjena e ulët",
+            "gjendja emocionale",
+            "qëndrimi gjatë në shtrat"
+        ],
+        "correct": 2,
+        "explanation": "Gjendja emocionale nuk është faktor i drejtpërdrejtë fizik në formimin e dekubituseve."
+    },
+    {
+        "id": "infermieristik-kirurgji-045",
+        "question": "Në një retension urinar përdoret kateteri:",
+        "answers": [
+            "Robinson",
+            "Nichols",
+            "Foley",
+            "Moby- Dick"
+        ],
+        "correct": 2,
+        "explanation": "Në retension urinar përdoret kateteri Foley."
+    },
+    {
+        "id": "infermieristik-kirurgji-046",
+        "question": "Gastrostomia është procedure që ushqen pacientin nga:",
+        "answers": [
+            "ezofagu",
+            "stomaku",
+            "jejunum",
+            "kolon"
+        ],
+        "correct": 1,
+        "explanation": "Gastrostomia ushqen pacientin direkt nëpërmjet stomakut."
+    },
+    {
+        "id": "infermieristik-kirurgji-047",
+        "question": "Ndërrimi i pensamentëve të plagës operatore bëhet:",
+        "answers": [
+            "10 - 15 orë pas operacionit",
+            "16 - 24 orë pas operacionit",
+            "36 - 48 orë pas operacionit",
+            "52 - 72 orë pas operacionit"
+        ],
+        "correct": 2,
+        "explanation": "Ndërrimi i parë i pensamentit bëhet zakonisht 36-48 orë pas operacionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-048",
+        "question": "Trajtimi fillestar i plagës bëhet me:",
+        "answers": [
+            "antibiotik",
+            "kortizonik",
+            "sol. fiziologjik",
+            "betadinë"
+        ],
+        "correct": 2,
+        "explanation": "Trajtimi fillestar i plagës bëhet me solucion fiziologjik (pastrim)."
+    },
+    {
+        "id": "infermieristik-kirurgji-049",
+        "question": "Litotripsia është thyerja e gurëve në:",
+        "answers": [
+            "vezikën urinare",
+            "veshka",
+            "uretër",
+            "kolecist"
+        ],
+        "correct": 1,
+        "explanation": "Litotripsia përdoret më së shpeshti për thyerjen e gurëve renalë (veshka)."
+    },
+    {
+        "id": "infermieristik-kirurgji-050",
+        "question": "Një plagë quhet e papastër kur:",
+        "answers": [
+            "nuk ka rrjedhje të madhe nga organet viscerale",
+            "kur ka pezmatim pa eksudat qelbëzues",
+            "që nuk kanë shenja të pezmatimit",
+            "nëse ka supuracion"
+        ],
+        "correct": 3,
+        "explanation": "Plaga quhet e papastër kur ka supuracion (infeksion i shfaqur)."
+    },
+    {
+        "id": "infermieristik-kirurgji-051",
+        "question": "Një plagë quhet e kontaminuar kur:",
+        "answers": [
+            "nuk ka rrjedhje të madhe nga organet viscerale",
+            "kur ka pezmatim pa eksudat qelbëzues",
+            "që nuk kanë shenja të pezmatimit",
+            "nëse ka supuracion"
+        ],
+        "correct": 1,
+        "explanation": "Plaga kontaminuar ka pezmatim por pa eksudat qelbëzues të dukshëm."
+    },
+    {
+        "id": "infermieristik-kirurgji-052",
+        "question": "Faktorët e rrezikut për infeksione spitalore të plagëve janë të gjitha përveç:",
+        "answers": [
+            "përkujdesja perioperative",
+            "sterilizimi i pajisjeve",
+            "gjendja e të sëmurit",
+            "statusi emocional i të sëmurit"
+        ],
+        "correct": 3,
+        "explanation": "Statusi emocional nuk është faktor kryesor rreziku për infeksione spitalore të plagëve."
+    },
+    {
+        "id": "infermieristik-kirurgji-053",
+        "question": "Irrigimi i plagës nënkupton:",
+        "answers": [
+            "suturimi i plagës",
+            "trajtimi me antibiotik",
+            "lavazhi i plagës",
+            "fashimi i plagës"
+        ],
+        "correct": 2,
+        "explanation": "Irrigimi i plagës nënkupton lavazhin (pastrimin me lëngje) e saj."
+    },
+    {
+        "id": "infermieristik-kirurgji-054",
+        "question": "Qëllimi primar në trajtimin e ulçerës stazike venoze të këmbës është:",
+        "answers": [
+            "Pastrimi i plagës me alkool",
+            "Përdorimi i lidokainës lokale",
+            "Sigurimi i shërimit të plagës dhe parandalimi i infeksionit",
+            "Asnjëra"
+        ],
+        "correct": 2,
+        "explanation": "Qëllimi primar është shërimi i plagës dhe parandalimi i infeksionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-055",
+        "question": "Gjatë djegies pacienti ka humbje më të theksuar të :",
+        "answers": [
+            "plazmës",
+            "gjakut",
+            "urinës",
+            "djersës"
+        ],
+        "correct": 0,
+        "explanation": "Djegiet shkaktojnë humbje të theksuar plazme."
+    },
+    {
+        "id": "infermieristik-kirurgji-056",
+        "question": "Ku përdoret rregulli i 9- ës?",
+        "answers": [
+            "Në politrauma",
+            "Në ngrirjet trupore",
+            "Në djegiet trupore",
+            "Plagët me armë zjarri"
+        ],
+        "correct": 2,
+        "explanation": "Rregulli i 9-ës përdoret për vlerësimin e përqindjes së sipërfaqes së djegur trupore."
+    },
+    {
+        "id": "infermieristik-kirurgji-057",
+        "question": "Ileusi adinamik zakonisht ndodh:",
+        "answers": [
+            "1 ditë pas operacionit",
+            "2 - 3 ditë pas operacionit",
+            "4 - 6 ditë pas operacionit",
+            "6 - 8 ditë pas operacionit"
+        ],
+        "correct": 0,
+        "explanation": "Ileusi adinamik postoperator zakonisht fillon menjëherë, brenda 1 dite pas operacionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-058",
+        "question": "Mamografia është e këshillueshme të behet çdo vit për gra:",
+        "answers": [
+            "20 vjeç",
+            "30 vjeç",
+            "40 vjeç",
+            "mbi 50 vjec"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, mamografia vjetore këshillohet për gratë mbi 50 vjeç."
+    },
+    {
+        "id": "infermieristik-kirurgji-059",
+        "question": "Ekstravazacioni është komplikacion pas:",
+        "answers": [
+            "kirurgjisë",
+            "kimioterapisë",
+            "radioterapisë",
+            "radiografisë"
+        ],
+        "correct": 1,
+        "explanation": "Ekstravazacioni është komplikacion i njohur i kimioterapisë intravenoze."
+    },
+    {
+        "id": "infermieristik-kirurgji-060",
+        "question": "Traumat e rënda të heparit mund të shkaktojnë:",
+        "answers": [
+            "Insufiçiencë renale",
+            "Shok hipovolemik si pasojë e hemoragjisë",
+            "Hipertension arterial",
+            "Leukopeni"
+        ],
+        "correct": 1,
+        "explanation": "Traumat e rënda hepatike shkaktojnë hemoragji të madhe dhe shok hipovolemik."
+    },
+    {
+        "id": "infermieristik-kirurgji-061",
+        "question": "Në tumoret metastatike të heparit dallohet:",
+        "answers": [
+            "Angiografi negative",
+            "Zvogëlim të heparit",
+            "Ascit (me nuancë gjaku)",
+            "Hiperproteinemi"
+        ],
+        "correct": 2,
+        "explanation": "Në tumoret hepatike metastatike shpesh shfaqet ascit me nuancë hemorragjike."
+    },
+    {
+        "id": "infermieristik-kirurgji-062",
+        "question": "Në kancerin e gjirit nuk ndikojnë:",
+        "answers": [
+            "Historia familjare me këtë diagnozë",
+            "Terapia me hormone",
+            "Numri i pakët i lindjeve",
+            "Ulja e konsumit të yndyrnave shtazore dhe proteinave"
+        ],
+        "correct": 3,
+        "explanation": "Ulja e konsumit të yndyrnave/proteinave nuk rrit riskun, ndryshe nga faktorët e tjerë të listuar."
+    },
+    {
+        "id": "infermieristik-kirurgji-063",
+        "question": "Për kancerin e gjirit nuk përfshihen këto diagnoza infermierore:",
+        "answers": [
+            "Ndryshime në jetën seksuale",
+            "Pamundësi për infeksion",
+            "Dëmtim i integritetit të lëkurës",
+            "Frikë dhe ankth, lidhur me prognozën e sëmundjes"
+        ],
+        "correct": 1,
+        "explanation": "'Pamundësi për infeksion' nuk është diagnozë infermierore e vlefshme (e kundërta, rreziku për infeksion, do të ishte)."
+    },
+    {
+        "id": "infermieristik-kirurgji-064",
+        "question": "Në pacientët me kancer gastrik:",
+        "answers": [
+            "Hemoragjia është e theksuar",
+            "Në raste të rralla ndodh hemoragjia për këtë diagnozë",
+            "Ikteri paraqitet në stadin e parë të sëmundjes",
+            "Prognoza nuk është shumë e varfër"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, hemoragjia në kancerin gastrik ndodh rrallë si manifestim i kësaj diagnoze."
+    },
+    {
+        "id": "infermieristik-kirurgji-065",
+        "question": "Gjatë realizimit të një transfuzioni gjaku, në 15–30 minutat e para infermieri observon pacientin për :",
+        "answers": [
+            "Shenja reaksioni",
+            "Shenja infeksioni",
+            "Hipertension",
+            "Asnjëra"
+        ],
+        "correct": 0,
+        "explanation": "Minutat e para të transfuzionit vëzhgohen për shenja reaksioni transfuzional."
+    },
+    {
+        "id": "infermieristik-kirurgji-066",
+        "question": "Edukimi i një pacienti me urolitiazë në lidhje me sigurimin e një hidratimi optimal, ka si qëllim kryesor:",
+        "answers": [
+            "Parandalimin e recidivave",
+            "Rehidrimin e pacientit",
+            "Parandalimin e komplikacioneve",
+            "Asnjëra"
+        ],
+        "correct": 1,
+        "explanation": "Edukimi mbi hidratimin optimal te urolitiaza ka si qëllim kryesor rehidrimin e pacientit sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-kirurgji-067",
+        "question": "Në karcinomën hepatoqelizore, testet diagnostike shpesh zbulojnë:",
+        "answers": [
+            "Nivele të larta të leukociteve",
+            "Nivele të larta të trombociteve",
+            "Nivele të larta të AFP (alfafetoproteinës)",
+            "Të gjitha"
+        ],
+        "correct": 3,
+        "explanation": "Në karcinomën hepatoqelizore, testet diagnostike shpesh zbulojnë të gjitha ndryshimet e listuara (leukocite, trombocite, AFP të rritura)."
+    },
+    {
+        "id": "infermieristik-kirurgji-068",
+        "question": "Në rastin e gastrektomisë më e rëndësishme është të administrohet:",
+        "answers": [
+            "Vitaminë E",
+            "Vitaminë B12",
+            "Ushqime me frekuencë të lartë",
+            "Ushqime me rrugë orale"
+        ],
+        "correct": 1,
+        "explanation": "Pas gastrektomisë humbet faktori intrinsik, prandaj kërkohet suplementim me vit. B12."
+    },
+    {
+        "id": "infermieristik-kirurgji-069",
+        "question": "Ileostomia - Qëllimi i interventeve infermierore nuk përfshin:",
+        "answers": [
+            "Sigurimin e eleminimit normal intestinal",
+            "Reduktimin e dhimbjeve dhe spazmave abdominale",
+            "Përshkrimin e medikamenteve analgjezike",
+            "Reduktimin e ankthit dhe stresit"
+        ],
+        "correct": 2,
+        "explanation": "Përshkrimi i medikamenteve nuk është detyrë infermierore, por mjekësore."
+    },
+    {
+        "id": "infermieristik-kirurgji-070",
+        "question": "Në prekjen e heparit nga metastazat nuk ndikojnë:",
+        "answers": [
+            "Vaskularizimi i theksuar i heparit",
+            "Pozicioni i tij anatomik",
+            "Niveli i koshiencës",
+            "Tumoret nga trakti gastrointestinal"
+        ],
+        "correct": 2,
+        "explanation": "Niveli i koshiencës nuk ndikon në predispozicionin e heparit ndaj metastazave."
+    },
+    {
+        "id": "infermieristik-kirurgji-071",
+        "question": "Ileusi adinamik:",
+        "answers": [
+            "Ka një prognozë të varfër",
+            "Në përgjithësi ka prognozë të mirë",
+            "Trajtimi është gjithmonë kirurgjikal",
+            "Është shkaku më i rrallë i obstruksionit intestinal"
+        ],
+        "correct": 1,
+        "explanation": "Ileusi adinamik postoperator zgjidhet zakonisht spontanisht dhe ka prognozë të mirë."
+    },
+    {
+        "id": "infermieristik-kirurgji-072",
+        "question": "Për të parandaluar ulçerën stazike venoze duhet te:",
+        "answers": [
+            "Ndërpritet aktiviteti fizik",
+            "Ekspozohet zona e prekur në temperatura të ftohta",
+            "Pozicionohen ekstremitetet më poshtë se niveli i zemrës",
+            "Të kontrollohen pulset periferike dhe temperatura e ekstremiteteve"
+        ],
+        "correct": 3,
+        "explanation": "Kontrolli i pulseve periferike dhe temperaturës ndihmon parandalimin e ulçerave venoze."
+    },
+    {
+        "id": "infermieristik-kirurgji-073",
+        "question": "Faktor që nuk ndikon në kalkulozën e aparatit urinar është:",
+        "answers": [
+            "Staza urinare",
+            "Infeksioni i traktit urinar",
+            "Staza venoze",
+            "Dehidrimi"
+        ],
+        "correct": 2,
+        "explanation": "Staza venoze nuk lidhet me formimin e gurëve urinarë."
+    },
+    {
+        "id": "infermieristik-kirurgji-074",
+        "question": "Për të mbajtur bilancin elektrolitik, nuk është vlerësim specifik:",
+        "answers": [
+            "Niveli i elektroliteve",
+            "Marrjet dhe nxjerrjet e likideve",
+            "Turgori i lëkurës",
+            "Niveli i gazeve në gjak"
+        ],
+        "correct": 3,
+        "explanation": "Gazanaliza e gjakut lidhet më shumë me statusin acido-bazik/respirator sesa direkt me bilancin elektrolitik."
+    },
+    {
+        "id": "infermieristik-kirurgji-075",
+        "question": "Pacienti me gastrostomi, nuk ka prezencë infeksioni nëse:",
+        "answers": [
+            "Lëkura është e skuqur përeth inçizionit",
+            "Është afebril",
+            "Ka drenim nga plaga",
+            "Leukocitozë"
+        ],
+        "correct": 1,
+        "explanation": "Mungesa e temperaturës (afebril) tregon mungesë infeksioni."
+    },
+    {
+        "id": "infermieristik-kirurgji-076",
+        "question": "Interventet infermierore për pacientin me ileostomi nuk kanë për qëllim:",
+        "answers": [
+            "Reduktimin e dhimbjes",
+            "Pakësimin gradual të marrjeve orale",
+            "Mbajtjen e bilancit elektrolitik dhe peshës trupore",
+            "Sigurimin e eleminimit intestinal"
+        ],
+        "correct": 1,
+        "explanation": "Qëllimi është rritja graduale, jo pakësimi, i marrjeve orale pas ileostomisë."
+    },
+    {
+        "id": "infermieristik-kirurgji-077",
+        "question": "Menaxhimi infermieror, para kirurgjisë kardiake përfshin:",
+        "answers": [
+            "Vetëm vlerësim të hollësishëm të sistemit kardiak",
+            "Vlerësimin e sistemit respirator",
+            "Vlerësim të detajuar sistemik",
+            "Ndërprerjen e terapisë medikamentoze të mëparshme"
+        ],
+        "correct": 2,
+        "explanation": "Menaxhimi preoperator kardiak përfshin vlerësim të detajuar sistemik, jo vetëm kardiak."
+    },
+    {
+        "id": "infermieristik-kirurgji-078",
+        "question": "Stafi infermieror instrukton pacientët me patologji të sistemit biliar të:",
+        "answers": [
+            "Shtojnë sasinë e ynyrnave",
+            "Të pakësojnë kaloritë dhe yndyrnat në dietën ushqimore",
+            "Të shtojnë peshën trupore",
+            "Mbajnë regjim absolut pushimi"
+        ],
+        "correct": 1,
+        "explanation": "Pacientët me patologji biliare instruktohen të pakësojnë kaloritë dhe yndyrnat."
+    },
+    {
+        "id": "infermieristik-kirurgji-079",
+        "question": "Nuk është prioritet i menaxhimit infermieror për pacientët me gastrostomi:",
+        "answers": [
+            "Mbajtja e statusit nutricional",
+            "Mbrojtja integritetit të lëkurës",
+            "Përshtatja me ndryshimet në imazhin trupor",
+            "Përcaktimi i dietës ushqimore specifike për këta pacientë"
+        ],
+        "correct": 2,
+        "explanation": "Përshtatja me imazhin trupor është më pak prioritare krahasuar me kujdesin nutricional/lëkurës/dietën."
+    },
+    {
+        "id": "infermieristik-kirurgji-080",
+        "question": "Perfuzioni indor për pacientët me patologji kardiake vlerësohet me të gjitha metodat e mëposhtme përveç njërës:",
+        "answers": [
+            "Monitorimit të EKG",
+            "Matjes së presionit arterial dhe nivelit të gazeve në gjak",
+            "Eleminimit urinar",
+            "Reagimit nga medikamentet analgjezike"
+        ],
+        "correct": 3,
+        "explanation": "Reagimi ndaj analgjezikëve nuk është metodë vlerësimi e perfuzionit indor."
+    },
+    {
+        "id": "infermieristik-kirurgji-081",
+        "question": "Menaxhimi i pacientëve me obstruksion të zorrës së trashë bëhet me:",
+        "answers": [
+            "Trajtim operator kur bllokimi është i pjesshëm",
+            "Intervent kirurgjikal vetëm kur bllokimi është i plotë",
+            "Radiografi me barium",
+            "Trajtim jo kirugjikal në rastin e perforimit intestinal"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, menaxhimi kirurgjikal i obstruksionit të zorrës së trashë indikohet vetëm kur bllokimi është i plotë."
+    },
+    {
+        "id": "infermieristik-kirurgji-082",
+        "question": "Komplikacioni më i shpeshtë për pacientët me ileostomi është:",
+        "answers": [
+            "Kalkuloza urinare",
+            "Stenoza stomale",
+            "Irritimi i lëkurës peristomale",
+            "Cholelithiasis"
+        ],
+        "correct": 2,
+        "explanation": "Irritimi i lëkurës peristomale është komplikacioni më i shpeshtë i ileostomisë."
+    },
+    {
+        "id": "infermieristik-kirurgji-083",
+        "question": "Limadeniti është:",
+        "answers": [
+            "infeksion kirurgjik i nyjeve limfatike",
+            "infeksion akut nekrotik",
+            "infeksion kirurgjikal i gjendrave të djersës",
+            "infeksion akut purulent"
+        ],
+        "correct": 0,
+        "explanation": "Limfadeniti është infeksion i nyjeve limfatike."
+    },
+    {
+        "id": "infermieristik-kirurgji-084",
+        "question": "Ulçera diabetike karakterizohet nga:",
+        "answers": [
+            "Dhimbje shumë të fortë",
+            "Dhimbje të moderuar",
+            "Dhimbje te lehtë ose mungesë të saj",
+            "Mungesa e recidivimit"
+        ],
+        "correct": 2,
+        "explanation": "Neuropatia diabetike shkakton dhimbje të lehtë ose mungesë të saj në ulçerat diabetike."
+    },
+    {
+        "id": "infermieristik-kirurgji-085",
+        "question": "Në diagnozat infermierore në rastin e ileostomisë nuk përfshihet:",
+        "answers": [
+            "Alternime në komfort",
+            "Spazma abdominale",
+            "Imbalancë lëngjesh dhe elektrolitesh",
+            "Stabilitet në eleminimin intestinal"
+        ],
+        "correct": 3,
+        "explanation": "'Stabilitet në eleminimin intestinal' është qëllim/rezultat, jo diagnozë infermierore."
+    },
+    {
+        "id": "infermieristik-kirurgji-086",
+        "question": "Shoku septik fillon me të gjitha shenjat e mëposhtme përveç:",
+        "answers": [
+            "ethe",
+            "stres",
+            "temperaturë të lartë",
+            "hypotension"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, stresi (jo hipotensioni) është përfshirë ndër shenjat fillestare të shokut septik."
+    },
+    {
+        "id": "infermieristik-kirurgji-087",
+        "question": "Karbunkuli është:",
+        "answers": [
+            "inflamacion akut nekrotik purulent",
+            "infeksion akut-purulent",
+            "infeksion kirurgjikal i gjendrave të djersës",
+            "infeksion kirurgjik i nyjeve limfatike"
+        ],
+        "correct": 0,
+        "explanation": "Karbunkuli është inflamacion akut nekrotik purulent i lëkurës."
+    },
+    {
+        "id": "infermieristik-kirurgji-088",
+        "question": "Organizmi shkaktar për gjendjen e sepsit të rëndë nuk mund të jetë:",
+        "answers": [
+            "Escherichia coli",
+            "klebsiella",
+            "stafilococcus aureus",
+            "virusi"
+        ],
+        "correct": 3,
+        "explanation": "Sepsa e rëndë shkaktohet kryesisht nga bakteret, jo nga viruset."
+    },
+    {
+        "id": "infermieristik-kirurgji-089",
+        "question": "Sa duhet të jetë diureza që të themi se funksioni renal vjen duke u përmiresuar?",
+        "answers": [
+            "20 ml/ore",
+            "25 ml/ore",
+            "30 ml/ore",
+            "40 ml/ore"
+        ],
+        "correct": 2,
+        "explanation": "Diureza mbi 30 ml/orë tregon përmirësim të funksionit renal."
+    },
+    {
+        "id": "infermieristik-kirurgji-090",
+        "question": "Efektin e vet dëmtues virusi i SIDA-s e ka mbi limfocitet:",
+        "answers": [
+            "A",
+            "C",
+            "T",
+            "E"
+        ],
+        "correct": 2,
+        "explanation": "Virusi HIV dëmton kryesisht limfocitet T (CD4+)."
+    },
+    {
+        "id": "infermieristik-kirurgji-091",
+        "question": "Cili është streptokoku më i hasur tek njerëzit:",
+        "answers": [
+            "hemolitik i grupit E",
+            "hemolitik i grupit C",
+            "hemolitik i grupit D",
+            "hemolitik i grupit A"
+        ],
+        "correct": 3,
+        "explanation": "Streptokoku beta-hemolitik i grupit A është më i hasuri tek njerëzit."
+    },
+    {
+        "id": "infermieristik-kirurgji-092",
+        "question": "Mononukleoza Infektive shkaktohet nga :",
+        "answers": [
+            "neisseria gonorea",
+            "clostridium botulinum",
+            "virusi Epstein-Barr",
+            "Plasmodium"
+        ],
+        "correct": 2,
+        "explanation": "Mononukleoza infektive shkaktohet nga virusi Epstein-Barr."
+    },
+    {
+        "id": "infermieristik-kirurgji-093",
+        "question": "Transmetimi i sëmundjes infektive nga një vektor mekanik vjen nga:",
+        "answers": [
+            "mizat",
+            "mushkonjat",
+            "karkalecat",
+            "gjinkallat"
+        ],
+        "correct": 0,
+        "explanation": "Mizat janë vektorë mekanikë tipikë të transmetimit të sëmundjeve infektive."
+    },
+    {
+        "id": "infermieristik-kirurgji-094",
+        "question": "Transmetimi i sëmundjes infektive nga një vektor organik vjen nga:",
+        "answers": [
+            "mizat",
+            "mushkonjat",
+            "karkalecat",
+            "gjinkallat"
+        ],
+        "correct": 1,
+        "explanation": "Mushkonjat janë vektorë organikë (biologjikë), pasi patogjeni zhvillohet brenda tyre."
+    },
+    {
+        "id": "infermieristik-kirurgji-095",
+        "question": "Tipar i përbashkët i gjithë infeksioneve kirurgjikale është:",
+        "answers": [
+            "nekroza",
+            "fistula",
+            "hemorragjia",
+            "hipotermia"
+        ],
+        "correct": 0,
+        "explanation": "Nekroza është tipar i përbashkët i infeksioneve kirurgjikale."
+    },
+    {
+        "id": "infermieristik-kirurgji-096",
+        "question": "Shkalla e prevalencës është raporti :",
+        "answers": [
+            "nr total i të sëmurëve me sëmundje infektive / nr. i pacientëve në total",
+            "nr. i pacientëve në total / nr.total i të sëmureve me sëmundje infektive",
+            "nr. i pacientëve në spital në krahësim me popullatën",
+            "nr. i pacientëve në infektiv / me nr. e pacientëve në spital"
+        ],
+        "correct": 0,
+        "explanation": "Prevalenca është raporti i numrit total të të sëmurëve me numrin total të popullatës/pacientëve."
+    },
+    {
+        "id": "infermieristik-kirurgji-097",
+        "question": "Incidenca e infeksionit për plagët operatore të pastra duhet të jetë:",
+        "answers": [
+            "nën 5%",
+            "nën 7 %",
+            "nën 10 %",
+            "nën 15 %"
+        ],
+        "correct": 0,
+        "explanation": "Incidenca e infeksionit për plagë operatore të pastra duhet të jetë nën 5%."
+    },
+    {
+        "id": "infermieristik-kirurgji-098",
+        "question": "Nuk bën pjesë në plagët e mbyllura:",
+        "answers": [
+            "Kontuzioni",
+            "Hematomat",
+            "Sindromi Crush",
+            "Plagët incizionale"
+        ],
+        "correct": 3,
+        "explanation": "Plagët incizionale janë plagë të hapura, jo të mbyllura."
+    },
+    {
+        "id": "infermieristik-kirurgji-099",
+        "question": "Nuk bën pjesë në manifestimet klinike të Kontuzionit:",
+        "answers": [
+            "Hematoma",
+            "Fraktura",
+            "Hemorragjia",
+            "Nauze/të vjella"
+        ],
+        "correct": 3,
+        "explanation": "Nauzeja/të vjellat nuk janë manifestim tipik i kontuzionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-100",
+        "question": "Shkaktari më i shpeshtë i infeksioneve spitalore është :",
+        "answers": [
+            "E. Coli",
+            "Candidas",
+            "Spiroketa",
+            "Streptokoku"
+        ],
+        "correct": 0,
+        "explanation": "E. Coli është shkaktari më i shpeshtë i infeksioneve spitalore (nosokomiale)."
+    },
+    {
+        "id": "infermieristik-kirurgji-101",
+        "question": "Periudha e inkubacionit të mononukleozës infektive varion :",
+        "answers": [
+            "10- 20 ditë",
+            "20- 30 ditë",
+            "30- 50 ditë",
+            "40- 60 ditë"
+        ],
+        "correct": 2,
+        "explanation": "Periudha e inkubacionit të mononukleozës infektive varion rreth 30-50 ditë."
+    },
+    {
+        "id": "infermieristik-kirurgji-102",
+        "question": "Triada ethe - dhimbje fyti- zmadhim i nodyjve limfatik cervikal është karakteristik e:",
+        "answers": [
+            "tetanozit",
+            "meningokoksisë",
+            "mononukleozes infektive",
+            "stafilokoksisë"
+        ],
+        "correct": 2,
+        "explanation": "Kjo triadë klasike karakterizon mononukleozën infektive."
+    },
+    {
+        "id": "infermieristik-kirurgji-103",
+        "question": "Forma më e shpeshtë e salmonelozës është :",
+        "answers": [
+            "ethet tifoide",
+            "forma gastrointestinale",
+            "bakteremia me ose pa infeksion",
+            "mbartia asimptomatike"
+        ],
+        "correct": 1,
+        "explanation": "Forma gastrointestinale (enterokoliti) është forma më e shpeshtë e salmonelozës."
+    },
+    {
+        "id": "infermieristik-kirurgji-104",
+        "question": "Sëmundja e \"papastërtisë\" mund të quhet",
+        "answers": [
+            "salmoneloza",
+            "amebiaza",
+            "ethet tifoide",
+            "shigeloza"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative specifike, amebiaza është përshkruar si 'sëmundja e papastërtisë'."
+    },
+    {
+        "id": "infermieristik-kirurgji-105",
+        "question": "Përfshihet në shkaqet e hemorragjisë digjestive të poshtme:",
+        "answers": [
+            "variçet e ezofagut",
+            "gastritet",
+            "divertikuli i Meckelit",
+            "sindromi Mallory-Weiss"
+        ],
+        "correct": 2,
+        "explanation": "Divertikuli i Meckelit është shkaktar i njohur i hemorragjisë digjestive të poshtme."
+    },
+    {
+        "id": "infermieristik-kirurgji-106",
+        "question": "Infeksionet Nosokomiale ndryshe quhen:",
+        "answers": [
+            "komune",
+            "ambjentale",
+            "spitalore",
+            "shtëpiake"
+        ],
+        "correct": 2,
+        "explanation": "Infeksionet nosokomiale njihen ndryshe si infeksione spitalore."
+    },
+    {
+        "id": "infermieristik-kirurgji-107",
+        "question": "Eshtë karakteristike për hemorragjinë venoze:",
+        "answers": [
+            "gjaku me ngjyrë të kuqe",
+            "gjaku rrjedh me pulsacione",
+            "rrjedhje e pandërprerë e gjakut",
+            "rrjedhje e ngadalshme e gjakut të errët"
+        ],
+        "correct": 3,
+        "explanation": "Hemoragjia venoze karakterizohet nga rrjedhje e ngadalshme e gjakut të errët."
+    },
+    {
+        "id": "infermieristik-kirurgji-108",
+        "question": "Nuk bejnë pjesë në grupin e përhapjes së infeksionëve nga vektorët:",
+        "answers": [
+            "njerëzit",
+            "minjtë",
+            "mizat",
+            "mushkonjat"
+        ],
+        "correct": 0,
+        "explanation": "Njerëzit nuk konsiderohen vektorë të përhapjes së infeksioneve."
+    },
+    {
+        "id": "infermieristik-kirurgji-109",
+        "question": "Vaksina profilaktike për hepatitin B aplikohet në:",
+        "answers": [
+            "një dozë",
+            "dy doza",
+            "tre doza",
+            "katër doza"
+        ],
+        "correct": 2,
+        "explanation": "Vaksinimi standard për hepatitin B aplikohet në tre doza."
+    },
+    {
+        "id": "infermieristik-kirurgji-110",
+        "question": "Nuk bën pjesë në imobilizimin e jashtëm:",
+        "answers": [
+            "gipsi",
+            "qaforia",
+            "protezat",
+            "traksioni"
+        ],
+        "correct": 2,
+        "explanation": "Protezat nuk janë metodë imobilizimi të jashtëm."
+    },
+    {
+        "id": "infermieristik-kirurgji-111",
+        "question": "Osteomieliti është:",
+        "answers": [
+            "frakturë e kockës",
+            "infeksioni i kockës",
+            "distorcion i artikulacionit",
+            "rupturë ligamenti"
+        ],
+        "correct": 1,
+        "explanation": "Osteomieliti është infeksion i kockës."
+    },
+    {
+        "id": "infermieristik-kirurgji-112",
+        "question": "Fiksatori ekstern përdoret në :",
+        "answers": [
+            "rupturën e ligamenteve",
+            "rupturën e tendinave",
+            "frakturë të kockave të shkurtra",
+            "frakturë të kockave të gjata"
+        ],
+        "correct": 3,
+        "explanation": "Fiksatori ekstern përdoret kryesisht në fraktura të kockave të gjata."
+    },
+    {
+        "id": "infermieristik-kirurgji-113",
+        "question": "Sa kohë mbahet longeta e allçisë në frakturën e kockave të parakrahut?",
+        "answers": [
+            "2 javë",
+            "3 javë",
+            "6 javë",
+            "8 javë"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, longeta e allçisë në frakturën e parakrahut mbahet rreth 3 javë."
+    },
+    {
+        "id": "infermieristik-kirurgji-114",
+        "question": "Koha e tharjes së allçisë në ekstremitete është:",
+        "answers": [
+            "rreth 10-12-orë",
+            "rreth 12-24 orë",
+            "rreth 24-48 orë",
+            "rreth 48-72 orë"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, koha e tharjes së allçisë konsiderohet rreth 12-24 orë."
+    },
+    {
+        "id": "infermieristik-kirurgji-115",
+        "question": "Traksioni pelvik është:",
+        "answers": [
+            "i vazhdueshem",
+            "statik",
+            "dinamik",
+            "intermitent"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, traksioni pelvik zbatohet në mënyrë intermitente (jo të vazhdueshme)."
+    },
+    {
+        "id": "infermieristik-kirurgji-116",
+        "question": "Vlerësimi i mekanizmave të dëmtimit dhe e forcave kinetike që kanë vepruar mbi pacientin gjatë një incidenti traumatik ose aksidenti quhet:",
+        "answers": [
+            "energji kinetike",
+            "kinetika e traumës",
+            "proçesi i traumës",
+            "shpejtësia e goditjes"
+        ],
+        "correct": 1,
+        "explanation": "Ky vlerësim quhet 'kinetika e traumës'."
+    },
+    {
+        "id": "infermieristik-kirurgji-117",
+        "question": "\"Ora e artë\" ju kujton:",
+        "answers": [
+            "koha në të cilën ndodh një politraum",
+            "koha në të cilen transportohet një person i aksidentuar",
+            "dhënia e ndihmës brenda 1 ore nga koha e dëmtimit",
+            "mbledhja e të dhënave për një person të aksidentuar"
+        ],
+        "correct": 2,
+        "explanation": "'Ora e artë' i referohet rëndësisë së dhënies së ndihmës brenda orës së parë nga dëmtimi."
+    },
+    {
+        "id": "infermieristik-kirurgji-118",
+        "question": "Një frakturë quhet e stresuar kur:",
+        "answers": [
+            "muskujt mbështjellës nuk e akumulojnë më energjinë e nevojshme",
+            "ndodh si pasojë e patologjive të ndryshme",
+            "ndodh si pasojë e traumave të jashtëme",
+            "ndodh si pasojë e osteomielitit"
+        ],
+        "correct": 0,
+        "explanation": "Fraktura e stresuar ndodh kur muskujt përreth nuk mund më të absorbojnë energjinë e goditjeve të përsëritura."
+    },
+    {
+        "id": "infermieristik-kirurgji-119",
+        "question": "Esenciale kur transportohet një pacient me politraum është:",
+        "answers": [
+            "mbështjellja e pacientit",
+            "imobilizimi i kokës dhe i qafës",
+            "imobilizimi i ekstremiteteve të sipërme",
+            "infuzionimi i pacientit"
+        ],
+        "correct": 1,
+        "explanation": "Imobilizimi i kokës dhe qafës është esencial gjatë transportit të pacientit me politraumë."
+    },
+    {
+        "id": "infermieristik-kirurgji-120",
+        "question": "Në cilin lloj të traksionit sasia e peshave që aplikohet është me e vogel:",
+        "answers": [
+            "te lekurës",
+            "skeletal",
+            "statik",
+            "dinamik"
+        ],
+        "correct": 0,
+        "explanation": "Traksioni te lëkura përdor pesha më të vogla se traksioni skeletal."
+    },
+    {
+        "id": "infermieristik-kirurgji-121",
+        "question": "Fiksatoret ekstern në ekstremitetet e sipërme hiqen pas:",
+        "answers": [
+            "2 javë",
+            "4 javë",
+            "6 javë",
+            "8 javë"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, fiksatorët ekstern në ekstremitetet e sipërme hiqen pas rreth 6 javësh."
+    },
+    {
+        "id": "infermieristik-kirurgji-122",
+        "question": "Cili është qëllimi kryesor i vlerësimit infermieror preoperator?",
+        "answers": [
+            "Të reduktojë morbiditetin dhe mortalitetin perioperator",
+            "Të merren të dhëna për sëmundjen kirurgjikale",
+            "Të hartohet një strategji menaxhimi",
+            "Të hartohet një plan anestetik"
+        ],
+        "correct": 0,
+        "explanation": "Qëllimi kryesor i vlerësimit preoperator është reduktimi i morbiditetit dhe mortalitetit perioperator."
+    },
+    {
+        "id": "infermieristik-kirurgji-123",
+        "question": "Sa orë para duhet të ushqehen neonatët dhe fëmijët para kirurgjisë?",
+        "answers": [
+            "2 orë para kirurgjisë",
+            "30 minuta para kirurgjisë",
+            "6 orë para kirurgjisë",
+            "4 orë para kirurgjisë"
+        ],
+        "correct": 3,
+        "explanation": "Neonatët/fëmijët agjërojnë zakonisht rreth 4 orë para kirurgjisë për ushqimet e ngurta/qumësht."
+    },
+    {
+        "id": "infermieristik-kirurgji-124",
+        "question": "Bronkospazma mund të shkaktojë:",
+        "answers": [
+            "Qëndrueshmëri hemodinamike",
+            "Hiperventilim postoperator",
+            "Insufiçiencë renale",
+            "Hipoventilim dhe hipoksemi"
+        ],
+        "correct": 3,
+        "explanation": "Bronkospazma shkakton hipoventilim dhe hipoksemi."
+    },
+    {
+        "id": "infermieristik-kirurgji-125",
+        "question": "Insufiçienca respiratore në kirurgjinë abdominale ndodh nga shkaqet e mëposhtme përveç:",
+        "answers": [
+            "Depresion i qëndrës respiratore pas anestezisë",
+            "Distensioni abdominal",
+            "Dhimbja abdominale",
+            "Hemorragji nga plaga"
+        ],
+        "correct": 3,
+        "explanation": "Hemorragjia nga plaga nuk është shkak direkt i insufiçiencës respiratore post-abdominale."
+    },
+    {
+        "id": "infermieristik-kirurgji-126",
+        "question": "Cili është standarti bazë për të vlerësuar shkëmbimin e gazeve në pulmone:",
+        "answers": [
+            "vlera e presionit arterialtëi dioksidit të karbonit",
+            "vlera e presionit arterial të oksigjenit",
+            "gazanaliza e gjakut arterial",
+            "vlera e oksihemoglobinës"
+        ],
+        "correct": 2,
+        "explanation": "Gazanaliza e gjakut arterial është standardi bazë për vlerësimin e shkëmbimit të gazeve."
+    },
+    {
+        "id": "infermieristik-kirurgji-127",
+        "question": "Vlera e saktë e presionit arterial të oksigjenit është:",
+        "answers": [
+            "50-70 mmHg",
+            "90-100 mmHg",
+            "100-120 mmHg",
+            "30-40 mmHg"
+        ],
+        "correct": 1,
+        "explanation": "Vlera normale e presionit arterial të oksigjenit (PaO2) është rreth 90-100 mmHg."
+    },
+    {
+        "id": "infermieristik-kirurgji-128",
+        "question": "Shoku hipovolemik shkaktohet nga humbja e:",
+        "answers": [
+            "më shumë se 20-25% të masës qarkulluese të gjakut",
+            "më pak se 5-10% të masës qarkulluese të gjakut",
+            "afërsisht 2-3% të masës qarkulluese të gjakut",
+            "1-5% të masës qarkulluese të gjakut"
+        ],
+        "correct": 0,
+        "explanation": "Shoku hipovolemik shfaqet zakonisht kur humbet mbi 20-25% të vëllimit qarkullues."
+    },
+    {
+        "id": "infermieristik-kirurgji-129",
+        "question": "Në shokun hipovolemik kemi:",
+        "answers": [
+            "Hipertension",
+            "Lëkurë të zbehtë dhe të ftohtë",
+            "Puls I ngadaltë",
+            "Diurezë të shtuar"
+        ],
+        "correct": 1,
+        "explanation": "Në shokun hipovolemik lëkura është e zbehtë dhe e ftohtë."
+    },
+    {
+        "id": "infermieristik-kirurgji-130",
+        "question": "Interventet infermierore në rastin e shokut fillojnë me:",
+        "answers": [
+            "Rivendosjen e funkionit kardiak",
+            "Reduktimin e ankthit",
+            "Përmirësimi i oksigjenimit",
+            "Rivendosjen e bilancit elektrolitik"
+        ],
+        "correct": 2,
+        "explanation": "Ndërhyrja e parë në shok është përmirësimi i oksigjenimit."
+    },
+    {
+        "id": "infermieristik-kirurgji-131",
+        "question": "Likidet intravenoze zëvendësuese:",
+        "answers": [
+            "Mbajnë volumin në hapësirën vaskulare",
+            "Nuk japin asnjëherë reaksione alergjike",
+            "Janë trajtues të hipovolemisë",
+            "Përfshijnë edhe plazmën e frekët të ngrirë"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, likidet intravenoze zëvendësuese konsiderohen kryesisht trajtues të hipovolemisë."
+    },
+    {
+        "id": "infermieristik-kirurgji-132",
+        "question": "Pas ingjestionit të substancave korrozive është I kundërindikuar:",
+        "answers": [
+            "Shplarja me likide menjëherë pas ingjestionit",
+            "Lavazhi gastrik",
+            "Hollimi i substancës korrozive",
+            "Sigurimi i rrugëve respiratore"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, shpëlarja me likide menjëherë pas ingjestionit të substancave korrozive konsiderohet e kundërindikuar."
+    },
+    {
+        "id": "infermieristik-kirurgji-133",
+        "question": "Në helmimet ingjestive me helme, kur pacienti nuk është koshient së pari aplikojmë:",
+        "answers": [
+            "Lavazhin me sondë orogastrike",
+            "Aspirimin gastrik",
+            "Vendosja e tubit endotrakeal për të mbrojtur rrugët respiratore",
+            "Provokimin e të vjellave"
+        ],
+        "correct": 2,
+        "explanation": "Te pacienti jo koshient, siguria e rrugëve respiratore (intubimi) është prioritet i parë."
+    },
+    {
+        "id": "infermieristik-kirurgji-134",
+        "question": "Në helmimet me substanca fortësisht acide ose bazike kundraindikohen:",
+        "answers": [
+            "Inserimi i sondës nazogastrike me shumë kujdes",
+            "Radiografia",
+            "Provokimi i të vjellave",
+            "Përdorimi i qumështit në raste të veçanta"
+        ],
+        "correct": 2,
+        "explanation": "Provokimi i të vjellave është i kundërindikuar në helmimet acide/bazike (rrezik dëmtimi shtesë)."
+    },
+    {
+        "id": "infermieristik-kirurgji-135",
+        "question": "Veprimi i parë infermieror në rastin e reaksionit akut hemolitik është:",
+        "answers": [
+            "Administrimi i kortikosteroideve",
+            "Trajtimi i hipotensionit me likide dhe vazopresorë",
+            "Dërgimi i një mostre gjaku në bankën e gjakut",
+            "Ndërprerja e menjëhershme e transfuzionit"
+        ],
+        "correct": 3,
+        "explanation": "Veprimi i parë është ndërprerja e menjëhershme e transfuzionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-136",
+        "question": "Shkalla e ndryshimeve që ndodhin në organizmin e të operuarit nuk varet nga:",
+        "answers": [
+            "përgatitja preoperatore",
+            "gjendja e të sëmurit pas operacionit",
+            "lloji i anestezisë",
+            "lloji i ndërhyrjes kirurgjikale"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, lloji i anestezisë nuk përcakton shkallën e ndryshimeve në organizmin e të operuarit."
+    },
+    {
+        "id": "infermieristik-kirurgji-137",
+        "question": "Dhimbja e patrajtuar shkakton:",
+        "answers": [
+            "Rritjen e kërkesave për oksigjen",
+            "Ulje të pulsit",
+            "Ulje të presionit arterial",
+            "Reduktim të ideve suicidale"
+        ],
+        "correct": 0,
+        "explanation": "Dhimbja e patrajtuar rrit kërkesat metabolike dhe për oksigjen."
+    },
+    {
+        "id": "infermieristik-kirurgji-138",
+        "question": "Në komplikacionet e mëvonshme të operacionit bën pjesë:",
+        "answers": [
+            "infeksioni",
+            "ethe reumatizmale",
+            "pneumotoraks valvular",
+            "skoliozë"
+        ],
+        "correct": 0,
+        "explanation": "Infeksioni është komplikacion i mëvonshëm i njohur i operacionit."
+    },
+    {
+        "id": "infermieristik-kirurgji-139",
+        "question": "Vlerat e presionit venoz central janë:",
+        "answers": [
+            "Shumë të ulëta në shokun hipovolemik",
+            "Shumë të ulëta në shokun septik",
+            "Normale në shokun kardiogjen",
+            "Shumë të larta në shokun hemoragjik"
+        ],
+        "correct": 0,
+        "explanation": "Presioni venoz central është shumë i ulët në shokun hipovolemik."
+    },
+    {
+        "id": "infermieristik-kirurgji-140",
+        "question": "Shoku është një sindrom i:",
+        "answers": [
+            "Hipertensionit dhe perfuzionit relativisht të lartë indor",
+            "Presionit arterial të lartë",
+            "Hipotensionit dhe perfuzionit të ulët indor",
+            "Rritjes së masës qarkulluese"
+        ],
+        "correct": 2,
+        "explanation": "Shoku është sindrom i hipotensionit dhe perfuzionit të ulët indor."
+    },
+    {
+        "id": "infermieristik-kirurgji-141",
+        "question": "Rastet kur indikohet intubimi endotrakeal:",
+        "answers": [
+            "Ventilim i përshtatshëm",
+            "Rrugëve respiratore të lira",
+            "Saturimi i oksigjenit është mbi 90%",
+            "Insufiçienca respiratore me hiperkapni"
+        ],
+        "correct": 3,
+        "explanation": "Intubimi endotrakeal indikohet në insufiçiencën respiratore me hiperkapni."
+    },
+    {
+        "id": "infermieristik-kirurgji-142",
+        "question": "Nuk bën pjesë në instrumentat kirurgjikale:",
+        "answers": [
+            "pincat",
+            "bisturia",
+            "diverikatorët",
+            "defibrilatori"
+        ],
+        "correct": 3,
+        "explanation": "Defibrilatori nuk është instrument kirurgjikal, por pajisje elektro-mjekësore."
+    },
+    {
+        "id": "infermieristik-kirurgji-143",
+        "question": "Nuk është qëllim i pastrimit të plagës në ulcer:",
+        "answers": [
+            "largimi i fibrinës",
+            "largimi i nekrozës",
+            "largimi i gjakut",
+            "largimi i fistulës"
+        ],
+        "correct": 3,
+        "explanation": "Largimi i fistulës nuk është qëllim i pastrimit të thjeshtë të plagës."
+    },
+    {
+        "id": "infermieristik-kirurgji-144",
+        "question": "Halotani është lëndë anestetike e cila përdoret:",
+        "answers": [
+            "Vetëm tek fëmijët",
+            "Vetëm tek të rriturit",
+            "Tek fëmijët dhe të rriturit",
+            "Duke mos u përzier me oksigjenin"
+        ],
+        "correct": 2,
+        "explanation": "Halotani përdoret si anestetik si tek fëmijët ashtu edhe tek të rriturit."
+    },
+    {
+        "id": "infermieristik-kirurgji-145",
+        "question": "Obeziteti nuk favorizon komplikacione postoperatore të tilla si :",
+        "answers": [
+            "Infeksion",
+            "Dehishencë të suturave",
+            "Obstruksion të rrugëve respiratore",
+            "Psikozën postoperatore"
+        ],
+        "correct": 3,
+        "explanation": "Obeziteti nuk shoqërohet drejtpërdrejt me psikozën postoperatore."
+    },
+    {
+        "id": "infermieristik-kirurgji-146",
+        "question": "Ulcerat venoze shfaqen nga:",
+        "answers": [
+            "diabeti",
+            "fistulat artero-venoze",
+            "infeksionet e lëkurës",
+            "pamjaftueshmëria arteriale"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, diabeti listohet ndër shkaqet e ulçerave venoze të këmbës."
+    },
+    {
+        "id": "infermieristik-kirurgji-147",
+        "question": "Obstruksioni respirator nuk manifestohet me:",
+        "answers": [
+            "Cianozë",
+            "Apne",
+            "Nivele normale të gazeve në gjakun arterial",
+            "Përdorim të muskujve aksesor"
+        ],
+        "correct": 2,
+        "explanation": "Obstruksioni respirator shoqërohet me gaze të gjakut anormale, jo normale."
+    },
+    {
+        "id": "infermieristik-kirurgji-148",
+        "question": "Në rastin e ventilimit jo të përshtatshëm kemi:",
+        "answers": [
+            "Ulje të presionit të dioksidit të karbonit",
+            "Ulje të PH të gjakut (acidozë respiratore)",
+            "Rritje të PH sistemik",
+            "Funksion të ruajtur të miokardit"
+        ],
+        "correct": 1,
+        "explanation": "Ventilimi joadekuat shkakton acidozë respiratore (ulje të pH-së)."
+    },
+    {
+        "id": "infermieristik-kirurgji-149",
+        "question": "Stafi infermieror para interventit kirurgjikal nuk mund të përcaktojë:",
+        "answers": [
+            "Diagnozën, lidhur me ankthin preoperator",
+            "Diagnozën ,lidhur me nivelin e dhimbjes",
+            "Llojin e anestezisë që do të aplikohet",
+            "Komplikacionet potenciale në periudhën postoperatore"
+        ],
+        "correct": 2,
+        "explanation": "Lloji i anestezisë përcaktohet nga anestezisti, jo nga stafi infermieror."
+    },
+    {
+        "id": "infermieristik-kirurgji-150",
+        "question": "Kateterët ureteral kanë qëllim:",
+        "answers": [
+            "Diagnostik",
+            "Parandalues",
+            "Terapeutik",
+            "Evakuativ"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, kateterët ureteralë kanë qëllim kryesisht evakuativ (drenim)."
+    },
+    {
+        "id": "infermieristik-kirurgji-151",
+        "question": "Nuk bën pjesë në komplikacionet e menjëhershme pas operacionit:",
+        "answers": [
+            "Hipertension",
+            "Hipotension",
+            "Hipotermi",
+            "Hiperkalcemi"
+        ],
+        "correct": 3,
+        "explanation": "Hiperkalcemia nuk është komplikacion i menjëhershëm tipik pas operacionit."
+    }
+]

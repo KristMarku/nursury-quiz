@@ -1,0 +1,1118 @@
+[
+    {
+        "id": "infermieristik-semundje-brendshme-2-001",
+        "question": "Për ulcerën peptike janë të verteta pohimet e mëposhtme përveç:",
+        "answers": [
+            "Etiopatogjeneza ka lidhje me prishjen e ekuilibrit ndërmjet faktorëve agresiv dhe atyre mbrojtës të mukozës",
+            "Në etiopatogjenezë ka rol helicobacter pilori",
+            "Prek vetëm doudenin",
+            "Preparatet Antiinflamatorë josteroidë kanë rol të rëndësishëm në shkaktimin e ulcerës"
+        ],
+        "correct": 2,
+        "explanation": "Ulçera peptike mund të prekë edhe stomakun, jo vetëm duodenin."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-002",
+        "question": "Lupusi Eritematoz Sistemik prek me teper:",
+        "answers": [
+            "femrat me moshen e riprodhimit",
+            "meshkujt",
+            "grate ne menopauze",
+            "meshkujt ne pubertet"
+        ],
+        "correct": 0,
+        "explanation": "LES prek më shpesh femrat në moshën riprodhuese."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-003",
+        "question": "Lupusi Eritematoz Sistemik prek me teper:",
+        "answers": [
+            "Femrat e bardha",
+            "Femrat me ngjyre",
+            "Meshkujt e bardhe",
+            "Meshkujt me ngjyre"
+        ],
+        "correct": 1,
+        "explanation": "LES ka incidencë më të lartë te femrat me ngjyrë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-004",
+        "question": "Per Lupusin Eritematoz Sistemik jane te gjitha te verteta pervec:",
+        "answers": [
+            "Semundja mund te preki cdo organ apo sistem",
+            "Fillon me shenja te pergjithshme : dobesi, temperature subfebrile, lodhje",
+            "Semundja ka shfaqje ne lekure",
+            "Nuk shoqerohet me alterime hematologjike"
+        ],
+        "correct": 3,
+        "explanation": "LES shoqërohet shpesh me alterime hematologjike (anemi, leukopeni, trombocitopeni)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-005",
+        "question": "Antikorpet antinuklear:",
+        "answers": [
+            "Perbejne nje shenje laboratorike kryesore ndonese jo specifike per Lupusin Eritematoz Sistemik",
+            "Bëhen në çdo ekzaminim laboratorik rutinë",
+            "Shikohen ne mikroskop te zakonshem",
+            "Nuk perbehen nga nentipa antikorpesh"
+        ],
+        "correct": 0,
+        "explanation": "ANA janë shenjë laboratorike kryesore, por jo specifike vetëm për LES."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-006",
+        "question": "Artriti Reumatoid eshte nje semundje per te cilen jane te verteta te gjitha pervec:",
+        "answers": [
+            "Prek afersisht 0.8% te popullates",
+            "Femrat preken me shume se meshkujt",
+            "Semundja eshte me shpeshte ne dekaden e pare dhe te dyte te jetes",
+            "Karakterizohet nga prania e sinoviteve inflamatore persistentete"
+        ],
+        "correct": 2,
+        "explanation": "Artriti reumatoid është më i shpeshtë në moshë mesatare, jo në dekadën e parë/dytë të jetës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-007",
+        "question": "Artralgjia ne Artritin Reumatoid eshte:",
+        "answers": [
+            "Jo simetrike",
+            "Pa rritje te ndjeshmerise gjate palpimit dhe enjtje te artikulacioneve te prekura",
+            "Preken me shume artikulacionet e vogla te gishtave",
+            "Inflamacioni per kohe te gjate nuk shkakton deformim artikulacionesh"
+        ],
+        "correct": 2,
+        "explanation": "Në artritin reumatoid preken tipikisht artikulacionet e vogla të gishtave."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-008",
+        "question": "Shfaqet ekstrartikulare të Artritit Reumatoid përfshijnë të gjitha përveç:",
+        "answers": [
+            "Prekje pulmonare",
+            "Çrregullime hematologjike",
+            "Çrregullime okulare",
+            "Praninë e hiperkeratozës dhe atrofisë së lekurës"
+        ],
+        "correct": 3,
+        "explanation": "Hiperkeratoza dhe atrofia e lëkurës nuk janë manifestime ekstraartikulare tipike të RA."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-009",
+        "question": "Sklerodermia:",
+        "answers": [
+            "Patogjeneza e semundjes eshte e sqaruar plotesisht",
+            "Nuk eshte e lidhur me faktore nderveprues gjenetik dhe mjedisor",
+            "Karakteristike per semundjen eshte prania e fibrozes se lekures",
+            "Semundja prek me teper meshkujt se femrat"
+        ],
+        "correct": 2,
+        "explanation": "Sklerodermia karakterizohet nga fibroza e lëkurës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-010",
+        "question": "Per mjekimin e Artritit Reumatoid perdorën Të gjitha përveç:",
+        "answers": [
+            "Anti inflamatorët jo steroid",
+            "Glukokortikosteroidet intrartikular dhe sistemik",
+            "Metformina",
+            "Sulfazalazina"
+        ],
+        "correct": 2,
+        "explanation": "Metformina është antidiabetik dhe nuk përdoret në mjekimin e artritit reumatoid."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-011",
+        "question": "Sklerodermia difuze",
+        "answers": [
+            "Karakterizohet vetem nga prekja e anesive distale e proksimale",
+            "Nuk preken organet e brendeshme",
+            "Ka prognoze te mire",
+            "Ka hipomotilitet ezofageal dhe hipofunksion gastrointestinal"
+        ],
+        "correct": 3,
+        "explanation": "Sklerodermia difuze shoqërohet me hipomotilitet ezofageal dhe hipofunksion gastrointestinal."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-012",
+        "question": "Dermatomioziti dhe polimioziti:",
+        "answers": [
+            "Nuk janë semundje autoimune",
+            "Nuk shkaktojnë dobesi dhe dhimbje muskujsh",
+            "Paraqesin alterime të CPK, SGOT, SGPT",
+            "Nuk kanë autoantikorpe karakteristikë"
+        ],
+        "correct": 2,
+        "explanation": "Dermatomioziti/polimioziti shoqërohen me rritje të CPK, SGOT, SGPT."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-013",
+        "question": "Rashi ngjyre lejla rreth syve eshte tipik per :",
+        "answers": [
+            "Dermatomiozitin",
+            "Polimiozitin",
+            "Sindromin sjogren",
+            "Sklerodermine"
+        ],
+        "correct": 0,
+        "explanation": "Rashi heliotrop (lejla) rreth syve është tipik për dermatomiozitin."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-014",
+        "question": "Te semuret me miopati kane:",
+        "answers": [
+            "Dobesi te muskujve distale",
+            "Dobesi te muskujve proksimale",
+            "Dobesi te qafes",
+            "Nuk kane shqetesime te lokalizuara"
+        ],
+        "correct": 1,
+        "explanation": "Miopatitë karakterizohen nga dobësi e muskujve proksimale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-015",
+        "question": "Mjekimi në dermatomiozit:",
+        "answers": [
+            "Efekti i tij vlerësohet permes ndryshimit të vlerave të CPK (kreatin fosfokinazës)",
+            "Perdoret metformina dhe antiinflamtorët jo steroidë",
+            "Mjekohet me ACE inhibitor dhe beta bllokues",
+            "Nuk shtë i nevojshëm mjekimi se sëmundja është e përkohshme"
+        ],
+        "correct": 0,
+        "explanation": "Efektiviteti i mjekimit vlerësohet përmes ndryshimit të niveleve të CPK."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-016",
+        "question": "Klasifikimi i vaskuliteve paresore bazohet ne:",
+        "answers": [
+            "Agresivitetin e semundjes",
+            "Permasat e vazave te prekura",
+            "Ekzistojne dy klasa vaskulitesh",
+            "Nuk ka ndryshuar gjate viteve"
+        ],
+        "correct": 1,
+        "explanation": "Vaskulitet klasifikohen sipas madhësisë së enëve të gjakut të prekura."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-017",
+        "question": "Granulomatoza Wegener eshte:",
+        "answers": [
+            "Vaskulit i vazave te medha",
+            "Eshte vaskulit granulomatoz i aparatit respirator i shoqeruar dhe me glomerulonefrit",
+            "Te semuret nuk kane demtime otojatrike",
+            "Eshe vaskulit i vazave mesatare"
+        ],
+        "correct": 1,
+        "explanation": "Granulomatoza Wegener është vaskulit granulomatoz respirator, shoqëruar me glomerulonefrit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-018",
+        "question": "Spondiliti ankilozant eshte semundje:",
+        "answers": [
+            "e femrave ne dhjete-vjecarin e katert e te peste te jetes",
+            "e meshkujve ne dhjete-vjecarin e dyte dhe te trete te jetes",
+            "e grave ne menopauze",
+            "infektive"
+        ],
+        "correct": 1,
+        "explanation": "Spondiliti ankilozant prek më shpesh meshkujt e rinj, në dhjetëvjeçarin e dytë-tretë të jetës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-019",
+        "question": "Spondiliti ankilozant eshte semundje inflamatore qe prek:",
+        "answers": [
+            "Kryesisht artikulacionet e anesive",
+            "Nuk fillon me shenjat e sakroileitit",
+            "Prek zakonisht shtyllen kurrizore dhe artikulacionet sakroiliake",
+            "Dekursi natyror i semundjes nuk perfundon ne invalidizim te plote"
+        ],
+        "correct": 2,
+        "explanation": "Spondiliti ankilozant prek shtyllën kurrizore dhe artikulacionet sakroiliake."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-020",
+        "question": "Ankesat e te semurit me spondilit ankilozant :",
+        "answers": [
+            "Rendohen nga aktiviteti fizik",
+            "Nuk ndikohen nga aktiviteti fizik",
+            "Ngurtesimi mengjezor zgjat 15 min",
+            "Ankesat e te semurit rendohen ne mengjes dhe permiresohen gjate aktivitetit fizik"
+        ],
+        "correct": 3,
+        "explanation": "Ankesat e spondilitit ankilozant rëndohen në mëngjes dhe përmirësohen me aktivitet fizik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-021",
+        "question": "Spondiliti ankilozant mjekohet :",
+        "answers": [
+            "Me terapi medikamentoze dhe terapi fizike",
+            "Vetem me terapi medikamentoze",
+            "Vetem me terapi fizike",
+            "Nuk ka nevoje per mjekim shume te gjate pothuajse gjithe jeten"
+        ],
+        "correct": 0,
+        "explanation": "Spondiliti ankilozant mjekohet me kombinim terapie medikamentoze dhe fizike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-022",
+        "question": "Cili nga pohimet e mëposhtme është i saktë për acidin urik:",
+        "answers": [
+            "Prodhimi i tij nuk lidhet ngushtë me metabolizmin e purinave",
+            "Hiperuricemia është karakteristike e goutes",
+            "Në goute acidi urik në plazëm dhe lëngun jashtëqelizor është në vlera normale",
+            "Hiperuricemia është rezultat i vetëm një çrregullimi"
+        ],
+        "correct": 1,
+        "explanation": "Hiperuricemia është karakteristikë e goutës (podagrës)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-023",
+        "question": "Podagra fillon zakonisht ne :",
+        "answers": [
+            "Artikulacionin e gjurit",
+            "Artkulacionet e gishtave te duarve",
+            "Artikulacionin e qafes",
+            "Gishtin e madh te kembes"
+        ],
+        "correct": 3,
+        "explanation": "Podagra fillon klasikisht në gishtin e madh të këmbës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-024",
+        "question": "Diagnostikimi i podagres:",
+        "answers": [
+            "Mbështëtet vetem ne te dhenat klinike",
+            "Është i nevojshem analizimi i lengut sinovial",
+            "Janë te mjaftueshme vetem te dhenat laboratorike",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 1,
+        "explanation": "Diagnoza definitive e podagrës kërkon analizimin e lëngut sinovial."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-025",
+        "question": "Insuficenca renale akute klasifikohet ne :",
+        "answers": [
+            "Ne dy kategori : prerenale dhe postrenale",
+            "Ne IRA residuale dhe jo residuale",
+            "Ne IRA prerenale, intrinseke, dhe postrenale",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 2,
+        "explanation": "IRA klasifikohet në tre kategori: prerenale, intrinseke dhe postrenale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-026",
+        "question": "Insuficenca renale akute është nje sindrome klinike e karakterizuar nga :",
+        "answers": [
+            "Renia e shpejtë e filtrimit glomerular, rritje e metejshme e nivelit te kreatinines dhe azotemise",
+            "Renia e shpejtë e filtrimit glomerualar, ulje e metejshme nivelit te kreatinines dhe azotemise",
+            "Rritje e shpejtë e filtrimit glomerular, ulje e metejshme nivelit te kreatinines dhe azotemise",
+            "Rritje e shpejtë e filtrimit glomerular, rritje e metejshme nivelit te kreatinines dhe azotemise"
+        ],
+        "correct": 0,
+        "explanation": "IRA karakterizohet nga rënie e shpejtë e filtrimit glomerular dhe rritje e kreatininës/azotemisë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-027",
+        "question": "Kemi infeksion urinar kur :",
+        "answers": [
+            "Është e pranishme bakteriuria me > 10,000 baktere per ml",
+            "Është e pranishme bakteriuria me < 10 baktere per ml",
+            "Nuk ka baktere ne urinë",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Infeksioni urinar konsiderohet i pranishëm kur bakteriuria është domethënëse (mbi një prag të lartë)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-028",
+        "question": "Cistitet janë :",
+        "answers": [
+            "Infeksione te rrugeve te siperme urinare",
+            "Infeksione te rrugeve te poshtme urinare",
+            "Janë infeksione te veshkes",
+            "Nuk shoqerohen me djegje gjate urinimit"
+        ],
+        "correct": 1,
+        "explanation": "Cistiti është infeksion i rrugëve të poshtme urinare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-029",
+        "question": "Infeksionet e rrugeve urinare:",
+        "answers": [
+            "Infeksionet e rrugeve urinare janë shkak i pergjithshem i sepsisit",
+            "Infeksionet urinare nuk shoqerohen me dhimbje e djegje gjate urinimit",
+            "Nuk shoqerohen me crregullime te aktit te urinimit",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Infeksionet urinare janë shkak i shpeshtë i sepsisit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-030",
+        "question": "IRA prerenale shkakohet nga Të gjitha përveç:",
+        "answers": [
+            "Diarresë masive",
+            "Hemorragjia e brendshme dhe e jashtme",
+            "Humbjet në lekurë (djegjet)",
+            "Prania e osteoartritit"
+        ],
+        "correct": 3,
+        "explanation": "Osteoartriti nuk është shkak i IRA prerenale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-031",
+        "question": "Nekroza tubulare akute është shkaku me i shpështë i :",
+        "answers": [
+            "IRA prerenale",
+            "IRA intrinseke",
+            "IRA postrenale",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 1,
+        "explanation": "Nekroza tubulare akute është shkaku më i shpeshtë i IRA intrinseke."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-032",
+        "question": "Studimi i sedimentit urinar jep te dhena te rendesishme per cilen kategori te IRA :",
+        "answers": [
+            "IRA prerenale",
+            "IRA intrinseke",
+            "IRA postrenale",
+            "Asnjërën prej tyre"
+        ],
+        "correct": 3,
+        "explanation": "Sipas kësaj alternative, sedimenti urinar nuk jep të dhëna specifike për asnjë nga kategoritë e IRA të listuara këtu."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-033",
+        "question": "Të gjitha janë te vërteta për mjekimin e llojeve të ndryshme të insuficiencës renale akute (IRA) përveç:",
+        "answers": [
+            "Shumica e rasteve me IRA zgjidhen me masa konservative",
+            "Në IRA prerenale nga humbja e lëngjeve duhet bërë korrigjimi i këtyre humbjeve",
+            "Në rastet e IRA me pielonefrit përdoren antibiotikë",
+            "Nuk merret asnjëherë në konsideratë hemodializa"
+        ],
+        "correct": 3,
+        "explanation": "Hemodializa MERRET në konsideratë në rastet e duhura të IRA, pohimi 'kurrë' është i gabuar."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-034",
+        "question": "Glomerulonefriti akut poststreptokoksik :",
+        "answers": [
+            "Nuk është nje nga format me te shpeshta te glomerulonefriteve",
+            "Perben shkaktun me te shpështë te glomerulonefriteve tek femijet",
+            "Nuk ka lidhje me infeksionet e shkaktuara nga streptokoku beta hemolitik i grupit A",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 1,
+        "explanation": "Glomerulonefriti akut poststreptokoksik është shkaku më i shpeshtë te fëmijët."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-035",
+        "question": "Faktorë risku për infeksionet e rrugeve urinare janë Të gjitha përveç:",
+        "answers": [
+            "Shtatzania",
+            "Diabeti",
+            "Aktiviteti seksual",
+            "Prania e osteoartritit bashkëshoqërues"
+        ],
+        "correct": 3,
+        "explanation": "Osteoartriti nuk është faktor risku për infeksionet urinare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-036",
+        "question": "Pamja radiologjike e shkopit te bambuse është tipike per cilen patologji:",
+        "answers": [
+            "Lupus Eritematoz Sistemik",
+            "Artrit Reumatoid",
+            "Polimiozit",
+            "Morbus Bekteriev"
+        ],
+        "correct": 3,
+        "explanation": "Shtylla kurrizore 'shkop bambuje' është tipike për spondilitin ankilozant (Morbus Bekteriev)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-037",
+        "question": "Sakroileiti është shenje fillestare e ciles prej ketyre patologjive :",
+        "answers": [
+            "Sklerodermi",
+            "Artrit reumatoid",
+            "Osteoartrit",
+            "Morbus Bekteriev"
+        ],
+        "correct": 3,
+        "explanation": "Sakroileiti është shenjë fillestare e spondilitit ankilozant."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-038",
+        "question": "Me ane te bronkoskopise realizohen Të gjitha përveç :",
+        "answers": [
+            "Mundeson vleresimin e anomalive endobronkiale",
+            "Vleresimin e rrugeve percjellese te ajrit",
+            "Marrjen e biopsise",
+            "Ndihmon ne venien e diagnozes se embolise pulmonare"
+        ],
+        "correct": 3,
+        "explanation": "Bronkoskopia nuk përdoret për diagnostikimin e embolisë pulmonare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-039",
+        "question": "Ne astmen bronkiale :",
+        "answers": [
+            "Obstruksioni i rrugeve te ajrit është episodik dhe reversibel",
+            "Reaktiviteti i rrugeve te ajrit ndaj stimujve specifike dhe jo specifike është normal",
+            "Te sëmurët nuk Kanëne anamneze prani te sëmundjeve te tjera alergjike",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Në astmën bronkiale, obstruksioni i rrugëve të ajrit është episodik dhe i kthyeshëm."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-040",
+        "question": "Bronkiti kronik është :",
+        "answers": [
+            "Nje sëmundje e sistemit respirator e karakterizuar nga prodhimi i shtuar i sekrecioneve mukozale trakeobronkiale te shoqëruara me kolle e sputum per te pakten 3 muaj deri ne 1 vit.",
+            "Nje sëmundje e sistemit respirator e karakterizuar nga prodhimi i shtuar i sekrecioneve mukozale trakeobronkiale te shoqeruara me kolle e sputum per te pakten 3 jave.",
+            "Nje sëmundje e sistemit respirator e karakterizuar nga prodhimi i shtuar i sekrecioneve mukozale trakeobronkiale te shoqueruara me kolle e sputum per te pakten 1 muaj.",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Bronkiti kronik përkufizohet me kollë produktive për të paktën 3 muaj (deri në 1 vit)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-041",
+        "question": "Etiopatogjeneza e bronkitit kronik mendohet te lidhet me shkaktaret e meposhtem përveç:",
+        "answers": [
+            "Me tymin e duhanit",
+            "Ekspozimi ndaj pluhurave profesionale",
+            "Infeksione te shkaktuara nga mykoplazma pneumonie",
+            "Ndotja atmosferike"
+        ],
+        "correct": 2,
+        "explanation": "Mykoplazma pneumonie lidhet me pneumoninë akute, jo me etiopatogjenezën e bronkitit kronik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-042",
+        "question": "Pneumonia është :",
+        "answers": [
+            "Pakesim i elasticitetit te rrugeve te ajrit ne nivel te bronkiolave terminale",
+            "Shkaktohet nga ekspozimi ndaj pluhurave profesional",
+            "Nje infeksion i parënkimes pulmonare i shkaktuar nga lloje te ndryshme bakteriesh, virusesh, myqesh",
+            "Asnjë prej pohimeve nuk është i saktë"
+        ],
+        "correct": 2,
+        "explanation": "Pneumonia është infeksion i parenkimës pulmonare shkaktuar nga bakterie, viruse ose myqe."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-043",
+        "question": "Pneumoni shkaktojne te tera përveç:",
+        "answers": [
+            "Shigella dysanteriae",
+            "Klamidia",
+            "Rikeciet",
+            "Mykoplazma"
+        ],
+        "correct": 0,
+        "explanation": "Shigella dysanteriae shkakton infeksion gastrointestinal, jo pneumoni."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-044",
+        "question": "Rol te rëndësishëm ne vendosjen e diagnozes se pneumonise ka:",
+        "answers": [
+            "Radiografia pulmonare",
+            "Torakocenteza dhe biopsia e pleures",
+            "Shintigrafia",
+            "Testet kutane"
+        ],
+        "correct": 0,
+        "explanation": "Radiografia pulmonare është mjeti kryesor diagnostikues për pneumoninë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-045",
+        "question": "Ekzaminimi i sekrecioneve te nje te semuri me pneumoni tregon:",
+        "answers": [
+            "Nese ne preparatin e pregatitur nga sekrecionet mukoalveolare janë te pranishme < 25 qeliza polimorfonukleare dhe > 10 qeliza epiteliale inflamacioni është i perhapur",
+            "Nese ne preparatin e pregatitur nga sekrecionet mukoalveolare janë te pranishme > 25 qeliza polimorfonukleare dhe < 10 qeliza epiteliale inflamacioni është i perhapur",
+            "Nese ne preparatin e pregatitur nga sekrecionet mukoalveolare janë te pranishme < 25 qeliza polimorfonukleare dhe > 10 qeliza epiteliale inflamacioni nuk është i perhapur",
+            "Të gjitha janë te pasakta"
+        ],
+        "correct": 1,
+        "explanation": "Prania e >25 qeliza polimorfonukleare dhe <10 qeliza epiteliale tregon inflamacion të përhapur/mostër të vlefshme."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-046",
+        "question": "Kolesteroli total duhet mbajtur ne keto vlera:",
+        "answers": [
+            "nën 460 mg/dl",
+            "nën 200 mg/dl",
+            "nën 500 mg/dl",
+            "nën 50 mg/dl"
+        ],
+        "correct": 1,
+        "explanation": "Kolesteroli total i dëshiruar është nën 200 mg/dl."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-047",
+        "question": "Faktor madhor risku për Sëmundje të Arterieve Koronare janë të tërë, përveç",
+        "answers": [
+            "Dislipidemia",
+            "Niveli i lartë i kolesterolit",
+            "Mosmarrja me sporte",
+            "Anamneza familjare"
+        ],
+        "correct": 2,
+        "explanation": "Dislipidemia, kolesteroli i lartë dhe anamneza familjare janë faktorë madhorë klasikë; mosushtrimi konsiderohet faktor më modest/sekondar krahasuar me këta."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-048",
+        "question": "Ne IRA prerenale, dëmtimi renal është rezulat i Të gjithave përveç:",
+        "answers": [
+            "Humbje e volumit nga trakti gastrointestinal",
+            "Humbje kutaneale e volumit (djegjet)",
+            "Humbje e volumit si rezultat i hemoragjise interne dhe ekstrene",
+            "Dëmtimit strukturor i nefroneve"
+        ],
+        "correct": 3,
+        "explanation": "Dëmtimi strukturor i nefroneve karakterizon IRA intrinseke, jo atë prerenale."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-049",
+        "question": "Oliguria percaktohet si sekretimi i:",
+        "answers": [
+            "me pak se 400 ml/ urinë ne ditë",
+            "me pak se 200 ml/ urinë ne ditë",
+            "me shume se 3 l/ urinë ne ditë",
+            "me pak se 100 ml/urinë ne ditë"
+        ],
+        "correct": 0,
+        "explanation": "Oliguria përkufizohet si diurezë më pak se 400 ml/ditë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-050",
+        "question": "Anuria percaktohet si sekretimi i:",
+        "answers": [
+            "me pak se 300 ml/ urinë ne ditë",
+            "me pak se 400 ml/ urinë ne ditë",
+            "me shume se 2 l/ urinë ne ditë",
+            "me pak se 100 ml/urinë ne ditë"
+        ],
+        "correct": 3,
+        "explanation": "Anuria përkufizohet si diurezë më pak se 100 ml/ditë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-051",
+        "question": "Ne crregullimet e ritmit bëjnë pjesë Të gjitha përveç :",
+        "answers": [
+            "Takikardia sinusale",
+            "Bradikardia sinusale",
+            "Flateri atrial",
+            "Infarkti i miokardit"
+        ],
+        "correct": 3,
+        "explanation": "Infarkti i miokardit nuk është vetë një çrregullim ritmi, edhe pse mund të shkaktojë të tillë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-052",
+        "question": "Takikardia paroksizmale supraventrikulare me rihyrje pa parangacmim është :",
+        "answers": [
+            "Crregullim i ritimit sinusal",
+            "Crregullim i ritmit atrial",
+            "Crregullim i ritmit junksional",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 2,
+        "explanation": "Kjo formë e takikardisë paroksizmale klasifikohet si çrregullim i ritmit junksional."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-053",
+        "question": "Crregullimet e ritmit sinusal perfshijne Të gjitha përveç:",
+        "answers": [
+            "Takikardia sinusale",
+            "Bradikardia sinusale",
+            "Fibrilacioni atrial",
+            "Aritmi sinusale dhe disfunksion të nyjes sinusale."
+        ],
+        "correct": 2,
+        "explanation": "Fibrilacioni atrial është çrregullim i ritmit atrial, jo sinusal."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-054",
+        "question": "Polakiuria është urinim:",
+        "answers": [
+            "naten",
+            "me djegje",
+            "i shpështë",
+            "i dhimbshem"
+        ],
+        "correct": 2,
+        "explanation": "Polakiuria është urinim i shpeshtë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-055",
+        "question": "Enuresis nocturna është urinim:",
+        "answers": [
+            "i dhimbshem",
+            "me djegje",
+            "i shtuar",
+            "naten"
+        ],
+        "correct": 3,
+        "explanation": "Enuresis nocturna është urinim i pavullnetshëm gjatë natës."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-056",
+        "question": "Tiroidja normale:",
+        "answers": [
+            "Është e palpueshme",
+            "Nuk është e palpueshme",
+            "Është e palpueshme vetem tek meshkujt",
+            "Është e palpueshme vetem tek femrat"
+        ],
+        "correct": 1,
+        "explanation": "Tiroidja në gjendje normale zakonisht nuk është e palpueshme."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-057",
+        "question": "Karakteristike per fazen akute te tirotoksikozes është prania e:",
+        "answers": [
+            "T3 dhe T4 te rritura dhe TSH te ulët",
+            "T3 dhe T4 te rritura dhe TSH e lartë",
+            "T3 dhe T4 te ulta dhe TSH te ulët",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Tirotoksikoza karakterizohet nga T3/T4 të rritura me TSH të ulur (feedback negativ)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-058",
+        "question": "Per mjekimin e morbus Graves perdorën Të gjitha përveç :",
+        "answers": [
+            "Karbimazoli",
+            "Metimazoli",
+            "Indometacina",
+            "Propiltiuracili"
+        ],
+        "correct": 2,
+        "explanation": "Indometacina (AINS) nuk përdoret në mjekimin e sëmundjes Graves."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-059",
+        "question": "Tiroiditit Hashimoto i perkasin Të gjitha, përveç :",
+        "answers": [
+            "Është inflamacion kronik me natyre autoimune i tiroides",
+            "Gusha mund te paraqitet asimetrike",
+            "Nuk janë te pranishme Asnjë lloj autoantikorpesh",
+            "Pothuajse gjithmone janë te pranishme antikorpet antimikrozomiale"
+        ],
+        "correct": 2,
+        "explanation": "Në tiroiditin Hashimoto janë pothuajse gjithmonë të pranishëm autoantikorpet."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-060",
+        "question": "Shkaktare te hipertiroidizmit janë Të gjitha përveç:",
+        "answers": [
+            "Sëmundjet autoimune",
+            "Patologjitë tumorale",
+            "Patologjitë inflamatorë",
+            "Atireoza"
+        ],
+        "correct": 3,
+        "explanation": "Atireoza (mungesa e tiroides) shkakton hipotiroidizëm, jo hipertiroidizëm."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-061",
+        "question": "Morbus Bazedov:",
+        "answers": [
+            "Prek me shpesh femrat e moshës 30 deri ne 50 vjeç",
+            "Mungon ekzoftalmia",
+            "Funksioni kardiak është normal",
+            "Mungon osteoporoza"
+        ],
+        "correct": 0,
+        "explanation": "Sëmundja Bazedov (Graves) prek më shpesh femrat 30-50 vjeç."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-062",
+        "question": "Rreziqet e hipotiroidizmit janë Të gjitha përveç:",
+        "answers": [
+            "Koma miksedematoze",
+            "Aksidentet kardiake",
+            "Prania e astenise",
+            "Nervoziteti"
+        ],
+        "correct": 3,
+        "explanation": "Nervoziteti është simptomë e hipertiroidizmit, jo rrezik i hipotiroidizmit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-063",
+        "question": "Është i pranishem diabeti kur glicemia esell ne dy dozime është me e lartë se:",
+        "answers": [
+            "2.40 g/l",
+            "1.40 g/l",
+            "0.20 g/l",
+            "0.10 g/l"
+        ],
+        "correct": 1,
+        "explanation": "Diabeti diagnostikohet kur glicemia esell në dy dozime është mbi 1.40 g/l (140 mg/dl)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-064",
+        "question": "Ne komplikacionet metabolike akute te diabetit hyjen Të gjitha përveç:",
+        "answers": [
+            "Acidoketoza",
+            "Koma hiperosmolare",
+            "Mikroangiopatia diabetike",
+            "Hipoglicemite"
+        ],
+        "correct": 2,
+        "explanation": "Mikroangiopatia diabetike është komplikacion kronik, jo akut."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-065",
+        "question": "Diabeti i tipit te parë mjekohet me :",
+        "answers": [
+            "Daonil",
+            "Metformine",
+            "Insuline",
+            "Dietë hiperkalorike"
+        ],
+        "correct": 2,
+        "explanation": "Diabeti i tipit të parë mjekohet me insulinë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-066",
+        "question": "Diabeti i tipit te dyte mjekohet me:",
+        "answers": [
+            "Daonil, metformine",
+            "Insuline",
+            "Diete hiperkalorike",
+            "Kufizim i aktivitetit fizik"
+        ],
+        "correct": 0,
+        "explanation": "Diabeti tip 2 mjekohet fillimisht me antidiabetikë oralë si daonil/metformina."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-067",
+        "question": "Presion arterial normal konsiderohen vlerat e meposhtme:",
+        "answers": [
+            "Sistoliku me i vogel se 140 mmhg dhe diastoliku me i vogel se 90 mmhg",
+            "Sistoliku me i madh se 140 mmhg dhe diastoliku me i madhe se 90 mmhg",
+            "Sistoliku ndermjet 160-180 mmhg dhe diastolike 90-120 mmhg",
+            "Sistoliku me i madh se 190 mmhg dhe diastoliku me i madh se 100 mmhg"
+        ],
+        "correct": 0,
+        "explanation": "Presioni normal konsiderohet sistolik <140 dhe diastolik <90 mmHg."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-068",
+        "question": "Hipertension arterial pragu konsiderohet :",
+        "answers": [
+            "Me shume se 180 mmhg dhe/ose me shume se 105",
+            "Sistolike 140-180 mmhg dhe/ose diastolike 90-105",
+            "Sistoliku 140-180 mmhg dhe/ose diastoliku 90-95",
+            "Sistoliku me i vogel se 140 mmhg dhe diastoliku me i vogel se 90 mmhg"
+        ],
+        "correct": 1,
+        "explanation": "Pragu i hipertensionit konsiderohet sistolik 140-180 dhe/ose diastolik 90-105 mmHg."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-069",
+        "question": "Mjekimi i hipertensionit arterial perfshin Të gjitha përveç :",
+        "answers": [
+            "Aktivitetin fizik",
+            "Shtimin ne peshë",
+            "Kufizimin e kripes",
+            "Lenien e alkolit"
+        ],
+        "correct": 1,
+        "explanation": "Shtimi në peshë nuk bën pjesë në mjekimin e HTA; përkundrazi, rekomandohet humbje peshe."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-070",
+        "question": "Mjekimi farmakologjik i hipertensionit arterial perfshin Të gjitha përveç :",
+        "answers": [
+            "Metotreksat",
+            "Betabllokues",
+            "Ace inhibitorë",
+            "Antagoniste te kalciumit"
+        ],
+        "correct": 0,
+        "explanation": "Metotreksati nuk është antihipertensiv, është medikament antireumatik/kimioterapik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-071",
+        "question": "Panusi është strukture histologjike qe vihet re tek te sëmurët me :",
+        "answers": [
+            "Lupus Eritematoz Sistemik",
+            "Sklerodermi difuze",
+            "Artrit Reumatoid",
+            "Dermatomiozit"
+        ],
+        "correct": 2,
+        "explanation": "Panusi është strukturë tipike histologjike e artritit reumatoid."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-072",
+        "question": "Manifestimi me i zakonshem dhe nga me te hershmit qe vihet re ne Morbus Bekteriev është :",
+        "answers": [
+            "Rashi malar ne forme fluture",
+            "Artriti simetrik i artikulacioneve Të vogla te duarve",
+            "Sakroileiti",
+            "Polifagi dhe polidipsi"
+        ],
+        "correct": 2,
+        "explanation": "Sakroileiti është manifestimi më i zakonshëm dhe i hershëm i Morbus Bekteriev (spondilitit ankilozant)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-073",
+        "question": "Pielonefriti:",
+        "answers": [
+            "Perfaqeson nje infeksion te rrugeve te siperme urinare",
+            "Perfaqeson nje infeksion te rrugeve te poshtme urinare",
+            "Nuk është i dhimbshem",
+            "Asnjëra prej tyre"
+        ],
+        "correct": 0,
+        "explanation": "Pielonefriti është infeksion i rrugëve të sipërme urinare (veshkës)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-074",
+        "question": "Hipotiroidizmi shfaqet me simptomat e meposhtme përveç:",
+        "answers": [
+            "Krampe muskulare",
+            "Tolerance ndaj te ftohtit",
+            "Konstipacion",
+            "Gjendje te pergjumur"
+        ],
+        "correct": 1,
+        "explanation": "Hipotiroidizmi shoqërohet me intolerancë (jo tolerancë) ndaj të ftohtit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-075",
+        "question": "Cili nga medikamentet konsiderohet si linja e parë e mjekimit ne depresionin madhor dhe crregullimin obsesiv kompulsiv?",
+        "answers": [
+            "Inhibitorët selektive te rikapjes se serotonines",
+            "Antidepresantet triciklike",
+            "Stabilizuesit e humorit",
+            "Benzodiazepinat"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative, antidepresantët triciklikë listohen si linja e parë e mjekimit në depresionin madhor/OCD (referencë e vjetër, ndërsa udhëzimet moderne preferojnë SSRI)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-076",
+        "question": "Cila prej përgjigjeve tregon praninë e tolerancës ndaj opioideve?",
+        "answers": [
+            "Për të kontrolluar dhimbjen nevojiten doza më të mëdha opioidesh krahasuar me atë që mjaftonte javët e para",
+            "Duhen dhënë stimulantë për të balancuar efektet sedative të opioideve",
+            "Pacienti bëhet anksioz kur kujton orën kur duhet të marrë opioidet",
+            "Pacienti nuk ka konstipacion pas marrjes së dozave të zakonshme të opioideve"
+        ],
+        "correct": 0,
+        "explanation": "Toleranca shfaqet kur nevojiten doza gjithnjë më të mëdha për të arritur të njëjtin efekt."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-077",
+        "question": "Nje pacient 53 vjeçar, i cili mjekohet me ibuprofen 400mg dy here ne ditë per te kuruar dhimbjen kronike te mesit krijon edeme e ekstremiteteve te poshtme. Infermierja qe kujdeset per te mendon se edema është rezultat i :",
+        "answers": [
+            "Uljes te funksionit renal",
+            "Uljes se nivelit te kreatinines",
+            "Rritje te filtrimit glomerular",
+            "Rritje te nivelit te proteinave plazmatike"
+        ],
+        "correct": 0,
+        "explanation": "AINS (ibuprofeni) mund të ulin funksionin renal, duke shkaktuar retension lëngjesh dhe edemë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-078",
+        "question": "Cila prej sëmundjeve te meposhtme muskulo-skeletike karakterizohet nga prania e nyjeve te Heberdenit?",
+        "answers": [
+            "Lupusi eritematoz sistemik",
+            "Artriti reumatoid",
+            "Sclerodermia",
+            "Osteoporoza"
+        ],
+        "correct": 1,
+        "explanation": "Nyjet e Heberdenit shoqërohen me çrregullime degjenerative/inflamatore artikulare; ndër opsionet e dhëna, artriti reumatoid përfshin ndryshime artikulare progresive të gishtave."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-079",
+        "question": "Sindroma Kushing :",
+        "answers": [
+            "Është sëmundje qe vjen si pasoje e zvoglimit te prodhimit te kortizolit nga gjendra mbiveshkorë",
+            "Është sëmundje qe vjen si pasoje e shtimit te prodhimit te kortizolit nga gjendra mbiveshkorë",
+            "Është sëmundje qe karakerizohet nga dhimbja e mesit dhe ngurtesimi mengjezor",
+            "Ne kete sëmundje mungojne shenjat e virilizmit si depozitimi i dhjamit ne regjionet ndermje shpatullave"
+        ],
+        "correct": 1,
+        "explanation": "Sindroma Kushing vjen nga rritja e prodhimit të kortizolit."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-080",
+        "question": "Karakteristike per sindromen Kushing është prania e Të gjithave, përveç :",
+        "answers": [
+            "Hiperkalemise",
+            "Alkalozës metabolike",
+            "Prodhimit ektopik të ACRH",
+            "Artriti simetrik i artikulacioneve interfalangeal proksimale"
+        ],
+        "correct": 0,
+        "explanation": "Në sindromën Kushing gjendet hipokalemi, jo hiperkalemi."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-081",
+        "question": "Terapia e spondilitit ankilozant perfshin:",
+        "answers": [
+            "Vetem terapi medikamentoze",
+            "Terapi medikamentoze dhe fizike",
+            "Levotiroskine dhe deksametazon",
+            "Desmopresine dhe indometacine"
+        ],
+        "correct": 1,
+        "explanation": "Terapia e spondilitit ankilozant kombinon terapinë medikamentoze me atë fizike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-082",
+        "question": "Te sëmurët me poliarterit nodoz kutan kanë:",
+        "answers": [
+            "Renie ne peshë",
+            "Temperature",
+            "Dëmtime ne organe",
+            "Noduse subkutane"
+        ],
+        "correct": 3,
+        "explanation": "Poliarteriti nodoz kutan karakterizohet nga prania e nodusave subkutanë."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-083",
+        "question": "Ne sklerodermine e lokalizuar ka dëmtime vetem:",
+        "answers": [
+            "te miokardit",
+            "renale",
+            "gastrointestinale",
+            "te anesive"
+        ],
+        "correct": 3,
+        "explanation": "Sklerodermia e lokalizuar (morphea) përfshin dëmtime kryesisht të lëkurës/anësive, jo organe të brendshme."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-084",
+        "question": "Arteriti Takayasu:",
+        "answers": [
+            "Eshtë inflamacion granulomatoz i arterive ë vogla",
+            "Eshtë inflamacion granulomatoz i arterieve të mëdha",
+            "Eshtë inflamacion granulomatoz i arterieve të mesme",
+            "Nuk është inflamacion granulomatoz"
+        ],
+        "correct": 1,
+        "explanation": "Arteriti Takayasu është inflamacion granulomatoz i arterieve të mëdha."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-085",
+        "question": "Ne mjekimin e pneumonise perdorën me shpesh preparatet e meposhtme përveç:",
+        "answers": [
+            "Ampicilina",
+            "Ceftazidina",
+            "Eritromicina",
+            "Metotreksati"
+        ],
+        "correct": 3,
+        "explanation": "Metotreksati nuk përdoret në mjekimin e pneumonisë; është kimioterapik/antireumatik."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-086",
+        "question": "Cirroza e mëlçisë mund te shkaktohet nga faktorët e meposhtem përveç:",
+        "answers": [
+            "Hepatitit B",
+            "Hepatitit C",
+            "Alkolit",
+            "Hepatitit A"
+        ],
+        "correct": 3,
+        "explanation": "Hepatiti A nuk shkakton zakonisht sëmundje kronike/cirrozë hepatike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-087",
+        "question": "Ne hepatitin alkolik",
+        "answers": [
+            "Vlerat e aspartat aminotransferazes (GPT) janë ne norme",
+            "Vlerat a aspartat amiontransferazes (GPT) janë thuajse dy here me te larta se ato te alanin aminotransferazes (GOT)",
+            "Bilirubina është ne norme",
+            "Pacienti nuk ka ndryshime te orëksit"
+        ],
+        "correct": 1,
+        "explanation": "Në hepatitin alkoolik, AST (GOT) është tipikisht rreth dy herë më e lartë se ALT (GPT)."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-088",
+        "question": "Mjekimi i cirrozes alkolike perfshin Të gjitha përveç :",
+        "answers": [
+            "Diete",
+            "Nderprerje te marrjes e alkolit",
+            "Vitamin terapi",
+            "Voltaren ne doze te lartë"
+        ],
+        "correct": 3,
+        "explanation": "Voltareni (AINS) në dozë të lartë është i kundërindikuar në sëmundjen hepatike/cirrozën."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-089",
+        "question": "Osteoporoza mjekohet me :",
+        "answers": [
+            "Bifosfonate",
+            "Kripra te arit",
+            "D- penicilamine",
+            "Azatioprine"
+        ],
+        "correct": 0,
+        "explanation": "Osteoporoza mjekohet me bifosfonate."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-090",
+        "question": "Osteoartriti është: semundje:",
+        "answers": [
+            "inflamatorë muskuloskeletike",
+            "degjenerative muskuloskeletike",
+            "endokrine",
+            "gjenetike"
+        ],
+        "correct": 1,
+        "explanation": "Osteoartriti është sëmundje degjenerative muskuloskeletike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-091",
+        "question": "Glukokortikosteroidet e injektueshem ne artikulacione indikohen te perdorën ne patologjite muskuloskeletike :",
+        "answers": [
+            "Inflamatorë",
+            "Mekanike",
+            "Ne prani te osteoporozes",
+            "Ne prani te frakturave"
+        ],
+        "correct": 0,
+        "explanation": "Kortikosteroidet e injektueshme indikohen në patologjitë inflamatore artikulare."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-092",
+        "question": "Pneumonia atipike karakterizohet nga keto shenja përveç:",
+        "answers": [
+            "Dobesi trupure",
+            "Dhimbje koke",
+            "Kolle e thate",
+            "Melena"
+        ],
+        "correct": 3,
+        "explanation": "Melena (gjak në feçe) nuk lidhet me pneumoninë atipike."
+    },
+    {
+        "id": "infermieristik-semundje-brendshme-2-093",
+        "question": "Të gjitha sa me poshte janë te vërteta per IRA postrenale përveç:",
+        "answers": [
+            "Është mjaft e shpështë ndermjet te semureve ambulatorë",
+            "Prek me shume burrat sesa gratë",
+            "Ne shumicen e rasteve i detyrohet bllokimit uretral.",
+            "Shkaktohet nga medikamente qe reduktojne filtrimin glomerular"
+        ],
+        "correct": 3,
+        "explanation": "Reduktimi i filtrimit glomerular nga medikamentet lidhet me IRA prerenale/intrinseke, jo postrenale."
+    }
+]

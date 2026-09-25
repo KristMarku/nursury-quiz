@@ -1,0 +1,518 @@
+[
+    {
+        "id": "infermieristik-fizioterapi-001",
+        "question": "Terapia me rreze ultraviolet përdoret në pacientët me:",
+        "answers": [
+            "tendinit të muskulit biceps në fazën akute",
+            "ne traumat e freskëta",
+            "ne linfedemat e komplikuara",
+            "ne patologjitë degjenerative në fazën kronike"
+        ],
+        "correct": 3,
+        "explanation": "Terapia me rreze UV përdoret në patologjitë degjenerative kronike, jo në gjendjet akute/të freskëta."
+    },
+    {
+        "id": "infermieristik-fizioterapi-002",
+        "question": "Pas një endoproteze të artikulacionit koksofemoral pozicionimi i kundërindikuar i artikulacionit është?",
+        "answers": [
+            "Fleksion, abduksion i artikulacionit koksofemoral",
+            "Ekstension dhe abdusksion i artikulacionit koksofemoral",
+            "Ekstrarotacion dhe aduksion i artikulacionit koksofemoral",
+            "Fleksion dhe intrarotacioni artikulacionit koksofemoral"
+        ],
+        "correct": 2,
+        "explanation": "Pas endoprotezës koksofemorale, kombinimi ekstrarotacion+aduksion konsiderohet pozicioni i kundërindikuar sipas kësaj alternative."
+    },
+    {
+        "id": "infermieristik-fizioterapi-003",
+        "question": "Kur duhet të vertikalizohet një pacient pas një operacioni kardiak?",
+        "answers": [
+            "menjëherë pas operacionit",
+            "një jave pas operacionit",
+            "ditën e dytë ose të tretë pas operacionit",
+            "sipas dëshirës së pacientit"
+        ],
+        "correct": 2,
+        "explanation": "Vertikalizimi pas operacionit kardiak fillon zakonisht ditën e dytë ose të tretë."
+    },
+    {
+        "id": "infermieristik-fizioterapi-004",
+        "question": "Rehabilitimi i pacientit është:",
+        "answers": [
+            "Punë individuale e fizioterapistit",
+            "Proces pasiv",
+            "Punë multidisiplinare",
+            "Punë inividuale për infermierin"
+        ],
+        "correct": 2,
+        "explanation": "Rehabilitimi është një proces multidisiplinar, që përfshin disa profesionistë shëndetësorë."
+    },
+    {
+        "id": "infermieristik-fizioterapi-005",
+        "question": "Ushtrimet aktive janë të rëndësishme për:",
+        "answers": [
+            "rritjen e forcës muskulare",
+            "përmirësimin e kapacitetit respirator",
+            "përmirësimin e qarkullimit të gjakut",
+            "të gjitha alternativat e sipërpërmendura"
+        ],
+        "correct": 3,
+        "explanation": "Ushtrimet aktive përmirësojnë forcën muskulare, kapacitetin respirator dhe qarkullimin, pra të gjitha."
+    },
+    {
+        "id": "infermieristik-fizioterapi-006",
+        "question": "Vendosja e objekteve në dhomat e pacientëve hemiparezë duhet të jetë:",
+        "answers": [
+            "Çdo objekt duhet të vendoset në anën e shëndetshme",
+            "Objektet duhet të vendosen në anën me parezë",
+            "Nuk është e rëndësishme vendosja",
+            "Vendosja e objekteve varet nga dëshira e pacientit"
+        ],
+        "correct": 1,
+        "explanation": "Objektet vendosen në anën e prekur për të stimuluar përdorimin dhe vetëdijen e asaj ane."
+    },
+    {
+        "id": "infermieristik-fizioterapi-007",
+        "question": "Elektrostimulimi është terapi fizike që përdoret për të stimuluar:",
+        "answers": [
+            "muskulin e inervuar dhe nervat periferike",
+            "muskulin e denervuar dhe nervat periferike",
+            "muskulin e inervuar dhe muskulin e denervuar",
+            "nervat periferike dhe palcën e kurrizit"
+        ],
+        "correct": 2,
+        "explanation": "Elektrostimulimi përdoret për të stimuluar si muskulin e inervuar ashtu edhe atë të denervuar."
+    },
+    {
+        "id": "infermieristik-fizioterapi-008",
+        "question": "T.E.N.S është terapi antalgjike që e ul dhimbjen nëpërmjet:",
+        "answers": [
+            "stimulimit të prodhimit të dopamines",
+            "sistemit të kontrollit te portës në palcën e kurrizit",
+            "bllokimit të impulsive në fibrat nervore me kaliber të madh",
+            "shtimit të impulsive në fibrat nervore me kaliber të vogel"
+        ],
+        "correct": 1,
+        "explanation": "TENS vepron sipas teorisë së kontrollit të portës (gate control) në palcën e kurrizit."
+    },
+    {
+        "id": "infermieristik-fizioterapi-009",
+        "question": "Sipas parimit të Arkimedi trupi I zhytur në një teren ujor:",
+        "answers": [
+            "peshon më shumë",
+            "peshon më pak",
+            "nuk I ndryshon pesha",
+            "pëson deformime të formës"
+        ],
+        "correct": 1,
+        "explanation": "Sipas parimit të Arkimedit, trupi i zhytur në ujë peshon më pak (forca shtytëse)."
+    },
+    {
+        "id": "infermieristik-fizioterapi-010",
+        "question": "Në tendinitin e kalçifikuar modaliteti i tepapise fizike më efikas është:",
+        "answers": [
+            "krioterapia",
+            "ultratigujt",
+            "lazerterapia",
+            "T.EN.S"
+        ],
+        "correct": 1,
+        "explanation": "Ultratingujt janë modaliteti më efikas në tendinitin e kalçifikuar."
+    },
+    {
+        "id": "infermieristik-fizioterapi-011",
+        "question": "Presoterapia është kunder:",
+        "answers": [
+            "dhimbjes",
+            "linfedemes",
+            "kalçifikimeve",
+            "hemoragjise"
+        ],
+        "correct": 1,
+        "explanation": "Presoterapia përdoret kryesisht kundër limfedemës."
+    },
+    {
+        "id": "infermieristik-fizioterapi-012",
+        "question": "Hidrokinezi terapia gjen kunderindikacion absolute në:",
+        "answers": [
+            "hemiplegji",
+            "paraplegji",
+            "spondiloartroze",
+            "në dermatitin purulent"
+        ],
+        "correct": 3,
+        "explanation": "Dermatiti purulent është kundërindikacion absolut për hidrokinezi terapinë (rrezik infeksioni/përhapje)."
+    },
+    {
+        "id": "infermieristik-fizioterapi-013",
+        "question": "Ushtrimet pasive mund të kryhen:",
+        "answers": [
+            "në pacientët pas një kraniotraume",
+            "në pacientët në gjendje “shoku”",
+            "në të gjithë pacientët e hospitalizuar",
+            "në pacientët e hospitalizuar pas kontrollit dhe aprovimit të mjekut përgjegjës"
+        ],
+        "correct": 3,
+        "explanation": "Ushtrimet pasive kryhen vetëm pas kontrollit dhe aprovimit paraprak të mjekut."
+    },
+    {
+        "id": "infermieristik-fizioterapi-014",
+        "question": "Përpara fillimit të seances së reabilitimit me një pacient me hemiplegji rekomandohet banje me:",
+        "answers": [
+            "ujë të ngrohtë",
+            "parafinë",
+            "ujë të ftohtë",
+            "hidromasazh"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, para seancës së rehabilitimit në hemiplegji rekomandohet banjë me ujë të ftohtë."
+    },
+    {
+        "id": "infermieristik-fizioterapi-015",
+        "question": "Terapia me rreze utraviolete indikohet në:",
+        "answers": [
+            "pelagra",
+            "lupusin eritematoz",
+            "sarkoidoze",
+            "akne"
+        ],
+        "correct": 3,
+        "explanation": "Terapia me rreze UV indikohet në trajtimin e aknesë."
+    },
+    {
+        "id": "infermieristik-fizioterapi-016",
+        "question": "Terapia me rreze utraviolete kunderindikohet në:",
+        "answers": [
+            "mundesën e vitamines D",
+            "sinuzit",
+            "psoriazis",
+            "hipertiroidizem"
+        ],
+        "correct": 3,
+        "explanation": "Terapia UV kundërindikohet në pacientët me hipertiroidizëm."
+    },
+    {
+        "id": "infermieristik-fizioterapi-017",
+        "question": "Ushtrimet aktive dhe pasive nuk kryhen në rastet kur:",
+        "answers": [
+            "pacienti është në gjendje febrile",
+            "pacienti ka vështirësi në kryerjen e ushtrimeve",
+            "pacienti është i hospitalizuar në reanimacion",
+            "të gjitha alternativat e sipërpërmendura"
+        ],
+        "correct": 3,
+        "explanation": "Ushtrimet nuk kryhen në gjendje febrile, vështirësi ose në reanimacion — të gjitha rastet e listuara."
+    },
+    {
+        "id": "infermieristik-fizioterapi-018",
+        "question": "Ultratingujt në reabilitim, përveç efektit antalgjik I përdorim dhe për efektin:",
+        "answers": [
+            "nxirës të lëkurës",
+            "termik",
+            "masazhues",
+            "stimulim të nervave"
+        ],
+        "correct": 1,
+        "explanation": "Ultratingujt kanë edhe efekt termik, përveç atij antalgjik."
+    },
+    {
+        "id": "infermieristik-fizioterapi-019",
+        "question": "Akulli në qoftë se vendoset direkt në lëkure jep:",
+        "answers": [
+            "vazodilatacion",
+            "rritje të permeabilitetit kapilar",
+            "zbehje të lëkurës",
+            "djegie"
+        ],
+        "correct": 3,
+        "explanation": "Akulli i vendosur direkt mbi lëkurë (pa mbrojtje) mund të shkaktojë djegie nga i ftohti."
+    },
+    {
+        "id": "infermieristik-fizioterapi-020",
+        "question": "Ushtrimet pasive te pacientët e hospitalizuar duhet të kryhen:",
+        "answers": [
+            "vetëm një herë në ditë",
+            "dy herë në ditë",
+            "çdo një orë",
+            "asnjëherë"
+        ],
+        "correct": 1,
+        "explanation": "Ushtrimet pasive rekomandohen të kryhen dy herë në ditë."
+    },
+    {
+        "id": "infermieristik-fizioterapi-021",
+        "question": "Terapia me ultratinguj gjen indikacion në:",
+        "answers": [
+            "tumore",
+            "osteoporoze",
+            "linfedemen me fibroze",
+            "në bursit të kalçifikuar"
+        ],
+        "correct": 3,
+        "explanation": "Terapia me ultratinguj indikohet në bursitin e kalçifikuar."
+    },
+    {
+        "id": "infermieristik-fizioterapi-022",
+        "question": "Llampat me rreze ultraviolet bëjnë pjesë në termoterapine me:",
+        "answers": [
+            "kunduksion",
+            "konveksion",
+            "skanim",
+            "rrezatim"
+        ],
+        "correct": 3,
+        "explanation": "Llampat UV bëjnë pjesë në termoterapinë me rrezatim."
+    },
+    {
+        "id": "infermieristik-fizioterapi-023",
+        "question": "Banjot kontraste gjejnë indikacion :",
+        "answers": [
+            "në distrofine muskulare",
+            "në infarktin e miokardit",
+            "në vaskulopatite periferike",
+            "artritin rheumatoid"
+        ],
+        "correct": 2,
+        "explanation": "Banjot kontraste indikohen në vaskulopatitë periferike."
+    },
+    {
+        "id": "infermieristik-fizioterapi-024",
+        "question": "Jonoforeza është modalitet terapeutik që realizon përshpejtimin e medikamenteve me anë të:",
+        "answers": [
+            "fushës manjetike",
+            "rrymës elektrike të alternative",
+            "vibrimeve akustike",
+            "rrymës elektrike të vazhduar"
+        ],
+        "correct": 3,
+        "explanation": "Jonoforeza përshpejton depërtimin e medikamenteve me anë të rrymës elektrike të vazhduar (direkte)."
+    },
+    {
+        "id": "infermieristik-fizioterapi-025",
+        "question": "Ushtrimet pasive te pacientët e hospitalizuar bëhen për arsyet:",
+        "answers": [
+            "Për të parandaluar vetëm kontrakturat artikulare",
+            "Për të ruajtur gjendjen aktuale të pacientit",
+            "Për të rritur forcën muskulare",
+            "Për të parandaluar plagët e shtratit"
+        ],
+        "correct": 3,
+        "explanation": "Ushtrimet pasive tek pacientët e shtratshtruar synojnë ndër të tjera parandalimin e plagëve të shtratit (dekubituseve)."
+    },
+    {
+        "id": "infermieristik-fizioterapi-026",
+        "question": "Tufa e rrezeve lazer ka keto karakteristika:",
+        "answers": [
+            "njëngjyrëshe,paralele,koherente",
+            "një ngjyrëshe, paralele, jokoherente",
+            "shumë ngjyrëshe paralele, koherente",
+            "shumë ngjyrëshe paralele, jokoherente"
+        ],
+        "correct": 0,
+        "explanation": "Rrezet lazer karakterizohen nga monokromatizmi, paralelizmi dhe koherenca."
+    },
+    {
+        "id": "infermieristik-fizioterapi-027",
+        "question": "Drita Lazer nuk perdoret në :",
+        "answers": [
+            "kirurgji",
+            "dermatologji",
+            "fizioterapi",
+            "gjinekologji"
+        ],
+        "correct": 3,
+        "explanation": "Lazeri përdoret më rrallë (jo si teknikë standarde) në gjinekologji krahasuar me fushat e tjera."
+    },
+    {
+        "id": "infermieristik-fizioterapi-028",
+        "question": "Pozicionimi i saktë i pacienit në shtrat është i nevojshëm për:",
+        "answers": [
+            "parandalimin e plagëve të shtratit (dekubitus)",
+            "përmirësimi i qarkullimit të gjakut",
+            "përmirësimi i përqëndrimit dhe orietimit në ambient",
+            "të gjitha alternativat e sipërpërmendura"
+        ],
+        "correct": 3,
+        "explanation": "Pozicionimi i saktë ndihmon si parandalimin e dekubituseve, ashtu edhe qarkullimin dhe orientimin."
+    },
+    {
+        "id": "infermieristik-fizioterapi-029",
+        "question": "Cila është arsyeja që pacienti i hospitalizuar duhet të ulet për disa orë në karrige?",
+        "answers": [
+            "Përmirësimi i gjendjes emocionale",
+            "Përmirësimi i frymëshkëmbimit dhe qarkullimit të gjakut",
+            "Përmirësimi i drenimit postural",
+            "Të gjitha alternativat e mësipërme"
+        ],
+        "correct": 3,
+        "explanation": "Ulja në karrige përmirëson gjendjen emocionale, frymëshkëmbimin, qarkullimin dhe drenimin postural."
+    },
+    {
+        "id": "infermieristik-fizioterapi-030",
+        "question": "Cilat janë zonat më të rrezikuara për tu shfaqur një dekubitus?",
+        "answers": [
+            "occipitum, sacrum, spina scapulae",
+            "occipitum, spina scapulae, klavikula",
+            "os sacrum, thembrat, regioni lombal",
+            "asnjë nga alternativat"
+        ],
+        "correct": 0,
+        "explanation": "Sipas kësaj alternative, zonat më të rrezikuara për dekubitus përfshijnë occipitum, sacrum dhe spina scapulae."
+    },
+    {
+        "id": "infermieristik-fizioterapi-031",
+        "question": "Modaliteti më i përdorur dhe efikas i terapisë me ultratinguj është me:",
+        "answers": [
+            "me kontakt direkt",
+            "me lëvizje rrotulluese të kokës",
+            "me lëvizje perpendikulare",
+            "me lëvizje gjatesore të kokës"
+        ],
+        "correct": 1,
+        "explanation": "Sipas kësaj alternative specifike, lëvizja rrotulluese e kokës konsiderohet modaliteti më i përdorur i ultratingujve."
+    },
+    {
+        "id": "infermieristik-fizioterapi-032",
+        "question": "Terapia me ultratinguj kunderindikohet në:",
+        "answers": [
+            "çrregullime të sensibilitetit",
+            "kalçifikime",
+            "tendinite",
+            "borsite"
+        ],
+        "correct": 0,
+        "explanation": "Terapia me ultratinguj kundërindikohet te pacientët me çrregullime të sensibilitetit."
+    },
+    {
+        "id": "infermieristik-fizioterapi-033",
+        "question": "Sonoforeza është terapi përshpejtimi medikamentesh me anë të:",
+        "answers": [
+            "rrymës elektrike",
+            "mikrovaleve",
+            "ultratingujve",
+            "lazerit"
+        ],
+        "correct": 2,
+        "explanation": "Sonoforeza përshpejton depërtimin e medikamenteve me anë të ultratingujve."
+    },
+    {
+        "id": "infermieristik-fizioterapi-034",
+        "question": "Inflamacioni karakterizohet nga këto shenja:",
+        "answers": [
+            "dolor, kalor, tumor, rubor, funksioleza",
+            "dolor, rubor, kalor, tumor, nekroza",
+            "kalor, tumor, dolor, hiperplazia, nekroza",
+            "hiperplazia, nekroza, dolor"
+        ],
+        "correct": 0,
+        "explanation": "Pesë shenjat klasike të inflamacionit janë dolor, kalor, tumor, rubor dhe funksio leza."
+    },
+    {
+        "id": "infermieristik-fizioterapi-035",
+        "question": "Në dhimbjen e artikulacionit tempo-mandibular modalitet terapeutike që përdoren janë:",
+        "answers": [
+            "mikrovalët,lazeri,ultratingujt",
+            "TENS,radarterapi,korente interferenciale",
+            "presoterapi,radarterapi,korente interferenciale",
+            "ultratingujt,TENS,lazer"
+        ],
+        "correct": 3,
+        "explanation": "Për dhimbjen temporo-mandibulare, kombinimi ultratinguj-TENS-lazer është alternativa e pritur këtu."
+    },
+    {
+        "id": "infermieristik-fizioterapi-036",
+        "question": "Trigger point jane pika:",
+        "answers": [
+            "të padhimbshme të trupit",
+            "të agopunturës",
+            "shumë të dhimbshme",
+            "ku vendosen elektrodat e TENS"
+        ],
+        "correct": 2,
+        "explanation": "Pikat 'trigger' janë pika shumë të dhimbshme në ind muskulor."
+    },
+    {
+        "id": "infermieristik-fizioterapi-037",
+        "question": "Rrymat diadinamike janë rryma:",
+        "answers": [
+            "galvanike",
+            "alternative retangolare",
+            "sinusoidale me frekuence të ulët",
+            "të kombinuara"
+        ],
+        "correct": 2,
+        "explanation": "Sipas kësaj alternative, rrymat diadinamike përshkruhen si sinusoidale me frekuencë të ulët."
+    },
+    {
+        "id": "infermieristik-fizioterapi-038",
+        "question": "Efektet fiziologjike të rrymave diadinamike nuk lidhen me :",
+        "answers": [
+            "shtimin e vazokonstriksionit",
+            "shtimin e vazodilatacionit",
+            "rritjen e permeabilitetit të membranës qelizore",
+            "rritjen e ngacmueshmerisë së fibrave nervore me kalibër të madh"
+        ],
+        "correct": 0,
+        "explanation": "Rrymat diadinamike shkaktojnë vazodilatacion, jo vazokonstriksion — kjo është pohimi që nuk lidhet."
+    },
+    {
+        "id": "infermieristik-fizioterapi-039",
+        "question": "Pozicioni i pacientit të hospitalizuar në shtrat ndryshohet:",
+        "answers": [
+            "1 herë në ditë",
+            "çdo 7-8 orë",
+            "çdo 2-3 orë",
+            "sa herë të dëshirojë pacienti"
+        ],
+        "correct": 2,
+        "explanation": "Pozicioni i pacientit të shtratshtruar ndryshohet çdo 2-3 orë për të parandaluar dekubituset."
+    },
+    {
+        "id": "infermieristik-fizioterapi-040",
+        "question": "Elektrodat më komode në përdorim gjatë elektroterapisë janë:",
+        "answers": [
+            "plastike",
+            "metalike",
+            "sfungjerore",
+            "autoaderente"
+        ],
+        "correct": 3,
+        "explanation": "Elektrodat autoaderente janë më komode në përdorim gjatë elektroterapisë."
+    },
+    {
+        "id": "infermieristik-fizioterapi-041",
+        "question": "Manjeto terapia indikohet:",
+        "answers": [
+            "osteoporoze",
+            "hemiplegji",
+            "paraplegji",
+            "hypotoni"
+        ],
+        "correct": 0,
+        "explanation": "Manjetoterapia indikohet në trajtimin e osteoporozës."
+    },
+    {
+        "id": "infermieristik-fizioterapi-042",
+        "question": "Llampat ultraviolet nuk japin:",
+        "answers": [
+            "djersitje",
+            "vazodilatacion",
+            "vazokostriksion",
+            "ulje të dhimbjes"
+        ],
+        "correct": 2,
+        "explanation": "Llampat UV shkaktojnë vazodilatacion, jo vazokonstriksion."
+    },
+    {
+        "id": "infermieristik-fizioterapi-043",
+        "question": "Terapia fizike :",
+        "answers": [
+            "ka vetëm efekt placebo",
+            "nuk perdoret vitet e fundit ne rehabilitim",
+            "përdoret gjerësisht në rehabilitim",
+            "përdoret gjithmone e kombinuar me terapinë medikamentoze"
+        ],
+        "correct": 2,
+        "explanation": "Terapia fizike përdoret gjerësisht dhe në mënyrë të pavarur në rehabilitim."
+    }
+]
