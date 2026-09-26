@@ -10,7 +10,7 @@ The working quiz engine is the baseline to preserve. Extend it carefully; do not
 
 - **Framework/build system:** React 19 with React DOM, built and served by Vite 8. The project uses JavaScript/JSX, ESM (`"type": "module"`), and the official Vite React plugin.
 - **Package manager:** npm, evidenced by `package-lock.json` and npm scripts in `package.json`.
-- **Application entry:** `index.html` loads `src/main.jsx`. `main.jsx` renders `App` and `CookieConsent` into `#root` under `React.StrictMode`. `App.jsx` renders `pages/Home.jsx`.
+- **Application entry:** `index.html` loads `src/main.jsx`. `main.jsx` renders `App` into `#root` under `React.StrictMode`. `App.jsx` renders `pages/Home.jsx`.
 - **Routing:** there is no router dependency or route configuration. Navigation is in-memory hierarchical navigation inside `Home`.
 - **State management:** React `useState` only. `Home` owns the selected content node, navigation history, animation direction, active generated quiz, and quiz message. `Quiz` owns question position, answers keyed by question index, completion state, and exit-modal state.
 - **Major components:**
@@ -18,8 +18,7 @@ The working quiz engine is the baseline to preserve. Extend it carefully; do not
   - `src/components/Navigation.jsx`: renders the current hierarchy's children and Back control; uses Framer Motion for slide transitions.
   - `src/components/InfoPanel.jsx`: displays the selected node and its applicable quiz-start controls.
   - `src/components/Quiz.jsx`: renders questions, evaluates selected answers, calculates the score, and handles exit confirmation.
-  - `src/components/CookieConsent.jsx`: stores the analytics-consent choice and conditionally enables analytics.
-- **Utilities:** `src/utils/generateQuiz.js` discovers bundled question JSON through eager `import.meta.glob`; `src/utils/analytics.js` conditionally loads Google Analytics and emits quiz events.
+- **Utilities:** `src/utils/generateQuiz.js` discovers bundled question JSON through eager `import.meta.glob`.
 - **Styling/assets:** global styles are in `src/index.css`; component/page styles are in `src/styles/`; static question images are under `public/question-images/` and are referenced by JSON paths.
 
 ## Project Structure
@@ -29,8 +28,8 @@ src/
   main.jsx                 React mount point
   App.jsx                  renders Home
   pages/Home.jsx           application coordinator
-  components/              navigation, content panel, quiz, consent UI
-  utils/                   quiz generation and analytics
+  components/              navigation, content panel, quiz
+  utils/                   quiz generation
   data/structure.json      subject/topic hierarchy and question-file mapping
   questions/               topic JSON question banks
   styles/                  CSS by page/component
@@ -50,7 +49,6 @@ public/question-images/    optional question illustrations
 7. A quiz displays one question at a time. The first selected answer is stored; buttons are then disabled. The correct option is shown as correct, a wrong selected option as incorrect, and the explanation is revealed. Previous/Next permits reviewing answered questions.
 8. Finish is available only on the final question. Score is the count of question indices whose stored answer equals that question's zero-based `correct` index. Unanswered questions count as incorrect.
 9. Completion shows `score / quiz.questions.length`. Exit requires confirmation and discards the in-memory quiz. On narrow screens (maximum width 768px), exit also returns the content navigation to the root.
-10. Start, finish, and confirmed exit events are sent only when analytics has been enabled by consent.
 
 Preserve this selection, scoring, immediate-feedback, and exit behaviour unless a requested feature explicitly changes it.
 
@@ -66,11 +64,9 @@ Preserve this selection, scoring, immediate-feedback, and exit behaviour unless 
 - Assign each new question a stable, globally unique ID. Preserve IDs once questions are in use.
 - Files are bundled into the client at build time via eager `import.meta.glob`, not fetched from an API at runtime.
 
-### Browser persistence and analytics
+### Browser persistence
 
-- The sole browser storage use is `localStorage["quiz-generator-analytics-consent"]`, whose values are `accepted` or `declined`.
-- This is a local-storage consent flag, not an HTTP cookie. There is no use of `sessionStorage`, browser persistence for quiz progress, or persistent score storage.
-- If consent is accepted, the app dynamically injects Google Analytics (`G-8M0HY1BXNB`) and uses `gtag` for quiz events.
+The app has no analytics integration or consent popup. Quiz progress and scores remain in memory; the app does not read or write browser storage.
 
 ### Backend and users
 
@@ -97,7 +93,7 @@ Quiz content should remain JSON unless a future, explicit design changes that de
 
 ## Persistent Score Integration Notes
 
-The best low-disruption boundary is the existing `finishQuiz` function in `src/components/Quiz.jsx`: it already computes a score and has the complete `quiz.questions` list plus stored answers. A future authenticated implementation can submit an attempt from that boundary (or a callback supplied by `Home`) to a server-side API.
+The best low-disruption boundary is the existing `finishQuiz` function in `src/components/Quiz.jsx`: it marks the quiz complete and has the complete `quiz.questions` list plus stored answers. A future authenticated implementation can submit an attempt from that boundary (or a callback supplied by `Home`) to a server-side API.
 
 Persist question IDs from `quiz.questions`, rather than current question indices, because indices are local to one generated quiz and may be shuffled. Store the quiz context (selected node ID/type/title), timestamps, score, total question count, and per-question selected answer as required by the eventual schema. The existing JSON IDs are stable in the current repository, but their long-term immutability should be treated as a data contract before records are persisted.
 

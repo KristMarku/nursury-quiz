@@ -1,6 +1,5 @@
 import "../styles/Quiz.css";
 import { useState } from "react";
-import { trackEvent } from "../utils/analytics";
 
 function Quiz({ quiz, exitQuiz }) {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -37,21 +36,10 @@ function Quiz({ quiz, exitQuiz }) {
   }
 
   function finishQuiz() {
-    const score = calculateScore();
-
-    trackEvent("quiz_finished", {
-      quiz_title: quiz.title,
-      question_count: quiz.questions.length,
-      score,
-    });
     setIsFinished(true);
   }
 
   function confirmExitQuiz() {
-    trackEvent("quiz_exited", {
-      quiz_title: quiz.title,
-      question_number: currentQuestion + 1,
-    });
     exitQuiz();
   }
 

@@ -110,44 +110,7 @@ code {
   background: var(--code-bg);
 }
 
-.cookieConsent {
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  z-index: 20;
-  width: min(390px, calc(100% - 40px));
-  padding: 18px;
-  border-radius: 14px;
-  background: white;
-  color: #1f2937;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
-  text-align: left;
-}
 
-.cookieConsent p {
-  font-size: 14px;
-  line-height: 1.4;
-}
 
-.cookieActions {
-  display: flex;
-  justify-content: flex-end;
-  gap: 10px;
-  margin-top: 14px;
-}
 
-.cookieActions button {
-  padding: 10px 14px;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  background: white;
-  color: #1f2937;
-  cursor: pointer;
-  font: inherit;
-}
 
-.cookieActions .acceptCookies {
-  border-color: #38bdf8;
-  background: #38bdf8;
-  color: white;
-}
